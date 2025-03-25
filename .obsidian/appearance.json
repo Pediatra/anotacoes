@@ -1,0 +1,17 @@
+{
+  "accentColor": "#42c8f5",
+  "cssTheme": "",
+  "theme": "system",
+  "enabledCssSnippets": [
+    "checkbox",
+    "center-images",
+    "clutter-free-formatting",
+    "inline-block-embeds",
+    "notation-colour-blocks",
+    "omega-hr",
+    "realistic-highlight",
+    "obsidianite-fonts",
+    "checkbox-line"
+  ],
+  "showRibbon": false
+}

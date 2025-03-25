@@ -1,0 +1,26 @@
+- Expressões regulares - NovaTec
+- O grande microlivro do Git 
+- Unix Networking Programming - W. Richard Stevens
+- Despertar de Tudo
+- Origens da Civilização 
+- Fundamentals of Software Architecture - O'Reilly
+- Building Microsservices - O'Reilly 
+- A lenda da caixa das almas
+- O Projeto Fênix
+- Tudo que você não soube
+- Fundamentos da matemática elementar
+- Elementos da matemática
+- Teoremas Matemáticos
+- Tópicos de Física
+- Física em 12 lições
+- A história do universo para quem tem pressa
+- Uma breve história do tempo
+- Amigo imaginário
+- O mito de sisifo 
+- A vida não é útil
+- A sociedade do cansaço 
+- Elogio da loucura
+- A utilidade do inútil
+- Henessy Patternson - Arquitetura de Computadores
+- Hands on machine learning
+- Maziero sistemas operacionais

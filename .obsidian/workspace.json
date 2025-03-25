@@ -1,0 +1,217 @@
+{
+  "main": {
+    "id": "e2f0b3519de6428c",
+    "type": "split",
+    "children": [
+      {
+        "id": "3108eb2244a992ed",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "05c1cbbb2880c9e5",
+            "type": "leaf",
+            "state": {
+              "type": "empty",
+              "state": {},
+              "icon": "lucide-file",
+              "title": "New tab"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "78af18e7c61fe299",
+    "type": "split",
+    "children": [
+      {
+        "id": "d5bfe736385cb6ed",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "86c83bef688d04a0",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical",
+                "autoReveal": false
+              },
+              "icon": "lucide-folder-closed",
+              "title": "Files"
+            }
+          },
+          {
+            "id": "234e4edd53ef8b2e",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              },
+              "icon": "lucide-search",
+              "title": "Search"
+            }
+          },
+          {
+            "id": "bc99c99ce65fc7c3",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {},
+              "icon": "lucide-bookmark",
+              "title": "Bookmarks"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "86e1e6f9ca5ac3b7",
+    "type": "split",
+    "children": [
+      {
+        "id": "ebaf25d7aaaa89a4",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "25ecc931d57b7e78",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-coming-in",
+              "title": "Backlinks"
+            }
+          },
+          {
+            "id": "e44c5761e4c5da83",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-going-out",
+              "title": "Outgoing links"
+            }
+          },
+          {
+            "id": "d6f523fe74c8a787",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-tags",
+              "title": "Tags"
+            }
+          },
+          {
+            "id": "400c97835d9cf957",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "Welcome.md",
+                "followCursor": false,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-list",
+              "title": "Outline of Welcome"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "random-note:Open random note": false,
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false,
+      "mermaid-tools:Open Mermaid Toolbar": false,
+      "terminal:Open terminal": false
+    }
+  },
+  "active": "86c83bef688d04a0",
+  "lastOpenFiles": [
+    "imgs/arquitetura de software/arq-analpf.png",
+    "salvar/Sites.md",
+    "salvar/Livros.md",
+    "estudos/Cronograma.md",
+    "caixa concurso/Agilidade.md",
+    "caixa concurso/Arquitetura de Software.md",
+    "Fisica.md",
+    "salvar/Fisica.md",
+    "salvar",
+    "imgs/enem/biologia/bio-utilização-nutrientes.png",
+    "imgs/enem/biologia/bio-transformações-acido-piruvico.png",
+    "imgs/enem/biologia/bio-transporte-ativo.png",
+    "imgs/enem/biologia/bio-tecidos-sanguineos-medula-vermelha.png",
+    "imgs/enem/biologia/bio-tecidos-sanguineo.png",
+    "imgs/enem/biologia/bio-tecidos-sanguineo-producao-hemacia.png",
+    "imgs/enem/biologia/bio-tecidos-sanguineo-plaquetas.png",
+    "imgs/enem/biologia/bio-tecidos-sanguineo-hemoglobina.png",
+    "imgs/enem/biologia/bio-tecidos-sanguineo-coagulação.png",
+    "imgs/enem/biologia/bio-tecidos-pele.png",
+    "imgs/enem/química",
+    "imgs/enem/biologia",
+    "imgs/ética e compliance",
+    "imgs/web java",
+    "imgs/sistemas operacionais",
+    "imgs/programação",
+    "imgs/testes",
+    "imgs/portais corporativos",
+    "imgs/padroes de projeto",
+    "estudos/Estatística.md",
+    "enem/química/Átomos.md",
+    "enem/química/Substâncias.md",
+    "enem/química/Conceitos básicos.md",
+    "enem/biologia/Vírus.md",
+    "enem/biologia/Glossário.md",
+    "enem/biologia/Histologia.md",
+    "enem/biologia/Conceitos Básicos.md",
+    "enem/biologia/Citologia.md",
+    "enem/biologia/Bioquímica.md",
+    "cnu concurso/Rede de Computadores.md",
+    "cnu concurso/Estrutura de Dados e Algoritmos.md",
+    "cnu concurso/Desenvolvimento Web Java.md",
+    "cnu concurso/Edital.md",
+    "cnu concurso/Data Mining.md",
+    "cnu concurso/Big Data.md",
+    "cnu concurso/Aprendizado de Máquina.md",
+    "caixa concurso/Sistemas Operacionais.md"
+  ]
+}
