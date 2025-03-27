@@ -24,13 +24,46 @@ Perceba, portanto, que uma **mistura** de **água** e **cloreto de sódio** poss
 
 Agora podemos estabelecer uma importante diferença entre **substância pura** e **mistura**. Uma **substância pura**, como o próprio nome diz, está _pura_, ou seja, não está _misturada_ com outra **substância** ou com _outras_ **substâncias**. 
 
+```ad-tip
+As **substâncias** quando estão em estado de transição entre fases (duas fases) apresentam temperatura constante, até que o processo finalize e o composto possua apenas uma fase para assim seguir a tendência de temperatura do sistema.
+```
+
 Já uma **mistura** é uma _porção_ de **matéria** que corresponde à _reunião_ de duas ou mais **substâncias puras**. A partir do momento em que elas são _reunidas_, deixam de ser consideradas **substâncias puras**. Elas passam a ser as **substâncias** componentes da **mistura**.
 
 ```ad-tldr
 _Propriedades_ como **ponto de fusão**, **ponto de ebulição** e **densidade**, que são importantes para identificar as **substâncias puras** e diferenciá-las das **misturas**, são denominadas _propriedades específicas da matéria_. Tais _propriedades_ não dependem da quantidade de **substância**, mas somente de sua _natureza_. Há outras _propriedades_ específicas que não são tão importantes para diferenciação, por exemplo, _cor_, _dureza_, **solubilidade** e **condutividade térmica e elétrica**.
 ```
+#### Exercícios
+
+1 -  **Uma amostra de uma substância pura X teve algumas de suas propriedades determinadas. Todas as alternativas apresentam propriedades que são úteis para identificar essa substância, exceto:**
+
+a) densidade.
+b) massa da amostra.
+c) solubilidade em água.
+d) temperatura de ebulição.
+e) temperatura de fusão.
+
+> [!info]- Resposta  
+> **Resposta correta b) massa da amostra.**
+> #### Explicação 
+> As propriedades físicas dos materiais são aquelas que são observadas ou medidas sem haver alteração na composição do material e podem ser gerais ou específicas. Assim, consideramos que a massa é uma propriedade que independe da natureza do material. 
+
+2 - **Em um laboratório devidamente equipado, como um químico pode verificar se certo pó avermelhado é uma substância pura ou uma mistura?**
+
+> [!info]- Resposta  
+> #### Explicação 
+Submeter a amostra à **fusão** e, posteriormente, à **ebulição**, acompanhando a temperatura durante esses processos. Durante a **fusão** de uma **substância pura** e também durante sua **ebulição**, a temperatura permanece constante.
+
+3 - **Em um laboratório, foram elaboradas as curvas de aquecimento de dois líquidos incolores A e B . Sabe-se que um deles é benzeno puro e o outro é uma mistura de benzeno e fenol. As curvas estão mostradas a seguir. Qual dos líquidos é o benzeno puro? Justifique sua escolha.**
+
+![[quim-exercicio-substancia-pura.png]]
+
+> [!info]- Resposta 
+> **Resposta correta: Líquido A**
+> #### Explicação 
+> Uma **substância pura** tem **pontos de fusão** e **ebulição** que não se alteram, ao passo que uma **mistura** vai ter uma variação de temperatura durante a **fusão**. Como o gráfico do **líquido** B mostra uma variação de temperatura durante a **ebulição**, ele é a **mistura** de benzeno e fenol.
 ### Misturas heterogêneas e misturas homogêneas
-Ao adicionarmos um pouco de **ferro** em _pó_ a um pouco de **enxofre** em _pó_, obteremos uma **mistura** que não possui _propriedades_ iguais em todos os seus pontos. Os pequenos fragmentos de **ferro** possuem as _propriedades_ da **substância** **ferro** (cor _cinza-metálica_, **PF** = 1.538 °C, etc.) e os pequenos fragmentos de **enxofre** possuem as _propriedades_ da **substância** **enxofre** (cor amarela, PF = 115 °C, etc.). Trata-se de um exemplo de **mistura heterogênea**, uma **mistura** que não possui as mesmas _propriedades_ em toda a sua extensão.
+Ao adicionarmos um pouco de **ferro** em _pó_ a um pouco de **enxofre** em _pó_, obteremos uma **mistura** que não possui _propriedades_ iguais em todos os seus pontos. Os pequenos fragmentos de **ferro** possuem as _propriedades_ da **substância** **ferro** (cor _cinza metálica_, **PF** = 1.538 °C, etc.) e os pequenos fragmentos de **enxofre** possuem as _propriedades_ da **substância** **enxofre** (cor amarela, PF = 115 °C, etc.). Trata-se de um exemplo de **mistura heterogênea**, uma **mistura** que não possui as mesmas _propriedades_ em toda a sua extensão.
 
 Por outro lado, se colocarmos uma _pitada_ de **açúcar** numa _porção_ de **água** pura e mexermos com uma colher por alguns minutos, obteremos uma **mistura** que possui as mesmas _propriedades_ em toda a sua _extensão_. Colocando na língua uma _gota_ proveniente da parte de cima dessa **mistura**, sentiremos exatamente o mesmo gosto _doce_ que sentiríamos ao provar uma _gota_ proveniente da parte de baixo dela. Além disso, quaisquer _porções_ dessa  são **incolores**, têm a mesma **densidade** e compartilham as mesmas _propriedades_. Esse é um exemplo de **mistura homogênea**, ou **solução**, **mistura** que tem as mesmas _propriedades_ em todos os seus pontos.
 
@@ -50,11 +83,66 @@ No exemplo da **mistura** de **ferro** e **enxofre**, os grãozinhos de **ferro*
 
 Numa **mistura** de **água** e _açúcar_, que é **homogênea**, existe uma só _fase_. Isso pode ser generalizado para todas as **misturas homogêneas**. Já que elas apresentam as mesmas _propriedades_ em todos os seus pontos, são constituídas necessariamente por uma única _fase_. _Assim_, concluímos que: uma **mistura homogênea** tem uma _fase_ e **mistura heterogênea** tem duas ou mais _fases_.
 
+```ad-caution
+Constituem exceção algumas **misturas** de **sólidos**, denominadas **eutéticas** (fundem-se à temperatura constante), e algumas **misturas** de **líquidos**, denominadas **azeotrópicas** (fervem à temperatura constante).
+```
+
 ```ad-note
 Uma **substância pura** somente terá mais de um _fase_ se por exemplo, existir uma mesma **substâncica** com duas _propriedades_ diferentes, como em um copo de **água** com _gelo_. Nessa caso, a **substância** será a mesma, no entanto, estará em dois **estados físicos** distintos (isso antes de o _gelo_ derreter totalmente).
 
 Dentro do copo existirão duas _fases_ distintas: a _fase_ **líquida** e a _fase_ **sólida**. Essas _fases_ diferem em pelo menos uma de suas _propriedades_, a **densidade** (a da **água** _líquida_ é 1,0 g/cm³ e a do _gelo_ é 0,92 g/cm³)
 ```
+#### Exercícios
+
+1 -**Analise o gráfico, correspondente à curva de aquecimento de um material, no qual estão representadas diferentes fases (s = sólido,  l = líquido e v = vapor), e julgue os itens seguintes.**
+
+![[quim-exercicio-mistura.png]]
+
+a) T² corresponde ao ponto de ebulição do material.
+b) Se, no estado líquido, esse material fosse resfriado, solidificar-se-ia à temperatura T¹.
+c) A temperatura referente ao patamar "l + v" será elevada com o aumento da pressão atmosférica.
+d) Segundo o gráfico, o material é constituído por uma mistura de três substâncias.
+
+> [!info]- Resposta 
+> #### Explicação
+> a) **Falsa.** T² representa o **ponto de fusão**, não o ponto de ebulição. O patamar "l + v" que indica a **ebulição**.
+> b) **Verdadeira.** T¹ é o **ponto de fusão**/**solidificação** da substância, onde ocorre a transição **líquido** para **sólido**.
+> c) **Verdadeira.** O aumento da pressão eleva a **temperatura de ebulição** ,
+> d) **Falsa.** O gráfico mostra patamares bem definidos (**fusão** e **ebulição**), característicos de uma **substância pura**. Misturas apresentariam variações progressivas de temperatura.
+
+2 - **A matéria existe, principalmente, em três estados físicos: sólido, líquido e gasoso. A maior parte da matéria é constituída por mistura de substâncias. Cada substância possui um conjunto único de propriedades físicas e químicas que pode ser utilizado para identificá-la. O gráfico a seguir apresenta a curva de temperatura versus tempo para três amostras materiais I, II e III, partindo do estado sólido no tempo t = 0.**
+
+![[quim-exercicio-mistura-2.png]]
+
+**De acordo com o gráfico, é correto afirmar que:**
+
+a) a amostra II apresenta temperatura de ebulição de 20 °C.
+b) a amostra II aquece mais rápido que a amostra I.
+c) à temperatura de 50 °C, a amostra I encontra-se no estado líquido.
+d) as três amostras são exemplos de substâncias puras.
+e) a amostra III não constitui uma substância pura por não manter as temperaturas de fusão e ebulição constantes.
+
+> [!info]- Resposta 
+> **Resposta correta: e)** 
+> #### Explicação
+> a) Errado, o **ponto de fusão** é de 20 ºC, o **ponto de ebulição** da amostra é de 50 ºC.
+> b) Errado, a amostra I apresenta uma crescente constante de temperatura, diferente da amostra II
+> c) Errado, não é possível afirmar com certeza a mudança de estado dessa amostra.
+> d) Errado, a amostra III possui **pontos de fusão** e **ebulição** inconstantes, se diferenciando de uma **substância simples**.
+> e) Correto, amostra III é uma **mistura** comum portanto o gráfico de aquecimento não possui patamares definidos e sim faixas de **fusão** e **ebulição**.
+3
+
+3 -  As curvas de fusão das substâncias A e B estão representadas no gráfico abaixo.
+
+![[quim-exercicio-mistura-3.png]]
+
+a) Quais as temperaturas de fusão de A e B?
+b) A e B misturadas em certa proporção formam uma solução sólida (eutética), que funde em temperatura intermediária às de A e B puras. Em que intervalo estará o ponto de fusão do eutético?
+
+> [!info]- Resposta 
+> #### Explicação
+> a) As **temperaturas** serão 70ºC e 50ºC para A e B, respectivamente.
+> b) Descobrimos que a temperatura de **fusão** da substância A está em torno de 70ºC, já B está próximo de 50ºC. Então, o **ponto de fusão** do **eutético** estará entre 50°C e 70ºC, dependendo da **proporção** de cada **substância** na **mistura** que forma a solução **sólida**.
 ### Obtendo substâncias puras a partir de misturas
 Um dos desafios enfrentados pela Química é a obtenção de **substâncias** puras a partir de **misturas**. Na natureza, a maioria dos _materiais_ é formada por _combinações_ de diferentes **substâncias**. Para determinar se uma **matéria** é uma **substância pura** ou uma **mistura**, analisamos suas _propriedades_ específicas. Se o resultado das análises indicar que se trata de uma **mistura** de **substâncias** e o químico quiser _isolar_ as **substâncias** que a _constituem_, será necessário escolher um **método** adequado de _purificação_.
 

@@ -463,8 +463,8 @@ Uma **ligação covalente** será **apolar** se os dois **átomos** que estabele
 flowchart TD;
 lc[Ligação covalente] --> p[Polar]
 lc --> a[Apolar]
-p --> c[Átomos com diferentes \n eletronegatividades]
-a --> d[Átomos com \n eletronegatividades iguais]
+p --> c[Átomos com diferentes  eletronegatividades]
+a --> d[Átomos com  eletronegatividades iguais]
 ```
 
 ```ad-summary
@@ -511,15 +511,17 @@ O que mantém as **moléculas** _unidas_ nos estados **sólido** e **líquido** 
 flowchart LR
 m[Molécula] --> p[Polar]
 m --> a[Apolar]
-a --> di[Dipolo instantâneio-\n-dipolo induzido]
-p --> n[Não tem H \n diretamente ligado a \n F, O ou N]
-p --> t[Tem H \n diretamente ligado a \n F, O ou N]
-n --> dp[Dipolo permanente-\n-dipolo permanente]
-t --> lh[Ligações de\n hidrogênio]
+a --> di[Dipolo instantâneio-dipolo induzido]
+p --> n[Não tem H diretamente ligado a F, O ou N]
+p --> t[Tem H diretamente ligado a F, O ou N]
+n --> dp[Dipolo permanente-dipolo permanente]
+t --> lh[Ligações de hidrogênio]
 ```
 ### Interações dipolo permanente-dipolo permanente
 Considere uma **molécula** de HCl. Devido à _diferença_ de **eletronegatividade** entre H e Cl, essa **molécula** é **polar**. Sua _extremidade negativa atrai_ a _extremidade positiva_ de outra **molécula** vizinha, e o mesmo ocorre com sua _parte positiva_, que interage _atrativamente_ com a _parte negativa_ de outra **molécula** vizinha. Essa _força de atração_ entre os **dipolos** das **moléculas** é chamada de **interação dipolo-dipolo** ou interação **dipolo permanente-dipolo permanente**.
+
 ![[quim-forças-dipolo.png]]
+
 Assim, no HCl **líquido** ou **sólido**, são essas as _forças_ que mantêm as **moléculas** _unidas_, o mesmo acontecendo em _todas_ as **substâncias polares**.
 
 ```ad-info

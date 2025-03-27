@@ -5,7 +5,7 @@ A mesa, a cadeira, as nossas roupas e o nosso **organismo** são exemplos de **m
  Do ponto de vista _científico_, **matéria** é tudo o que tem **massa** e ocupa lugar no _espaço_.
 ```
 ### Massa e unidades 
-O primeiro passo para determinar a **massa** de _objetos_ é a escolha de um _padrão_. O _padrão_ de **massa** mais conhecido e utilizado é o _quilograma_, simbolizado por _kg_. Dizer que um _objeto_ possui **massa** de 1 kg significa dizer que, ao colocá-lo num dos pratos da balança, o equilíbrio será estabelecido colocando-se no outro prato o objeto-padrão de **massa** 1 kg.
+O primeiro passo para determinar a **massa** de _objetos_ é a escolha de um _padrão_. O _padrão_ de **massa** mais conhecido e utilizado é o _quilograma_, simbolizado por _kg_. Dizer que um _objeto_ possui **massa** de 1 kg significa dizer que, ao colocá-lo num dos pratos da balança, o equilíbrio será estabelecido colocando-se no outro prato o objeto padrão de **massa** 1 kg.
 
 ```ad-note
 A _tonelada_ e o _grama_ são, respectivamente, _múltiplo_ e _submúltiplo_ importantes do _quilograma_. A _tonelada_ (t) equivale a _mil quilogramas_; o _grama_ (g) é a milésima parte do _quilograma_ (1 g = 0,001 kg) ou, de modo equivalente, o _quilograma_ equivale a mil _gramas_ (1 kg = 1.000 g).
@@ -132,6 +132,109 @@ Imagine, por exemplo, que uma bolinha de gude (**densidade** = 2,7 g/cm³) e um 
 
 O pedaço de isopor, _menos_ denso que o azeite, irá _flutuar_ nele. E a bolinha de gude, _mais_ densa que ele, irá _afundar_.
 ```
+#### Exercícios 
+
+1 - **Um bloco de metal tem volume de 200 mL e massa de 1.792 g.**
+a) Qual a densidade desse metal, expressa em g/cm 3 ?
+b) Qual o volume de uma amostra de 1 kg desse metal?
+
+> [!info]- Resposta   
+> a) Podemos determinar a **densidade** dividindo a **massa** (1.792 g) pelo **volume** (200 mL, ou seja, 200 cm 3):
+> $$
+d = \frac{m}{V} \Rightarrow d = \frac{1.792 \, g}{200 \, cm^3} \Rightarrow \boxed{d = 8,96 \, g/cm^3}
+> $$
+> b) Conhecida a **densidade**, que expressa a relação de proporcionalidade entre **massa** e volume **para** certo material em dada temperatura, podemos utilizá-la para determinar o **volume** de uma amostra de 1 kg (1.000 g):
+>  $$
+d = \frac{m}{V} \Rightarrow 8,96 g/cm^3 = \frac{1.000g}{V} \Rightarrow V = \frac{1.000g}{8,96 g/cm^3} \Rightarrow \boxed{111,6cm^3}
+> $$
+
+2 - **Julgue os itens abaixo.**
+a) Qualquer porção de qualquer material possui massa e ocupa lugar no espaço.
+b) Quando afirmamos que a densidade do alumínio é de 2,7 g/cm 3 , estamos afirmando que, se pesarmos um volume de alumínio puro igual a 1 cm3 , obteremos uma massa de 2,7 g.
+c) Quando dois materiais possuem densidades diferentes, sob a mesma pressão e temperatura, podemos afirmar que se trata de materiais diferentes.
+d) Quando temos volumes iguais de materiais diferentes, o material de maior densidade apresenta maior massa.
+
+> [!info]- Resposta  
+> **Resposta Correta:** **c) III é líquido a 1.000 °C.**  
+> #### Explicação
+> Alternativa a) - Correta, trata-se das propriedades **massa** e **volume**, comuns a todas as substâncias.
+> Alternativa b) - Correta, pois a densidade é calculada ela razão entre **massa** e **volume**, ou seja 
+> $$
+> d = \frac{m}{V} \Rightarrow \boxed{2,7g/cm^3 = \frac{2,7g}{1cm^3}} 
+> $$
+> Alternativa c) - Correta, pois a **densidade** de um material é uma característica específica.
+> Alternativa d) - Correta, a **densidade** e a **massa** são grandezas diretamente proporcionais: quanto maior a **densidade**, maior a **massa**.
+
+3 - **Para identificar três líquidos de densidades 0,8, 1,0 e 1,2 o analista dispõe de uma pequena bola de densidade igual a 1,0. Conforme a posição das bolas apresentadas no desenho abaixo, podemos afirmar que:**
+
+![[quim-exercicio-densidade.png]]
+
+a) os líquidos contidos nas provetas 1, 2 e 3 apresentam densidades 0,8, 1,0 e 1,2.
+b) os líquidos contidos nas provetas 1, 2 e 3 apresentam densidades 1,2, 0,8 e 1,0.
+c) os líquidos contidos nas provetas 1, 2 e 3 apresentam densidades 1,0, 0,8 e 1,2.
+d) os líquidos contidos nas provetas 1, 2 e 3 apresentam densidades 1,2, 1,0 e 0,8.
+e) os líquidos contidos nas provetas 1, 2 e 3 apresentam densidades 1,0, 1,2 e 0,8.
+
+> [!info]- Resposta  
+> **Resposta Correta:** **a) 0,8, 1,0, e 1,2**  
+> #### Explicação 
+> Frasco 1 - A bolinha tem maior **densidade** que o **líquido**. Logo a densidade do **líquido** é menor, portanto d = 0,8.  
+> Frasco 2 - A bolinha flutuou totalmente e também não afundou. Logo a **densidade** é 1,0.   
+> Frasco 3 - A bolinha flutuou, então o **líquido** tem maior **densidade** do que a bolinha com 1,2.
+
+4 -  **Para verificar se um objeto é de chumbo puro, um estudante realiza a seguinte experiência:**
+a) **Determina a sua massa (175,90 g).**
+b) **Imerge-o totalmente em 50,0 mL de água contida numa proveta.**
+d) **Lê o volume da mistura água e metal (65,5 mL).**
+
+**Com os dados obtidos, calcula a densidade do metal, compara-a com o valor registrado numa tabela de propriedades específicas de substâncias e conclui que se trata de chumbo puro. Qual o valor calculado para a densidade, em g/mL, à temperatura da experiência?**
+
+a) 2,61 
+b) 3,40 
+c) 5,22 
+d) 6,80 
+e) 11,3
+
+> [!info]- Resposta  
+> **Resposta Correta:** **e) 11,3.**  
+> #### Explicação 
+> Para calcular a densidade é preciso saber a massa e o volume deslocado pelo metal. O texto informa que a massa é 175,9g e o volume deslocado na proveta é de 15,5 mL (desconsiderando a quantidade de água dentro da proveta 65,5-50=15,5). Assim, resta aplicar a fórmula:
+> $$
+> d = \frac{m}{V} \Rightarrow  d = \frac{175,9}{15,5} \Rightarrow d = 11,3
+>$$
+
+5 - **Pelas normas vigentes, o litro do álcool hidratado que abastece os veículos deve ser constituído de 96% de álcool puro e 4% de água (em volume). As densidades desses componentes são dadas abaixo.**
+
+| Substâncias | Densidade (g/L) |
+|-------------|-----------------|
+| Água        | 1.000           |
+| Álcool      | 800             |
+
+**Um técnico de um órgão de defesa do consumidor inspecionou cinco postos suspeitos de venderem álcool hidratado fora das normas. Colheu uma amostra do produto em cada posto, mediu a densidade de cada uma, obtendo:**
+
+| Posto | Densidade do combustível (g/L) |
+|-------|-------------------------------|
+| I     | 822                           |
+| II    | 820                           |
+| III   | 815                           |
+| IV    | 808                           |
+| V     | 805                           |
+
+**A partir desses dados, o técnico pôde concluir que estavam com o combustível adequado somente os postos:**
+a) I e II.  
+b) I e III.  
+c) II e IV.  
+d) III e V.  
+e) IV e V.
+
+> [!info]- Resposta  
+> **Resposta Correta:** **e) IV, e V**  
+> #### Explicação 
+> Precisamos calcular a densidade necessária para alcançar as normas vigentes:
+> $$
+> d = \frac{96\% \cdot 800 + 4\% \cdot 1000}{100\%}=808 ~g/L
+>$$
+>Analisando as amostras, podemos inferir que I, II e III estão fora do padrão, pois apresentam mais água do que álcool na mistura
 ## Estados da matéria
 A **matéria** é tudo que possui **massa** e _ocupa lugar_ no espaço. Ela pode existir em diferentes **estados**, dependendo das condições de _temperatura_ e _pressão_. Os principais **estados da matéria** são **sólido**, **líquido** e **gasoso**, mas também existem outros **estados** menos comuns, como o **plasma**.
 ### Sólido
@@ -160,3 +263,60 @@ Processo pelo qual um **líquido** se _transforma_ em **gás**.
 Processo pelo qual um **gás** se _transforma_ em **líquido**. Isso ocorre quando a _temperatura_ do **gás** diminui e as **partículas** perdem **energia**, aproximando-se e formando _ligações mais fortes_, resultando em um **líquido**.
 #### Sublimação
 Processo pelo qual um **sólido** se _transforma_ diretamente em **gás**, sem passar pelo **estado líquido**. Isso ocorre quando as **partículas** do **sólido** ganham **energia** suficiente para _escapar_ diretamente para a **fase gasosa**.
+### Exercícios
+
+1 - **Quando você sai de uma piscina e se expõe ao sol, sua pele fica seca depois de algum tempo. É correto dizer que a água:** 
+
+a) vaporizou. 
+c) entrou em ebulição.
+b) evaporou. 
+d) ferveu.
+
+> [!info]- Resposta  
+> **Resposta Correta:** **b) evaporou.**  
+> #### Explicação
+> A água da pele seca porque **evaporou**, ou seja, as moléculas de água na superfície ganharam energia do sol e passaram lentamente para o estado gasoso, sem atingir o ponto de ebulição (100°C).  
+>   
+> #### Por que as outras estão erradas?  
+> - **a) vaporizou:** Termo genérico, mas menos preciso que "evaporou" para esse contexto.  
+> - **c) entrou em ebulição / d) ferveu:** Exigiriam temperaturas altas (100°C), o que não ocorre na pele exposta ao sol.  
+> - **b) evaporou** é o único termo que descreve corretamente o processo natural de secagem em temperatura ambiente.
+
+2 - **Às vezes, nos dias frios ou chuvosos, o lado interno dos vidros dos carros, em que há alguém, fica embaçado. Por que isso acontece?**
+
+> [!info]- Resposta  
+> O embaçamento dos vidros internos dos carros ocorre devido a um processo chamado **condensação**, que está relacionado à diferença de temperatura e umidade dentro e fora do veículo. 
+> 
+> Isso acontece porque:
+> 1. O ar quente dentro do carro contém mais umidade (vapor d'água).
+> 2. Quando esse ar úmido e quente entra em contato com a superfície fria do vidro, ele resfria. 
+> 3. Ao resfriar, o vapor d'água se condensa, formando pequenas gotículas de água no vidro.
+
+3 - **Observe a tabela que apresenta as temperaturas de fusão e de ebulição de algumas substâncias.**
+
+| Substância | Temperatura de fusão (°C) | Temperatura de ebulição (°C) |
+|------------|---------------------------|------------------------------|
+| I          | 2117,3                    | 78,5                         |
+| II         | 293,9                     | 65,0                         |
+| III        | 801                       | 1.413                        |
+| IV         | 3.550                     | 4.827                        |
+| V          | 295                       | 110,6                        |
+**Em relação aos estados físicos das substâncias, a alternativa correta é:**
+
+a) I é sólido a 25 °C. 
+b) II é líquido a 80 °C.
+c) III é líquido a 1.000 °C.
+d) IV é gasoso a 3.500 °C.
+e) V é sólido a 100 °C.
+
+> [!info]- Resposta  
+> **Resposta Correta:** **c) III é líquido a 1.000 °C.**  
+> #### Explicação
+> 1000°C é um valor entre a temperatura de **fusão e ebulição** então a substância é **líquida**
+> #### Por que as outras estão erradas?
+> **a)** 25°C é um valor entre a **temperatura de fusão** e **ebulição** então a substância é **líquida**.
+> **b)** 80°C está acima da **temperatura de ebulição** então a substância é **gasosa**.
+> **d)** 3500°C está abaixo da **temperatura de fusão** então a substância é **sólida**.
+> **e)** 100°C é um valor entre a **temperatura de fusão** e **ebulição** então a substância é **líquida**.
+
+

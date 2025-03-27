@@ -18,6 +18,7 @@ São pequenas, medindo entre 0,2 µm e 1,5 µm de diâmetro e de 2 µm a 8 µm d
 ```
 
 ![[bio-celula-procariotica.png]]
+
 ```ad-info
 Algumas **bactérias** têm **flagelos**, filamentos que se projetam da superfície celular e permitem movimento.
 ```

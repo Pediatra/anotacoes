@@ -1,7 +1,7 @@
 {
   "accentColor": "#42c8f5",
   "cssTheme": "",
-  "theme": "system",
+  "theme": "moonstone",
   "enabledCssSnippets": [
     "checkbox",
     "center-images",
