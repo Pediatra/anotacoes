@@ -109,7 +109,7 @@ A comunicação entre processos (**IPC**) ocorre de diversas formas como: compar
  
 ```ad-summary
 ##### Solução de Peterson
-É um método clássico para garantir a exclusão mútua em sistemas concorrentes. A ideia básica por trás da solução de Peterson é a utilização de **variáveis de turno** e **flags** para indicar a intenção de entrar na seção crítica. Sendo assim, a solução de Peterson utiliza a chamada de duas funções: `enter_region` (entrar na região crítica) e `leave_region` (sair da região crítica).
+É um método clássico para garantir a exclusão mútua em sistemas concorrentes. A ideia básica por trás da solução de Peterson é a utilização de **variáveis de turno** e **flags** para indicar a intenção de entrar na seção crítica. Sendo assim, a solução de Peterson utiliza a chamada de duas funções: `enterregion` (entrar na região crítica) e `leaveregion` (sair da região crítica).
 
 - **Variáveis de Turno**: Cada processo tem uma variável associada que indica quando é sua vez de entrar na seção crítica. Isso permite que os processos entrem na seção crítica de forma alternada.
 - **Flags**: Cada processo tem uma flag associada que indica se ele deseja entrar na seção crítica. Isso permite que os processos expressem sua intenção de entrar na seção crítica.

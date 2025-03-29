@@ -132,11 +132,11 @@ public class ConverterBean {
 	
 	public BigDecimal dollarToYen(BigDecimal dollars) {
 		BigDecimal result = dollars.multiply(yenRate);
-		return result.setScale(2, BigDecimal.ROUND_UP);
+		return result.setScale(2, BigDecimal.ROUNDUP);
 	}
 	public BigDecimal yenToEuro(BigDecimal yen) {
 		BigDecimal result = yen.multiply(euroRate);
-		return result.setScale(2, BigDecimal.ROUND_UP);
+		return result.setScale(2, BigDecimal.ROUNDUP);
 	}
 }
 ```
@@ -251,7 +251,7 @@ Essas são algumas diretivas, as quais são utilizadas para informações especi
 ```jsp
 <%@ taglib prefix = "fmt" uri = "http://java.sun.com/jsp/jstl/fmt" %>
 <%@page contentType="text/html" import="java.util.Date, java.text."pageEncoding="ISO-8859-1"%>
-<%@page import="java.util.ArrayList"%>_
+<%@page import="java.util.ArrayList"%>
 <html>
 	<%@ include file="header.jsp" %>
     <body>
@@ -276,10 +276,10 @@ A especificação JSP fornece uma tag padrão chamada Action tag, usada dentro d
 A tag de ação também é implementada para otimizar o fluxo entre páginas e para empregar um Java Bean. Como coincide com o padrão XML, a sintaxe para o elemento de ação é:
 
 ```jsp
-<jsp:action_name attribute = "attribute_value" />
+<jsp:actionname attribute = "attributevalue" />
 ```
 
-1. `jsp:forward`: é usado para encaminhar a solicitação e a resposta para outros recursos. `<jsp:forward page="outra_pagina.jsp"/>`
+1. `jsp:forward`: é usado para encaminhar a solicitação e a resposta para outros recursos. `<jsp:forward page="outrapagina.jsp"/>`
 2. `jsp:include`: é usado para incluir outro recurso. `<jsp:include page="cabecalho.jsp"/>`
 3. `jsp:useBean`: é usado para criar ou localizar objetos bean. `<jsp:useBean id= "instanceName" scope= "page | request | session | application"  class= "packageName.className" type= "packageName.className"  beanName="packageName.className" />`
 4.  `jsp:setProperty`: é usado para definir o valor do objeto bean. `<jsp:setProperty name="meuBean" property="nome" value="João"/>
@@ -430,7 +430,7 @@ Antes e depois de cada fase é possível realizar ações através da implementa
 public class LifeCycleListener implements PhaseListener {
 
     public PhaseId getPhaseId() {
-        return PhaseId.ANY_PHASE; // ou posso específicar um fase
+        return PhaseId.ANYPHASE; // ou posso específicar um fase
     }
 
     public void beforePhase(PhaseEvent event) {
@@ -540,13 +540,13 @@ Facelets é uma parte da especificação JavaServer Faces e também a tecnologia
 
 Praticamente todos os componentes podem possuir esses dois atributos:
 ```html
-<h:inputText style="padding: 10px;" styleClass="valor_numerico" />
+<h:inputText style="padding: 10px;" styleClass="valornumerico" />
 ```
 ##### h:form
-Gera um formulário HTML com o id formulario e o inputText com id formulario:campo_id, para desativar isso ``prependId="false"`` .
+Gera um formulário HTML com o id formulario e o inputText com id formulario:campoid, para desativar isso ``prependId="false"`` .
 ```xhtml
 <h:form id="formulario">
-	Idade: <h:inputText id="campo_idade"/>
+	Idade: <h:inputText id="campoidade"/>
 </h:form>
 ```
 ##### h:dataTable

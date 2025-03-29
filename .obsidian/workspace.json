@@ -1,14 +1,14 @@
 {
   "main": {
-    "id": "e2f0b3519de6428c",
+    "id": "dc179960dfff313b",
     "type": "split",
     "children": [
       {
-        "id": "89e584d5c3b1020d",
+        "id": "cdb192306c2050f7",
         "type": "tabs",
         "children": [
           {
-            "id": "0f4e463d4af07ac1",
+            "id": "150948da60d50c1b",
             "type": "leaf",
             "state": {
               "type": "markdown",
@@ -27,15 +27,15 @@
     "direction": "vertical"
   },
   "left": {
-    "id": "78af18e7c61fe299",
+    "id": "5a4fbd268a07aaab",
     "type": "split",
     "children": [
       {
-        "id": "d5bfe736385cb6ed",
+        "id": "743c378159682ca5",
         "type": "tabs",
         "children": [
           {
-            "id": "86c83bef688d04a0",
+            "id": "2aab6586082883e9",
             "type": "leaf",
             "state": {
               "type": "file-explorer",
@@ -48,30 +48,40 @@
             }
           },
           {
-            "id": "234e4edd53ef8b2e",
+            "id": "a64e880cb5c50e81",
             "type": "leaf",
             "state": {
               "type": "search",
               "state": {
                 "query": "",
-                "matchingCase": false,
+                "matchingCase": true,
                 "explainSearch": false,
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical"
               },
               "icon": "lucide-search",
-              "title": "Search"
+              "title": "Procurar"
             }
           },
           {
-            "id": "bc99c99ce65fc7c3",
+            "id": "ee6b07fd039158b9",
+            "type": "leaf",
+            "state": {
+              "type": "starred",
+              "state": {},
+              "icon": "lucide-file",
+              "title": "Plugin desativado"
+            }
+          },
+          {
+            "id": "43aa3e6599a9083c",
             "type": "leaf",
             "state": {
               "type": "bookmarks",
               "state": {},
               "icon": "lucide-bookmark",
-              "title": "Bookmarks"
+              "title": "Marcadores"
             }
           }
         ]
@@ -81,20 +91,20 @@
     "width": 300
   },
   "right": {
-    "id": "86e1e6f9ca5ac3b7",
+    "id": "25f200e052f54753",
     "type": "split",
     "children": [
       {
-        "id": "ebaf25d7aaaa89a4",
+        "id": "6edf83d8b14236b6",
         "type": "tabs",
         "children": [
           {
-            "id": "25ecc931d57b7e78",
+            "id": "5e1fbe1cf9ed660e",
             "type": "leaf",
             "state": {
               "type": "backlink",
               "state": {
-                "file": "enem/química/Substâncias.md",
+                "file": "enem/química/Conceitos básicos.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -104,30 +114,31 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Links inversos para Substâncias"
+              "title": "Links inversos para Conceitos básicos"
             }
           },
           {
-            "id": "e44c5761e4c5da83",
+            "id": "1974ca6418820cab",
             "type": "leaf",
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "enem/química/Conceitos básicos.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "Outgoing links"
+              "title": "Links de saída para Conceitos básicos"
             }
           },
           {
-            "id": "d6f523fe74c8a787",
+            "id": "e449a66d27abce99",
             "type": "leaf",
             "state": {
               "type": "tag",
               "state": {
                 "sortOrder": "frequency",
-                "useHierarchy": true,
+                "useHierarchy": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
@@ -136,7 +147,7 @@
             }
           },
           {
-            "id": "400c97835d9cf957",
+            "id": "ecf67b5f4ef0b131",
             "type": "leaf",
             "state": {
               "type": "outline",
@@ -149,73 +160,85 @@
               "icon": "lucide-list",
               "title": "Sumário de Conceitos básicos"
             }
+          },
+          {
+            "id": "45fe61968b20f86b",
+            "type": "leaf",
+            "state": {
+              "type": "mermaid-toolbar-view",
+              "state": {},
+              "icon": "trident-custom",
+              "title": "Mermaid Toolbar"
+            }
           }
         ],
         "currentTab": 3
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 257.5
   },
   "left-ribbon": {
     "hiddenItems": {
+      "random-note:Abrir nota aleatória": false,
       "switcher:Abrir a troca rápida": false,
       "graph:Abrir visualização em gráfico": false,
       "canvas:Criar novo canvas": false,
       "daily-notes:Abrir a nota de hoje": false,
       "templates:Inserir modelo": false,
       "command-palette:Abrir paleta de comandos": false,
-      "random-note:Abrir nota aleatória": false,
       "mermaid-tools:Open Mermaid Toolbar": false,
       "terminal:Open terminal": false
     }
   },
-  "active": "0f4e463d4af07ac1",
+  "active": "150948da60d50c1b",
   "lastOpenFiles": [
-    "enem/química/Átomos.md",
+    "enem/biologia/Citologia.md",
+    "enem/biologia/Bioquímica.md",
     "enem/química/Substâncias.md",
-    "imgs/enem/química/quim-exercicio-mistura-3.png",
-    "imgs/enem/química/quim-exercicio-mistura-2.png",
-    "imgs/enem/química/quim-exercicio-mistura.png",
-    "Pasted image 20250327184754.png",
-    "imgs/enem/química/quim-exercicio-substancia-pura.png",
     "enem/química/Conceitos básicos.md",
-    "imgs/enem/química/quim-exercicio-densidade.png",
-    "caixa concurso/Estatística.md",
-    "enem/biologia/Glossário.md",
-    "enem/biologia/Conceitos Básicos.md",
-    "enem/biologia/Histologia.md",
-    "enem/biologia/Vírus.md",
-    "imgs/arquitetura de software/arq-analpf.png",
+    "enem/química/Átomos.md",
     "salvar/Sites.md",
     "salvar/Livros.md",
-    "estudos/Cronograma.md",
-    "caixa concurso/Agilidade.md",
-    "caixa concurso/Arquitetura de Software.md",
-    "Fisica.md",
-    "salvar/Fisica.md",
     "salvar",
-    "imgs/enem/biologia/bio-utilização-nutrientes.png",
-    "imgs/enem/biologia/bio-transformações-acido-piruvico.png",
-    "imgs/enem/biologia/bio-transporte-ativo.png",
+    "imgs/enem/química/quim-substancia-het-homo.png",
+    "imgs/enem/química/quim-substancia-eletricidade.png",
+    "imgs/enem/química/quim-rutherford-3.png",
+    "imgs/enem/química/quim-rutherford.png",
+    "imgs/enem/química/quim-rutherford-2.png",
+    "imgs/enem/química/quim-polaridade-solubilidade.png",
+    "imgs/enem/química/quim-polaridade-ligacao-polar-2.png",
+    "imgs/enem/química/quim-polaridade-ion-cov.png",
+    "imgs/enem/química/quim-polaridade-atracao-polar.png",
+    "imgs/enem/química/quim-mudança-estado.png",
     "imgs/enem/química",
     "imgs/enem/biologia",
     "imgs/ética e compliance",
+    "imgs/testes",
     "imgs/web java",
     "imgs/sistemas operacionais",
     "imgs/programação",
-    "imgs/testes",
     "imgs/portais corporativos",
-    "imgs/padroes de projeto",
-    "estudos/Estatística.md",
-    "enem/biologia/Citologia.md",
-    "enem/biologia/Bioquímica.md",
+    "imgs/estatistica",
+    "enem/biologia/Glossário.md",
+    "enem/biologia/Vírus.md",
+    "enem/biologia/Conceitos Básicos.md",
+    "enem/biologia/Histologia.md",
     "cnu concurso/Rede de Computadores.md",
     "cnu concurso/Estrutura de Dados e Algoritmos.md",
-    "cnu concurso/Desenvolvimento Web Java.md",
     "cnu concurso/Edital.md",
+    "cnu concurso/Desenvolvimento Web Java.md",
     "cnu concurso/Data Mining.md",
     "cnu concurso/Big Data.md",
-    "cnu concurso/Aprendizado de Máquina.md"
+    "cnu concurso/Aprendizado de Máquina.md",
+    "caixa concurso/Testes.md",
+    "caixa concurso/Sistemas Operacionais.md",
+    "caixa concurso/Programação.md",
+    "caixa concurso/Portais Corporativos.md",
+    "caixa concurso/Português.md",
+    "caixa concurso/Padrões de Projeto.md",
+    "caixa concurso/Organização e Arquitetura de Computadores.md",
+    "caixa concurso/Matemática Financeira.md",
+    "Sem título.canvas"
   ]
 }

@@ -27,7 +27,7 @@ Opera em um único sistema computacional e não distribuído por múltiplos loca
 #### Distribuído 
 O Sistema de Gerenciamento de Banco de Dados Distribuídos (SGBDD) controla o armazenamento e processamento de dados relacionados logicamente por meio de sistemas computacionais interconectados através de uma rede, em que tanto os dados como as funções de processamento são distribuídos entre os diversos locais.
 ##### Federado
-Quando um SGBDD usa _middleware_ para que os SGBDs estejam fracamente acoplados, estamos falando de um SGBDD **Federado**. Isso significa que cada banco de dados pode operar de forma independente, mas também pode se comunicar com outros bancos por meio do middleware. Essa comunicação permite o acesso e a manipulação de dados entre diferentes bancos de dados, sem a necessidade de integrá-los completamente em uma única base.
+Quando um SGBDD usa middleware para que os SGBDs estejam fracamente acoplados, estamos falando de um SGBDD **Federado**. Isso significa que cada banco de dados pode operar de forma independente, mas também pode se comunicar com outros bancos por meio do middleware. Essa comunicação permite o acesso e a manipulação de dados entre diferentes bancos de dados, sem a necessidade de integrá-los completamente em uma única base.
 #### Rede
 Neste modelo, os dados são organizados em uma estrutura de rede ou gráfico, onde cada registro pode ter vários pais e vários filhos. Esta estrutura permite um relacionamento mais complexo entre os registros.
 #### Hierárquico 
@@ -90,26 +90,26 @@ b["B1 (0, 1)"] --- rel{Relacionamento} --- a["(1, n) B2"]
 Um **Join**, também conhecido como **Inner Join** combina resultados de diferentes tabelas baseado em colunas que estão relacionadas.
 
 ```sql
-SELECT u.first_name, u.salary, r.name 
+SELECT u.firstname, u.salary, r.name 
 FROM users u 
-JOIN users_roles ur ON u.id = ur.user_id 
-JOIN roles r ON ur.role_id = r.id;
+JOIN usersroles ur ON u.id = ur.userid 
+JOIN roles r ON ur.roleid = r.id;
 ```
 #### Left/Right (Outter) Join  
 Usado para retornar todos os resultados que estão relacionados pela chave além de trazer todos os resultados do lado esquerdo/direito da junção que apresentam valores nulos. 
 
 ```sql
-SELECT u.first_name, u.salary, p.bio
+SELECT u.firstname, u.salary, p.bio
 FROM users u 
-LEFT ou RIGHT JOIN profiles p ON u.id = p.user_id;
+LEFT ou RIGHT JOIN profiles p ON u.id = p.userid;
 ```
 #### Full (Outter) Join
 Usado para retornar todos os resultados de ambas as tabelas com os valores que não combinam preenchidos com null. A diferença para um inner join é que quando T1 ou T2 possuírem algum valor que o outro não possui, essa tupla ainda será apresentada na tabela mas sem valores correspondentes ao lado oposto, somando assim a quantidade n\*2 de linhas null no total com o resultado da query.
 
 ```sql
-SELECT u.first_name, u.salary, p.bio
+SELECT u.firstname, u.salary, p.bio
 FROM users u 
-FULL JOIN profiles p ON u.id = p.user_id;
+FULL JOIN profiles p ON u.id = p.userid;
 ```
 #### Group By 
 Agrupa resultados com base em uma coluna. (Geralmente utilizado com funções de agregação)
@@ -117,8 +117,8 @@ Agrupa resultados com base em uma coluna. (Geralmente utilizado com funções de
 ```sql
 SELECT r.name, COUNT(u.id) 
 FROM users u
-JOIN users_roles ur ON ur.user_id = u.id
-JOIN roles r ON r.id = ur.role_id 
+JOIN usersroles ur ON ur.userid = u.id
+JOIN roles r ON r.id = ur.roleid 
 GROUP BY r.name;
 ```
 
@@ -133,8 +133,8 @@ Existe pois o **WHERE** não pode ser usado dentro de funções de agregação, 
 ```sql
 SELECT r.name, COUNT(u.id) 
 FROM users u
-JOIN users_roles ur ON ur.user_id = u.id
-JOIN roles r ON r.id = ur.role_id 
+JOIN usersroles ur ON ur.userid = u.id
+JOIN roles r ON r.id = ur.roleid 
 GROUP BY r.name
 HAVING r.name NOT LIKE 'c%';
 ```

@@ -11,7 +11,7 @@ Conquistar e dividir.
 	- Melhor caso: 1, Médio caso: O(2 log n), Pior caso: O(n²)
 
 ```python
-def binary_search(arr, target): 
+def binarysearch(arr, target): 
 	left = 0 
 	right = len(arr) - 1 
 	while left <= right: 
@@ -26,10 +26,10 @@ def binary_search(arr, target):
 
   
 a = [1, 2, 3, 4, 5, 6]  
-binary_search(a, 5) # passou pelos números 3, 5
+binarysearch(a, 5) # passou pelos números 3, 5
 
 a = [5, 18, 27, 33, 44, 49, 54, 67, 69, 72, 79, 86, 87, 92]  
-binary_search(78) # passou pelos números 54, 79, 69, 72
+binarysearch(78) # passou pelos números 54, 79, 69, 72
 ```
 # Ordenação por bolha
 
@@ -39,7 +39,7 @@ Comparações de elementos que estão em posições consecutivas até estarem or
 	- Melhor caso: O(n), Médio caso: O(n²), Pior caso: O(n²)
 
 ```python
-def bubble_sort(alist):  
+def bubblesort(alist):  
 	for passnum in range(len(alist) - 1, 0, -1):  
 		for i in range(passnum):  
 			if alist[i] > alist[i + 1]:  
@@ -48,7 +48,7 @@ def bubble_sort(alist):
 				alist[i + 1] = temp  
   
 alist = [54, 26, 93, 17, 77, 31, 44, 55, 20]  
-bubble_sort(alist) # [17, 20, 26, 31, 44, 54, 55, 77, 93]
+bubblesort(alist) # [17, 20, 26, 31, 44, 54, 55, 77, 93]
 ```
 # Ordenação por seleção
 
@@ -58,19 +58,19 @@ Percorre toda a lista até encontrar o menor elemento do vetor (ou maior) e **TR
 	- Melhor caso: O(n²), Médio caso: O(n²), Pior caso: O(n²)
 
 ```python 
-def selection_sort(array):  
+def selectionsort(array):  
 	size = len(array)  
 	  
 	for step in range(size):  
-		min_idx = step  
+		minidx = step  
 		  
 		for i in range(step + 1, size):  
-			if array[i] < array[min_idx]:  
-				min_idx = i  
-		(array[step], array[min_idx]) = (array[min_idx], array[step])  
+			if array[i] < array[minidx]:  
+				minidx = i  
+		(array[step], array[minidx]) = (array[minidx], array[step])  
   
 alist = [54, 26, 93, 17, 77, 31, 44, 55, 20]  
-selection_sort(alist) # [17, 20, 26, 31, 44, 54, 55, 77, 93]
+selectionsort(alist) # [17, 20, 26, 31, 44, 54, 55, 77, 93]
 ```
 # Ordenação por inserção
 

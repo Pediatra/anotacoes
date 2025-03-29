@@ -80,7 +80,7 @@ Avalia o status do trabalho em andamento, identificando visualmente ao longo do 
 #### Tempo Ideal
 O tempo ideal, ou “homem-hora”, é uma unidade de medida que estima o tempo que uma pessoa levaria para concluir uma tarefa sem interrupções. É uma maneira comum de estimar o esforço necessário para concluir itens em um backlog de produto.
 # Design Thinking 
-Framework usado para promover a inovação com uma abordagem centrada no ser humano, onde a empatia pelo usuário final é fundamental. Dentro do Design Thinking, passamos por diferentes fases: _Empatia_, _Definição_, _Ideação_, _Prototipagem_, _Teste_ e _Implementar_.
+Framework usado para promover a inovação com uma abordagem centrada no ser humano, onde a empatia pelo usuário final é fundamental. Dentro do Design Thinking, passamos por diferentes fases: Empatia, Definição, Ideação, Prototipagem, Teste e Implementar.
 
 ```ad-info
 **Análise e síntese:** busca elaborar uma síntese para guiar o processo de criação da solução, organizando as informações e ideias com o intuito de obter padrões;
@@ -145,13 +145,13 @@ Uma empresa é vista como um organismo vivo, conhecido como monstra, no qual pod
 
 ```ad-warning
 #### Princípios Fundamentais
-**Indivíduos e interação entre eles** > _processos e ferramentas_
-**Software em funcionamento** > _documentação abrangente_
-**Colaboração com o cliente** > _negociação de contratos_
-**Responder a mudanças** > _seguir um plano_
+**Indivíduos e interação entre eles** > processos e ferramentas
+**Software em funcionamento** > documentação abrangente
+**Colaboração com o cliente** > negociação de contratos
+**Responder a mudanças** > seguir um plano
 ```
 ### Scrum
- Usados para orientar as atividades de desenvolvimento dentro de um processo que incorpora as seguintes atividades metodológicas: requisitos, análise, projeto, evolução e entrega. Em cada atividade metodológica, ocorrem tarefas realizadas em um período chamado de sprint. O trabalho realizado dentro de um sprint (o número de sprints necessários para cada atividade metodológica varia dependendo do tamanho e da complexidade do produto) é adaptado ao problema em questão e definido, e muitas vezes modicado em tempo real, pela equipe Scrum. O planejamento da sprint é de fato um evento _time-boxed_, ou seja, um evento de duração limitada e previamente definida.
+ Usados para orientar as atividades de desenvolvimento dentro de um processo que incorpora as seguintes atividades metodológicas: requisitos, análise, projeto, evolução e entrega. Em cada atividade metodológica, ocorrem tarefas realizadas em um período chamado de sprint. O trabalho realizado dentro de um sprint (o número de sprints necessários para cada atividade metodológica varia dependendo do tamanho e da complexidade do produto) é adaptado ao problema em questão e definido, e muitas vezes modicado em tempo real, pela equipe Scrum. O planejamento da sprint é de fato um evento time-boxed, ou seja, um evento de duração limitada e previamente definida.
  
 ![[ag-scrum.png]]
 #### Estrutura
@@ -298,7 +298,7 @@ Os membros da equipe de operações que pertencem à equipe de desenvolvimento a
 É uma descrição simples e genérica de uma funcionalidade de software a partir da experiência do usuário. Ela define o que um usuário precisa da sua empresa, o que ajuda a priorizar o trabalho e a aumentar o valor para o cliente. Para que uma história de usuário seja bem escrita, ela deve seguir o acrônimo INVEST, ou seja, seguindo o acrônimo as histórias devem ser independentes, negociáveis, valiosas, estimáveis, pequenas e testáveis.
 
 Normalmente, uma história de usuário segue o seguinte formato:
-_"Como [tipo de usuário], eu quero [meta ou objetivo] para que eu [benefício ou resultado]."_
+"Como [tipo de usuário], eu quero [meta ou objetivo] para que eu [benefício ou resultado]."
 
 ```ad-info
 Quando uma história de usuário descreve uma funcionalidade maior e com menos detalhamento, ela é de fato chamada de **épico**. Epicos são usados para agrupar histórias de usuário relacionadas que, juntas, compõem um grande recurso ou área de funcionalidade no produto.
@@ -326,10 +326,10 @@ No topo estão os itens mais importantes e desenvolvidos. Já para o final, cons
 #### Estrutura de um Backlog
 1. Levantamento de Requisitos.
 2. Critérios de Priorização.
-	1. Moscow -  Permite que todos os stakeholders e membros do time acordem em uma ordem de importância. Assim, as expectativas são ajustadas ao que será entregue como Mínimo Produto Viável (MVP). Sendo dividido em tarefas classificadas como _Must have_, _Should have_, _Could have_, _Wouldn't Have_.
+	1. Moscow -  Permite que todos os stakeholders e membros do time acordem em uma ordem de importância. Assim, as expectativas são ajustadas ao que será entregue como Mínimo Produto Viável (MVP). Sendo dividido em tarefas classificadas como Must have, Should have, Could have, Wouldn't Have.
 	2. Scorecard - Cada critério terá seu peso, recebendo uma nota de 0 a 100. Finalmente, utilizando a média ponderada para calcular a priorização.
 	3. BUC - Prioridade de acordo com o custo ou receita gerada.
-	4. Teste e Suposição - Define a prioridade a partir dos resultados da validação de uma hipótese ou suposição, e também da relevância para o usuário final.  _T = O quanto a suposição foi testada_, _U = Relevância para o usuário_. A prioridade é o resultado da soma destes dois critérios.
+	4. Teste e Suposição - Define a prioridade a partir dos resultados da validação de uma hipótese ou suposição, e também da relevância para o usuário final.  T = O quanto a suposição foi testada, U = Relevância para o usuário. A prioridade é o resultado da soma destes dois critérios.
 	5. Valor de Negócio x Risco - Um dos métodos mais comuns de priorização é analisar o valor de negócio e o risco de cada item.
 3. Nomeação de itens. (Testes da funcionalidades X, Implementação da funcionalidade Y, Distribuir Pesquisa)
 4. Descrição dos itens criados.

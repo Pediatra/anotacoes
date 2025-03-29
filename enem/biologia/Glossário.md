@@ -144,7 +144,7 @@ Os seres vivos utilizam **glicerídeos** como reserva de energia para momentos d
 Pesquisas científicas têm mostrado os perigos do consumo excessivo de alimentos gordurosos, principalmente os de origem animal. Os **ácidos graxos saturados** podem levar ao desenvolvimento da **aterosclerose** (deposição de **lipídios** na **parede das artérias** com perda de sua elasticidade), o que pode resultar em **doenças cardiovasculares**, causar infarto do **coração** e **acidentes vasculares cerebrais** (**AVC**).
 ```
 
-Uma dieta saudável deve conter certa quantidade de **gorduras** e **óleos**, pois, entre outras funções, eles são necessários para o **organismo** absorver as chamadas **vitaminas** **lipossolúveis** (**vitaminas** _A_, _D_, _E_ e _K_), que só se dissolvem em **lipídios**. Além disso, também necessitamos de certos **ácidos graxos** que não conseguimos produzir, os chamados **lipídios essenciais**. Eles estão presentes em diversos **óleos vegetais** e em peixes marinhos, e são importantes para a construção das **membranas celulares** e para a **síntese das prostaglandinas**.
+Uma dieta saudável deve conter certa quantidade de **gorduras** e **óleos**, pois, entre outras funções, eles são necessários para o **organismo** absorver as chamadas **vitaminas** **lipossolúveis** (**vitaminas** A, D, E e K), que só se dissolvem em **lipídios**. Além disso, também necessitamos de certos **ácidos graxos** que não conseguimos produzir, os chamados **lipídios essenciais**. Eles estão presentes em diversos **óleos vegetais** e em peixes marinhos, e são importantes para a construção das **membranas celulares** e para a **síntese das prostaglandinas**.
 #### Ceras
 **Ceras** são **substâncias** formadas por uma **molécula** de **álcool** diferente do **glicerol** unida a uma ou mais **moléculas** de **ácidos graxos**.
 
@@ -191,10 +191,10 @@ Os **carotenoides** também são importantes para muitos animais. Por exemplo, a
 ### Proteínas
 As **proteínas** são **polímeros** em que os **monômeros** são **aminoácidos**.  Elas desempenham uma variedade de funções vitais nos organismos vivos, incluindo a estruturação das células, o **transporte de moléculas**, a **catalisação** de reações bioquímicas, e a regulação de processos biológicos. Cada **proteína** possui uma estrutura única que determina sua função específica. A estrutura das **proteínas** é organizada em quatro níveis:
 
-1. _primário_ (sequência de **aminoácidos**)
-2. _secundário_ (dobras e hélices)
-3. _terciário_ (dobras tridimensionais complexas)
-4. _quaternário_ (associações de múltiplas **cadeias polipeptídicas**).
+1. primário (sequência de **aminoácidos**)
+2. secundário (dobras e hélices)
+3. terciário (dobras tridimensionais complexas)
+4. quaternário (associações de múltiplas **cadeias polipeptídicas**).
 
 ```ad-summary
 ##### Aminoácido
@@ -319,14 +319,14 @@ Muitos **antibióticos** funcionam inibindo irreversivelmente as **enzimas** das
 ```
 #### Tipos de proteinas
 ##### Colágeno
-A **proteína** mais abundante de nosso corpo (cerca de _30%_ de nosso _conteúdo proteico_). As longas **moléculas** dessa **proteína**, das quais são conhecidos cerca de dezoito tipos diferentes, estão reunidas _três a três_, enroladas em uma _tripla-hélice_, a estrutura básica das **fibras colágenas**. Essas _fibras_ são muito resistentes à _tração_, distendendo-se pouco quando _tensionadas_. Sua presença na **derme**, por exemplo, confere _resistência_ à **pele**, evitando que ela sofra _lesões_ ao ser _esticada_.
+A **proteína** mais abundante de nosso corpo (cerca de 30% de nosso conteúdo proteico). As longas **moléculas** dessa **proteína**, das quais são conhecidos cerca de dezoito tipos diferentes, estão reunidas três a três, enroladas em uma tripla-hélice, a estrutura básica das **fibras colágenas**. Essas fibras são muito resistentes à tração, distendendo-se pouco quando tensionadas. Sua presença na **derme**, por exemplo, confere resistência à **pele**, evitando que ela sofra lesões ao ser esticada.
 
 ```ad-info
-Há pouco tempo, descobriu-se uma relação curiosa envolvendo o **colágeno**, a **vitamina C** e o **escorbuto**, doença que assolou as tripulações dos navios na época das grandes navegações, entre os séculos XV e XVI. Um dos _sintomas_ do **escorbuto** é um _enfraquecimento generalizado_, marcado por _sangramento_ nas _gengivas_ e demais _mucosas_, com frequente _perda de dentes_. 
+Há pouco tempo, descobriu-se uma relação curiosa envolvendo o **colágeno**, a **vitamina C** e o **escorbuto**, doença que assolou as tripulações dos navios na época das grandes navegações, entre os séculos XV e XVI. Um dos sintomas do **escorbuto** é um enfraquecimento generalizado, marcado por sangramento nas gengivas e demais mucosas, com frequente perda de dentes. 
 
-Hoje se sabe que essa doença é provocada pela deficiência de **vitamina C**, que faz diminuir a produção de **colágeno**, acarretando a perda de _fibras_ nos **tecidos conjuntivos**, que se tornam enfraquecidos.
+Hoje se sabe que essa doença é provocada pela deficiência de **vitamina C**, que faz diminuir a produção de **colágeno**, acarretando a perda de fibras nos **tecidos conjuntivos**, que se tornam enfraquecidos.
 
-Isso explica os sintomas do **escorbuto**, que causa a _degeneração_ dos **tecidos conjuntivos** que sustentam os **vasos sanguíneos**, e _descolamento dos dentes_, causado pela _degeneração_ das **fibras colágenas** que os ancoram aos _alvéolos dentários_. 
+Isso explica os sintomas do **escorbuto**, que causa a degeneração dos **tecidos conjuntivos** que sustentam os **vasos sanguíneos**, e descolamento dos dentes, causado pela degeneração das **fibras colágenas** que os ancoram aos alvéolos dentários. 
 ```
 ### Vitamina 
 **Substâncias orgânicas** que o organismo precisa em pequenas quantidades, mas não pode produzir. Elas são essenciais para o bom funcionamento do corpo. Muitas **vitaminas** atuam como **cofatores** em **reações enzimáticas**. Sem essas **vitaminas**, a quantidade de **enzimas** ativas (**holoenzimas**) diminui, prejudicando o **metabolismo celular**.

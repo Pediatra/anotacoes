@@ -15,7 +15,7 @@ Quanto ao padrão básico de organização, existem dois tipos de **célula**: *
 
 ```ad-note
 #### Os vírus confrontam a teoria celular?
-Os **vírus** desafiam a **teoria celular** por não possuírem células. No entanto, dependem da invasão de **células** vivas para se replicarem, atuando como parasitas intracelulares obrigatórios. Apesar de sua estrutura simplificada, contendo apenas **informações genéticas** e algumas **proteínas**, os **vírus** são altamente adaptados à vida parasitária. Ao longo da evolução, conservaram apenas características essenciais para invadir e usar as **células** hospedeiras na produção de novos **vírus**, agindo como _piratas celulares_.
+Os **vírus** desafiam a **teoria celular** por não possuírem células. No entanto, dependem da invasão de **células** vivas para se replicarem, atuando como parasitas intracelulares obrigatórios. Apesar de sua estrutura simplificada, contendo apenas **informações genéticas** e algumas **proteínas**, os **vírus** são altamente adaptados à vida parasitária. Ao longo da evolução, conservaram apenas características essenciais para invadir e usar as **células** hospedeiras na produção de novos **vírus**, agindo como piratas celulares.
 ```
 ## Membrana plasmática 
 As pesquisas citológicas revelaram que a **célula** viva é um compartimento microscópico isolado do ambiente por uma finíssima película, a **membrana plasmática**, constituída basicamente por **fosfolipídios** e **proteínas** por isso, costuma-se dizer que a constituição da **membrana plasmática** é **lipoproteica**. Além desses componentes, as **membranas** das **células animais** também contêm **colesterol**. Essa membrana é uma estrutura dinâmica, que permite a passagem de certas **substâncias** mas impede a passagem de outras, mantendo o meio celular interno adequado à vida.
@@ -100,7 +100,7 @@ O transporte realizado por essas **proteínas** segue as regras da **difusão**:
 #### Transporte ativo
 As **células** vivas mantêm a concentração interna de **moléculas** e **íons** significativamente diferente das concentrações dessas substâncias no meio externo. Por exemplo, as **células** humanas mantêm a concentração interna de **íons** de potássio (K⁺) cerca de 20 a 40 vezes maior do que no **meio extracelular**. O **íon** K⁺ é essencial para diversos **processos celulares**, como a **síntese de proteínas** e a **respiração celular**. Por outro lado, a concentração de **íons** de sódio (Na⁺) dentro das **células** é cerca de 8 a 12 vezes menor que no exterior, principalmente para compensar a alta concentração interna de **íons** K⁺.
 
-Para manter essas diferenças de concentração, a **célula** utiliza energia, caracterizando o **transporte ativo**. **Proteínas** na **membrana plasmática** atuam como _bombas_ de **íons**, capturando **íons** de sódio (Na⁺) do **citoplasma** e transportando-os para fora da **célula**. Na face externa da membrana, essas **proteínas** capturam **íons** de potássio (K⁺) do **meio extracelular** e os transportam para o **citoplasma**. Esse processo contínuo, conhecido como **bomba de sódio-potássio**, compensa a **difusão simples** desses **íons**.
+Para manter essas diferenças de concentração, a **célula** utiliza energia, caracterizando o **transporte ativo**. **Proteínas** na **membrana plasmática** atuam como bombas de **íons**, capturando **íons** de sódio (Na⁺) do **citoplasma** e transportando-os para fora da **célula**. Na face externa da membrana, essas **proteínas** capturam **íons** de potássio (K⁺) do **meio extracelular** e os transportam para o **citoplasma**. Esse processo contínuo, conhecido como **bomba de sódio-potássio**, compensa a **difusão simples** desses **íons**.
 
 O bombeamento de **íons** consome energia da **célula**, fornecida pelas **moléculas** de **trifosfato de adenosina** (**ATP**). Ao liberar energia, a **molécula** de **ATP** se decompõe em **adenosina difosfato** (**ADP**) e um **grupo fosfato** (P).
 
@@ -128,11 +128,11 @@ Entre as **células** que fazem **fagocitose** destacam-se os **protozoários**,
 Nossas **células** também realizam **fagocitose**, por exemplo, quando nosso corpo é invadido por **bactérias**, a primeira defesa corporal ocorre por **fagocitose**. Determinados tipos de **células do sangue**, os **macrófagos** e os **neutrófilos**, saem dos **vasos sanguíneos** e deslocam-se até o local da **infecção**, onde passam a fagocitar ativamente os invasores, digerindo-os e eliminando-os.
 
 Etapas envolvidas no processo:
-1. _Adesão e internalização_: O **macrófago** reconhece e se liga ao **patógeno**, englobando-o através da **membrana celular** para formar um **fagossoma**.
-2. _Formação dos fagossomas_: O **patógeno** é completamente envolvido pela membrana do **macrófago**, formando uma **vesícula** chamada **fagossoma**.
-3. _Fusão dos lisossomas ao fagossoma_: O **fagossoma** se funde com **lisossomas**, que contêm **enzimas digestivas**.
-4. _Digestão e degradação do patógeno_: As **enzimas lisossomais** degradam o **patógeno** em componentes menores.
-5. _Exocitose dos produtos_: Os restos não digeríveis são excretados pela **célula**, e fragmentos específicos do **patógeno** são apresentados na superfície do **macrófago** para alertar outras **células** do **sistema imunológico**.
+1. Adesão e internalização: O **macrófago** reconhece e se liga ao **patógeno**, englobando-o através da **membrana celular** para formar um **fagossoma**.
+2. Formação dos fagossomas: O **patógeno** é completamente envolvido pela membrana do **macrófago**, formando uma **vesícula** chamada **fagossoma**.
+3. Fusão dos lisossomas ao fagossoma: O **fagossoma** se funde com **lisossomas**, que contêm **enzimas digestivas**.
+4. Digestão e degradação do patógeno: As **enzimas lisossomais** degradam o **patógeno** em componentes menores.
+5. Exocitose dos produtos: Os restos não digeríveis são excretados pela **célula**, e fragmentos específicos do **patógeno** são apresentados na superfície do **macrófago** para alertar outras **células** do **sistema imunológico**.
 ```
 ###### Pinocitose
 Processo de englobamento de líquidos e de pequenas **partículas** que ocorre em praticamente todos os tipos de **células**. No processo de **pinocitose**, a **membrana plasmática**aprofunda-se no citoplasma e **forma** um canal que se estrangula nas bordas, liberando pequenas **vesículas membranosas** no interior da **célula**. As **bolsas citoplasmáticas** que contêm o material englobado por **pinocitose** são chamadas **pinossomos**. A **pinocitose** é o meio pelo qual as **células** do revestimento interno do **intestino** capturam gotículas de **lipídios** do alimento digerido; a maioria de nossas **células** engloba, por **pinocitose**, **partículas** de **LDL** para aproveitar o **colesterol** na produção de suas membranas. 
@@ -155,7 +155,7 @@ A **membrana plasmática** é relativamente frágil e na maioria das **células*
 Por exemplo, nas **células** da parede interna de nosso **intestino delgado**, o **glicocálix** retém **enzimas** responsáveis pela digestão de **proteínas** e **dissacarídeos** contidos no alimento. **Aminoácidos** e **monossacarídeos** resultantes dessa digestão são prontamente absorvidos pela **membrana plasmática**.
 ```
 #### Parede bacteriana 
-Estrutura complexa e resistente que determina a forma das **bactérias** e evita que elas _estourem_ em ambientes **hipotônicos**.
+Estrutura complexa e resistente que determina a forma das **bactérias** e evita que elas estourem em ambientes **hipotônicos**.
 
 ```ad-info
 Alguns tipos de **antibiótico** são capazes de impedir que as **bactérias** produzam a **parede celular**, o que causa sua morte; a **penicilina**, por exemplo, atua dessa forma sobre **bactérias Gram-positivas**.
@@ -318,7 +318,7 @@ Ao digerir materiais capturados do exterior da **célula** por meio de **fagocit
 ##### Função autofágica 
 É quando as **células animais** digerem partes de si mesmas. Isso geralmente ocorre quando o organismo está sem alimentos e as **células** precisam encontrar uma forma de sobreviver. A **autofagia** é como uma função de sobrevivência das **células**.
 
-Toda **célula** utiliza a **autofagia** para se livrar de partes desgastadas e reciclar alguns de seus componentes. Por exemplo, **células nervosas** no **cérebro**, que são formadas durante a **fase embrionária** e nunca são substituídas, têm seus componentes reciclados a cada mês. Já **células do fígado** têm seus componentes completamente reciclados a cada semana. Esse processo de **autofagia** é importante para manter a _juventude_ das **células**.
+Toda **célula** utiliza a **autofagia** para se livrar de partes desgastadas e reciclar alguns de seus componentes. Por exemplo, **células nervosas** no **cérebro**, que são formadas durante a **fase embrionária** e nunca são substituídas, têm seus componentes reciclados a cada mês. Já **células do fígado** têm seus componentes completamente reciclados a cada semana. Esse processo de **autofagia** é importante para manter a juventude das **células**.
 
 Durante a **autofagia**, a parte da **célula** que será digerida é envolvida por membranas e formam uma espécie de **bolsa membranosa** chamada **autofagossomo**. Essa bolsa se funde com **lisossomos**, formando **lisossomos** secundários, chamados **vacúolos autofágicos**. Dentro desses **vacúolos**, **enzimas** digerem a parte da **célula** que será reciclada.
 ```
@@ -489,10 +489,10 @@ A maioria das **células eucarióticas** tem apenas um **núcleo**, mas há exce
 
 ```ad-note
 ##### Dentro do DNA pode ter
-1. _Genes codificadores_: Trechos de **DNA** que são transcritos em **RNA mensageiro** (**mRNA**) e traduzidos em **proteínas**.
-2. _Sequências reguladoras_: Segmentos de **DNA** que controlam a **expressão dos genes**.
-3. _Intrões_: Sequências não codificantes dentro dos **genes** que são removidas durante o processamento do **mRNA**.
-4. _DNA não codificante_: Grandes porções do **genoma** que não codificam **proteínas** nem têm função reguladora conhecida, incluindo repetições, pseudogenes e elementos transponíveis.
+1. Genes codificadores: Trechos de **DNA** que são transcritos em **RNA mensageiro** (**mRNA**) e traduzidos em **proteínas**.
+2. Sequências reguladoras: Segmentos de **DNA** que controlam a **expressão dos genes**.
+3. Intrões: Sequências não codificantes dentro dos **genes** que são removidas durante o processamento do **mRNA**.
+4. DNA não codificante: Grandes porções do **genoma** que não codificam **proteínas** nem têm função reguladora conhecida, incluindo repetições, pseudogenes e elementos transponíveis.
 ```
 ### Carioteca
 O **núcleo** é delimitado pela **carioteca**, também chamada de **envelope nuclear** ou **envoltório nuclear**. É constituída por duas **membranas lipoproteicas** forradas internamente por uma lâmina de **filamentos proteicos**.
@@ -586,14 +586,14 @@ A **molécula de DNA** de um **cromossomo** é comparável a uma fita magnética
 Essa é uma definição simples de **gene**, mas o conceito de **gene** tem se tornado cada vez mais complexo à medida que as pesquisas genéticas avançam.
 ```
 #### Genoma
-O conjunto de **moléculas de DNA** de uma espécie, que contém todos os seus **genes**, e também as sequências de **bases nitrogenadas** que não possuem **informação codificada**, constitui o **genoma**. Na espécie humana, o **genoma** é constituído por 24 **moléculas de DNA** que formam os 24 tipos de **cromossomos humanos**; 22 desses tipos de **cromossomos** são denominados **autossomos** e identificados por números de 1 a 22; os outros dois tipos, chamados de **cromossomos sexuais**, são identificados pelas letras _X_ e _Y_.
+O conjunto de **moléculas de DNA** de uma espécie, que contém todos os seus **genes**, e também as sequências de **bases nitrogenadas** que não possuem **informação codificada**, constitui o **genoma**. Na espécie humana, o **genoma** é constituído por 24 **moléculas de DNA** que formam os 24 tipos de **cromossomos humanos**; 22 desses tipos de **cromossomos** são denominados **autossomos** e identificados por números de 1 a 22; os outros dois tipos, chamados de **cromossomos sexuais**, são identificados pelas letras X e Y.
 
 ```ad-info
 **Autossomos** são os tipos de **cromossomos** presentes igualmente em **células** de ambos os sexos; **cromossomos sexuais** ou **heterocromossomos** são os que variam entre os sexos e diferenciam **células** masculinas e femininas. 
 ```
 
 ```ad-info
-A determinação da sequência dos cerca de 3 bilhões de pares de **bases nitrogenadas** que formam nossos 22 tipos de **autossomos** e os dois tipos de **cromossomos sexuais** (_X_ e _Y_).
+A determinação da sequência dos cerca de 3 bilhões de pares de **bases nitrogenadas** que formam nossos 22 tipos de **autossomos** e os dois tipos de **cromossomos sexuais** (X e Y).
 ```
 
 ```ad-note
@@ -604,15 +604,15 @@ A determinação da sequência dos cerca de 3 bilhões de pares de **bases nitro
 Os **cromossomos** de um par de **homólogos** são praticamente indistinguíveis: eles têm o mesmo tamanho, mesma forma e possuem **genes** equivalentes, localizados nas mesmas posições relativas no **filamento cromossômico**. Por exemplo, se em determinado local de um **cromossomo** houver um **gene** com a instrução para produzir determinada **proteína**, em seu **homólogo**, no local correspondente, haverá um **gene** com uma instrução idêntica ou muito semelhante.
 ```
 #### Células Diploides e Células Haploides
-**Células** que apresentam pares de **cromossomos homólogos**, como a primeira **célula** de nosso corpo e todas as demais que dela descendem, são chamadas de **células diploides** e representadas pela sigla _2n_. Por outro lado, **células** que apresentam apenas um lote de **cromossomos**, tais como **óvulos** e **espermatozoides**, são chamadas de **células haploides** e são representadas pela sigla _n_.
+**Células** que apresentam pares de **cromossomos homólogos**, como a primeira **célula** de nosso corpo e todas as demais que dela descendem, são chamadas de **células diploides** e representadas pela sigla 2n. Por outro lado, **células** que apresentam apenas um lote de **cromossomos**, tais como **óvulos** e **espermatozoides**, são chamadas de **células haploides** e são representadas pela sigla n.
 ### Cromossomos humanos
-Cada **célula** do corpo de uma pessoa possui 46 **cromossomos**. Os homens têm 22 pares de **autossomos**, um **cromossomo** _X_ e um **cromossomo** _Y_. As mulheres têm 22 pares de **autossomos** e dois cromossomos _X_. Os **óvulos humanos** têm 23 **cromossomos**, sendo 22 **autossomos** (um de cada tipo) e um **cromossomo** _X_. Os **espermatozoides humano**s também têm 23 **cromossomos**, sendo 22 **autossomos** e um **cromossomo sexual**, que pode ser tanto o **cromossomo** _X_ quanto o **cromossomo** _Y_. 
+Cada **célula** do corpo de uma pessoa possui 46 **cromossomos**. Os homens têm 22 pares de **autossomos**, um **cromossomo** X e um **cromossomo** Y. As mulheres têm 22 pares de **autossomos** e dois cromossomos X. Os **óvulos humanos** têm 23 **cromossomos**, sendo 22 **autossomos** (um de cada tipo) e um **cromossomo** X. Os **espermatozoides humano**s também têm 23 **cromossomos**, sendo 22 **autossomos** e um **cromossomo sexual**, que pode ser tanto o **cromossomo** X quanto o **cromossomo** Y. 
 
 ```ad-info
-Metade dos **espermatozoides** produzidos por um homem possui um **cromossomo** _X_ e a outra metade possui um **cromossomo** _Y_.
+Metade dos **espermatozoides** produzidos por um homem possui um **cromossomo** X e a outra metade possui um **cromossomo** Y.
 ```
 
-Quando um **espermatozoide** se funde ao **óvulo** na **fecundação**, os dois conjuntos de **cromossomos** reúnem-se na primeira **célula** do novo ser, o **zigoto**. Na espécie humana, o **zigoto** contém 23 **cromossomos** recebidos da mãe e 23 recebidos do pai. A determinação do sexo ocorre no momento da **fecundação**; no caso de o **espermatozoide** fecundante ter um **cromossomo** _X_, o **zigoto** originará uma pessoa do sexo feminino; se o **espermatozoide** tiver um **cromossomo** _Y_, a pessoa será do sexo masculino. 
+Quando um **espermatozoide** se funde ao **óvulo** na **fecundação**, os dois conjuntos de **cromossomos** reúnem-se na primeira **célula** do novo ser, o **zigoto**. Na espécie humana, o **zigoto** contém 23 **cromossomos** recebidos da mãe e 23 recebidos do pai. A determinação do sexo ocorre no momento da **fecundação**; no caso de o **espermatozoide** fecundante ter um **cromossomo** X, o **zigoto** originará uma pessoa do sexo feminino; se o **espermatozoide** tiver um **cromossomo** Y, a pessoa será do sexo masculino. 
 
 ```ad-info
 Pouco antes de se dividir, o **zigoto** duplica todos os seus **cromossomos** e, na **divisão celular**, cada **célula**-filha receberá réplicas exatas dos 46 **cromossomos** recebidos dos genitores.
@@ -622,25 +622,25 @@ Pouco antes de se dividir, o **zigoto** duplica todos os seus **cromossomos** e,
 ##### Alterações cromossômicas
 Geralmente, as **alterações cromossômicas** causam grandes transtornos ao funcionamento celular, levando a doenças graves ou mesmo à morte.
 
-As **alterações cromossômicas** podem ser _numéricas_, quando afetam o número de **cromossomos** da **célula**, ou _estruturais_, quando afetam a estrutura de um ou mais **cromossomos** do **cariótipo**. As **alterações cromossômicas** _numéricas_ também são conhecidas como **aneuploidias**.
+As **alterações cromossômicas** podem ser numéricas, quando afetam o número de **cromossomos** da **célula**, ou estruturais, quando afetam a estrutura de um ou mais **cromossomos** do **cariótipo**. As **alterações cromossômicas** numéricas também são conhecidas como **aneuploidias**.
 
 ##### Síndrome de Down
-Uma das **alterações cromossômicas** _numéricas_ bem estudadas na espécie humana é a **trissomia** do **cromossomo** 21, assim chamada porque as **células** da pessoa afetada têm três exemplares do **cromossomo** designado pelo número 21, em vez de possuírem apenas um par deles, como seria normal. Pessoas com essa **alteração cromossômica** apresentam, em geral, uma série de características típicas – atraso no desenvolvimento mental, hipotonia (fraqueza) muscular, baixa estatura, anomalia cardíaca, olhos com fendas palpebrais oblíquas, prega única nas palmas das mãos, etc.
+Uma das **alterações cromossômicas** numéricas bem estudadas na espécie humana é a **trissomia** do **cromossomo** 21, assim chamada porque as **células** da pessoa afetada têm três exemplares do **cromossomo** designado pelo número 21, em vez de possuírem apenas um par deles, como seria normal. Pessoas com essa **alteração cromossômica** apresentam, em geral, uma série de características típicas – atraso no desenvolvimento mental, hipotonia (fraqueza) muscular, baixa estatura, anomalia cardíaca, olhos com fendas palpebrais oblíquas, prega única nas palmas das mãos, etc.
 
 ##### Síndrome de Turner e Síndrome de Klinefelter
 Outros exemplos de alteração no número de **cromossomos** na espécie humana são a **síndrome de Turner** e a **síndrome de Klinefelter**.
 
-A pessoa afetada pela **síndrome de Turner** tem apenas um **cromossomo sexual** (**monossomia**), o **cromossomo** _X_, e é do sexo feminino. As principais características dessa síndrome são baixa estatura, problemas no desenvolvimento dos **órgãos genitais**, infertilidade e, em alguns casos, atraso mental leve e desenvolvimento de pregas de pele nos lados do pescoço (pescoço alado).
+A pessoa afetada pela **síndrome de Turner** tem apenas um **cromossomo sexual** (**monossomia**), o **cromossomo** X, e é do sexo feminino. As principais características dessa síndrome são baixa estatura, problemas no desenvolvimento dos **órgãos genitais**, infertilidade e, em alguns casos, atraso mental leve e desenvolvimento de pregas de pele nos lados do pescoço (pescoço alado).
 
-A pessoa afetada pela **síndrome de Klinefelter** tem três **cromossomos sexuais**, sendo dois _X_ e um _Y_, e é do sexo masculino. As principais características dessa síndrome são problemas no desenvolvimento dos **órgãos genitais**, geralmente acompanhados de infertilidade e retardo mental leve.
+A pessoa afetada pela **síndrome de Klinefelter** tem três **cromossomos sexuais**, sendo dois X e um Y, e é do sexo masculino. As principais características dessa síndrome são problemas no desenvolvimento dos **órgãos genitais**, geralmente acompanhados de infertilidade e retardo mental leve.
 ```
 #### Cariótipo humano normal
-O conjunto de características morfológicas dos **cromossomos** de uma **célula** constitui seu **cariótipo** (_núcleo_). Na espécie humana, por exemplo, os **cariótipos** de homens e de mulheres são iguais quanto a 22 pares de **autossomos**, mas diferem quanto ao par de **cromossomos sexuais**. Nas mulheres, esse par é composto por dois **cromossomos** morfologicamente idênticos, os **cromossomos** _X_. Nos homens, o par de **cromossomos sexuais** é composto por um cromossomo _X_ e um cromossomo _Y_. 
+O conjunto de características morfológicas dos **cromossomos** de uma **célula** constitui seu **cariótipo** (núcleo). Na espécie humana, por exemplo, os **cariótipos** de homens e de mulheres são iguais quanto a 22 pares de **autossomos**, mas diferem quanto ao par de **cromossomos sexuais**. Nas mulheres, esse par é composto por dois **cromossomos** morfologicamente idênticos, os **cromossomos** X. Nos homens, o par de **cromossomos sexuais** é composto por um cromossomo X e um cromossomo Y. 
 
 ```ad-note
 Uma forma de escrever os **cariótipos** normais de homem e de mulher é:
-- _Cariótipo da mulher_: 22AA + _XX_ (ou 46, _XX_)
-- _Cariótipo do homem_: 22AA + _XY_ (ou 46, _XY_)
+- Cariótipo da mulher: 22AA + XX (ou 46, XX)
+- Cariótipo do homem: 22AA + XY (ou 46, XY)
 ```
 
 ```ad-info
@@ -667,11 +667,11 @@ Em geral, a **mitose** e a **citocinese** duram menos de 1 hora, o que correspon
 
 ```ad-summary
 ##### Pontos de checagem do ciclo celular
-A progressão de uma **célula** pelo **ciclo celular** (fases _G1_, _S_, _G2_ e **mitose**) depende de fatores externos e internos. As **células** precisam ser estimuladas a se dividir por fatores de crescimento celular e, mesmo com esses fatores, só duplicam o **DNA** ao atingir um tamanho mínimo necessário para produzir **células**-filhas viáveis. O **ciclo celular** pode ser interrompido se ocorrerem danos ao **DNA**, nos chamados pontos de checagem, onde a **célula** decide se prossegue ou não.
+A progressão de uma **célula** pelo **ciclo celular** (fases G1, S, G2 e **mitose**) depende de fatores externos e internos. As **células** precisam ser estimuladas a se dividir por fatores de crescimento celular e, mesmo com esses fatores, só duplicam o **DNA** ao atingir um tamanho mínimo necessário para produzir **células**-filhas viáveis. O **ciclo celular** pode ser interrompido se ocorrerem danos ao **DNA**, nos chamados pontos de checagem, onde a **célula** decide se prossegue ou não.
 
-O principal ponto de checagem ocorre no final da **fase _G1_**. Se os fatores de crescimento não estiverem presentes, a **célula** entra na _fase **G0**_ (G Zero), onde pode permanecer sem se dividir por um longo período. Por exemplo, os **fibroblastos** da **pele** permanecem em _G0_ até ocorrer um ferimento. Nesse caso, a proliferação é estimulada por um fator de crescimento liberado pelas **plaquetas sanguíneas**, que atinge os **fibroblastos** próximos à lesão, levando-os a duplicar o **DNA** e a se dividir, contribuindo para a cicatrização.
+O principal ponto de checagem ocorre no final da **fase G1**. Se os fatores de crescimento não estiverem presentes, a **célula** entra na fase **G0** (G Zero), onde pode permanecer sem se dividir por um longo período. Por exemplo, os **fibroblastos** da **pele** permanecem em G0 até ocorrer um ferimento. Nesse caso, a proliferação é estimulada por um fator de crescimento liberado pelas **plaquetas sanguíneas**, que atinge os **fibroblastos** próximos à lesão, levando-os a duplicar o **DNA** e a se dividir, contribuindo para a cicatrização.
 
-Além do ponto de checagem no final da **fase _G1_**, outros mecanismos garantem a sequência e coordenação dos eventos do **ciclo celular**. É crucial que a **célula** só comece a se dividir após completar a **duplicação dos cromossomos**, para evitar que as **células**-filhas recebam cópias incompletas dos **cromossomos** da **célula**-mãe.
+Além do ponto de checagem no final da **fase G1**, outros mecanismos garantem a sequência e coordenação dos eventos do **ciclo celular**. É crucial que a **célula** só comece a se dividir após completar a **duplicação dos cromossomos**, para evitar que as **células**-filhas recebam cópias incompletas dos **cromossomos** da **célula**-mãe.
 
 ![[bio-ciclo-celular-pontos.png]]
 ```
@@ -683,15 +683,15 @@ Durante a **interfase**, os **filamentos cromossômicos** permanecem descondensa
 ```
 
 Sob o período em que os **cromossomos** se duplicam, a **interfase** é subdividida em três fases:
- 1. _G1_, que antecede a duplicação do DNA cromossômico;
- 2. _S_, período em que o DNA cromossômico está sendo duplicado; 
- 3. _G2_, que sucede a duplicação cromossômica;
+ 1. G1, que antecede a duplicação do DNA cromossômico;
+ 2. S, período em que o DNA cromossômico está sendo duplicado; 
+ 3. G2, que sucede a duplicação cromossômica;
 
 ```ad-note
-A sigla _S_ deriva da palavra inglesa _synthesis_, em referência à **síntese de DNA**; durante a fase _S_, a quantidade de **DNA** no **núcleo** é duplicada. As siglas _G1_ e _G2_ derivam da palavra inglesa _gap_ (intervalo) e indicam os momentos anterior (G1) e posterior (G2) à **síntese de DNA**.
+A sigla S deriva da palavra inglesa synthesis, em referência à **síntese de DNA**; durante a fase S, a quantidade de **DNA** no **núcleo** é duplicada. As siglas G1 e G2 derivam da palavra inglesa gap (intervalo) e indicam os momentos anterior (G1) e posterior (G2) à **síntese de DNA**.
 ```
 
-Considerando um **ciclo celular** de 24 horas, a **célula** passaria a maior parte desse ciclo em **interfase**, sendo entre 9 e 11 horas em _G1_, entre 8 e 10 horas em _S_ (duplicando os cromossomos) e entre 4 e 5 horas em _G2_. 
+Considerando um **ciclo celular** de 24 horas, a **célula** passaria a maior parte desse ciclo em **interfase**, sendo entre 9 e 11 horas em G1, entre 8 e 10 horas em S (duplicando os cromossomos) e entre 4 e 5 horas em G2. 
 
 ```ad-info
 Nesse mesmo ciclo, a **divisão celular** ocupa um tempo relativamente curto, entre 30 minutos e uma hora.
@@ -700,16 +700,16 @@ Nesse mesmo ciclo, a **divisão celular** ocupa um tempo relativamente curto, en
 ![[bio-fases-do-ciclo-celular.png]]
 
 ```ad-note
-Acima, representação esquemática da relação entre **DNA** e **cromossomos** nas diversas **fases do ciclo celular**. Em _G1_ cada **cromossomo** contém apenas uma **molécula de DNA**; em _S_ ocorre a duplicação do **DNA**; em _G2_, o **cromossomo** está constituído por duas **cromátides-irmãs**, cada uma contendo uma **molécula de DNA**; as **cromátides-irmãs** separam-se na **mitose** (_M_ na imagem). Abaixo, gráfico mostra a variação da quantidade de **DNA** em uma **célula** durante o **ciclo celular**. 
+Acima, representação esquemática da relação entre **DNA** e **cromossomos** nas diversas **fases do ciclo celular**. Em G1 cada **cromossomo** contém apenas uma **molécula de DNA**; em S ocorre a duplicação do **DNA**; em G2, o **cromossomo** está constituído por duas **cromátides-irmãs**, cada uma contendo uma **molécula de DNA**; as **cromátides-irmãs** separam-se na **mitose** (M na imagem). Abaixo, gráfico mostra a variação da quantidade de **DNA** em uma **célula** durante o **ciclo celular**. 
 ```
 
-No início do **desenvolvimento embrionário** da maioria dos animais, os **ciclos celulares** são muito curtos; as **células** quase não crescem, dividindo-se em ritmo acelerado para gerar as novas **células** do **embrião**. Nestas, a **interfase** reduz-se praticamente à fase _S_, que é mais curta que nas **células** adultas, ou seja, os **cromossomos** duplicam-se com mais rapidez.
+No início do **desenvolvimento embrionário** da maioria dos animais, os **ciclos celulares** são muito curtos; as **células** quase não crescem, dividindo-se em ritmo acelerado para gerar as novas **células** do **embrião**. Nestas, a **interfase** reduz-se praticamente à fase S, que é mais curta que nas **células** adultas, ou seja, os **cromossomos** duplicam-se com mais rapidez.
 
 ![[bio-ciclo-embriao.png]]
 
 
 ```ad-note
-No início do **desenvolvimento embrionário** de muitos animais, as **divisões** ocorrem praticamente sem intervalo. Nesse período, o **ciclo celular** consiste de apenas duas etapas: a fase _S_ da **interfase**, em que os **cromossomos** se duplicam, e a **divisão celular** (representada por _M_). Nesse momento, as fases _G1_ e _G2_ praticamente não existem. Não há crescimento celular e as **células**-filhas repartem sucessivamente o **citoplasma** da **célula**-mãe, diminuindo progressivamente de tamanho. 
+No início do **desenvolvimento embrionário** de muitos animais, as **divisões** ocorrem praticamente sem intervalo. Nesse período, o **ciclo celular** consiste de apenas duas etapas: a fase S da **interfase**, em que os **cromossomos** se duplicam, e a **divisão celular** (representada por M). Nesse momento, as fases G1 e G2 praticamente não existem. Não há crescimento celular e as **células**-filhas repartem sucessivamente o **citoplasma** da **célula**-mãe, diminuindo progressivamente de tamanho. 
 ```
 
 ```ad-info
@@ -717,9 +717,9 @@ A frequência das **divisões celulares** varia com o tipo e o estado fisiológi
 ```
 
 ```ad-info
-**Células** que se dividem com pouca frequência podem ingressar em uma fase denominada _G0_ (_G ZERO_). Se a **célula** não encontra todos os fatores necessários para passar à fase _S_, ao atingir determinado ponto da fase _G1_, denominado _ponto de checagem_, ela entra em _G0_: seu **metabolismo** continua normal, mas a **divisão celular** é bloqueada. Em determinadas situações, a **célula** pode ser estimulada a reingressar na fase _G1_ e voltar a se dividir. 
+**Células** que se dividem com pouca frequência podem ingressar em uma fase denominada G0 (G ZERO). Se a **célula** não encontra todos os fatores necessários para passar à fase S, ao atingir determinado ponto da fase G1, denominado ponto de checagem, ela entra em G0: seu **metabolismo** continua normal, mas a **divisão celular** é bloqueada. Em determinadas situações, a **célula** pode ser estimulada a reingressar na fase G1 e voltar a se dividir. 
 
-A maioria de nossas **células nervosas** permanece na fase _G0_ por toda a vida. Um tipo especial de **célula** de nossa **pele**, o **fibroblasto**, permanece em _G0_ até ser estimulado a reparar danos causados por um ferimento, por exemplo.
+A maioria de nossas **células nervosas** permanece na fase G0 por toda a vida. Um tipo especial de **célula** de nossa **pele**, o **fibroblasto**, permanece em G0 até ser estimulado a reparar danos causados por um ferimento, por exemplo.
 
 ![[bio-celular-checagem.png]]
 
@@ -728,7 +728,7 @@ A maioria de nossas **células nervosas** permanece na fase _G0_ por toda a vida
 O processo de **divisão da célula** apresenta dois momentos: a duplicação do núcleo, em que se formam dois núcleos-filhos, e a divisão do **citoplasma**, que completa a **divisão celular**. A duplicação do **núcleo** é a **mitose**, e a **divisão citoplasmática** é a **citocinese**.
 
 ```ad-tip
-Cada **célula**-filha, é portadora de metade do **material genético** que a **célula**-mãe recebeu de sua genitora e a outra metade, recém-sintetizada, ou seja, a que foi produzida na **fase _S_**.
+Cada **célula**-filha, é portadora de metade do **material genético** que a **célula**-mãe recebeu de sua genitora e a outra metade, recém-sintetizada, ou seja, a que foi produzida na **fase S**.
 
 ```
 
@@ -741,7 +741,7 @@ Cada **célula**-filha, é portadora de metade do **material genético** que a *
 A **mitose** é um processo contínuo, com duração entre 30 e 60 minutos, em que uma **célula** acaba por se transformar em duas **células**-filhas. Ao longo da **mitose**, há eventos marcantes que foram escolhidos pelos cientistas para caracterizar quatro fases no processo. As fases da **mitose** são denominadas, em sequência: **prófase**, **metáfase**, **anáfase** e **telófase**. 
 
 ```ad-tip
-O termo **mitose** deriva da palavra grega _mitos_, que significa _tecer com fios_ e refere-se ao fato de que os **filamentos cromossômicos** se enrolam sobre si mesmos no decorrer da **divisão celular**, tornando-se progressivamente mais condensados e, portanto, mais visíveis ao **microscópio óptico**. 
+O termo **mitose** deriva da palavra grega mitos, que significa tecer com fios e refere-se ao fato de que os **filamentos cromossômicos** se enrolam sobre si mesmos no decorrer da **divisão celular**, tornando-se progressivamente mais condensados e, portanto, mais visíveis ao **microscópio óptico**. 
 ```
 
 Antes da **divisão celular**, na **interfase**, os **cromossomos** estão descondensados, ou seja, ficam tão finos que não podem ser vistos individualmente ao microscópio óptico. Por isso, o termo **cromatina** foi usado para descrever o conjunto de filamentos no **núcleo interfásico**.
@@ -783,7 +783,7 @@ Nesta fase, os **centrossomos** migram para polos opostos da **célula** e, em s
 ![[bio-profase-feixe.png]]
 ```
 
-O **centrossomo** duplica-se na **fase _S_**, simultaneamente à **duplicação cromossômica**, e os dois novos **centrossomos** permanecem juntos até o início da **prófase**. 
+O **centrossomo** duplica-se na **fase S**, simultaneamente à **duplicação cromossômica**, e os dois novos **centrossomos** permanecem juntos até o início da **prófase**. 
 ##### Fragmentação da carioteca
 O evento que marca o final da **prófase** é o desaparecimento da **carioteca**. A **lâmina nuclear** se desfaz e os componentes do **envoltório nuclear** fragmentam-se em pequenas bolsas, que se espalham pelo **citoplasma**. 
 
@@ -802,14 +802,14 @@ Durante a **metáfase**, os **microtúbulos** que partem dos **centrossomos** ca
 ![[bio-metafase.png]]
 
 ```ad-note
-A respeito da imagem acima, _A._ captura dos **cromossomos**, por **microtúbulos** de um dos polos. _B._ ligação de **microtúbulos** do outro polo ao **cinetócoro** da **cromátide-irmã**. _C._ alinhamento dos **cromossomos**, formando a **placa metafásica**.
+A respeito da imagem acima, A. captura dos **cromossomos**, por **microtúbulos** de um dos polos. B. ligação de **microtúbulos** do outro polo ao **cinetócoro** da **cromátide-irmã**. C. alinhamento dos **cromossomos**, formando a **placa metafásica**.
 ```
 
 Os **microtúbulos cromossômicos** começam a se encurtar, puxando as **cromátides** e tensionando o **centrômero**. Esse equilíbrio de tensões move os **cromossomos** para o centro da **célula**, formando a **placa metafásica**, onde os **cromossomos** ficam alinhados no meio da **célula**.
 
 ![[bio-mitose-aster.png]]
 
-A **mitose** só prossegue quando todos os **cromossomos** estão corretamente alinhados e presos aos dois polos do **fuso**. Esse momento é conhecido como _ponto de checagem_ do **ciclo celular**. Se os **cromossomos** não se alinharem corretamente, a **divisão celular** é interrompida para evitar erros na distribuição dos **cromossomos** para as **células**-filhas. 
+A **mitose** só prossegue quando todos os **cromossomos** estão corretamente alinhados e presos aos dois polos do **fuso**. Esse momento é conhecido como ponto de checagem do **ciclo celular**. Se os **cromossomos** não se alinharem corretamente, a **divisão celular** é interrompida para evitar erros na distribuição dos **cromossomos** para as **células**-filhas. 
 
 ```ad-info
 Quando a **placa metafásica** está formada, uma **enzima** separa as **cromátides-irmãs**, permitindo que a **célula** avance para a próxima fase.
@@ -833,7 +833,7 @@ Na **telófase**, última fase da **mitose**, os **cromossomos** se descondensam
 Durante a organização dos dois novos **núcleos**, os **microtúbulos** do **fuso mitótico** progressivamente desagregam-se e inicia-se a **citocinese**, que levará à formação de duas novas **células**. Cada uma delas terá um **centrossomo**, a partir do qual será reorganizado o **citoesqueleto** típico da **célula** em **interfase**.
 
 ```ad-note
-A **mitose** origina **células**-filhas com o mesmo número e os mesmos tipos de **cromossomos** da **célula**-mãe. Portanto, quando uma **célula diploide** (_2n_) sofre **mitose**, formam-se duas **células diploides**. Caso a **célula**-mãe seja **haploide** (_n_), a **mitose** originará duas **células haploides**.
+A **mitose** origina **células**-filhas com o mesmo número e os mesmos tipos de **cromossomos** da **célula**-mãe. Portanto, quando uma **célula diploide** (2n) sofre **mitose**, formam-se duas **células diploides**. Caso a **célula**-mãe seja **haploide** (n), a **mitose** originará duas **células haploides**.
 ```
 #### Citocinese
 O processo de **divisão do citoplasma**, ao final da **mitose**, é chamado de **citocinese**. Por iniciar na periferia, avançando para o centro da **célula**, esse tipo de **divisão citoplasmática** é chamado de **citocinese** centrípeta.
@@ -933,7 +933,7 @@ A **permutação** tem importante significado biológico, pois a troca de fragme
 ![[bio-meiose-paquiteno.png]]
 
 ```ad-note
-Na imagem, dois **cromossomos homólogos** emparelhados (_A_) sofrem quebras em suas **cromátides** (_B_). Em seguida, as quebras são reparadas, mas o fragmento de uma **cromátide** pode soldar-se ao de sua homóloga e vice-versa, originando **quiasmas** (_C_). Em (_D_), os **cromossomos** estão representados lado a lado, no plano, para mostrar o resultado das **permutações**. 
+Na imagem, dois **cromossomos homólogos** emparelhados (A) sofrem quebras em suas **cromátides** (B). Em seguida, as quebras são reparadas, mas o fragmento de uma **cromátide** pode soldar-se ao de sua homóloga e vice-versa, originando **quiasmas** (C). Em (D), os **cromossomos** estão representados lado a lado, no plano, para mostrar o resultado das **permutações**. 
 ```
 ###### Diplóteno (visualização dos quiasmas)
 Tem esse nome porque os **cromossomos homólogos**, agora começando a se separar, aparecem nitidamente constituídos por duas **cromátides**. A separação dos **cromossomos homólogos** ocorre porque o **complexo sinaptonêmico**, que os mantinha unidos, desorganiza-se nessa fase da **prófase I**. As **cromátides-irmãs**, entretanto, continuam presas entre si por meio das **coesinas**. 
@@ -974,7 +974,7 @@ As duas **células** resultantes da **meiose I** entram simultaneamente em **pr�
 
 ```ad-summary
 ##### Visão geral do processo
-_A_. **Interfase** (_G1_). _B_. **Interfase** (_G2_). _C_. **Prófase I** (**leptóteno**). _D_. **Prófase I** (**zigóteno**). _E_. **Prófase I** (**paquíteno**). _F_. **Prófase I** (**diplóteno**). _G_. **Prófase I** (**diacinese**). _H_. **Metáfase I**. _I_. **Anáfase I**. _J_. **Telófase I**. _K_. **Prófase II**. _L_. **Metáfase II**. _M_. **Anáfase II**. _N_. **Telófase II**. 
+A. **Interfase** (G1). B. **Interfase** (G2). C. **Prófase I** (**leptóteno**). D. **Prófase I** (**zigóteno**). E. **Prófase I** (**paquíteno**). F. **Prófase I** (**diplóteno**). G. **Prófase I** (**diacinese**). H. **Metáfase I**. I. **Anáfase I**. J. **Telófase I**. K. **Prófase II**. L. **Metáfase II**. M. **Anáfase II**. N. **Telófase II**. 
 
 ![[bio-meiose-processo.jpg]]
 ```

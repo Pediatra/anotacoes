@@ -57,7 +57,7 @@ Todos os animais e **plantas** são **multicelulares**, formados por grande núm
 Alguns **fungos** e algumas **algas** também são **multicelulares**. Já **bactérias**, **protozoários**, certas **algas** e certos **fungos** são **unicelulares**.
 ```
 
-Em alguns casos, a fronteira entre a **unicelularidade** e a **multicelularidade** não é muito clara, como nas espécies em que as **células** encontram-se agrupadas em colônias (como no **alga** verde colonial _Volvox_). Nessas **colônias celulares**, quase não há divisão de trabalho ou compartilhamento de funções entre as **células**; embora unidas, elas se comportam praticamente como se estivessem isoladas. 
+Em alguns casos, a fronteira entre a **unicelularidade** e a **multicelularidade** não é muito clara, como nas espécies em que as **células** encontram-se agrupadas em colônias (como no **alga** verde colonial Volvox). Nessas **colônias celulares**, quase não há divisão de trabalho ou compartilhamento de funções entre as **células**; embora unidas, elas se comportam praticamente como se estivessem isoladas. 
 
 ```ad-info
 **Colônias celulares** não são consideradas seres **multicelulares**, pois o conceito de **multicelularidade** implica certo grau de interdependência entre as **células** associadas.
@@ -71,7 +71,7 @@ A estratégia **multicelular** é muito bem-sucedida, visto que a maioria das es
 
 ```ad-summary
 ##### Origem da multicelularidade
-A **alga** colonial de água doce _Volvox sp._, um organismo no limite da **multicelularidade**, fornece uma pista de como a estratégia **multicelular** originou-se na **Terra**. Uma _colônia_ dessa **alga** chega a conter mais de mil **células**, dispostas de modo a formar uma esfera oca. Há **células** de dois tipos: _somáticas_, dotadas de dois **flagelos** e especializadas na _locomoção_ da colônia, e _reprodutivas_, especializadas na **reprodução**. A partir destas últimas, formam-se, de modo **assexuado**, _colônias_ menores, que ficam contidas por algum tempo dentro da _colônia-mãe_. 
+A **alga** colonial de água doce Volvox sp., um organismo no limite da **multicelularidade**, fornece uma pista de como a estratégia **multicelular** originou-se na **Terra**. Uma colônia dessa **alga** chega a conter mais de mil **células**, dispostas de modo a formar uma esfera oca. Há **células** de dois tipos: somáticas, dotadas de dois **flagelos** e especializadas na locomoção da colônia, e reprodutivas, especializadas na **reprodução**. A partir destas últimas, formam-se, de modo **assexuado**, colônias menores, que ficam contidas por algum tempo dentro da colônia-mãe. 
 
 A diferenciação entre **células somáticas** e **células reprodutivas** em **seres coloniais** pode ter sido o primeiro passo para o surgimento dos **organismos multicelulares**; posteriormente, as **células somáticas** teriam se especializado em diversas funções.
 ```
@@ -93,7 +93,7 @@ Os cientistas que estudam a origem da vida enfrentam uma grande dificuldade: a f
 #### Períodos glaciais 
 O período inicial de formação da Terra foi marcado por temperaturas extremamente altas e bombardeamento contínuo por asteroides. Embora hoje a situação seja mais estável, as transformações da superfície terrestre continuam, mantendo o planeta dinâmico.
 
-A média das temperaturas terrestres varia periodicamente, alternando entre períodos quentes e frios, conhecidos como períodos glaciais. Há evidências de que a Terra passou por períodos glaciais severos entre 750 milhões e 590 milhões de anos atrás, com quatro períodos quentes intercalados com frio intenso, transformando o planeta em uma _bola de gelo_. Entre 600 e 590 milhões de anos atrás, a Terra ficou coberta por uma camada de gelo de um quilômetro de espessura, desde os polos até o equador, com apenas regiões vulcânicas mantendo temperaturas elevadas e servindo de refúgio para as espécies sobreviventes.
+A média das temperaturas terrestres varia periodicamente, alternando entre períodos quentes e frios, conhecidos como períodos glaciais. Há evidências de que a Terra passou por períodos glaciais severos entre 750 milhões e 590 milhões de anos atrás, com quatro períodos quentes intercalados com frio intenso, transformando o planeta em uma bola de gelo. Entre 600 e 590 milhões de anos atrás, a Terra ficou coberta por uma camada de gelo de um quilômetro de espessura, desde os polos até o equador, com apenas regiões vulcânicas mantendo temperaturas elevadas e servindo de refúgio para as espécies sobreviventes.
 
 O último período glacial, mais ameno e sem gelo nos trópicos, terminou há cerca de 10 mil anos.
 ```
@@ -137,7 +137,7 @@ O passo crucial na origem dos seres vivos foi adquirir a capacidade de **reprodu
 
 Há algumas décadas, surgiu a hipótese de que o **RNA** poderia ter sido o **material genético** primordial. Em alguns vírus, o **RNA** pode se multiplicar, e testes laboratoriais mostraram que **moléculas** de **RNA** podem ser produzidas em condições **abióticas**. Na década de 1980, descobriram que diversas reações importantes, como a união de **aminoácidos** na produção de **proteínas**, são controladas por **moléculas** de **RNA** chamadas **ribozimas**.
 
-A importância das **ribozimas** para a pesquisa sobre a **origem da vida** reside na capacidade do **RNA** de se duplicar e controlar reações químicas vitais, sugerindo sua presença desde o início da vida na Terra. Alguns cientistas propõem a existência de um _mundo do **RNA_**, um período hipotético anterior ao surgimento da vida. A **seleção natural** teria começado nessa etapa, com **moléculas** de **RNA** se multiplicando e produzindo versões ligeiramente diferentes, algumas mais aptas a se perpetuar e reproduzir.
+A importância das **ribozimas** para a pesquisa sobre a **origem da vida** reside na capacidade do **RNA** de se duplicar e controlar reações químicas vitais, sugerindo sua presença desde o início da vida na Terra. Alguns cientistas propõem a existência de um mundo do **RNA**, um período hipotético anterior ao surgimento da vida. A **seleção natural** teria começado nessa etapa, com **moléculas** de **RNA** se multiplicando e produzindo versões ligeiramente diferentes, algumas mais aptas a se perpetuar e reproduzir.
 ### Evolução dos processos energéticos 
 Embora ainda não tenhamos um “retrato” exato dos seres vivos mais antigos, acredita-se que eles eram de tamanho microscópico e delimitados por algum tipo de **membrana**. Em seu interior, **reações químicas** ordenadas e controladas pelas **informações genéticas** transformavam **moléculas** de alimento em componentes do próprio corpo desses seres, o que permitia seu crescimento e **reprodução**.
 #### Alimentação heterotrófica 
@@ -171,10 +171,10 @@ Acredita-se que os compartimentos membranosos das **células eucarióticas** sur
 O **citoplasma** das **células eucarióticas** atuais tem **mitocôndrias** e **plastos**, **organelas** especializadas em realizar processos de obtenção e de transformação de energia. **Mitocôndrias** estão presentes em praticamente todas as **células eucarióticas** e nelas ocorre a **respiração celular**. **Plastos** estão presentes em **células** de **algas** e plantas e neles ocorre a **fotossíntese**. Os cientistas acreditam que tanto **mitocôndrias** como **plastos** originaram-se de **bactérias** primitivas que, em um passado distante, associaram-se às primitivas células **eucarióticas**. Essa é a ideia central da **hipótese endossimbiótica**, ou **hipótese simbiogênica**. 
 
 ```ad-info
-O termo **simbiose**, que compõe ambas as denominações, significa _viver juntos_.
+O termo **simbiose**, que compõe ambas as denominações, significa viver juntos.
 ```
 
-Segundo a **hipótese endossimbiótica**, as primeiras **células eucarióticas** adquiriram a capacidade de respirar oxigênio ao abrigar em seu **citoplasma** **células procarióticas** respiradoras. Essa associação foi mutuamente benéfica: a **célula eucariótica** fornecia abrigo e alimento à **célula procariótica**, que em troca fornecia energia através da **respiração aeróbia**. Essa relação se tornou permanente, com os primitivos _inquilinos_ **procarióticos** evoluindo para **mitocôndrias**, **organelas** essenciais à **célula eucariótica**.
+Segundo a **hipótese endossimbiótica**, as primeiras **células eucarióticas** adquiriram a capacidade de respirar oxigênio ao abrigar em seu **citoplasma** **células procarióticas** respiradoras. Essa associação foi mutuamente benéfica: a **célula eucariótica** fornecia abrigo e alimento à **célula procariótica**, que em troca fornecia energia através da **respiração aeróbia**. Essa relação se tornou permanente, com os primitivos inquilinos **procarióticos** evoluindo para **mitocôndrias**, **organelas** essenciais à **célula eucariótica**.
 
 De acordo com essa hipótese, os **plastos** surgiram de maneira semelhante. As primitivas **células eucarióticas**, já associadas às ancestrais das **mitocôndrias**, formaram uma nova associação com **bactérias fotossintetizantes**. Assim, as **células** de **algas** e plantas atuais resultaram de uma tripla associação de seres primitivos.
 

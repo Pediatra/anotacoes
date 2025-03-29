@@ -80,14 +80,14 @@ A estratégia desenvolvida pelos seres vivos para superar a **barreira inicial**
 
 ![[bio-energia-enzimas.png]]
 ### ATP 
-A **energia** liberada na degradação de **moléculas orgânicas** pelas **células** não é usada diretamente para a realização de **trabalho celular**. Antes de ser empregada nos **processos celulares**, a **energia** é transferida para **moléculas** de uma substância chamada **trifosfato de adenosina**, nas quais fica armazenada. Essa **substância**, mais conhecida pela sigla **ATP**, desempenha um papel fundamental em todos os tipos de **célula**, _captando_ e _armazenando_ a **energia** liberada nas **reações celulares exotérmicos** e transferindo-a, posteriormente, para os **processos celulares endotérmicos**.
+A **energia** liberada na degradação de **moléculas orgânicas** pelas **células** não é usada diretamente para a realização de **trabalho celular**. Antes de ser empregada nos **processos celulares**, a **energia** é transferida para **moléculas** de uma substância chamada **trifosfato de adenosina**, nas quais fica armazenada. Essa **substância**, mais conhecida pela sigla **ATP**, desempenha um papel fundamental em todos os tipos de **célula**, captando e armazenando a **energia** liberada nas **reações celulares exotérmicos** e transferindo-a, posteriormente, para os **processos celulares endotérmicos**.
 
 ```ad-info
-O estoque de **ATP** em uma única **célula** é da ordem de um bilhão de **moléculas**, que são usadas e repostas a cada dois ou três minutos, ininterruptamente. Por essa razão, alguns pesquisadores comparam o **ATP** a uma _moeda energética_ que circula dentro da **célula** e _custeia_ os **gastos metabólicos**.
+O estoque de **ATP** em uma única **célula** é da ordem de um bilhão de **moléculas**, que são usadas e repostas a cada dois ou três minutos, ininterruptamente. Por essa razão, alguns pesquisadores comparam o **ATP** a uma moeda energética que circula dentro da **célula** e custeia os **gastos metabólicos**.
 ```
 
 ```ad-note
-O **trifosfato de adenosina**, ou **ATP**, é um **nucleotídeo** constituído pela **base nitrogenada** **adenina** unida ao **glicídio** **ribose**, que, por sua vez, se une a uma cadeia de três **grupos fosfatos**. As **ligações químicas** entre os **fosfatos** do **ATP** são ligações de alta **energia** e costumam ser representadas graficamente pelo símbolo _~_.
+O **trifosfato de adenosina**, ou **ATP**, é um **nucleotídeo** constituído pela **base nitrogenada** **adenina** unida ao **glicídio** **ribose**, que, por sua vez, se une a uma cadeia de três **grupos fosfatos**. As **ligações químicas** entre os **fosfatos** do **ATP** são ligações de alta **energia** e costumam ser representadas graficamente pelo símbolo ~.
 ```
 
 Durante a **oxidação** de **moléculas orgânicas** do alimento, parte da **energia** liberada pelos **elétrons** é utilizada para a **síntese de moléculas de ATP**, ficando armazenada nas **ligações químicas** entre seus **grupos fosfatos**. 
@@ -96,10 +96,10 @@ Durante a **oxidação** de **moléculas orgânicas** do alimento, parte da **en
 A **energia** que não é transferida para o **ATP** dissipa-se como calor, ao passo que a **energia** armazenada no **ATP** pode ser transferida para os mais diversos tipos de **processos metabólicos** que acontecem em uma **célula**.
 ```
 
-O **ATP** é normalmente sintetizado a partir de uma **molécula** precursora semelhante a ele, mas que possui apenas dois **fosfatos**: o **ADP** ou **difosfato de adenosina**. A **síntese de ATP** ocorre pela adição de um **grupo fosfato inorgânico**, simbolizado por **_Pᵢ_**, ao **ADP**. Essa reação demanda quantidade considerável de **energia**. A quebra do **ATP** em **ADP** e **_Pᵢ_** fornece quantidade equivalente de energia para as **atividades celulares**.
+O **ATP** é normalmente sintetizado a partir de uma **molécula** precursora semelhante a ele, mas que possui apenas dois **fosfatos**: o **ADP** ou **difosfato de adenosina**. A **síntese de ATP** ocorre pela adição de um **grupo fosfato inorgânico**, simbolizado por **Pᵢ**, ao **ADP**. Essa reação demanda quantidade considerável de **energia**. A quebra do **ATP** em **ADP** e **Pᵢ** fornece quantidade equivalente de energia para as **atividades celulares**.
 
 ```ad-tip
-O **ATP** pode perder um **grupo fosfórico** e transformar-se em **ADP**, liberando **energia**. O **ATP** tem duas ligações de alta energia e o **ADP** tem somente uma dessas ligações. Pode-se considerar o **ATP** como uma bateria celular "_carregada_" de **energia**, enquanto o **ADP** representa a forma “_descarregada_”.
+O **ATP** pode perder um **grupo fosfórico** e transformar-se em **ADP**, liberando **energia**. O **ATP** tem duas ligações de alta energia e o **ADP** tem somente uma dessas ligações. Pode-se considerar o **ATP** como uma bateria celular "carregada" de **energia**, enquanto o **ADP** representa a forma “descarregada”.
 ```
 
 ![[bio-celula-atp.png]]
@@ -110,7 +110,7 @@ O mecanismo mais comum de fornecimento de **energia** para os **processos celula
 Por exemplo, na síntese de diversas **substâncias**, o **fosfato** é transferido a um dos **reagentes**, que adquire, assim, a **energia** necessária para se unir a outras **moléculas** e gerar os **produtos**. 
 ```
 
-No **transporte ativo** de **íons** realizado pelas **bombas de sódio-potássio** da **membrana plasmática**, o **grupo fosfato** liberado na quebra do **ATP** combina-se com as **proteínas transportadoras** da membrana, provocando mudanças em suas estruturas espaciais. Isso permite que essas **proteínas** movimentem-se através da **membrana plasmática** e carreguem **íons** de sódio (Na⁺) para o **meio extracelular**. Ali, elas capturam **íons** de potássio (K⁺), liberam o excesso de **energia** recebida com o **fosfato** e voltam à sua configuração original, carregando os novos **íons** para dentro da **célula**. O **fosfato** (**_Pᵢ_**) solta-se então das **proteínas transportadoras** e pode ser utilizado na síntese de novas **moléculas** de **ATP**.
+No **transporte ativo** de **íons** realizado pelas **bombas de sódio-potássio** da **membrana plasmática**, o **grupo fosfato** liberado na quebra do **ATP** combina-se com as **proteínas transportadoras** da membrana, provocando mudanças em suas estruturas espaciais. Isso permite que essas **proteínas** movimentem-se através da **membrana plasmática** e carreguem **íons** de sódio (Na⁺) para o **meio extracelular**. Ali, elas capturam **íons** de potássio (K⁺), liberam o excesso de **energia** recebida com o **fosfato** e voltam à sua configuração original, carregando os novos **íons** para dentro da **célula**. O **fosfato** (**Pᵢ**) solta-se então das **proteínas transportadoras** e pode ser utilizado na síntese de novas **moléculas** de **ATP**.
 
 ```ad-note
 Nos **movimentos celulares**, a **energia** obtida do **ATP** faz com que **moléculas** de **miosina** adquiram uma configuração instável, com alta **energia** potencial. Nessa condição, elas puxam as **fibras de actina** com as quais estão em contato, realizando **trabalho**. O deslizamento das **fibras de actina** sobre as **moléculas** de **miosina** é responsável por muitos **movimentos celulares**. No caso específico dos **músculos**, esse deslizamento faz com que as **células** encurtem, promovendo a **contração muscular**.
@@ -119,7 +119,7 @@ Nos **movimentos celulares**, a **energia** obtida do **ATP** faz com que **mol�
 ![[bio-celula-atp-moeda-energitica.png]]
 
 ```ad-note
-A imagem acima representa o papel do **ATP** como _moeda energética_ do **metabolismo celular**. **Reações** em que **moléculas orgânicas** do alimento são degradadas, como as da **respiração celular**, transferem **energia** para a **síntese de moléculas de ATP**. Estas, ao serem degradadas, fornecem **energia** para **trabalhos celulares**, como a **contração muscular**. 
+A imagem acima representa o papel do **ATP** como moeda energética do **metabolismo celular**. **Reações** em que **moléculas orgânicas** do alimento são degradadas, como as da **respiração celular**, transferem **energia** para a **síntese de moléculas de ATP**. Estas, ao serem degradadas, fornecem **energia** para **trabalhos celulares**, como a **contração muscular**. 
 ```
 
 ![[bio-atp-caminhos.png]]
@@ -131,16 +131,16 @@ A imagem acima representa os caminhos da **energia** nos seres vivos, mediada pe
 ```ad-summary
 ##### A teoria quimiosmótica que explica a produção de ATP
 
-A **energia** liberada pelos **elétrons** em sua passagem pela **cadeia respiratória**, é usada para concentrar **íons** _H⁺_ no espaço entre as **membranas mitocondriais**. Em alta concentração nesse estreito compartimento, a tendência desses **íons** é voltar à **matriz mitocondrial**, gerando, assim, uma pressão potencial de **difusão**, chamada **força protomotiva**. Mas os **íons** _H⁺_ só podem retornar ao interior da **mitocôndria** passando através de um complexo de **proteínas**, denominado **sintetase do ATP**, presente na **membrana mitocondrial interna**. Esse **complexo proteico** é comparável à turbina de uma usina hidrelétrica: ele possui um rotor interno que gira, movido pela passagem dos **íons** _H⁺_. Nesse processo, a **energia potencial** de **difusão** dos **íons** _H⁺_ é convertida em **energia mecânica** (rotação da **sintetase**) e, em seguida, em **energia química**, na ligação entre os **fosfatos do ATP**.
+A **energia** liberada pelos **elétrons** em sua passagem pela **cadeia respiratória**, é usada para concentrar **íons** H⁺ no espaço entre as **membranas mitocondriais**. Em alta concentração nesse estreito compartimento, a tendência desses **íons** é voltar à **matriz mitocondrial**, gerando, assim, uma pressão potencial de **difusão**, chamada **força protomotiva**. Mas os **íons** H⁺ só podem retornar ao interior da **mitocôndria** passando através de um complexo de **proteínas**, denominado **sintetase do ATP**, presente na **membrana mitocondrial interna**. Esse **complexo proteico** é comparável à turbina de uma usina hidrelétrica: ele possui um rotor interno que gira, movido pela passagem dos **íons** H⁺. Nesse processo, a **energia potencial** de **difusão** dos **íons** H⁺ é convertida em **energia mecânica** (rotação da **sintetase**) e, em seguida, em **energia química**, na ligação entre os **fosfatos do ATP**.
 
-De volta ao interior da **mitocôndria**, os **íons** _H⁺_ combinam-se aos **elétrons** transportados pela **cadeia respiratória** e aos **átomos** provenientes do **gás oxigênio** para formar **moléculas de água**.
+De volta ao interior da **mitocôndria**, os **íons** H⁺ combinam-se aos **elétrons** transportados pela **cadeia respiratória** e aos **átomos** provenientes do **gás oxigênio** para formar **moléculas de água**.
 
 Esse mecanismo de produção de **ATP** nas **mitocôndrias** e também nos **cloroplastos** foi comprovado em diversos experimentos e tornou-se conhecido como **teoria quimiosmótica**.
 
 ![[bio-atp-quimiosmotica.png]]
 ```
 ### Respiração celular
-A maioria dos seres vivos produz **ATP** para suas necessidades energéticas por meio da **respiração celular**, um processo de **oxidação** em que o **gás oxigênio** atua como **agente oxidante** de **moléculas orgânicas**. Nesse processo, **moléculas** de **ácidos graxos** ou de **glicídios**, principalmente **glicose**, são degradadas, formando **moléculas** de gás carbônico (CO₂) e de **água** (H₂O) e liberando **energia**, utilizada na produção de **moléculas** de **ATP** a partir de **ADP** e **_Pᵢ_**.
+A maioria dos seres vivos produz **ATP** para suas necessidades energéticas por meio da **respiração celular**, um processo de **oxidação** em que o **gás oxigênio** atua como **agente oxidante** de **moléculas orgânicas**. Nesse processo, **moléculas** de **ácidos graxos** ou de **glicídios**, principalmente **glicose**, são degradadas, formando **moléculas** de gás carbônico (CO₂) e de **água** (H₂O) e liberando **energia**, utilizada na produção de **moléculas** de **ATP** a partir de **ADP** e **Pᵢ**.
 
 ```ad-tip
 A quantidade exata de **ATP** produzida durante a **respiração celular** pode variar, mas em condições ideais, a partir de uma **molécula de glicose**, podem ser produzidas  aproximadamente 36 a 38.
@@ -148,7 +148,7 @@ A quantidade exata de **ATP** produzida durante a **respiração celular** pode 
 
 A **respiração celular** da **glicose** é equivalente à sua **combustão**, em termos de **reagentes** e **produtos**. Nos dois casos, uma **molécula** de **glicose** reage com seis **moléculas** de gás oxigênio, produzindo seis **moléculas** de **gás carbônico** e seis **moléculas** de **água**:
 $$
-C_6H_{12}O_6+6O_2→6CO_2+6H_2O
+C6H{12}O6+6O2→6CO2+6H2O
 $$
 ```ad-info
 Se toda essa quantidade de **energia** fosse liberada de uma vez na **respiração celular,** como acontece na **combustão**, a **célula** seria danificada. No entanto, na **respiração celular,** a energia das **moléculas orgânicas** é liberada pouco a pouco, em uma sequência ordenada de **reações químicas** bem controladas, e parte dessa **energia** é armazenada na forma de **ATP**.
@@ -156,7 +156,7 @@ Se toda essa quantidade de **energia** fosse liberada de uma vez na **respiraç�
 #### Etapas da respiração celular
 A **degradação da glicose** na **respiração celular** ocorre em três **etapas metabólicas**: **glicólise**, **ciclo de Krebs** e **fosforilação oxidativa**. Nas **células eucarióticas**, a **glicólise** ocorre no **citosol**, enquanto o **ciclo de Krebs** e a **fosforilação oxidativa** ocorrem no interior das **mitocôndrias**.
 ##### Glicólise
-A **glicólise** é uma sequência de 10 **reações químicas** **catalisadas** por **enzimas** livres no **citosol**. Nela, uma **molécula** de **glicose** é quebrada em duas **moléculas** de **ácido pirúvico**, com saldo líquido de duas **moléculas** de **ATP**. O processo tem início com a ativação da **molécula de glicose**, que ocorre pela adição de dois **fosfatos energéticos** provenientes de duas **moléculas** de **ATP**. Com isso, a **molécula** de **glicose** torna-se _instável_ e quebra-se em duas **moléculas** menores de **ácido pirúvico**. 
+A **glicólise** é uma sequência de 10 **reações químicas** **catalisadas** por **enzimas** livres no **citosol**. Nela, uma **molécula** de **glicose** é quebrada em duas **moléculas** de **ácido pirúvico**, com saldo líquido de duas **moléculas** de **ATP**. O processo tem início com a ativação da **molécula de glicose**, que ocorre pela adição de dois **fosfatos energéticos** provenientes de duas **moléculas** de **ATP**. Com isso, a **molécula** de **glicose** torna-se instável e quebra-se em duas **moléculas** menores de **ácido pirúvico**. 
 
 ```ad-info
 A **glicólise** é uma etapa **anaeróbia** do processo de **degradação da glicose**, pois não necessita de **gás oxigênio** para ocorrer. As etapas seguintes, porém, são **aeróbias** e só ocorrem se houver **gás oxigênio** suficiente. Na falta desse gás, as **moléculas** de **ácido pirúvico** são transformadas, ainda no **citosol**, em **ácido láctico** ou em **etanol**, dependendo do tipo de **organismo**. Esse processo é denominado **fermentação**.
@@ -168,13 +168,13 @@ A **glicólise** é uma etapa **anaeróbia** do processo de **degradação da gl
 O consumo inicial de dois **ATP** é um investimento energético que será recuperado durante a própria **glicólise**, pois a quebra da **glicose** em dois **ácidos pirúvicos** é suficiente para produzir 4 **moléculas de ATP**, ficando com o saldo positivo de 2 **moléculas de ATP**. 
 ```
 
-A **glicólise** também libera quatro **elétrons** com nível alto de **energia** e quatro **íons** _H⁺_. Dois desses **íons** _H⁺_ permanecem livres no **citosol**, enquanto os outros dois e os quatro **elétrons** energizados são prontamente capturados por duas **moléculas** da **substância dinucleotídeo** de **nicotinamida-adenina**, ou **NAD**. **Moléculas** dessa **substância** na **forma oxidada** **(_NAD⁺_**) passam para o estado reduzido (**_NADH_**) ao capturarem **elétrons** e **íons** _H⁺_, como mostrado na **equação** a seguir: 
+A **glicólise** também libera quatro **elétrons** com nível alto de **energia** e quatro **íons** H⁺. Dois desses **íons** H⁺ permanecem livres no **citosol**, enquanto os outros dois e os quatro **elétrons** energizados são prontamente capturados por duas **moléculas** da **substância dinucleotídeo** de **nicotinamida-adenina**, ou **NAD**. **Moléculas** dessa **substância** na **forma oxidada** **(NAD⁺**) passam para o estado reduzido (**NADH**) ao capturarem **elétrons** e **íons** H⁺, como mostrado na **equação** a seguir: 
 $$
 2H^++4e^−+2\text{NAD}^+→2\text{NADH}
 $$
 A **equação química** que resume a **glicólise** é:
 $$
-C_6​H_{12}​O_6​+2\text{ADP}+2P_i​+2\text{NAD}+→2C_3​H_4​O_3​+2\text{ATP}+2\text{NADH}+2H^+
+C6​H{12}​O6​+2\text{ADP}+2Pi​+2\text{NAD}+→2C3​H4​O3​+2\text{ATP}+2\text{NADH}+2H^+
 $$
 ```ad-tip
 É importante notar que nessas **equações** não há produção de **água** e nem de **gás carbônico**.
@@ -182,46 +182,46 @@ $$
 
 ```ad-summary
 ##### NAD (Nicotinamida adenina dinucleótido)
-O **_NAD⁺_** desempenha papel central no **metabolismo energético** das **células**; ele captura **elétrons** de alta **energia** provenientes da degradação de **moléculas orgânicas** e fornece-os aos sistemas de **síntese de ATP**. Por essa capacidade de _aceitar_ **elétrons** energizados e **íons** _H⁺_, o **_NAD⁺_** é denominado _aceptor de elétrons_, ou _aceptor de hidrogênio_. Além disso, o **_NAD_** é uma **coenzima** derivada da **Vitamina B3**, ou seja, essa **vitamina** é fundamental para o processo de **glicolise**.
+O **NAD⁺** desempenha papel central no **metabolismo energético** das **células**; ele captura **elétrons** de alta **energia** provenientes da degradação de **moléculas orgânicas** e fornece-os aos sistemas de **síntese de ATP**. Por essa capacidade de aceitar **elétrons** energizados e **íons** H⁺, o **NAD⁺** é denominado aceptor de elétrons, ou aceptor de hidrogênio. Além disso, o **NAD** é uma **coenzima** derivada da **Vitamina B3**, ou seja, essa **vitamina** é fundamental para o processo de **glicolise**.
 ```
 ##### Ciclo de Krebs
-O **ácido pirúvico** produzido na **glicólise** é transportado através das **membranas da mitocôndria** e, na **matriz mitocondrial**, reage imediatamente com uma **substância** denominada **_coenzima A_** (**_CoA_**). Nessa reação, são produzidas uma **molécula** de **_acetilcoenzima A_** (**_acetil-CoA_**) e uma **molécula de gás carbônico** (CO₂). 
+O **ácido pirúvico** produzido na **glicólise** é transportado através das **membranas da mitocôndria** e, na **matriz mitocondrial**, reage imediatamente com uma **substância** denominada **coenzima A** (**CoA**). Nessa reação, são produzidas uma **molécula** de **acetilcoenzima A** (**acetil-CoA**) e uma **molécula de gás carbônico** (CO₂). 
 
-Dela também participa uma **molécula** de **_NAD⁺**_, que se transforma em **NADH** ao capturar 2 **elétrons** de alta **energia** e 1 dos 2 **íons** _H⁺_ liberados na **reação**:
+Dela também participa uma **molécula** de **NAD⁺**, que se transforma em **NADH** ao capturar 2 **elétrons** de alta **energia** e 1 dos 2 **íons** H⁺ liberados na **reação**:
 $$
-\text{Ácido pirúvico}+\text{CoA}+\text{NAD}+→\text{Acetil}-\text{CoA}+\text{NADH}+CO_2​+H^+
+\text{Ácido pirúvico}+\text{CoA}+\text{NAD}+→\text{Acetil}-\text{CoA}+\text{NADH}+CO2​+H^+
 $$
-Na **matriz mitocondrial**, as **moléculas** de **_acetilcoenzima_** são **oxidadas** e originam, no final do processo, duas **moléculas** de **gás carbônico** e a **_coenzima A_** intacta. A **oxidação** completa da **_acetilcoenzima_** consiste de um conjunto de nove **reações químicas** sequenciais que formam um ciclo, pois uma **molécula** de **_ácido oxalacético_** une-se à **_acetilcoenzima_** no início do processo e é recuperada intacta no final. Esse conjunto de reações é conhecido como **ciclo de Krebs**.
+Na **matriz mitocondrial**, as **moléculas** de **acetilcoenzima** são **oxidadas** e originam, no final do processo, duas **moléculas** de **gás carbônico** e a **coenzima A** intacta. A **oxidação** completa da **acetilcoenzima** consiste de um conjunto de nove **reações químicas** sequenciais que formam um ciclo, pois uma **molécula** de **ácido oxalacético** une-se à **acetilcoenzima** no início do processo e é recuperada intacta no final. Esse conjunto de reações é conhecido como **ciclo de Krebs**.
 
 ![[bio-transformações-acido-piruvico.png]]
 ```ad-note
-_A._ Esquema das transformações do **ácido pirúvico**. No interior da **mitocôndria**, o **ácido pirúvico** origina _**acetil-CoA**_, que participa da sequência de **reações químicas** do **ciclo de Krebs**. _B._ Representação esquemática de uma **mitocôndria** com parte removida para mostrar seus componentes internos. O **ciclo de Krebs** ocorre na **matriz mitocondrial**.
+A. Esquema das transformações do **ácido pirúvico**. No interior da **mitocôndria**, o **ácido pirúvico** origina **acetil-CoA**, que participa da sequência de **reações químicas** do **ciclo de Krebs**. B. Representação esquemática de uma **mitocôndria** com parte removida para mostrar seus componentes internos. O **ciclo de Krebs** ocorre na **matriz mitocondrial**.
 ```
 
-O **ciclo de Krebs** tem início com uma reação entre a **_acetil-CoA_** e o **ácido oxalacético**, em que é liberada a **molécula** de _**coenzima A**_ e formada uma **molécula** de **_ácido cítrico_**. Ao longo das oito **reações** subsequentes, são liberadas 2 **moléculas** de **gás carbônico**, **elétrons** de alta **energia** e **íons** _H⁺_. 
+O **ciclo de Krebs** tem início com uma reação entre a **acetil-CoA** e o **ácido oxalacético**, em que é liberada a **molécula** de **coenzima A** e formada uma **molécula** de **ácido cítrico**. Ao longo das oito **reações** subsequentes, são liberadas 2 **moléculas** de **gás carbônico**, **elétrons** de alta **energia** e **íons** H⁺. 
 
 ```ad-info
-O _ácido oxalacético_ é recuperado intacto ao final do processo, pronto para se combinar com outra **molécula** de _acetil-CoA_ e reiniciar outro ciclo.
+O ácido oxalacético é recuperado intacto ao final do processo, pronto para se combinar com outra **molécula** de acetil-CoA e reiniciar outro ciclo.
 ```
 
-Os **elétrons** de alta **energia** e os **íons** _H⁺_ são prontamente capturados por **moléculas** de **_NAD⁺_**, que se transformam em **_NADH_**, e também por um outro aceptor de **elétrons**, o **dinucleotídeo** de **flavina-adenina** ou **_FAD_**, que se transforma em **_FADH₂_**. 
+Os **elétrons** de alta **energia** e os **íons** H⁺ são prontamente capturados por **moléculas** de **NAD⁺**, que se transformam em **NADH**, e também por um outro aceptor de **elétrons**, o **dinucleotídeo** de **flavina-adenina** ou **FAD**, que se transforma em **FADH₂**. 
 
 ```ad-info
-Ao longo de cada **ciclo de Krebs**, são formados 3 **_NADH_** e 1 **_FADH₂_**.
+Ao longo de cada **ciclo de Krebs**, são formados 3 **NADH** e 1 **FADH₂**.
 ```
 
-Em uma das etapas do ciclo, a **energia** liberada permite a formação direta de uma **molécula** de **trifosfato de guanosina** ou **GTP**, a partir de **GDP** (**difosfato de guanosina**) e _Pᵢ_.
+Em uma das etapas do ciclo, a **energia** liberada permite a formação direta de uma **molécula** de **trifosfato de guanosina** ou **GTP**, a partir de **GDP** (**difosfato de guanosina**) e Pᵢ.
 
 ```ad-tip
  O **GTP** é muito semelhante ao **ATP**; difere dele apenas por apresentar a **base nitrogenada** **guanina** em vez de **adenina**. É o **GTP** que fornece **energia** para alguns **processos celulares**, como a **síntese de proteínas**. O **GTP** também pode ser formado pela transferência do **fosfato energético** do **ATP** para um **GDP**; de forma similar, **ATP** pode ser gerado pela transferência do **fosfato** do **GTP** para um **ADP**.
 ```
 ##### Fosforilação Oxidativa
-A síntese da maior parte do **ATP** gerado na **respiração celular** está acoplada à **reoxidação** das **moléculas** de **_NADH_** e **_FADH₂_**, que se transformam em **_NAD⁺_** e **_FAD_**, respectivamente. Nessa **reoxidação**, são liberados **elétrons** com alto nível de **energia** que, após perderem seu excesso de **energia**, reduzem o **gás oxigênio** a **moléculas** de **água**, de acordo com as seguintes **equações** gerais:
+A síntese da maior parte do **ATP** gerado na **respiração celular** está acoplada à **reoxidação** das **moléculas** de **NADH** e **FADH₂**, que se transformam em **NAD⁺** e **FAD**, respectivamente. Nessa **reoxidação**, são liberados **elétrons** com alto nível de **energia** que, após perderem seu excesso de **energia**, reduzem o **gás oxigênio** a **moléculas** de **água**, de acordo com as seguintes **equações** gerais:
 $$
-2 \text{NADH} + 2 H^+ + O_2 \rightarrow 2 \text{NAD}^+ + 2 H_2O
+2 \text{NADH} + 2 H^+ + O2 \rightarrow 2 \text{NAD}^+ + 2 H2O
 $$
 $$
- 2 \text{FADH}_2 + O_2 \rightarrow 2 \text{FAD} + 2H
+ 2 \text{FADH}2 + O2 \rightarrow 2 \text{FAD} + 2H
 $$
 ```ad-info
 A **energia** liberada gradativamente pelos **elétrons** durante sua transferência até o **gás oxigênio** é usada na produção de **ATP**. 
@@ -229,7 +229,7 @@ A **energia** liberada gradativamente pelos **elétrons** durante sua transferê
 
 O termo **fosforilação oxidativa** refere-se justamente à produção de **ATP**, pois a adição de **fosfato** ao **ADP** para formar **ATP** é uma reação de **fosforilação**. Ela é chamada **oxidativa** porque ocorre em diversas **oxidações** sequenciais, nas quais o último **agente oxidante** é o **gás oxigênio** (O₂).
 ###### Cadeia transportadora de elétrons (cadeia respiratória)
-Na **membrana interna da mitocôndria** há conjuntos de **proteína** dispostos em sequência que participam na condução dos **elétrons** do _**NADH**_ e do **_FADH₂_** até o **gás oxigênio**. 
+Na **membrana interna da mitocôndria** há conjuntos de **proteína** dispostos em sequência que participam na condução dos **elétrons** do **NADH** e do **FADH₂** até o **gás oxigênio**. 
 
 ```ad-info
 Cada conjunto sequencial de **proteínas** recebe o nome de **cadeia transportadora de elétrons** ou **cadeia respiratória**.
@@ -237,22 +237,22 @@ Cada conjunto sequencial de **proteínas** recebe o nome de **cadeia transportad
 
 Os **transferidores de elétrons** nas **cadeias respiratórias** são proteínas **denominadas** **citocromos**, que possuem ferro em sua composição. Cada tipo de **citocromo** é capaz de capturar **elétrons** com certo **nível de energia** e transferi-los, com um **nível de energia** menor, para o **citocromo** imediatamente seguinte.
 
-A passagem dos **elétrons** ao longo da **cadeia respiratória** tem início quando o **_NADH_** doa seu par de **elétrons** ao primeiro aceptor da **cadeia respiratória**, que os transfere ao seguinte e assim por diante. Essa transferência dos **elétrons** de um componente da cadeia a outro faz com que eles percam **energia** gradativamente e possam, ao final da cadeia, combinar-se com o **gás oxigênio** (O₂), produzindo **água** na **reação**. O **gás oxigênio** só participa efetivamente da **respiração celular** nessa última etapa; no entanto, em sua ausência, o ciclo é rapidamente interrompido. 
+A passagem dos **elétrons** ao longo da **cadeia respiratória** tem início quando o **NADH** doa seu par de **elétrons** ao primeiro aceptor da **cadeia respiratória**, que os transfere ao seguinte e assim por diante. Essa transferência dos **elétrons** de um componente da cadeia a outro faz com que eles percam **energia** gradativamente e possam, ao final da cadeia, combinar-se com o **gás oxigênio** (O₂), produzindo **água** na **reação**. O **gás oxigênio** só participa efetivamente da **respiração celular** nessa última etapa; no entanto, em sua ausência, o ciclo é rapidamente interrompido. 
 
 ![[bio-atp-cadeia-transporte.png]]
 
-A **energia** liberada pelos **elétrons** durante sua passagem pela **cadeia respiratória** é usada para forçar a transferência de **íons** _H⁺_ para o espaço existente entre as duas **membranas mitocondriais**. 
+A **energia** liberada pelos **elétrons** durante sua passagem pela **cadeia respiratória** é usada para forçar a transferência de **íons** H⁺ para o espaço existente entre as duas **membranas mitocondriais**. 
 
 ![[bio-respiração-reações-itocondria.png]]
 
 ```ad-note
-Representação esquemática das **reações** que ocorrem no interior da **mitocôndria**. Note que o **ácido pirúvico** e os **ácidos graxos** que penetram na **mitocôndria** (à esquerda) transformam-se em _acetilcoenzima A_, o ponto de partida das **reações intramitocondriais**, dando início ao **ciclo de Krebs**. Na **membrana mitocondrial interna**, ocorrem as reações da **cadeia respiratória** e da produção de **ATP**.
+Representação esquemática das **reações** que ocorrem no interior da **mitocôndria**. Note que o **ácido pirúvico** e os **ácidos graxos** que penetram na **mitocôndria** (à esquerda) transformam-se em acetilcoenzima A, o ponto de partida das **reações intramitocondriais**, dando início ao **ciclo de Krebs**. Na **membrana mitocondrial interna**, ocorrem as reações da **cadeia respiratória** e da produção de **ATP**.
 ```
 
-A maior parte do _**NADH**_ é produzida no interior da **mitocôndria**, durante a transformação do **ácido pirúvico** em _**acetil-CoA**_ e o **ciclo de Krebs**. Na **glicólise**, também são produzidas duas **moléculas** de **_NADH_**, mas estas não conseguem entrar na **mitocôndria** para doar seus **elétrons** à **cadeia respiratória**, pois a **membrana mitocondrial interna** é impermeável ao **_NADH_**.
+A maior parte do **NADH** é produzida no interior da **mitocôndria**, durante a transformação do **ácido pirúvico** em **acetil-CoA** e o **ciclo de Krebs**. Na **glicólise**, também são produzidas duas **moléculas** de **NADH**, mas estas não conseguem entrar na **mitocôndria** para doar seus **elétrons** à **cadeia respiratória**, pois a **membrana mitocondrial interna** é impermeável ao **NADH**.
 
 ```ad-note
- Um curioso mecanismo, porém, permite à **mitocôndria** aproveitar a **energia** do **_NADH_** produzido no **citosol**; a **membrana interna da mitocôndria** contém **proteínas** especiais, capazes de atuar como **pontes eletrônicas**, transportando **elétrons** de alta **energia** do **_NADH_** do **citosol** (que se **oxida** a **_NAD⁺_**) para um **_NAD⁺_** presente na **matriz mitocondrial**, o qual se reduz a **_NADH_**. Para todos os efeitos, é como se o **_NADH_** tivesse entrado na **mitocôndria**:
+ Um curioso mecanismo, porém, permite à **mitocôndria** aproveitar a **energia** do **NADH** produzido no **citosol**; a **membrana interna da mitocôndria** contém **proteínas** especiais, capazes de atuar como **pontes eletrônicas**, transportando **elétrons** de alta **energia** do **NADH** do **citosol** (que se **oxida** a **NAD⁺**) para um **NAD⁺** presente na **matriz mitocondrial**, o qual se reduz a **NADH**. Para todos os efeitos, é como se o **NADH** tivesse entrado na **mitocôndria**:
 ```
 
 ![[bio-etapas-metabolismo-aerobico.png]]
@@ -263,7 +263,7 @@ Na imagem acima, está representada as etapas do **metabolismo aeróbio** da **g
 
 ```ad-summary
 ###### Rendimento Energético na Respiração Celular
-A **energia** liberada pelos **elétrons** com alta **energia**, obtidos de uma **molécula** de **glicose** em sua passagem pela **cadeia respiratória**, pode formar até um máximo de 26 **moléculas** de **ATP**. Somando-se essas 26 **moléculas** aos dois **ATP** formados na **glicólise** e aos dois formados no **ciclo de Krebs** (um **GTP** para cada _**acetil-CoA**_), obtém-se o rendimento máximo da **respiração celular**, que é de 30 **moléculas** de ATP **por** **molécula** de **glicose**.
+A **energia** liberada pelos **elétrons** com alta **energia**, obtidos de uma **molécula** de **glicose** em sua passagem pela **cadeia respiratória**, pode formar até um máximo de 26 **moléculas** de **ATP**. Somando-se essas 26 **moléculas** aos dois **ATP** formados na **glicólise** e aos dois formados no **ciclo de Krebs** (um **GTP** para cada **acetil-CoA**), obtém-se o rendimento máximo da **respiração celular**, que é de 30 **moléculas** de ATP **por** **molécula** de **glicose**.
 ```
 #### Fontes de energia para a respiração celular
 Todas as nossas **células** **oxidam** **glicídios** para obtenção de **energia**; algumas, como as **células nervosas** do **encéfalo**, obtêm praticamente toda a **energia** de que necessitam pela **oxidação aeróbica** da **glicose**. É por isso que nosso **organismo** precisa manter estável a taxa desse **glicídio** no **sangue**: sua diminuição pode causar desmaios e até mesmo coma, por afetar diretamente o **sistema nervoso**. 
@@ -280,7 +280,7 @@ Os **triglicerídeos** são armazenados no **citoplasma** das **células adiposa
 As **células** do corpo humano, com exceção das do **sistema nervoso** e das **hemácias**, captam os **ácidos graxos** do **sangue**, utilizando-os na produção de **ATP**.
 ```
 
-No interior das **células**, os **ácidos graxos** são transportados para as **mitocôndrias**, onde produzem **moléculas** de **_acetil-CoA_**. Da mesma forma que as moléculas de **_acetil-CoA_** produzidas a partir do **ácido pirúvico** na **oxidação** de **glicídios**, **moléculas** de **_acetil-CoA_** produzidas pela **oxidação** de **ácidos graxos** entram no **ciclo de Krebs** e são totalmente degradadas a **gás carbônico** (CO₂) e **água** (H₂O).
+No interior das **células**, os **ácidos graxos** são transportados para as **mitocôndrias**, onde produzem **moléculas** de **acetil-CoA**. Da mesma forma que as moléculas de **acetil-CoA** produzidas a partir do **ácido pirúvico** na **oxidação** de **glicídios**, **moléculas** de **acetil-CoA** produzidas pela **oxidação** de **ácidos graxos** entram no **ciclo de Krebs** e são totalmente degradadas a **gás carbônico** (CO₂) e **água** (H₂O).
 
 ![[bio-utilização-nutrientes.png]]
 ### Fermentação
@@ -290,19 +290,19 @@ O principal processo **anaeróbico** de produção de **ATP** a partir de **subs
 Nossas próprias **células** pode fazer **fermentação** se faltar **gás oxigênio** para a **respiração celular**.
 ```
 
-A **fermentação** realizada pela maioria dos **organismos**, como **leveduras**, certas **bactérias** e também por nossas **células musculares**, consiste em uma **glicólise** semelhante à que compõe a **respiração celular**. A diferença é que, na **fermentação**, o **ácido pirúvico** recebe **elétrons** e _H⁺_ do **_NADH_**, transformando-se em **ácido láctico**, ou em **álcool** **etílico** (**etanol**) e **gás carbônico**, dependendo do tipo de **organismo** que realiza o processo. 
+A **fermentação** realizada pela maioria dos **organismos**, como **leveduras**, certas **bactérias** e também por nossas **células musculares**, consiste em uma **glicólise** semelhante à que compõe a **respiração celular**. A diferença é que, na **fermentação**, o **ácido pirúvico** recebe **elétrons** e H⁺ do **NADH**, transformando-se em **ácido láctico**, ou em **álcool** **etílico** (**etanol**) e **gás carbônico**, dependendo do tipo de **organismo** que realiza o processo. 
 
 ```ad-tip
 Se o **produto** da **fermentação** é **ácido láctico**, fala-se em **fermentação láctica**; se o **produto** é **álcool etílico**, fala-se em **fermentação alcoólica**.
 ```
 
-A **fermentação** pode ser definida como um processo de degradação incompleta de **moléculas orgânicas** com liberação de **energia** para formação de **ATP**, em que o aceptor final de **elétrons** e de _H⁺_ é uma **molécula orgânica**. A parte final da **fermentação**, em que o **ácido pirúvico** é transformado em **ácido láctico**, ou em **etanol** e **gás carbônico**, é uma reação de **oxirredução**: o **ácido pirúvico** atua como aceptor final de elétrons e dos _H⁺_ liberados na **glicólise** e captados pelo **_NAD⁺_**
+A **fermentação** pode ser definida como um processo de degradação incompleta de **moléculas orgânicas** com liberação de **energia** para formação de **ATP**, em que o aceptor final de **elétrons** e de H⁺ é uma **molécula orgânica**. A parte final da **fermentação**, em que o **ácido pirúvico** é transformado em **ácido láctico**, ou em **etanol** e **gás carbônico**, é uma reação de **oxirredução**: o **ácido pirúvico** atua como aceptor final de elétrons e dos H⁺ liberados na **glicólise** e captados pelo **NAD⁺**
 #### Fermentação Láctica
 Na **fermentação láctica**, o **ácido pirúvico** originado da **glicólise** é transformado em **ácido láctico**. Esse processo é realizado por certas **bactérias** denominadas **lactobacilos**, que **fermentam** o **leite**. O sabor ligeiramente **ácido** de coalhadas e iogurtes deve-se justamente ao acúmulo de **ácido láctico**, que faz baixar o **pH** do leite e provoca a coagulação de suas **proteínas**, formando um coalho solidificado, usado também na fabricação de queijos.
 
 Em nossas **células musculares**, durante um exercício físico muito intenso, o **gás oxigênio** que chega aos **músculos** pode não ser suficiente para suprir as necessidades respiratórias das **células musculares**. Nessas condições, elas passam a produzir **ATP** por meio da **fermentação láctica**.
 $$
-C_6​H_{12}​O_6​→2CH_3​CH(OH)COOH
+C6​H{12}​O6​→2CH3​CH(OH)COOH
 $$
 $$
 (\text{Glicose}) → (\text{Ácido lático})
@@ -313,9 +313,9 @@ $$
 
 Aos poucos, as **células musculares** eliminam o **ácido láctico** no **sangue**, de onde ele é removido pelas **células do fígado** e **reoxidado** a **ácido pirúvico**. Este pode ser degradado a CO₂ nas **mitocôndrias hepáticas** ou reconvertido em **glicose**, por meio de um processo denominado **gliconeogênese**.
 #### Fermentação Alcoólica
-Na **fermentação alcoólica**, o **ácido pirúvico** originado na **glicólise** transforma-se em **álcool etílico** e **gás carbônico**. Esse tipo de **fermentação** é realizado pelo **fungo** _Saccharomyces cerevisiae_, a **levedura** conhecida popularmente como fermento de padaria. 
+Na **fermentação alcoólica**, o **ácido pirúvico** originado na **glicólise** transforma-se em **álcool etílico** e **gás carbônico**. Esse tipo de **fermentação** é realizado pelo **fungo** Saccharomyces cerevisiae, a **levedura** conhecida popularmente como fermento de padaria. 
 $$
-C_6​H_{12}​O_6​→2C_2​H_5​OH+2CO_2
+C6​H{12}​O6​→2C2​H5​OH+2CO2
 $$
 $$
 (\text{Glicose}) → (\text{Etanol}) + (\text{Dióxido de carbono})
@@ -324,9 +324,9 @@ $$
 Há milênios a humanidade utiliza essa espécie de **levedura** na fabricação de bebidas alcoólicas (vinhos, cervejas, aguardentes etc.) e de pão, no qual o **gás carbônico** é responsável pelas bolhas que inflam a massa e a tornam macia.
 ```
 #### Fermentação Acética
-Um outro processo biológico, conhecido como **fermentação acética**, é empregado na produção de vinagre. Ele é realizado por **bactérias** dos gêneros _Acetobacter_ e _Acetomonas_, que crescem espontaneamente em bebidas alcoólicas, como vinho, expostas ao ar, **oxidando** o **álcool**, que se transforma em **ácido acético**.
+Um outro processo biológico, conhecido como **fermentação acética**, é empregado na produção de vinagre. Ele é realizado por **bactérias** dos gêneros Acetobacter e Acetomonas, que crescem espontaneamente em bebidas alcoólicas, como vinho, expostas ao ar, **oxidando** o **álcool**, que se transforma em **ácido acético**.
 $$
-C_2​H_5​OH+O_2​→CH_3​COOH+H_2​O
+C2​H5​OH+O2​→CH3​COOH+H2​O
 $$
 $$
 (\text{Etanol}) + (\text{Oxigênio}) → (\text{Ácido acético}) + (\text{Água})
@@ -355,18 +355,18 @@ Quase todo o **gás oxigênio** existente na **atmosfera** atual da Terra — ce
 Como **plantas**, **algas** e algumas **bactérias** são os únicos seres capazes de captar energia solar, a sobrevivência de praticamente todos os outros **organismos** depende, direta ou indiretamente, desses seres **fotossintetizantes**. **Herbívoros** obtêm **energia** ao comer **plantas** ou **algas**, enquanto **carnívoros** obtêm **energia** ao comer **herbívoros** ou outros **carnívoros**, aproveitando a energia dos **glicídios** produzidos na **fotossíntese**.
 ```
 #### Equação geral da fotossíntese
-Embora o **glicídio** formado na **fotossíntese** seja tradicionalmente representado pela fórmula molecular C₆H₁₂O₆, correspondente à **glicose**, hoje sabemos que não é esse o **produto** direto da **reação**. O **glicídio** que se forma na **fotossíntese** é o **gliceraldeído** ligado a um **grupo fosfato** (_gliceraldeído-3-fosfato_, ou _PGAL_). Em seguida, o _gliceraldeído-3-fosfato_ é transformado diretamente em **amido** ou em **sacarose**.
+Embora o **glicídio** formado na **fotossíntese** seja tradicionalmente representado pela fórmula molecular C₆H₁₂O₆, correspondente à **glicose**, hoje sabemos que não é esse o **produto** direto da **reação**. O **glicídio** que se forma na **fotossíntese** é o **gliceraldeído** ligado a um **grupo fosfato** (gliceraldeído-3-fosfato, ou PGAL). Em seguida, o gliceraldeído-3-fosfato é transformado diretamente em **amido** ou em **sacarose**.
 
 Assim, a maneira mais precisa de representar a **equação** da **fotossíntese** das **plantas** é:
 $$
-3CO_2 + 6H_{2O} \xrightarrow{\text{LUZ}} C_3H_6O_3 +3O_2 + 3H_2O
+3CO2 + 6H{2O} \xrightarrow{\text{LUZ}} C3H6O3 +3O2 + 3H2O
 $$
 $$
 \text{Gás carbônico} + \text{Água} \xrightarrow{\text{LUZ}} \text{Glicídio} + \text{Gás oxigênio} + \text{Água}
 $$
 Ou, ainda, representá-la pela **equação** geral:
 $$
-CO_2 + 2H_2O\xrightarrow{\text{LUZ}} C(H_2O) + O_2 + H_2O
+CO2 + 2H2O\xrightarrow{\text{LUZ}} C(H2O) + O2 + H2O
 $$
 $$
 \text{Gás carbônico} + \text{Água} \xrightarrow{\text{LUZ}} \text{Glicídio} + \text{Gás oxigênio} + \text{Água}
@@ -396,7 +396,7 @@ As **bactérias fotossintetizantes**, apesar de não possuírem **cloroplastos**
 #### Etapas da Fotossíntese
 A **fotossíntese** das **plantas** pode ser dividida em quatro etapas: 
 1. Absorção de luz; 
-2. Transporte de **elétrons** com redução de **_NADP⁺_** a **_NADPH_**; 
+2. Transporte de **elétrons** com redução de **NADP⁺** a **NADPH**; 
 3. Produção de **ATP**; 
 4. Fixação de **carbono**, que é a conversão de **CO₂** em **glicídios**.
 
@@ -405,10 +405,10 @@ As três primeiras etapas da **fotossíntese** são **catalisadas** por **enzima
 ```
 
 ```ad-info
-As etapas que precedem a **fixação do carbono** — **fotólise da água**, **transporte de elétrons** com produção de **_NADPH_** e **produção de ATP** — dependem diretamente da luz para ocorrer. Por isso, elas são chamadas de **etapas fotoquímicas** da **fotossíntese**, ou **reações de claro**.
+As etapas que precedem a **fixação do carbono** — **fotólise da água**, **transporte de elétrons** com produção de **NADPH** e **produção de ATP** — dependem diretamente da luz para ocorrer. Por isso, elas são chamadas de **etapas fotoquímicas** da **fotossíntese**, ou **reações de claro**.
 ```
 ##### Absorção de Luz
-A **fotossíntese** tem início com a absorção de **energia luminosa** por **moléculas de clorofila** presentes na **membrana tilacoide**. A luz absorvida "**_excita_**", isto é, transfere energia para alguns **elétrons** da **clorofila**; estes, agora com alta **energia**, saem da **clorofila** e são capturados por uma **substância** **_aceptor de elétrons_**, denominada **_aceptor Q_**. 
+A **fotossíntese** tem início com a absorção de **energia luminosa** por **moléculas de clorofila** presentes na **membrana tilacoide**. A luz absorvida "**excita**", isto é, transfere energia para alguns **elétrons** da **clorofila**; estes, agora com alta **energia**, saem da **clorofila** e são capturados por uma **substância** **aceptor de elétrons**, denominada **aceptor Q**. 
 
 ```ad-summary
 ##### Fotólise de água
@@ -417,16 +417,16 @@ Nesse mesmo processo, a **clorofila** recupera os **elétrons** perdidos a parti
 A reação de **fotólise da água** pode ser escrita da seguinte maneira:
 
 $$
-2 H_2O \xrightarrow{\text{LUZ}} O_2 + 4H_+ + 4e^-
+2 H2O \xrightarrow{\text{LUZ}} O2 + 4H+ + 4e^-
 $$
 $$
 \text{Água} \xrightarrow{\text{LUZ}} \text{Gás oxigênio} + \text{Íons de Hidrogênio} + \text{Elétrons}
 $$
 ```
 ##### Transporte de Elétrons
-Os **elétrons** da **clorofila**, ao serem "**_excitados_**" pela luz, adquirem alto nível de **energia** e "_saltam_" para fora da **molécula**. Eles são inicialmente capturados pelo _**aceptor Q**_, que transfere os **elétrons** para um segundo _aceptor_, que o transfere para um terceiro, e assim por diante, no que se denomina **cadeia transportadora de elétrons**, semelhante às existentes nas **mitocôndrias**.
+Os **elétrons** da **clorofila**, ao serem "**excitados**" pela luz, adquirem alto nível de **energia** e "saltam" para fora da **molécula**. Eles são inicialmente capturados pelo **aceptor Q**, que transfere os **elétrons** para um segundo aceptor, que o transfere para um terceiro, e assim por diante, no que se denomina **cadeia transportadora de elétrons**, semelhante às existentes nas **mitocôndrias**.
 
-Os **elétrons**, ao serem transferidos sequencialmente de um _aceptor_ para outro em uma **cadeia transportadora**, liberam, a cada passo, parte da **energia** que havia sido captada da luz. O último _aceptor_ de **elétrons** no **cloroplasto** é a **substância** denominada _fosfato de dinucleotídeo de nicotinamida-adenina_, mais conhecido pela sigla **_NADP⁺_**.
+Os **elétrons**, ao serem transferidos sequencialmente de um aceptor para outro em uma **cadeia transportadora**, liberam, a cada passo, parte da **energia** que havia sido captada da luz. O último aceptor de **elétrons** no **cloroplasto** é a **substância** denominada fosfato de dinucleotídeo de nicotinamida-adenina, mais conhecido pela sigla **NADP⁺**.
 
 ```ad-info
 Essa **substância** difere do **NAD da mitocôndria** por apresentar um **grupo fosfato** em lugar de um **H**.
@@ -434,10 +434,10 @@ Essa **substância** difere do **NAD da mitocôndria** por apresentar um **grupo
 
 Se reunirmos em uma única **equação** a **fotólise da água** e o **transporte de elétrons** pela **cadeia transportadora**, teremos:
 $$
-2H_2O + 2\space\text{NADP}^+ \rightarrow O_2 + 2H_+ + 2\space\text{NADPH}
+2H2O + 2\space\text{NADP}^+ \rightarrow O2 + 2H+ + 2\space\text{NADPH}
 $$
 ##### Produção de ATP
-A **energia** que os **elétrons** liberam em sua passagem pelas **cadeias transportadoras** é utilizada para "_forçar_" o transporte de **prótons** (**H⁺**) do **estroma** do **cloroplasto** para dentro do **lúmen do tilacoide**. 
+A **energia** que os **elétrons** liberam em sua passagem pelas **cadeias transportadoras** é utilizada para "forçar" o transporte de **prótons** (**H⁺**) do **estroma** do **cloroplasto** para dentro do **lúmen do tilacoide**. 
 
 ```ad-info
 Na **fotossíntese**, a **energia** utilizada no bombeamento de **íons H⁺** para o **lúmen do tilacoide** vem da luz; por isso, essa forma de produção de **ATP** no **cloroplasto** é chamada de **fotofosforilação**.
@@ -447,22 +447,22 @@ Na **fotossíntese**, a **energia** utilizada no bombeamento de **íons H⁺** p
 
 ```ad-summary
 ##### Sintetase do ATP
-A **sintetase do ATP** funciona como um motor molecular rotatório no processo de **quimiosmose**; à medida que gira pela passagem de **íons H⁺** através dela, a **sintetase do ATP** mobiliza **energia** para a produção de **ATP** a partir de **ADP** e **_Pᵢ_**.
+A **sintetase do ATP** funciona como um motor molecular rotatório no processo de **quimiosmose**; à medida que gira pela passagem de **íons H⁺** através dela, a **sintetase do ATP** mobiliza **energia** para a produção de **ATP** a partir de **ADP** e **Pᵢ**.
 ```
 ##### Fixação do Carbono
 O **NADPH** e o **ATP**, produzidos nas fases iniciais da **fotossíntese**, fornecem os **hidrogênios** e a **energia**, respectivamente, necessários para transformar **gás carbônico** em **glicídios**. Esse processo, em que o **carbono** do **gás carbônico** é incorporado em **moléculas orgânicas**, é chamado de **fixação do carbono**.
 
 A **equação** da **fixação do carbono** na **fotossíntese** pode ser escrita desta forma:
 $$
-CO_{2}+ 3\space\text{ATP} + 2H^+ \rightarrow (CH_2O) + 3\space \text{ADP} + 3 P_i + 2
-\space \text{NADP}^{+}+ H_2O
+CO{2}+ 3\space\text{ATP} + 2H^+ \rightarrow (CH2O) + 3\space \text{ADP} + 3 Pi + 2
+\space \text{NADP}^{+}+ H2O
 $$
 ```ad-note
-A **fixação de carbono** não depende diretamente de luz pois, se há **ATP** e **_NADPH_** disponíveis, ela ocorre mesmo no escuro. Por isso, essa etapa final da **fotossíntese** é conhecida como etapa puramente química, ou **fase enzimática**, e as **reações** que a constituem são denominadas **reações de escuro**, ou seja, podem ocorrer com ou sem luz. 
+A **fixação de carbono** não depende diretamente de luz pois, se há **ATP** e **NADPH** disponíveis, ela ocorre mesmo no escuro. Por isso, essa etapa final da **fotossíntese** é conhecida como etapa puramente química, ou **fase enzimática**, e as **reações** que a constituem são denominadas **reações de escuro**, ou seja, podem ocorrer com ou sem luz. 
 ```
 
 ```ad-danger
-As queimadas têm efeito inverso ao da **fixação do carbono** pela **fotossíntese**, devolvendo em poucas horas à **atmosfera** o **gás carbônico** “_sequestrado_” pelas **plantas** ao longo de anos de crescimento.
+As queimadas têm efeito inverso ao da **fixação do carbono** pela **fotossíntese**, devolvendo em poucas horas à **atmosfera** o **gás carbônico** “sequestrado” pelas **plantas** ao longo de anos de crescimento.
 ```
 #### Pigmentos 
 ##### Clorofilas 
@@ -486,10 +486,10 @@ Outros **pigmentos** acessórios à **fotossíntese** são os **carotenoides**, 
 Esses **complexos de antenas** são constituídos por algumas **moléculas** de **pigmento** (**carotenoides**, **clorofila α** e **clorofila β**) e atuam como uma verdadeira antena captadora de luz. 
 ```
 
-A energia dos **fótons** é transferida, então, para duas **moléculas** de **clorofila** a localizadas na área central do **complexo de antena** e que constituem o chamado centro de reação. Essas **moléculas de clorofila α** transferem seus **elétrons** "_**excitados**_" a **substâncias** _aceptoras_ do centro de reação, dando início à **fotossíntese**. 
+A energia dos **fótons** é transferida, então, para duas **moléculas** de **clorofila** a localizadas na área central do **complexo de antena** e que constituem o chamado centro de reação. Essas **moléculas de clorofila α** transferem seus **elétrons** "**excitados**" a **substâncias** aceptoras do centro de reação, dando início à **fotossíntese**. 
 
 ```ad-important
-O conjunto formado pelo **complexo de antena**, com o centro de reação e os _aceptores de elétrons_, constitui um **fotossistema**.
+O conjunto formado pelo **complexo de antena**, com o centro de reação e os aceptores de elétrons, constitui um **fotossistema**.
 ```
 
 ![[bio-fotossintese-fotossistema.png]]
@@ -498,16 +498,16 @@ O conjunto formado pelo **complexo de antena**, com o centro de reação e os _a
 As linhas pontilhadas indicam o caminho da **energia** absorvida por **pigmentos auxiliares** até o centro de reação. 
 ```
 #### Excitação da Clorofila
-Ao absorver **fótons** de luz com **comprimento de onda** adequado ou ao ser estimulada por um **pigmento acessório**, a **molécula de clorofila** a torna-se "**_excitada_**". O estado "**_excitado_**" da **clorofila** difere do seu estado normal (não "_***excitado**_") pela distribuição de **elétrons** ao redor dos **átomos** de **carbono** e de **nitrogênio** constituintes do **anel de porfirina** da **clorofila**.
+Ao absorver **fótons** de luz com **comprimento de onda** adequado ou ao ser estimulada por um **pigmento acessório**, a **molécula de clorofila** a torna-se "**excitada**". O estado "**excitado**" da **clorofila** difere do seu estado normal (não "***excitado**") pela distribuição de **elétrons** ao redor dos **átomos** de **carbono** e de **nitrogênio** constituintes do **anel de porfirina** da **clorofila**.
 
 ```ad-important
-No estado "**_excitado_**", a **clorofila** é instável e, por isso, ela tende a voltar rapidamente ao estado "_não excitado_" eliminando o excesso de **energia** decorrente da absorção do **fóton**.
+No estado "**excitado**", a **clorofila** é instável e, por isso, ela tende a voltar rapidamente ao estado "não excitado" eliminando o excesso de **energia** decorrente da absorção do **fóton**.
 ```
 
 ```ad-note
 **Moléculas isoladas de clorofila** emitem o excesso de **energia** na forma de um lampejo de luz vermelha e como calor. Esse fenômeno, conhecido como fluorescência da **clorofila**, pode ser observado colocando-se uma **solução** de **clorofila** no escuro, após ela ter sido iluminada com luz branca: a **solução** emitirá, por alguns segundos, uma suave luminosidade avermelhada. 
 
-A **clorofila** de **cloroplastos** intactos não fluoresce porque os **elétrons** "_**excitados**_" são imediatamente transferidos para _aceptores_, processo que ocorre no centro de reação dos **fotossistemas**.
+A **clorofila** de **cloroplastos** intactos não fluoresce porque os **elétrons** "**excitados**" são imediatamente transferidos para aceptores, processo que ocorre no centro de reação dos **fotossistemas**.
 ```
 ### Quimiossíntese
 Algumas espécies de **bactérias** e **arqueas** são **autotróficas** e produzem **substâncias orgânicas** por meio da **quimiossíntese**, um processo que utiliza a **energia** liberada por **reações oxidativas** de **substâncias inorgânicas** simples. 
@@ -518,20 +518,20 @@ Por exemplo, **arqueas metanogênicas** obtêm **energia** a partir da **reaçã
 
 A **equação** que resume esse processo é:
 $$
-CO_2 + 4 H_{2 }\rightarrow CH_4 + 2H_2O + \text{ENERGIA}
+CO2 + 4 H{2 }\rightarrow CH4 + 2H2O + \text{ENERGIA}
 $$
-Existem dois tipos importantes de **bactérias quimiossintetizantes** que vivem no solo e são fundamentais na reciclagem do **nitrogênio** na Terra. As _Nitrosomonas_ obtêm **energia** pela **oxidação** de **íon amônio** presente no solo, transformando-o em **íon nitrito**:
+Existem dois tipos importantes de **bactérias quimiossintetizantes** que vivem no solo e são fundamentais na reciclagem do **nitrogênio** na Terra. As Nitrosomonas obtêm **energia** pela **oxidação** de **íon amônio** presente no solo, transformando-o em **íon nitrito**:
 
 $$
-NH_{4^+}\xrightarrow{\text{Nitrosomonas sp.}} NO_2^-
+NH{4^+}\xrightarrow{\text{Nitrosomonas sp.}} NO2^-
 $$
 $$
 \text{Amônio} \rightarrow \text{Nitrito}
 $$
 
-As _Nitrobacter_, por sua vez, utilizam o **íon nitrito,** oxidando-o a **íon nitrato**:
+As Nitrobacter, por sua vez, utilizam o **íon nitrito,** oxidando-o a **íon nitrato**:
 $$
-NO_2^-\xrightarrow{\text{Nitrobacter sp.}} NO_3^-
+NO2^-\xrightarrow{\text{Nitrobacter sp.}} NO3^-
 $$
 $$
 \text{Nitrito} \rightarrow \text{Nitrato}
@@ -554,7 +554,7 @@ Todas as formas de vida em nosso planeta, com exceção de alguns **vírus**, t�
 As duas cadeias de um **DNA** mantêm-se unidas por meio de **ligações de hidrogênio** (**pontes de hidrogênio**) entre suas **bases nitrogenadas**. Essas ligações ocorrem entre pares de bases específicos. 
 
 ![[bio-dna-pontes-de-hidro.png]]
-A **adenina** se liga exclusivamente à **timina** (_A_ x _T_), enquanto a **citosina** se liga exclusivamente à **guanina** (_C_ x _G_). Isso faz com que as duas cadeias de uma **molécula de DNA** sejam sempre complementares. Dessa forma, um **nucleotídeo** com **adenina** em uma das cadeias sempre corresponde a um **nucleotídeo** com **timina** na outra cadeia, e vice-versa. Da mesma maneira, um **nucleotídeo** com **guanina** em uma das cadeias sempre corresponde a um **nucleotídeo** com **citosina** na outra cadeia, e vice-versa.
+A **adenina** se liga exclusivamente à **timina** (A x T), enquanto a **citosina** se liga exclusivamente à **guanina** (C x G). Isso faz com que as duas cadeias de uma **molécula de DNA** sejam sempre complementares. Dessa forma, um **nucleotídeo** com **adenina** em uma das cadeias sempre corresponde a um **nucleotídeo** com **timina** na outra cadeia, e vice-versa. Da mesma maneira, um **nucleotídeo** com **guanina** em uma das cadeias sempre corresponde a um **nucleotídeo** com **citosina** na outra cadeia, e vice-versa.
 
 ![[bio-dna-composição.png]]
 
@@ -595,7 +595,7 @@ Esse modo de duplicação, amplamente confirmado em inúmeros experimentos, é c
 No processo de **duplicação do DNA** (também chamado de replicação), as **pontes de hidrogênio** que unem as duas **cadeias** se desfazem e as **cadeias** se separam. À medida que as bases de cada **cadeia** se desemparelham de suas complementares, **nucleotídeos** livres presentes na **célula** unem-se a elas. 
 
 ```ad-important
-Nesse processo, precisa ser respeitado a regra de emparelhamento, ou seja, **adenina** emparelha-se com **timina** (_A_ x _T_) e **citosina**, com **guanina** (_C_ x _G_).
+Nesse processo, precisa ser respeitado a regra de emparelhamento, ou seja, **adenina** emparelha-se com **timina** (A x T) e **citosina**, com **guanina** (C x G).
 ```
 
 Os **nucleotídeos** que se encaixam em cada uma das **cadeias** do **DNA** em duplicação vão unindo-se uns aos outros, originando uma nova **cadeia** complementar à que serve de molde. Ao final do processo de duplicação, haverá duas **moléculas de DNA** idênticas, cada uma formada por uma **cadeia** proveniente da **molécula** original e por uma **cadeia** nova, recém-sintetizada a partir da união de **nucleotídeos** ordenados pela sequência das **bases nitrogenadas** da **cadeia** molde.
@@ -603,26 +603,26 @@ Os **nucleotídeos** que se encaixam em cada uma das **cadeias** do **DNA** em d
 ![[bio-dna-duplicação.png]]
 
 ```ad-note
-_a)_ A **molécula de DNA** é constituída por duas **cadeias** poli-**nucleotídicas** unidas por **pontes de hidrogênio** entre suas **bases nitrogenadas**. 
+a) A **molécula de DNA** é constituída por duas **cadeias** poli-**nucleotídicas** unidas por **pontes de hidrogênio** entre suas **bases nitrogenadas**. 
 
-_b)_ A primeira etapa no processo de **duplicação do DNA** é o rompimento das **pontes de hidrogênio** e a separação das duas **cadeias**. 
+b) A primeira etapa no processo de **duplicação do DNA** é o rompimento das **pontes de hidrogênio** e a separação das duas **cadeias**. 
 
-_c)_ Cada “_cadeia antiga_” serve de molde para a construção de uma “_cadeia nova_”, determinando a ordem em que devem se encaixar os **nucleotídeos** sobre ela. 
+c) Cada “cadeia antiga” serve de molde para a construção de uma “cadeia nova”, determinando a ordem em que devem se encaixar os **nucleotídeos** sobre ela. 
 
-_d)_ Os **nucleotídeos** ordenados sobre a **cadeia**-molde unem-se entre si formando uma nova **cadeia** complementar à antiga. Ao final do processo, são produzidas duas **moléculas de DNA** idênticas, cada uma delas constituída por uma “_cadeia antiga_” e por uma “_cadeia nova”_.
+d) Os **nucleotídeos** ordenados sobre a **cadeia**-molde unem-se entre si formando uma nova **cadeia** complementar à antiga. Ao final do processo, são produzidas duas **moléculas de DNA** idênticas, cada uma delas constituída por uma “cadeia antiga” e por uma “cadeia nova”.
 ```
 #### Genes e RNA (transcrição gênica)
 Um **gene** corresponde a uma região de uma **molécula de DNA** em um **cromossomo**, que pode abranger desde poucas dezenas de pares de **nucleotídeos** até milhões deles. 
 
-Cada **gene** determina a produção de uma **molécula** específica de **RNA**, "_transcrevendo_" para ela seu **código molecular**. Grande parte das **moléculas de RNA**, por sua vez, orienta a produção de **proteínas**, traduzindo a informação codificada na **molécula de RNA** em uma sequência de **aminoácidos**, característica de cada **molécula proteica**.
+Cada **gene** determina a produção de uma **molécula** específica de **RNA**, "transcrevendo" para ela seu **código molecular**. Grande parte das **moléculas de RNA**, por sua vez, orienta a produção de **proteínas**, traduzindo a informação codificada na **molécula de RNA** em uma sequência de **aminoácidos**, característica de cada **molécula proteica**.
 
 ```ad-note
-Hoje se sabe que apenas uma pequena parcela do **DNA** dos **seres eucarióticos** tem sua informação "_transcrita_" para **moléculas de RNA**, aproximadamente 3% dos 24 **cromossomos humanos**. Os 97% restantes são sequências de **nucleotídeos** que não produzem **RNA** e cuja função ainda não é bem conhecida, constituindo o chamado **DNA não codificante**.
+Hoje se sabe que apenas uma pequena parcela do **DNA** dos **seres eucarióticos** tem sua informação "transcrita" para **moléculas de RNA**, aproximadamente 3% dos 24 **cromossomos humanos**. Os 97% restantes são sequências de **nucleotídeos** que não produzem **RNA** e cuja função ainda não é bem conhecida, constituindo o chamado **DNA não codificante**.
 ```
 
 ```ad-summary
 ##### DNA não codificante
-O **genoma** de um **organismo eucariótico** pode ser comparado a uma coleção de livros de "_receitas genéticas_": cada livro corresponderia a um **cromossomo**, com sua respectiva **molécula de DNA**, e cada receita seria um **gene**. Cada um desses livros genéticos conteria poucas receitas, isto é, poucos **genes**; a maior parte do "texto" seria constituída por letras que não formam palavras, isto é, não contêm informação para a produção de **RNA** ou **proteína**, constituindo o **DNA não codificante**.
+O **genoma** de um **organismo eucariótico** pode ser comparado a uma coleção de livros de "receitas genéticas": cada livro corresponderia a um **cromossomo**, com sua respectiva **molécula de DNA**, e cada receita seria um **gene**. Cada um desses livros genéticos conteria poucas receitas, isto é, poucos **genes**; a maior parte do "texto" seria constituída por letras que não formam palavras, isto é, não contêm informação para a produção de **RNA** ou **proteína**, constituindo o **DNA não codificante**.
 
 ![[bio-limites-gene.png]]
 ```
@@ -637,9 +637,9 @@ A principal diferença entre esses dois **ácidos nucleicos** é que o **glicíd
 
 ```ad-summary
 ##### Os limites de um gene
-O que define o início e o fim de um **gene** na **molécula de DNA**?. Hoje se sabe que o início de um **gene** é marcado por uma sequência especial de pares de **bases nitrogenadas** conhecida como a _região promotora do gene_. Essa sequência determina o local do **DNA** em que a **polimerase** do **RNA** se encaixa para iniciar a **síntese de RNA**.
+O que define o início e o fim de um **gene** na **molécula de DNA**?. Hoje se sabe que o início de um **gene** é marcado por uma sequência especial de pares de **bases nitrogenadas** conhecida como a região promotora do gene. Essa sequência determina o local do **DNA** em que a **polimerase** do **RNA** se encaixa para iniciar a **síntese de RNA**.
 
-Após se encaixar à região promotora do **gene**, a **polimerase** do **RNA** separa a **dupla-hélice** do **DNA** e utiliza uma das **cadeias** como molde para a formação do **RNA**. O processo continua até que a **polimerase** do **RNA** encontra uma sequência específica de **bases nitrogenadas**, chamada de _sequência de término de transcrição_, que marca o fim do processo.
+Após se encaixar à região promotora do **gene**, a **polimerase** do **RNA** separa a **dupla-hélice** do **DNA** e utiliza uma das **cadeias** como molde para a formação do **RNA**. O processo continua até que a **polimerase** do **RNA** encontra uma sequência específica de **bases nitrogenadas**, chamada de sequência de término de transcrição, que marca o fim do processo.
 ```
 #### Transcrição gênica
 Todo **RNA** é produzido a partir do molde de **DNA**. Durante o processo de **produção do RNA**, chamado de **transcrição gênica**, as duas **cadeias do DNA** se separam, e uma delas serve de molde para o **RNA**, enquanto a outra **cadeia de DNA** permanece inativa. Ao final do processo, as duas cadeias de **DNA** se emparelham novamente, reconstituindo a **dupla-hélice**.
@@ -653,21 +653,21 @@ A **síntese de RNA** a partir de **DNA** é **catalisada** pela **enzima** **po
 ![[bio-sintese-rna.png]]
 
 ```ad-note
-_a)_ A **molécula de DNA** é constituída por duas **cadeias polinucleotídicas** unidas por suas **bases nitrogenada**s.
+a) A **molécula de DNA** é constituída por duas **cadeias polinucleotídicas** unidas por suas **bases nitrogenada**s.
 
-_b)_ A primeira etapa no processo de **síntese de RNA** é a separação das duas **cadeias do DNA** que constitui o **gene**.
+b) A primeira etapa no processo de **síntese de RNA** é a separação das duas **cadeias do DNA** que constitui o **gene**.
 
-_c)_ Uma das **cadeias do DNA** serve de molde para a formação do **RNA**, determinando a ordem em que devem se unir os **ribonucleotídeos**. A outra **cadeia do DNA** permanece inativa, aguardando o final do processo.
+c) Uma das **cadeias do DNA** serve de molde para a formação do **RNA**, determinando a ordem em que devem se unir os **ribonucleotídeos**. A outra **cadeia do DNA** permanece inativa, aguardando o final do processo.
 
-_d)_ Os **ribonucleotídeos** ordenados sobre a **cadeia**-molde unem-se, formando uma **molécula de RNA** complementar à **cadeia do DNA**. Ao final do processo, o **RNA** separa-se da **cadeia-molde** de **DNA**, e esta volta a se unir à sua **cadeia** complementar, reconstituindo a **dupla-hélice** de **DNA**.
+d) Os **ribonucleotídeos** ordenados sobre a **cadeia**-molde unem-se, formando uma **molécula de RNA** complementar à **cadeia do DNA**. Ao final do processo, o **RNA** separa-se da **cadeia-molde** de **DNA**, e esta volta a se unir à sua **cadeia** complementar, reconstituindo a **dupla-hélice** de **DNA**.
 ```
 
 ```ad-warning 
 Esse emparelhamento segue a regra de **cadeia-molde de DNA**: 
 
-_a)_ **ribonucleotídeos** com **uracila** emparelham-se às **adeninas** do **DNA** (_U_ x _A_);
-_b)_ **ribonucleotídeos** com **adenina** emparelham-se às **timinas** do **DNA** (_A_ x _T_);
-_c)_ **ribonucleotídeos** com **citosina** emparelham-se às **guaninas** do **DNA** (_C_ x _G_);
+a) **ribonucleotídeos** com **uracila** emparelham-se às **adeninas** do **DNA** (U x A);
+b) **ribonucleotídeos** com **adenina** emparelham-se às **timinas** do **DNA** (A x T);
+c) **ribonucleotídeos** com **citosina** emparelham-se às **guaninas** do **DNA** (C x G);
 ```
 
 À medida que o **DNA** se emparelha, os **ribonucleotídeos** unem-se por ação da **polimerase** do **RNA**, formando a **molécula de RNA**. Esta, à medida que é produzida, desprende-se da **cadeia-molde de DNA**, que volta a se juntar à sua parceira.
@@ -708,12 +708,12 @@ As **moléculas** de **RNA mensageiro** (**RNAm**) sintetizadas a partir dos **g
 A correspondência entre o **códon** e seu respectivo **aminoácido** é feita pelo **RNAt**, por meio do **anticódon**. Por exemplo, o **RNAt** com **anticódon** `UAC` encaixa-se no **RNAm** apenas onde há o **códon** `AUG`. 
 
 ```ad-info
-Como esse **RNAt** transporta o **aminoácido** _metionina_, é ele que vai se encaixar nos locais da **cadeia polipeptídica** correspondentes aos **códons** `AUG` do **RNAm**. 
+Como esse **RNAt** transporta o **aminoácido** metionina, é ele que vai se encaixar nos locais da **cadeia polipeptídica** correspondentes aos **códons** `AUG` do **RNAm**. 
 ```
 
-Assim, os **RNAt** atuam na **síntese das proteínas** como "_adaptadores_", encaixando os **aminoácidos** de acordo com os **códons** do **RNAm**. O **ribossomo**, por sua vez, serve de suporte para o acoplamento do **RNAm** e dos **RNAt**.
+Assim, os **RNAt** atuam na **síntese das proteínas** como "adaptadores", encaixando os **aminoácidos** de acordo com os **códons** do **RNAm**. O **ribossomo**, por sua vez, serve de suporte para o acoplamento do **RNAm** e dos **RNAt**.
 #### O Código Genético
-A correspondência entre os **códons** do **RNAm** e **aminoácidos** constitui o **código genético**. As quatro **bases nitrogenadas** presentes no **RNAm** (_A_, _U_, _C_ e _G_), reunidas três a três, formam 64 **códons** distintos. 
+A correspondência entre os **códons** do **RNAm** e **aminoácidos** constitui o **código genético**. As quatro **bases nitrogenadas** presentes no **RNAm** (A, U, C e G), reunidas três a três, formam 64 **códons** distintos. 
 
 ```ad-note
 Dos 64 **códons**, 61 correspondem aos vinte tipos de **aminoácido** que entram na constituição das **proteínas**. Os três **códons** restantes não correspondem a nenhum **aminoácido** e funcionam como pontuação, indicando o final da **informação genética** na **molécula do RNAm**.
@@ -723,7 +723,7 @@ Dos 64 **códons**, 61 correspondem aos vinte tipos de **aminoácido** que entra
 O **código genético** é praticamente o mesmo em todos os seres vivos do planeta e, por isso, diz-se que ele é universal. As exceções conhecidas restringem-se ao significado de alguns **códons** em **mitocôndrias** e em **genes nucleares** de umas poucas espécies.
 ```
 #### Síntese as proteínas
-A **síntese** de uma **cadeia polipeptídica** consiste em unir **aminoácidos** de acordo com a sequência de **códons** do **RNAm**. Como essa sequência é determinada pelas **bases nitrogenadas** do **DNA** (**gene**) que serviu de molde ao **RNAm**, a **síntese de proteínas** representa, portanto, a "_tradução_" da informação do **gene**, sendo por isso chamada de **tradução gênica**.
+A **síntese** de uma **cadeia polipeptídica** consiste em unir **aminoácidos** de acordo com a sequência de **códons** do **RNAm**. Como essa sequência é determinada pelas **bases nitrogenadas** do **DNA** (**gene**) que serviu de molde ao **RNAm**, a **síntese de proteínas** representa, portanto, a "tradução" da informação do **gene**, sendo por isso chamada de **tradução gênica**.
 
 ```ad-important
 **Proteínas** são **substâncias** essenciais à estrutura das **células** vivas; além disso, elas atuam como **enzimas**, comandando praticamente todos os processos vitais.
@@ -733,36 +733,36 @@ No processo de **tradução gênica**, participam, dentre outros fatores, um **r
 
 À medida que esse deslocamento ocorre, os **RNAt** vão encaixando os **aminoácidos** na sequência definida pela ordem dos **códons** do **RNA mensageiro**. Dessa forma, a informação inscrita na sequência de **bases** do **RNAm** vai sendo traduzida na sequência de **aminoácidos** da **proteína**. 
 ##### Início da síntese da cadeia polipeptídica
-A **síntese de um polipeptídeo** tem início com a associação entre um **ribossomo**, um **RNAm** e o **RNAt** que transporta o **aminoácido** **_metionina_**. Esse **RNAt**, cujo **anticódon** é _UAC_, emparelha-se com um **códon** _AUG_ presente perto da extremidade inicial da **molécula do RNAm**. 
+A **síntese de um polipeptídeo** tem início com a associação entre um **ribossomo**, um **RNAm** e o **RNAt** que transporta o **aminoácido** **metionina**. Esse **RNAt**, cujo **anticódon** é UAC, emparelha-se com um **códon** AUG presente perto da extremidade inicial da **molécula do RNAm**. 
 
 ![[bio-dna-inicio-sintese-pro.png]]
 
 ```ad-info
-O **códon** _AUG_ constitui o chamado **códon** de _início de tradução_, pois é ele que determina o local da **molécula de RNAm** em que tem início a informação para a **cadeia polipeptídica**, iniciada sempre **aminoácido** _**metionina**_.
+O **códon** AUG constitui o chamado **códon** de início de tradução, pois é ele que determina o local da **molécula de RNAm** em que tem início a informação para a **cadeia polipeptídica**, iniciada sempre **aminoácido** **metionina**.
 ```
 ##### Crescimento da cadeia polipeptídica
-O **RNAt** especial, que transporta **_metionina_** e inicia a **tradução gênica**, encaixa-se a um local do **ribossomo** onde se aloja o primeiro **códon** – _AUG_ – do **RNAm**. Esse local do **ribossomo** é chamado _sítio P_ (de _peptidil_), pois, durante o processo da **síntese de proteínas**, ele é ocupado pelo **RNAt** que carrega a **cadeia polipeptídica** em formação. Ao lado do _sítio P_, localiza-se o _sítio A_ (de _aminoacil_), onde se aloja o **RNAt** que carrega o **aminoácido** a ser incorporado na **cadeia polipeptídica** em formação. 
+O **RNAt** especial, que transporta **metionina** e inicia a **tradução gênica**, encaixa-se a um local do **ribossomo** onde se aloja o primeiro **códon** – AUG – do **RNAm**. Esse local do **ribossomo** é chamado sítio P (de peptidil), pois, durante o processo da **síntese de proteínas**, ele é ocupado pelo **RNAt** que carrega a **cadeia polipeptídica** em formação. Ao lado do sítio P, localiza-se o sítio A (de aminoacil), onde se aloja o **RNAt** que carrega o **aminoácido** a ser incorporado na **cadeia polipeptídica** em formação. 
 
-Com o primeiro **RNAt** alojado no _sítio P,_ um segundo **RNAt** aloja-se no _sítio A_. O **anticódon** desse segundo **RNAt** será complementar ao segundo **códon** do **RNAm**, que está sob o _sítio A_. 
+Com o primeiro **RNAt** alojado no sítio P, um segundo **RNAt** aloja-se no sítio A. O **anticódon** desse segundo **RNAt** será complementar ao segundo **códon** do **RNAm**, que está sob o sítio A. 
 
 ```ad-tip
-Nesse caso, por exemplo, se o **códon** do **RNAm** no _sítio A_ for _UUU_, o **RNAt** que nele se aloja terá **anticódon** _AAA_ e, portanto, transportará o **aminoácido** _fenilalanina_ (_Phe_). 
+Nesse caso, por exemplo, se o **códon** do **RNAm** no sítio A for UUU, o **RNAt** que nele se aloja terá **anticódon** AAA e, portanto, transportará o **aminoácido** fenilalanina (Phe). 
 ```
 
 ![[bio-dna-crescimento-cadeia-poli.png]]
 
-Assim que os dois primeiros **RNAt** se encaixam aos _sítios P_ e _A_, o **ribossomo** **catalisa** a separação da _**metionina**_ de seu **RNAt** e sua imediata ligação ao **aminoácido** transportado pelo segundo **RNAt**, que ocupa o _sítio A_. Em seguida, o **ribossomo** desloca-se sobre a **molécula de RNAm**, dando um "_passo_" correspondente a uma **trinca de bases**. Com isso, o **RNAt** que transportava a _**metionina**_ desprende-se do **RNAm** e do **ribossomo**, e o **RNAt** que originalmente ocupava o _sítio A_ passa a ocupar o _sítio P_, carregando agora dois **aminoácidos** unidos pela **ligação peptídica**. O _sítio A_ do **ribossomo** torna-se disponível para a entrada do próximo **RNAt**.
+Assim que os dois primeiros **RNAt** se encaixam aos sítios P e A, o **ribossomo** **catalisa** a separação da **metionina** de seu **RNAt** e sua imediata ligação ao **aminoácido** transportado pelo segundo **RNAt**, que ocupa o sítio A. Em seguida, o **ribossomo** desloca-se sobre a **molécula de RNAm**, dando um "passo" correspondente a uma **trinca de bases**. Com isso, o **RNAt** que transportava a **metionina** desprende-se do **RNAm** e do **ribossomo**, e o **RNAt** que originalmente ocupava o sítio A passa a ocupar o sítio P, carregando agora dois **aminoácidos** unidos pela **ligação peptídica**. O sítio A do **ribossomo** torna-se disponível para a entrada do próximo **RNAt**.
 
-Com o deslocamento do **ribossomo**, o _sítio A_ passa a se localizar sobre o terceiro **códon** do **RNAm**. Este orienta a entrada de um **RNAt** com **anticódon** complementar. O **ribossomo** **catalisa** a separação do **RNAt** que ocupava o _sítio P_ e do **dipeptídeo** que ele transportava.
+Com o deslocamento do **ribossomo**, o sítio A passa a se localizar sobre o terceiro **códon** do **RNAm**. Este orienta a entrada de um **RNAt** com **anticódon** complementar. O **ribossomo** **catalisa** a separação do **RNAt** que ocupava o sítio P e do **dipeptídeo** que ele transportava.
 
-Simultaneamente, ocorre a **ligação peptídica** entre o segundo **aminoácido** do **dipeptídeo** e o **aminoácido** recém-chegado, transportado pelo **RNAt** ocupante do _sítio A_. Outra vez o **ribossomo** dá um "_passo_" correspondente a uma **trinca de bases**. Com isso, o **RNAt** sem **aminoácidos** se solta, e o _sítio P_ passa a ser ocupado pelo terceiro **RNAt**, que agora transporta um **tripeptídeo**. O _sítio A_, agora localizado sobre o quarto **códon** do **RNAm**, fica disponível para receber o próximo **RNAt** com seu respectivo **aminoácido**. Assim, à medida que o **ribossomo** se desloca sobre o **RNAm**, a **cadeia polipeptídica** cresce.
+Simultaneamente, ocorre a **ligação peptídica** entre o segundo **aminoácido** do **dipeptídeo** e o **aminoácido** recém-chegado, transportado pelo **RNAt** ocupante do sítio A. Outra vez o **ribossomo** dá um "passo" correspondente a uma **trinca de bases**. Com isso, o **RNAt** sem **aminoácidos** se solta, e o sítio P passa a ser ocupado pelo terceiro **RNAt**, que agora transporta um **tripeptídeo**. O sítio A, agora localizado sobre o quarto **códon** do **RNAm**, fica disponível para receber o próximo **RNAt** com seu respectivo **aminoácido**. Assim, à medida que o **ribossomo** se desloca sobre o **RNAm**, a **cadeia polipeptídica** cresce.
 ##### Término da síntese da cadeia polipeptídica
-O último estágio da síntese de um **polipeptídeo** ocorre quando o **ribossomo** chega a um **códon** de parada, ou seja, um dos três **códons** para os quais não há **aminoácido** correspondente. Quando isso ocorre, o _sítio A_ do **ribossomo** é ocupado por uma **proteína** denominada _fator de liberação_ e todos os participantes do processo se separam, inclusive as duas subunidades do **ribossomo**, liberando a **cadeia polipeptídica** formada.
+O último estágio da síntese de um **polipeptídeo** ocorre quando o **ribossomo** chega a um **códon** de parada, ou seja, um dos três **códons** para os quais não há **aminoácido** correspondente. Quando isso ocorre, o sítio A do **ribossomo** é ocupado por uma **proteína** denominada fator de liberação e todos os participantes do processo se separam, inclusive as duas subunidades do **ribossomo**, liberando a **cadeia polipeptídica** formada.
 
 O processo de **síntese das proteínas** é rigorosamente ordenado, o que garante que os tipos e a sequência de **aminoácidos** de uma **cadeia polipeptídica** sejam determinados, com precisão, pela sequência de **códons** do **RNAm**. Como este é produzido pela **transcrição** exata de uma das **cadeias de DNA**, concluímos que a sequência e os tipos de **aminoácidos** em uma **proteína** são determinados pela sequência de **bases do DNA**, ou seja, pelos **genes**.
 
 ```ad-note
-As **proteínas**, além de sua importante _função estrutural_, também atuam como **enzimas**, que controlam praticamente todas as **reações metabólicas das células**. Portanto, ao controlar a **produção das proteínas**, os **genes** exercem o controle das características e das **atividades celulares**.
+As **proteínas**, além de sua importante função estrutural_, também atuam como **enzimas**, que controlam praticamente todas as **reações metabólicas das células**. Portanto, ao controlar a **produção das proteínas**, os **genes** exercem o controle das características e das **atividades celulares**.
 ```
 ##### Polirribossomos (ou polissomos)
 À medida que um **ribossomo** se desloca sobre um **RNAm**, **traduzindo** sua mensagem na forma de uma **cadeia polipeptídica**, outro **ribossomo** pode também iniciar a **tradução** do mesmo **RNAm**. Assim, vários **ribossomos** podem se encaixar sucessivamente no início de um **RNAm**, percorrendo-o e saindo na extremidade oposta, todos sintetizando o mesmo tipo de **cadeia polipeptídica**.

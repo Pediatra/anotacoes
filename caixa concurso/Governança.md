@@ -6,7 +6,7 @@ A governança é a responsabilidade da alta direção da organização, como o c
 - **Monitorar (Monitor)**: Acompanhar e medir o desempenho da TI.
 ```
 # COBIT
-O **COBIT 5** preconiza uma abordagem **holística** para o gerenciamento de serviços de TI, **_cobrindo a organização de ponta a ponta_** e considerando **_todas as inter-relações_** e componentes envolvidos. Essa abordagem é fundamental para garantir uma governança eficaz e uma gestão de TI alinhada aos objetivos e necessidades da organização como um todo.
+O **COBIT 5** preconiza uma abordagem **holística** para o gerenciamento de serviços de TI, **cobrindo a organização de ponta a ponta** e considerando **todas as inter-relações** e componentes envolvidos. Essa abordagem é fundamental para garantir uma governança eficaz e uma gestão de TI alinhada aos objetivos e necessidades da organização como um todo.
 ### Princípios 
 - **Atender às Necessidades das Partes Interessadas:**
     - As organizações existem para criar valor para suas partes interessadas.

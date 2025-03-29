@@ -1,5 +1,5 @@
 # Análise e Projeto Orientados a Objetos
-A perspectiva empregada na análise é de _objetos_ (coisas, conceitos ou entidades). Durante a Análise OO, a ênfase está em achar e descrever objetos (ou conceitos) no domínio do problema. Por exemplo, num sistema de informação para uma biblioteca, alguns dos conceitos são _Livro_, _Biblioteca_, _Usuário_. Tais objetos podem ter atributos e responsabilidades. Durante o projeto orientado a objeto, a ênfase está em achar objetos lógicos de software que poderão ser eventualmente implementados usando uma linguagem de programação OO. Tais objetos podem ter atributos e métodos. Durante a construção (programação OO), os objetos do projeto são implementados e testados.
+A perspectiva empregada na análise é de objetos (coisas, conceitos ou entidades). Durante a Análise OO, a ênfase está em achar e descrever objetos (ou conceitos) no domínio do problema. Por exemplo, num sistema de informação para uma biblioteca, alguns dos conceitos são Livro, Biblioteca, Usuário. Tais objetos podem ter atributos e responsabilidades. Durante o projeto orientado a objeto, a ênfase está em achar objetos lógicos de software que poderão ser eventualmente implementados usando uma linguagem de programação OO. Tais objetos podem ter atributos e métodos. Durante a construção (programação OO), os objetos do projeto são implementados e testados.
 
 O foco é entender o domínio do problema e modelar esse entendimento em termos de objetos. Esses objetos devem refletir as entidades reais do domínio e suas interações, bem como o desenvolvimento de um modelo orientado a objetos do domínio da aplicação. 
 
@@ -484,9 +484,9 @@ Em suma, O CMMI é um framework para medir maturidade dos processos de TI. Este 
 
 Essas duas representações possíveis são:
 ##### Representação Por Estágios (Abrangente)
-Disponibiliza uma sequência pré-determinada para melhoria baseada em estágios que não deve ser desconsiderada, pois cada estágio serve de base para o próximo. É caracterizado por Níveis de Maturidade (_Maturity Levels_)
+Disponibiliza uma sequência pré-determinada para melhoria baseada em estágios que não deve ser desconsiderada, pois cada estágio serve de base para o próximo. É caracterizado por Níveis de Maturidade (Maturity Levels)
 ##### Representação Continua  (Incremental)
-Possibilita a organização utilizar a ordem de melhoria que melhor atender os objetivos de negócio da empresa. É caracterizado por Níveis de Capacidade (_Capability Levels_)
+Possibilita a organização utilizar a ordem de melhoria que melhor atender os objetivos de negócio da empresa. É caracterizado por Níveis de Capacidade (Capability Levels)
 #### Maturidade
 Os níveis de maturidade do CMMI na representação contínua são os seguintes:
 

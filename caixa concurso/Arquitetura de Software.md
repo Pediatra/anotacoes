@@ -199,7 +199,7 @@ Ponto de Função (PF) é a unidade de medida que tem por objetivo tornara medi�
 ![[arq-analpf.png]]
 
 1. **Obter documentação disponível do projeto**: A contagem de pontos de função se inicia com a análise da documentação disponível do projeto em questão, visando à identificação dos requisitos funcionais.
-2. **Propósito da Contagem**: Uma contagem deve prover uma resposta a um problema do negócio e é o problema do negócio que determina o propósito. O objetivo, nesta etapa, é tornar claro o que se pretende atingir com a contagem que será feita. Por exemplo: _“Qual o tamanho deste software a nível funcional? Quanto tempo para desenvolver? Qual o tamanho da equipe?..”_. Os tipos de propósito da contagem são:
+2. **Propósito da Contagem**: Uma contagem deve prover uma resposta a um problema do negócio e é o problema do negócio que determina o propósito. O objetivo, nesta etapa, é tornar claro o que se pretende atingir com a contagem que será feita. Por exemplo: “Qual o tamanho deste software a nível funcional? Quanto tempo para desenvolver? Qual o tamanho da equipe?..”. Os tipos de propósito da contagem são:
 	- **Projeto de Desenvolvimento**: Este tipo de contagem mede a funcionalidade entregue ao usuário na primeira instalação do software, quando o projeto estiver completo.
 	- **Projeto de Melhoria**: Este tipo de contagem mede as modificações em uma aplicação já existente que adicione, altere ou exclua funções entregues ao usuário quando o projeto estiver completo.
 	- **Aplicação**: Este tipo de contagem está relacionado à aplicação instalada. Representa a baseline da contagem de pontos de função de uma aplicação, ou seja, é uma medida das funções atuais providas ao usuário.

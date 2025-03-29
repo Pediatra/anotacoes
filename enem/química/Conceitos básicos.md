@@ -1,22 +1,22 @@
 ## Matéria
-A mesa, a cadeira, as nossas roupas e o nosso **organismo** são exemplos de **matéria**. Todos os _seres_ e _objetos_ que fazem parte do nosso mundo são feitos de **matéria**.
+A mesa, a cadeira, as nossas roupas e o nosso **organismo** são exemplos de **matéria**. Todos os seres e objetos que fazem parte do nosso mundo são feitos de **matéria**.
 
 ```ad-info
- Do ponto de vista _científico_, **matéria** é tudo o que tem **massa** e ocupa lugar no _espaço_.
+ Do ponto de vista científico, **matéria** é tudo o que tem **massa** e ocupa lugar no espaço.
 ```
 ### Massa e unidades 
-O primeiro passo para determinar a **massa** de _objetos_ é a escolha de um _padrão_. O _padrão_ de **massa** mais conhecido e utilizado é o _quilograma_, simbolizado por _kg_. Dizer que um _objeto_ possui **massa** de 1 kg significa dizer que, ao colocá-lo num dos pratos da balança, o equilíbrio será estabelecido colocando-se no outro prato o objeto padrão de **massa** 1 kg.
+O primeiro passo para determinar a **massa** de objetos é a escolha de um padrão. O padrão de **massa** mais conhecido e utilizado é o quilograma, simbolizado por kg. Dizer que um objeto possui **massa** de 1 kg significa dizer que, ao colocá-lo num dos pratos da balança, o equilíbrio será estabelecido colocando-se no outro prato o objeto padrão de **massa** 1 kg.
 
 ```ad-note
-A _tonelada_ e o _grama_ são, respectivamente, _múltiplo_ e _submúltiplo_ importantes do _quilograma_. A _tonelada_ (t) equivale a _mil quilogramas_; o _grama_ (g) é a milésima parte do _quilograma_ (1 g = 0,001 kg) ou, de modo equivalente, o _quilograma_ equivale a mil _gramas_ (1 kg = 1.000 g).
+A tonelada e o grama são, respectivamente, múltiplo e submúltiplo importantes do quilograma. A tonelada (t) equivale a mil quilogramas; o grama (g) é a milésima parte do quilograma (1 g = 0,001 kg) ou, de modo equivalente, o quilograma equivale a mil gramas (1 kg = 1.000 g).
 
-Imagine que temos um avião de carga, e o _peso total_ da carga é de 10 _toneladas_. Isso significa que a carga pesa 10.000 _quilogramas_ ou 10.000.000 de _gramas_.
+Imagine que temos um avião de carga, e o peso total da carga é de 10 toneladas. Isso significa que a carga pesa 10.000 quilogramas ou 10.000.000 de gramas.
 
-1 _tonelada_ = 1.000 kg
-1 _grama_ = 0,001 kg
+1 tonelada = 1.000 kg
+1 grama = 0,001 kg
 ```
 ### Volume e unidades
-Ocupar _lugar_ no espaço é uma característica da **matéria** associada à **grandeza** denominada **volume**. Em outras palavras, o **volume** de uma porção de **matéria** expressa quanto de espaço é ocupado por ela.
+Ocupar lugar no espaço é uma característica da **matéria** associada à **grandeza** denominada **volume**. Em outras palavras, o **volume** de uma porção de **matéria** expressa quanto de espaço é ocupado por ela.
 
 ```ad-important
 Unidades de **volume** importantes são o **decímetro cúbico** (dm³), o **litro** (L), o **centímetro cúbico** (cm³), o **mililitro** (mL) e o **metro cúbico** (m³).
@@ -25,7 +25,7 @@ Unidades de **volume** importantes são o **decímetro cúbico** (dm³), o **lit
 O **decímetro cúbico** (dm³) é o **volume** de um **cubo** cuja **aresta** mede 1 dm (um **decímetro**), ou seja, 10 cm. 
 
 ```ad-important
-Essa _unidade_ é equivalente ao **litro** (L).
+Essa unidade é equivalente ao **litro** (L).
 
 1 dm³ = 1L
 
@@ -34,13 +34,13 @@ Essa _unidade_ é equivalente ao **litro** (L).
 O **centímetro cúbico** (cm³) é o **volume** de um **cubo** cuja **aresta** tem a medida de 1 cm. 
 
 ```ad-important
-A unidade de **volume** **mililitro** (mL) é definida como sendo a _milésima_ parte do **litro**. Como consequência dessa definição, um **litro** corresponde a mil **mililitros** (1 L = 1.000 mL). E já que um **decímetro cúbico** equivale a um **litro**, podemos afirmar que:
+A unidade de **volume** **mililitro** (mL) é definida como sendo a milésima parte do **litro**. Como consequência dessa definição, um **litro** corresponde a mil **mililitros** (1 L = 1.000 mL). E já que um **decímetro cúbico** equivale a um **litro**, podemos afirmar que:
 
 1dm³ = 1L = 1000cm³ = 1000mL
 1cm³ = 1mL
 ```
 #### O metro cúbico
-O **metro cúbico** é o **volume** de um **cubo** de **aresta** 1 m. Trata-se, portanto, de uma unidade de **volume** _maior_ que as anteriores. 
+O **metro cúbico** é o **volume** de um **cubo** de **aresta** 1 m. Trata-se, portanto, de uma unidade de **volume** maior que as anteriores. 
 
 ```ad-important
 1 **metro cúbico** corresponde a 1000 **decímetros cúbicos**. Assim, podemos definir:
@@ -48,17 +48,17 @@ O **metro cúbico** é o **volume** de um **cubo** de **aresta** 1 m. Trata-se, 
 1m³=1000dm³=1000L
 ```
 ### Densidade
-Quando jogamos vários pedaços de cortiça em um recipiente com **água**, verificamos que todos _flutuam_ no **líquido**. Já ao jogarmos vários pedaços de **chumbo**, todos _afundam_. 
+Quando jogamos vários pedaços de cortiça em um recipiente com **água**, verificamos que todos flutuam no **líquido**. Já ao jogarmos vários pedaços de **chumbo**, todos afundam. 
 
-Algumas pessoas tentam explicar esse fato dizendo que o **chumbo** é mais “_pesado_” que a cortiça. Curiosamente, porém, um pedaço de cortiça de massa 10 kg _flutua_, enquanto um pedaço de **chumbo** de 1 kg _afunda_. Verifica-se experimentalmente que não importa a massa: pedaços de cortiça _flutuam_ na **água** e pedaços de **chumbo** _afundam_.
+Algumas pessoas tentam explicar esse fato dizendo que o **chumbo** é mais “pesado” que a cortiça. Curiosamente, porém, um pedaço de cortiça de massa 10 kg flutua, enquanto um pedaço de **chumbo** de 1 kg afunda. Verifica-se experimentalmente que não importa a massa: pedaços de cortiça flutuam na **água** e pedaços de **chumbo** afundam.
 
-Em segundo lugar, a **densidade** de um mesmo _material_ depende da _temperatura_. Um _aquecimento_, por exemplo, provoca a **dilatação** do _material_ (aumento de **volume**) e isso interfere no valor de sua **densidade**. No caso de **gases**, cujo **volume** é muito _sensível_ a variações de **pressão**, a **densidade**, além de depender da _temperatura_, depende também da **pressão**. 
+Em segundo lugar, a **densidade** de um mesmo material depende da temperatura. Um aquecimento, por exemplo, provoca a **dilatação** do material (aumento de **volume**) e isso interfere no valor de sua **densidade**. No caso de **gases**, cujo **volume** é muito sensível a variações de **pressão**, a **densidade**, além de depender da temperatura, depende também da **pressão**. 
 
 ```ad-abstract
-**Mudanças de estado físico** provocam mudanças na **densidade** de uma **substância**. A **água** **líquida**, por exemplo, tem **densidade** 1 g/cm3, e a **água** **sólida** tem densidade 0,92 g/cm³. Isso permite entender por que o **gelo** _flutua_ na **água**.
+**Mudanças de estado físico** provocam mudanças na **densidade** de uma **substância**. A **água** **líquida**, por exemplo, tem **densidade** 1 g/cm3, e a **água** **sólida** tem densidade 0,92 g/cm³. Isso permite entender por que o **gelo** flutua na **água**.
 ```
 
-Afinal, _afundar_ ou _flutuar_ depende de que _característica_ do objeto? Vamos analisar os resultados experimentais apresentados a fim de tentar explicar por que a cortiça _boia_ e o **chumbo** _afunda_ na **água**.
+Afinal, afundar ou flutuar depende de que característica do objeto? Vamos analisar os resultados experimentais apresentados a fim de tentar explicar por que a cortiça boia e o **chumbo** afunda na **água**.
 
 O primeiro passo é medir, com uma balança, a **massa** de quatro pedaços de cortiça de volumes 1 cm³, 2 cm³, 100 cm³ e 1.000 cm³. Para a variedade de cortiça utilizada, foram obtidas as seguintes **massas**:
 
@@ -76,7 +76,7 @@ Analogamente, pode-se determinar a **massa** de pedaços de **chumbo** de **volu
 
 Percebeu alguma regularidade?
 
-A **massa** e o **volume** da cortiça são diretamente _proporcionais_. Quando o **volume** aumenta, a **massa** aumenta na mesma _proporção_. Matematicamente, podemos dizer que a razão (divisão) entre a **massa** e o **volume** de um pedaço de cortiça fornece resultado _constante_. O mesmo pode-se afirmar para o **chumbo**.
+A **massa** e o **volume** da cortiça são diretamente proporcionais. Quando o **volume** aumenta, a **massa** aumenta na mesma proporção. Matematicamente, podemos dizer que a razão (divisão) entre a **massa** e o **volume** de um pedaço de cortiça fornece resultado constante. O mesmo pode-se afirmar para o **chumbo**.
 
 A razão entre **massa** e **volume** para a cortiça é:
 $$
@@ -96,14 +96,14 @@ $$
 $$
 
 ```ad-important
-A **densidade** de um _objeto_ ou de uma _amostra_ de certo _material_ ou **substância** é o resultado da _divisão_ da sua **massa** pelo seu **volume**.
+A **densidade** de um objeto ou de uma amostra de certo material ou **substância** é o resultado da divisão da sua **massa** pelo seu **volume**.
 ```
 
-A unidade da **densidade** é composta de uma **unidade de massa** _dividida_ por uma **unidade de volume**. Assim, podemos expressá-la, por exemplo, em g/cm³, g/L, kg/L etc.
+A unidade da **densidade** é composta de uma **unidade de massa** dividida por uma **unidade de volume**. Assim, podemos expressá-la, por exemplo, em g/cm³, g/L, kg/L etc.
 
 Mas o que tem a **densidade** a ver com **flutuação**?
 
-Para tentar responder a essa pergunta, vamos calcular a **densidade** da **água**. Antes disso, precisamos determinar experimentalmente o **volume** e a **massa** de uma ou mais _amostras_ desse **líquido**. Exemplos de resultados dessas determinações são:
+Para tentar responder a essa pergunta, vamos calcular a **densidade** da **água**. Antes disso, precisamos determinar experimentalmente o **volume** e a **massa** de uma ou mais amostras desse **líquido**. Exemplos de resultados dessas determinações são:
 
 - 1 cm³ de **água** tem **massa** 1 g;
 - 2 cm³ de **água** têm **massa** 2 g;
@@ -130,7 +130,7 @@ Concluímos que:
 ```ad-tldr
 Imagine, por exemplo, que uma bolinha de gude (**densidade** = 2,7 g/cm³) e um pedaço de isopor (**densidade** = 0,03 g/cm³) sejam colocados num frasco com azeite de oliva (**densidade** = 0,92 g/cm³). O que se pode prever?
 
-O pedaço de isopor, _menos_ denso que o azeite, irá _flutuar_ nele. E a bolinha de gude, _mais_ densa que ele, irá _afundar_.
+O pedaço de isopor, menos denso que o azeite, irá flutuar nele. E a bolinha de gude, mais densa que ele, irá afundar.
 ```
 #### Exercícios 
 
@@ -242,31 +242,31 @@ e) IV e V.
 ## Estados da matéria
 A matéria é tudo que possui **massa** e ocupa lugar no espaço. Ela pode existir em diferentes **estados**, dependendo das condições de temperatura e pressão. Os principais **estados da matéria** são **sólido**, **líquido** e **gasoso**, também existem outros **estados** menos comuns, como o **plasma**.
 ### Sólido
-No **estado sólido**, a **matéria** possui _forma_ e _volume_ definidos. As **partículas** que compõem um **sólido** estão organizadas de _maneira ordenada_ e _vibram_ apenas em suas posições fixas. Isso faz com que os **sólidos** sejam _rígidos_ e mantenham sua _forma_ independentemente do recipiente em que estejam. Exemplos comuns de **sólidos** incluem o _gelo_, a _madeira_ e o _ferro_.
+No **estado sólido**, a **matéria** possui forma e volume definidos. As **partículas** que compõem um **sólido** estão organizadas de maneira ordenada e vibram apenas em suas posições fixas. Isso faz com que os **sólidos** sejam rígidos e mantenham sua forma independentemente do recipiente em que estejam. Exemplos comuns de **sólidos** incluem o gelo, a madeira e o ferro.
 ### Líquido
-No **estado líquido**, a **matéria** tem _volume definido_, mas sua _forma_ é _variável_, adaptando-se ao recipiente que a contém. As **partículas** em um **líquido** estão próximas umas das outras, mas _não em posições fixas_; elas podem deslizar umas sobre as outras, permitindo que o **líquido** _flua_. Exemplos de líquidos são a **água**, o _óleo_ e o _álcool_.
+No **estado líquido**, a **matéria** tem volume definido, mas sua forma é variável, adaptando-se ao recipiente que a contém. As **partículas** em um **líquido** estão próximas umas das outras, mas não em posições fixas; elas podem deslizar umas sobre as outras, permitindo que o **líquido** flua. Exemplos de líquidos são a **água**, o óleo e o álcool.
 ### Gasoso
-No **estado gasoso**, a **matéria** não tem _forma_ nem _volume_ definidos. As **partículas** em um **gás** estão _muito afastadas_ umas das outras e se _movem rapidamente_ em todas as direções, ocupando todo o _espaço_ disponível. Isso permite que os **gases** sejam facilmente _compressíveis_ e _expansíveis_. Exemplos de gases incluem o **oxigênio**, o **nitrogênio** e o **vapor d'água**.
+No **estado gasoso**, a **matéria** não tem forma nem volume definidos. As **partículas** em um **gás** estão muito afastadas umas das outras e se movem rapidamente em todas as direções, ocupando todo o espaço disponível. Isso permite que os **gases** sejam facilmente compressíveis e expansíveis. Exemplos de gases incluem o **oxigênio**, o **nitrogênio** e o **vapor d'água**.
 ### Mudanças de estado físico
 
 ![[quim-mudança-estado.png]]
 #### Fusão
-Processo pelo qual um **sólido** se _transforma_ em **líquido**. Isso ocorre quando a _temperatura_ do **sólido** _aumenta_ até alcançar o **ponto de fusão**. Durante a **fusão**, as **partículas** do **sólido** ganham **energia** suficiente para superar as **forças de atração** que as mantêm em _posições fixas_, permitindo que se movam mais livremente como em um **líquido**.
+Processo pelo qual um **sólido** se transforma em **líquido**. Isso ocorre quando a temperatura do **sólido** aumenta até alcançar o **ponto de fusão**. Durante a **fusão**, as **partículas** do **sólido** ganham **energia** suficiente para superar as **forças de atração** que as mantêm em posições fixas, permitindo que se movam mais livremente como em um **líquido**.
 #### Solidificação
-Processo pelo qual um **líquido** se _transforma_ em **sólido**. Isso ocorre quando a _temperatura_ do **líquido** _diminui_ até atingir o **ponto de solidificação**. Durante a **solidificação**, as **partículas** do **líquido** perdem **energia** e se organizam em _posições fixas_, formando um **sólido**.
+Processo pelo qual um **líquido** se transforma em **sólido**. Isso ocorre quando a temperatura do **líquido** diminui até atingir o **ponto de solidificação**. Durante a **solidificação**, as **partículas** do **líquido** perdem **energia** e se organizam em posições fixas, formando um **sólido**.
 #### Vaporização
-Processo pelo qual um **líquido** se _transforma_ em **gás**. 
-- **Evaporação**: **Vaporização** que ocorre apenas na _superfície_ do **líquido**. A **evaporação** pode acontecer em qualquer _temperatura_, desde que as **partículas** na _superfície_ do **líquido** tenham **energia** suficiente para _escapar_ para a **fase gasosa**.
-- **Ebulição**: **Vaporização** que ocorre em todo o **líquido**. A **ebulição** acontece quando a _temperatura_ do **líquido** atinge o **ponto de ebulição**, formando bolhas de **vapor** dentro do **líquido** que sobem à _superfície_.
+Processo pelo qual um **líquido** se transforma em **gás**. 
+- **Evaporação**: **Vaporização** que ocorre apenas na superfície do **líquido**. A **evaporação** pode acontecer em qualquer temperatura, desde que as **partículas** na superfície do **líquido** tenham **energia** suficiente para escapar para a **fase gasosa**.
+- **Ebulição**: **Vaporização** que ocorre em todo o **líquido**. A **ebulição** acontece quando a temperatura do **líquido** atinge o **ponto de ebulição**, formando bolhas de **vapor** dentro do **líquido** que sobem à superfície.
 
 ```ad-summary
 ##### Efeito da Altitude  
-À medida que a **altitude** _aumenta_, a **pressão atmosférica** _diminui_. Isso ocorre porque há _menos_ ar acima da _superfície_ em **altitudes** _maiores_.  Desse modo, há um _diminuição_ do **ponto de ebulição**. Em **altitudes** _elevadas_, a **água**, por exemplo, ferve a temperaturas _mais baixas_ do que ao **nível do mar**. No Monte Everest, a água pode ferver a cerca de 68°C em vez de 100°C.
+À medida que a **altitude** aumenta, a **pressão atmosférica** diminui. Isso ocorre porque há menos ar acima da superfície em **altitudes** maiores.  Desse modo, há um diminuição do **ponto de ebulição**. Em **altitudes** elevadas, a **água**, por exemplo, ferve a temperaturas mais baixas do que ao **nível do mar**. No Monte Everest, a água pode ferver a cerca de 68°C em vez de 100°C.
 ```
 #### Condensação 
-Processo pelo qual um **gás** se _transforma_ em **líquido**. Isso ocorre quando a _temperatura_ do **gás** diminui e as **partículas** perdem **energia**, aproximando-se e formando _ligações mais fortes_, resultando em um **líquido**.
+Processo pelo qual um **gás** se transforma em **líquido**. Isso ocorre quando a temperatura do **gás** diminui e as **partículas** perdem **energia**, aproximando-se e formando ligações mais fortes, resultando em um **líquido**.
 #### Sublimação
-Processo pelo qual um **sólido** se _transforma_ diretamente em **gás**, sem passar pelo **estado líquido**. Isso ocorre quando as **partículas** do **sólido** ganham **energia** suficiente para _escapar_ diretamente para a **fase gasosa**.
+Processo pelo qual um **sólido** se transforma diretamente em **gás**, sem passar pelo **estado líquido**. Isso ocorre quando as **partículas** do **sólido** ganham **energia** suficiente para escapar diretamente para a **fase gasosa**.
 ### Exercícios
 
 1 - **Quando você sai de uma piscina e se expõe ao sol, sua pele fica seca depois de algum tempo. É correto dizer que a água:** 

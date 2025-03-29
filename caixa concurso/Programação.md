@@ -153,7 +153,7 @@ a.shape # (3,)
 a = array([[1, 2, 3], [4, 5, 6]])
 a.shape # (3, 2) 3 lihas e 2 colunas
 
-range_array = np.arange(12).reshape(3, 4) # [
+rangearray = np.arange(12).reshape(3, 4) # [
 #   [0, 1, 2, 3],
 #   [4, 5, 6, 7],
 #   [8, 9, 10, 11],
@@ -278,7 +278,7 @@ df.iloc[-2:,1:]
 # B     20
 # C     22
 
-# df[<nova coluna>] = <valor padrão> ou [valor_pd_1, valor_pd_2, ...]
+# df[<nova coluna>] = <valor padrão> ou [valorpd1, valorpd2, ...]
 df['Sexo'] = ['F', 'M', 'F']
 # Nome Idade Sexo
 # A Ana   21 F 
@@ -318,7 +318,7 @@ df.loc[resultado]
 # A    Ana     21    F
 # C  Carla     22    F
 
-df.sort_values(by='Idade', ascending=False, inplace=True)
+df.sortvalues(by='Idade', ascending=False, inplace=True)
 #     Nome  Idade Sexo
 # C  Carla     22    F
 # A    Ana     21    F
@@ -334,11 +334,11 @@ df.tail() # últimos elementos
 df.describe() # notações matemáticas e estastícas.
 
 # Series (Vetores heterogêneos)
-lst_matriculas = ['M02','M05','M13','M14','M19']
-lst_nomes = ['Bob','Dayse','Bill','Cris','Jimi']
+lstmatriculas = ['M02','M05','M13','M14','M19']
+lstnomes = ['Bob','Dayse','Bill','Cris','Jimi']
 
 notas = pd.Series([7.6, 5.0, 8.5, 9.5, 6.4])
-alunos = pd.Series(lst_nomes,index=lst_matriculas)
+alunos = pd.Series(lstnomes,index=lstmatriculas)
 # M02      Bob
 # M05    Dayse
 # M13     Bill
@@ -349,8 +349,8 @@ alunos = pd.Series(lst_nomes,index=lst_matriculas)
 alunos[[2,0,4]] # {M13:Bill, M02:Bob, M19:Jimi}
 alunos[['M13','M02','M19']] # {M13:Bill, M02:Bob, M19:Jimi}
 
-idx_aprovados = notas[notas >= 7].index # indícies das notas maiores ou iguais a 7
-alunos[idx_aprovados]
+idxaprovados = notas[notas >= 7].index # indícies das notas maiores ou iguais a 7
+alunos[idxaprovados]
 # M02 Bob
 # M13 Bill
 # M14 Cris
@@ -408,12 +408,12 @@ fig, axs = plt.subplots(2, 2) # uma figura com uma grade 2x2 de Axes
 
 ```python
 # uma figura com um Axis à esquerda e dois à direita: 
-fig, axs = plt.subplot_mosaic([['esquerda', 'direita_topo'], ['esquerda', 'direita_fundo']])
+fig, axs = plt.subplotmosaic([['esquerda', 'direitatopo'], ['esquerda', 'direitafundo']])
 ```
 
 ![[pg-matplot-ex-3.png]]
 ##### Axes
-Tipo de elemento visual conectado a uma `Figure` que contém uma área para plotar dados. Geralmente, ele inclui dois `Axis` (ou três no caso de gráficos 3D) que fornecem marcas e rótulos de marcação para escalar os dados no `Axis`. É importante diferenciar entre `Axis` e `Axes`. Cada `Axis` também possui um título (definido com `set_title()`), um rótulo para o `axis-x` (definido com `set_xlabel()`), e um rótulo para o `axis-y` (definido com `set_ylabel()`).
+Tipo de elemento visual conectado a uma `Figure` que contém uma área para plotar dados. Geralmente, ele inclui dois `Axis` (ou três no caso de gráficos 3D) que fornecem marcas e rótulos de marcação para escalar os dados no `Axis`. É importante diferenciar entre `Axis` e `Axes`. Cada `Axis` também possui um título (definido com `settitle()`), um rótulo para o `axis-x` (definido com `setxlabel()`), e um rótulo para o `axis-y` (definido com `setylabel()`).
 
 A classe `Axes` e suas funções membros são o ponto de entrada principal para trabalhar com a interface de programação orientada a objetos (OOP) e têm a maioria dos métodos de plotagem definidos nelas.
 ##### Axis
@@ -431,9 +431,9 @@ fig, ax = plt.subplots(figsize=(5, 2.7), layout='constrained')
 ax.plot(x, x, label='linear') # Plotando os dados no axes atual
 ax.plot(x, x**2, label='quadratic') # Plotando quadraticos..
 ax.plot(x, x**3, label='cubic') # Plotando cubicos...
-ax.set_xlabel('x label') # Adionando um x-label para o axes.
-ax.set_ylabel('y label') # Adionando um y-label para o axes.
-ax.set_title("Simple Plot") # Adicionando um título para o axes.
+ax.setxlabel('x label') # Adionando um x-label para o axes.
+ax.setylabel('y label') # Adionando um y-label para o axes.
+ax.settitle("Simple Plot") # Adicionando um título para o axes.
 ax.legend() # Adicionando uma legenda
 ```
 
@@ -470,7 +470,7 @@ As variáveis são declaradas em uma seção chamada `WORKING-STORAGE` dentro da
 	01 MYNAME PIC X(10). *> Simplificação da linha de cima.
 	
 	01 AGE PIC 9(3). *> Um número de até 3 dígitos.
-	01 LAST_NAME PIC X(10). *> Uma sequência de até 10 caracteres.
+	01 LASTNAME PIC X(10). *> Uma sequência de até 10 caracteres.
 ```
 ##### Exemplos
 ```cobol
@@ -673,20 +673,20 @@ class Rectangle extends Polygon {
 ##### Genérica
 ```typescript
 class NamedValue<T> {  
-  private _value: T | undefined;  
+  private value: T | undefined;  
   
   constructor(private name: string) {}  
   
   public setValue(value: T) {  
-    this._value = value;  
+    this.value = value;  
   }  
   
   public getValue(): T | undefined {  
-    return this._value;  
+    return this.value;  
   }  
   
   public toString(): string {  
-    return `${this.name}: ${this._value}`;  
+    return `${this.name}: ${this.value}`;  
   }  
 }  
   
