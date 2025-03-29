@@ -135,6 +135,7 @@ O pedaço de isopor, _menos_ denso que o azeite, irá _flutuar_ nele. E a bolinh
 #### Exercícios 
 
 1 - **Um bloco de metal tem volume de 200 mL e massa de 1.792 g.**
+
 a) Qual a densidade desse metal, expressa em g/cm 3 ?
 b) Qual o volume de uma amostra de 1 kg desse metal?
 
@@ -149,6 +150,7 @@ d = \frac{m}{V} \Rightarrow 8,96 g/cm^3 = \frac{1.000g}{V} \Rightarrow V = \frac
 > $$
 
 2 - **Julgue os itens abaixo.**
+
 a) Qualquer porção de qualquer material possui massa e ocupa lugar no espaço.
 b) Quando afirmamos que a densidade do alumínio é de 2,7 g/cm 3 , estamos afirmando que, se pesarmos um volume de alumínio puro igual a 1 cm3 , obteremos uma massa de 2,7 g.
 c) Quando dois materiais possuem densidades diferentes, sob a mesma pressão e temperatura, podemos afirmar que se trata de materiais diferentes.
@@ -183,6 +185,7 @@ e) os líquidos contidos nas provetas 1, 2 e 3 apresentam densidades 1,0, 1,2 e 
 > Frasco 3 - A bolinha flutuou, então o **líquido** tem maior **densidade** do que a bolinha com 1,2.
 
 4 -  **Para verificar se um objeto é de chumbo puro, um estudante realiza a seguinte experiência:**
+
 a) **Determina a sua massa (175,90 g).**
 b) **Imerge-o totalmente em 50,0 mL de água contida numa proveta.**
 d) **Lê o volume da mistura água e metal (65,5 mL).**
@@ -221,6 +224,7 @@ e) 11,3
 | V     | 805                           |
 
 **A partir desses dados, o técnico pôde concluir que estavam com o combustível adequado somente os postos:**
+
 a) I e II.  
 b) I e III.  
 c) II e IV.  
@@ -236,7 +240,7 @@ e) IV e V.
 >$$
 >Analisando as amostras, podemos inferir que I, II e III estão fora do padrão, pois apresentam mais água do que álcool na mistura
 ## Estados da matéria
-A **matéria** é tudo que possui **massa** e _ocupa lugar_ no espaço. Ela pode existir em diferentes **estados**, dependendo das condições de _temperatura_ e _pressão_. Os principais **estados da matéria** são **sólido**, **líquido** e **gasoso**, mas também existem outros **estados** menos comuns, como o **plasma**.
+A matéria é tudo que possui **massa** e ocupa lugar no espaço. Ela pode existir em diferentes **estados**, dependendo das condições de temperatura e pressão. Os principais **estados da matéria** são **sólido**, **líquido** e **gasoso**, também existem outros **estados** menos comuns, como o **plasma**.
 ### Sólido
 No **estado sólido**, a **matéria** possui _forma_ e _volume_ definidos. As **partículas** que compõem um **sólido** estão organizadas de _maneira ordenada_ e _vibram_ apenas em suas posições fixas. Isso faz com que os **sólidos** sejam _rígidos_ e mantenham sua _forma_ independentemente do recipiente em que estejam. Exemplos comuns de **sólidos** incluem o _gelo_, a _madeira_ e o _ferro_.
 ### Líquido
@@ -319,4 +323,29 @@ e) V é sólido a 100 °C.
 > **d)** 3500°C está abaixo da **temperatura de fusão** então a substância é **sólida**.
 > **e)** 100°C é um valor entre a **temperatura de fusão** e **ebulição** então a substância é **líquida**.
 
+4 - **Os estados físicos das substâncias abaixo, a 25 °C e 1 atm, são, respectivamente:**
 
+| Substância | Ponto de Fusão (PF) | Ponto de Ebulição (PE) |
+|------------|---------------------|-----------------------|
+| Pentano    | -130°C              | 36,1°C               |
+| Cloro      | -101°C              | -34,5°C              |
+
+a) sólido e sólido. 
+c) líquido e líquido.
+b) líquido e sólido. 
+d) sólido e gás. 
+e) líquido e gás. 
+
+> [!info]- Resposta  
+> **Resposta correta e) líquido e gás.**
+> #### **Regra básica:**
+ >  - Se T(ambiente) < PF → **sólido**
+  > - Se PF < T(ambiente) < PE → **líquido**
+   > - Se T(ambiente) > PE → **gasoso**
+> ##### Pentano    
+>  - PF = -130°C e PE = 36,1°C    
+>  - 25°C está entre -130°C e 36,1°C → **líquido**   
+> ##### Cloro   
+>  - PF = -101°C e PE = -34,5°C    
+>  - 25°C > -34,5°C → **gasoso**
+   

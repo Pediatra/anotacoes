@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "enem/química/Substâncias.md",
+                "file": "enem/química/Conceitos básicos.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Substâncias"
+              "title": "Conceitos básicos"
             }
           }
         ]
@@ -141,13 +141,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "enem/química/Substâncias.md",
+                "file": "enem/química/Conceitos básicos.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Sumário de Substâncias"
+              "title": "Sumário de Conceitos básicos"
             }
           }
         ],
@@ -170,16 +170,16 @@
       "terminal:Open terminal": false
     }
   },
-  "active": "86c83bef688d04a0",
+  "active": "0f4e463d4af07ac1",
   "lastOpenFiles": [
+    "enem/química/Átomos.md",
+    "enem/química/Substâncias.md",
     "imgs/enem/química/quim-exercicio-mistura-3.png",
     "imgs/enem/química/quim-exercicio-mistura-2.png",
     "imgs/enem/química/quim-exercicio-mistura.png",
-    "enem/química/Substâncias.md",
     "Pasted image 20250327184754.png",
     "imgs/enem/química/quim-exercicio-substancia-pura.png",
     "enem/química/Conceitos básicos.md",
-    "enem/química/Átomos.md",
     "imgs/enem/química/quim-exercicio-densidade.png",
     "caixa concurso/Estatística.md",
     "enem/biologia/Glossário.md",
@@ -198,7 +198,6 @@
     "imgs/enem/biologia/bio-utilização-nutrientes.png",
     "imgs/enem/biologia/bio-transformações-acido-piruvico.png",
     "imgs/enem/biologia/bio-transporte-ativo.png",
-    "imgs/enem/biologia/bio-tecidos-sanguineos-medula-vermelha.png",
     "imgs/enem/química",
     "imgs/enem/biologia",
     "imgs/ética e compliance",

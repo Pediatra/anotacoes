@@ -12,7 +12,7 @@ Uma amostra purificada da **substância** **água**, qualquer que seja a sua ori
 ### Substâncias puras vs. misturas
 A **água** possui **densidade** de 1,00 g/cm³ e o **cloreto de sódio**, 2,17 g/cm³. Ao acrescentar **cloreto de sódio** à **água** e mexer, obtém-se uma **mistura** cuja **densidade** é diferente da dos dois componentes _isolados_. 
 
-Verifica-se experimentalmente que essa **mistura**, ao ser colocada num _congelador_, não _congela_ a 0 °C. Essa **mistura** inicia seu _congelamento_ abaixo de 0 °C (depende da _proporção_ entre as quantidades de **água** e de **cloreto de sódio**) e a _temperatura_ não permanece constante durante o _congelamento_, mas diminui gradualmente.
+Verifica-se experimentalmente que essa **mistura**, ao ser colocada num _congelador_, não _congela_ a 0 °C. Essa **mistura** inicia seu _congelamento_ abaixo de 0 °C (depende da _proporção_ entre as quantidades de **água** e de **cloreto de sódio**) e a _temperatura_ não permanece constante durante o _congelamento_, mas diminui gradualmente. 
 
 ```ad-important
 Todo _material_ cuja **fusão** e **ebulição** ocorrem a uma _temperatura_ constante — ou seja, desde que se inicia a **mudança de estado** até o seu final não se observa _variação_ de _temperatura_ — é considerado **substância pura** ou simplesmente **substância**. 
@@ -31,7 +31,17 @@ As **substâncias** quando estão em estado de transição entre fases (duas fas
 Já uma **mistura** é uma _porção_ de **matéria** que corresponde à _reunião_ de duas ou mais **substâncias puras**. A partir do momento em que elas são _reunidas_, deixam de ser consideradas **substâncias puras**. Elas passam a ser as **substâncias** componentes da **mistura**.
 
 ```ad-tldr
-_Propriedades_ como **ponto de fusão**, **ponto de ebulição** e **densidade**, que são importantes para identificar as **substâncias puras** e diferenciá-las das **misturas**, são denominadas _propriedades específicas da matéria_. Tais _propriedades_ não dependem da quantidade de **substância**, mas somente de sua _natureza_. Há outras _propriedades_ específicas que não são tão importantes para diferenciação, por exemplo, _cor_, _dureza_, **solubilidade** e **condutividade térmica e elétrica**.
+#### Propriedades da Matéria
+
+As **substâncias** podem ser identificadas através de suas características físicas e químicas. As propriedades físicas são aquelas que podem ser observadas sem alterar a composição da **substância**, como cor, **ponto de fusão**, **ponto de ebulição** e **densidade**. Por exemplo, quando o gelo derrete, continua sendo água, apenas muda de **estado**.
+
+Já as propriedades químicas envolvem transformações que modificam a estrutura da **substância**. Um exemplo clássico é a combustão da gasolina, onde ela se transforma completamente em novas substâncias, não podendo ser recuperada em sua forma original.
+
+As propriedades da matéria são classificadas em extensivas e intensivas. As propriedades extensivas dependem da quantidade de material, como **massa** e **volume**. Duas barras de ferro, quando somadas, terão uma massa total que é a soma das massas individuais.
+
+As propriedades intensivas, por outro lado, são independentes da quantidade de material. Densidade e temperatura são exemplos dessas propriedades. Elas são especialmente úteis para identificar **substâncias**. No caso do ferro, por exemplo, suas características como **densidade** (7,87 g/cm³), **ponto de fusão** (1.538 °C) e **ponto de ebulição** (2.861 °C) permitem sua identificação precisa.
+
+A combinação de propriedades intensivas permite identificar com precisão diferentes substâncias, sendo fundamentais para a caracterização dos materiais no campo da química.
 ```
 #### Exercícios
 
@@ -132,7 +142,7 @@ e) a amostra III não constitui uma substância pura por não manter as temperat
 > e) Correto, amostra III é uma **mistura** comum portanto o gráfico de aquecimento não possui patamares definidos e sim faixas de **fusão** e **ebulição**.
 3
 
-3 -  As curvas de fusão das substâncias A e B estão representadas no gráfico abaixo.
+3 -  **As curvas de fusão das substâncias A e B estão representadas no gráfico abaixo.**
 
 ![[quim-exercicio-mistura-3.png]]
 
@@ -169,6 +179,10 @@ Caso a _separação_ das _fases_ de uma **mistura heterogênea** sob ação da *
 Para separar **misturas heterogêneas** **sólido**/**líquido**, existe um outro processo, um pouco mais trabalhoso, porém de _maior eficiência_ que a **decantação**: é a **filtração**, técnica que consiste em despejar a **mistura** sobre uma _superfície porosa_ apropriada, o _filtro_. O _filtro_ permite que a _fase_ **líquida** o atravesse, mas retém a _fase_ **sólida**, propiciando uma _separação_ de ambas.
 
 O princípio de funcionamento do _filtro_ pode ser comparado, simplificadamente, ao funcionamento das _peneiras_. Um pedreiro peneira a _areia_ para separar as pedrinhas, os gravetos e os grãos maiores de _areia_ dos grãos mais finos, que serão usados para fazer a **mistura** com _cimento_ e **água**. Os orifícios existentes na _peneira_ usada pelo pedreiro são de um tamanho tal que permite aos grãos menores passarem, mas retêm as pedrinhas, os gravetos e os grãos maiores.
+
+```ad-tip 
+Filtração é usada para separar sólidos de líquidos, não líquidos imiscíveis.
+```
 #### Dissolução fracionada
 Métodos para _separar_ **misturas heterogêneas** de dois ou mais **sólidos**. Essa técnica de _separação_ está baseada na diferente tendência de os **sólidos** componentes de uma **mistura** se _dissolverem_ em determinado **solvente**. Para ocorrer a _separação_, um dos **sólidos** deve se _dissolver_ no **solvente** e o outro não.
 
@@ -197,6 +211,153 @@ A **destilação fracionada** é um aprimoramento da **destilação simples**, n
 Alguns componentes do _petróleo_ são separados por meio da destilação **fracionada**, realizada em grandes colunas de **aço** nas refinarias.
 
 ![[quim-destilacao-fracionada.png]]
+#### Exercícios
+
+1 -  **O processo inadequado para separar uma mistura heterogênea sólido/líquido é:**
+
+a) filtração. 
+b) decantação.
+c) centrifugação. 
+d) destilação.
+e) sifonação. 
+
+> [!info]- Resposta 
+> **Resposta correta: d) Destilação**
+> #### Explicação
+> a) Errado, nesse processo a **mistura** por um filtro, retendo o **sólido**.
+> b) Errado, a **mistura** é posta em repouso para o **sólido** sedimentar, então separa o **líquido**.
+> c) Errado, usa a **força centrífuga** para acelerar a **sedimentação** do **sólido**.
+> d) Certo, não é eficaz para sólidos suspensos, pois com a **evaporação** seletiva do **líquido** ainda há partículas sólidas presentes.
+> e) Errado, remove o **líquido** acima do **sólido** sedimentado usando um sifão.
+
+2 -  **Em certas regiões litorâneas, o sal é obtido da água do mar pelo processo de cristalização por evaporação. Para o desenvolvimento dessa atividade, é mais adequado um local:** 
+
+a) plano, com alta pluviosidade e pouco vento. 
+b) plano, com baixa pluviosidade e muito vento. 
+c) plano, com baixa pluviosidade e pouco vento. 
+d) montanhoso, com alta pluviosidade e muito vento. 
+e) montanhoso, com baixa pluviosidade e pouco vento.
+
+> [!info]- Resposta 
+> **Resposta correta: b) plano, com baixa pluviosidade e muito vento.**
+> #### Explicação
+> a) Errado, a chuva prejudica a concentração do sal.
+> b) Certo, o local ideal para a produção de sal por **evaporação** deve ser plano (para tanques), com baixa pluviosidade (sem chuva) e muito vento (para evaporar rápido).
+> c) Errado, há a necessidade de vento que acelera a **evaporação** da água, tornando o processo mais rápido e eficiente.
+> d)/e) Errado, dificulta a construção de salinas e a retenção da água.
+
+3 - **Com a adição da uma solução aquosa de açúcar a uma mistura contendo querosene e areia, são vistas claramente três fases. Para separar cada componente da mistura final, a melhor sequência é:** 
+
+a) destilação, filtração e decantação. 
+b) cristalização, decantação e destilação. 
+c) filtração, cristalização e destilação. 
+d) filtração, decantação e destilação. 
+e) centrifugação, filtração e decantação.
+
+> [!info]- Resposta 
+> **Resposta correta d) filtração, decantação e destilação.**
+> #### Explicação
+> a) Errado, destilação não pode ser o primeiro passo (a areia precisa ser removida antes).
+> b) Errado, cristalização não é o mais viável nesse processo.
+> c) Errado, cristalização é redundante (a destilação já separa o açúcar).
+> d) Certo, primeiro a areia é removida, a decantação separa o querosene da solução aquosa, e a destilação evapora a água deixando somente os cristais de açucar.
+> e) Errado, centrifugação é desnecessária (a decantação já separa os líquidos imiscíveis).
+
+4 - **O quadro apresenta misturas heterogêneas e seus processos de separação. Qual alternativa indica um processo inadequado?**
+
+| Mistura | Componentes | Processo de separação |
+|---------|-------------|-----------------------|
+| I       | Água e areia | Decantação |
+| II      | Sucatas de ferro e alumínio | Separação magnética |
+| III     | Grafite e iodo | Sublimação |
+| IV      | Água e óleo | Filtração |
+a) I  
+b) II  
+c) III  
+d) IV
+
+> [!info]- Resposta 
+> **Resposta correta d) IV**
+> #### Explicação
+> a) Errado, a areia sedimenta naturalmente, permitindo a separação da água por **decantação**.
+> b) Errado, o ferro é atraído por ímãs, enquanto o alumínio não, permitindo a separação.
+> c) Errado, o **iodo** **sublima** (passa direto para vapor) quando aquecido, separando-se do grafite.
+> d) Certo, a água e óleo formam uma mistura **líquido imiscível**. O método correto seria **decantação** ou **funil de separação**.
+
+5 - **Arqueólogos usam diferença de densidade para separar misturas obtidas em escavações. Analise a composição abaixo e indique a opção correta:**
+
+| Composição | Densidade (g/cm³) |
+|------------|-------------------|
+| Carvão     | 0,3 - 0,6         |
+| Ossos      | 1,7 - 2,0         |
+| Areia      | 2,2 - 2,4         |
+| Solo       | 2,6 - 2,8         |
+| Pedras     | 2,6 - 5,0         |
+a) Se a mistura acima é adicionada a uma solução que tem densidade de 2,1 g/cm3, o material correspondente a ossos e carvão deverá flutuar.
+b) É possível separar os ossos dos demais componentes usando-se um líquido que tenha densidade no intervalo de 0,6 g/cm3 a 1,7 g/cm3 .
+c) A utilização da água não é recomendada, pois nesse solvente todos os componentes da mistura afundarão.
+d) Em soluções de densidade 2,5 g/cm 3, a fração da mistura correspondente à pedra e ao solo flutuará e os demais afundarão.
+e) Líquido de densidade 2,2 g/cm 3 separará os componentes pedra e solo dos demais.
+
+> [!info]- Resposta 
+> **Resposta correta a)**
+> #### Explicação
+> a) Certo, solução possui densidade de 2,1 g/cm³ ou seja, Carvão (0,3-0,6) e ossos (1,7-2,0) têm densidade < 2,1, assim eles flutuam e os demais componentes afundam
+> b) Errado, líquido possui densidade de 0,6-1,7 g/cm³ apenas o carvão iria flutuar os ossos e outras misturas afundariam neste líquido.
+> c) Errado, a água tem densidade de 1,0 g/cm³ e o carvão densidade de 0,3-0,6 que flutuaria na água 
+> d) Errado, solução possui densidade de 2,5 g/cm³ as pedras/solo têm 2,6-5,0, ou seja afundariam, não flutuariam.
+> e) Errado, líquido possui densidade de 2,2 g/cm³ separaria a areia (2,2-2,4) que ficaria na superfície. Não separaria pedras/solo eficientemente 
+
+6 -  **O ciclo da água na natureza, relativo à formação de nuvens, seguida de precipitação da água na forma de chuva, pode ser comparado, em termos das mudanças de estado físico que ocorrem e do processo de purificação envolvido, à seguinte operação de laboratório:** 
+
+a) sublimação. 
+b) filtração.
+c) decantação.
+d) dissolução.
+e) destilação.
+
+> [!info]- Resposta 
+> **Resposta correta e) destilação.**
+> #### Explicação
+> a) Errado, **sublimação** é a passagem direta **sólido** para **gasoso**, não envolvendo a chuva líquida.
+> b) Errado, a **filtração** separa **sólidos** de **líquidos** por meio de filtro.
+> c) Errado, separa **líquidos imiscíveis** ou **sólidos sedimentados**.
+> d) Errado, é a formação de **soluções homogêneas** em um **soluto**.
+> e) Certo, o ciclo hidrológico natural é análogo ao processo de **destilação** em laboratório, pois ambos envolvem **evaporação** seguida de **condensação**, resultando em água purificada. 
+
+7 - **Sobre métodos de separação e extração de substâncias, qual afirmação está correta?**
+
+a) Água e etanol podem ser completamente separados por destilação simples .
+b) Ímã pode separar ferro do enxofre no FeS.  
+c) Destilação fracionada separa frações líquidas do petróleo.
+d) NaCl e KNO₃ em água podem ser separados por centrifugação.  
+e) Peneiramento e catação não são processos de separação.
+
+> [!info]- Resposta 
+> **Resposta correta c)**
+> #### Explicação
+> a) Errado, a água e etanol formam uma **mistura azeotrópica** (composição constante durante **ebulição**), dessa forma a **destilação simples** não consegue separá-los completamente sendo necessário usar **destilação fracionada** ou outros métodos.
+> b) Errado, no composto FeS (sulfeto de ferro II), ferro e enxofre estão **quimicamente ligados** não sendo possível separa-la com auxílio de ímã que só separa **substâncias magnéticas** LIVRES (não em **compostos químicos**).
+> c) Certo, petróleo é uma **mistura** complexa de **hidrocarbonetos** e com a **destilação fracionada** em torres industriais é separado a gasolina, querosene, óleo diesel etc.
+> d) Errado, **centrifugação** separa **sólidos** de **líquidos** ou **fases imiscíveis**. NaCl e KNO₃ dissolvidos formam uma **solução homogênea** e para separa-las é necessária **cristalização fracionada**.  
+> e) Errado, **peneiração** e **catação** são métodos de separação;
+>- Peneiração: separa sólidos por tamanho (ex.: areia grossa/fina).      
+>- Catação: separação manual de componentes.  
+
+8 -  **Na perfuração de uma jazida petrolífera, a pressão dos gases faz com que o petróleo jorre para fora. Ao reduzir-se a pressão, o petróleo bruto para de jorrar e tem de ser bombeado. Devido às impurezas que o petróleo bruto contém, ele é submetido a dois processos mecânicos de purificação, antes do refino: separá-lo da água salgada e separá-lo de impurezas sólidas como areia e argila. Esses processos mecânicos de purificação são, respectivamente:**
+
+a) decantação e filtração.
+b) decantação e destilação fracionada.
+c) filtração e destilação fracionada.
+d) filtração e decantação.
+e) destilação fracionada e decantação.
+
+> [!info]- Resposta 
+> **Resposta correta a) decantação e filtração.**
+> #### Explicação
+> a) Certo, na **decantação** o petróleo e água são **imiscíveis** e têm densidades diferentes. Em tanques de **decantação**, o petróleo (menos denso) fica acima da água. Com a **filtração** o petróleo passa por filtros especiais que retém as partículas sólidas (areia e argila) enquanto o petróleo líquido passa.
+> b)/c)/e) Erradas, **destilação** é um processo mecânico que só ocorre depois das etapas de **decantação** e **filtração**.
+> d) Errada, a **filtração** antes da **decantação** seria ineficiente, pois **sólidos** dificultariam a separação líquido-líquido.  
 ## Reação química
 São processos em que **substâncias**, chamadas **reagentes**, transformam-se em outras **substâncias**, chamadas **produtos**. Essas transformações envolvem a _quebra_ e a _formação_ de **ligações químicas** entre os **átomos**, resultando em novas _combinações_ e _propriedades_.
 
