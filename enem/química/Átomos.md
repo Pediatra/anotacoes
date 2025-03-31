@@ -3,7 +3,7 @@ Toda **matéria**, **orgânica** ou **inorgânica**, é composta por pequenas **
 Segundo o **modelo atômico** atual, todos os **átomos** possuem um núcleo denso cercado por **elétrons**. O núcleo, que contém a maior parte da **massa** do **átomo**, é formado por **prótons** e **nêutrons**. **Prótons** têm carga positiva (+1), enquanto **nêutrons** são neutros. **Elétrons** têm carga negativa (-1) e **massa** muito menor que **prótons** e **nêutrons**, contribuindo pouco para a **massa** total do **átomo**.
 
 ```ad-tip
-**Nêutron** é uma **partícula** sub atômica sem **carga elétrica** e de massa praticamente igual à do **próton**.
+**Nêutron** é uma **partícula** sub atômica sem **carga elétrica** e de **massa** praticamente igual à do **próton**. Já o **eletron** tem uma diferença de **massa** é tão grande com estes que, em cálculos químicos, a **massa** dos **elétrons** é geralmente ignorada.
 ```
 
 Um **átomo** é eletricamente neutro, com o mesmo número de **prótons** e **elétrons**, neutralizando as cargas. Cada **elemento químico** é identificado pelo número de **prótons** no núcleo, chamado **número atômico**. Por exemplo, o **hidrogênio** (H) tem um **próton** e **número atômico** 1, enquanto o **carbono** (C) tem seis **prótons** e **número atômico** 6.
@@ -126,9 +126,7 @@ Para saber se essas “balas” atravessavam ou eram desviadas, ele usou uma tel
 
 ![[quim-rutherford.png]]
 
-```ad-note
 A experiência mostrou que a grande maioria das **partículas alfa** atravessava a folha. Apenas algumas poucas eram desviadas. Assim, os **átomos** não poderiam ser maciços, pois parte das **partículas alfa** conseguiu atravessá-los.
-```
 ### Características do átomo no modelo de Rutherford
 Os resultados da experiência sobre espalhamento de **partículas alfa** permitiram a Rutherford concluir que:
 	a) o **átomo** não é maciço, apresentando mais espaço vazio do que preenchido;
@@ -137,6 +135,79 @@ Os resultados da experiência sobre espalhamento de **partículas alfa** permiti
 	d) a contagem do número de **partículas** que atravessavam e que eram desviadas, repelidas pela **carga positiva** do núcleo, permitiu fazer uma estimativa de que o raio de um **átomo** de **ouro** (núcleo e eletrosfera) é cerca de dez mil a cem mil vezes maior que o raio do núcleo.
 
 ![[quim-rutherford-3.png]]
+### Exercícios
+
+1 - **Rutherford, ao fazer incidir partículas radioativas em lâmina metálica de ouro, observou que a maioria das partículas atravessava a lâmina, algumas desviavam e poucas refletiam. Assinale, dentre as afirmações a seguir, aquela que não reflete as conclusões de Rutherford sobre o átomo.**
+
+a) Os átomos são esferas maciças e indestrutíveis.
+b) No átomo, há grandes espaços vazios.
+c) No centro do átomo, existe um núcleo pequeno e denso.
+d) O núcleo do átomo tem carga positiva.
+e) Os elétrons giram ao redor do núcleo para equilibrar a carga positiva.
+
+> [!info]- Resposta  
+> **Resposta Correta:** **a)**  
+> #### Explicação
+>No experimento, **Rutherford** bombardeou uma fina lâmina de **ouro** com **partículas alfa** (α) e observou que a maioria das **partículas** atravessavam a lâmina sem desvio, ou seja, **átomos** têm grandes espaços vazios, já algumas **partículas** desviavam levemente do núcleo com **carga positiva** (repeliu as **partículas** α, também positivas) e pouquíssimas **partículas** refletiam de volta o núcleo **muito pequeno e denso**.  
+>   
+> #### Por que as outras estão erradas?  
+> - a) Errado, NÃO reflete as conclusões de **Rutherford**. Esse era o modelo de **Thomson**, que Rutherford refutou ao mostrar que o **átomo** é majoritariamente vazio e tem um núcleo central.)
+> - b) Certo, baseada na maioria das partículas que atravessaram a lâmina.
+> - c) Certo, poucas **partículas** refletiram, indicando um núcleo minúsculo e massivo.
+> - d) Certo, desvios ocorreram devido à repulsão entre **cargas positivas**.
+> - e) Certo, Rutherford sugeriu **órbitas eletrônicas**, mas sem detalhar o equilíbrio de cargas; essa ideia foi refinada por **Bohr** mais tarde.
+
+2 - **Considere os modelos atômicos de:** 
+
+**I. Dalton;** 
+**II. Thomson;** 
+**III. Rutherford.**
+
+a) Qual deles foi proposto baseado nos resultados da medida da massa dos participantes de reações químicas?
+b) Qual introduziu a natureza elétrica da matéria? 
+c) Qual apresenta a matéria como sendo descontínua?
+d) Qual é o mais recente?
+
+> [!info]- Resposta  
+> #### Explicação
+> 
+> a) O **modelo atômico de Dalton** foi proposto pelo cientista, em 1808. De acordo com a **teoria atômica de Dalton**, a **matéria** era formada por **átomos** indivisíveis e indestrutíveis, comparados a uma bola de bilhar.
+>
+> b) O **modelo atômico de Thomson** foi proposto em 1897 e ficou conhecido como pudim de passas. Para **Thomson** o **átomo** apresentava natureza elétrica e era divisível.
+>
+> c) O **modelo atômico de Rutherford** foi proposto em 1911, também é chamado de modelo planetário do **átomo**. Foi a partir desse modelo que foram introduzidas as **cargas elétricas** no interior do **átomo**. Para **Rutherford**, o **átomo** possuía um núcleo, onde os **prótons** e os **elétrons** estariam presentes.
+>
+> d) **Niels Bohr** propôs um modelo que se baseou no modelo de **Rutherford**, apenas aprimorando-o, por isso é chamado de **modelo atômico de Rutherford-Bohr**. De acordo com esse modelo, os **elétrons** não se movem aleatoriamente ao redor do núcleo, mas sim em órbitas circulares, onde cada órbita apresenta um nível de energia para cada **elétron** de um **átomo**.
+
+3 -**Julgue se a afirmação é certa ou errada: “No modelo de Rutherford, a maior parte da massa do átomo se concentrava na eletrosfera, onde os elétrons giravam em órbitas ao redor do núcleo, em um modelo similar ao planetário.”**
+
+> [!info]- Resposta  
+> **Resposta Correta:** **Errado**  
+> #### Explicação
+> **Rutherford** acreditava na concentração de massa no **núcleo** (não na eletrosfera). No seu experimento **Rutherford** concluiu que quase toda a massa do **átomo** está no núcleo, devido à reflexão de partículas alfa. 
+> 
+> Modelo planetário (correto) × Local da massa (incorreto) A comparação com o sistema solar ("modelo planetário") está correta: **elétrons** giram ao redor do núcleo, como planetas ao redor do Sol. **Porém**, no sistema solar, a **massa** está concentrada no Sol (núcleo), não nos planetas (**eletrosfera**). A afirmação inverte essa lógica.
+
+4 - **Rutherford bombardeou uma fina lâmina de ouro (0,0001 mm de espessura) com partículas “alfa”, emitidas pelo Polônio (Po) contido no interior de um bloco de chumbo (Pb), provido de uma abertura estreita, para dar passagem às partículas a por ele emitidas. Envolvendo a lâmina de ouro (Au), foi colocada uma tela protetora revestida de sulfeto de zinco. Observando as cintilações na tela revestida de sulfeto de zinco, Rutherford verificou que muitas partículas a atravessavam a lâmina de ouro sem sofrerem desvio (x), e que poucas partículas a sofriam desvio (y).**
+
+![[quim-exercicio-rutherford.png]]
+
+**Indique a(s) proposição(ões) CORRETA(S).** 
+
+a) Partículas α possuem carga elétrica negativa. 
+b) Partículas α sofrem desvio ao colidir com elétrons na eletrosfera dos átomos de Au. 
+c) A posição b indica partículas α que passaram próximas aos núcleos. 
+d) Na ilustração, não foram indicadas as partículas α que não atravessam a lâmina de ouro. 
+e) O núcleo do átomo é infinitamente menor que o tamanho total do átomo.
+
+> [!info]- Resposta  
+> #### Explicação
+> a) Incorreta, as **partículas alfa** possuem dois **prótons** e dois **nêutrons**, possuindo, portanto, carga positiva. 
+> b) Incorreta, como os **elétrons** tem **carga negativa**, não repelem as **partículas alfa**. As mesmas, sofrem desvio do núcleo do **átomo** por possuir também **partículas positivas**.
+> c) Correta, a posição b corresponde as **partículas** que sofreram desvio, logo, as que passaram perto do núcleo.
+> d) Incorreta, as **partículas** que não atravessam a lamina de ouro são aquelas que sofreram desvio pois colidiram com o núcleo do **átomo**. As mesmas são ilustradas por b. 
+> e) Correta, **Rutherford** verificou que a maior parte das **partículas** passou sem sofre desvio. Assim, concluiu-se que o núcleo do **átomo** é muito menor que o tamanho do **átomo**.
+> 
 ## Modelo Atômico de Bohr
 O **modelo de Rutherford**, apesar de esclarecer satisfatoriamente os resultados da experiência sobre a dispersão de **partículas alfa**, possuía algumas deficiências, como, por exemplo, a incapacidade de explicar os **espectros atômicos**. Niels Bohr propôs um novo modelo, mais completo, que era suficiente para explicar o **espectro de linhas**.
 
@@ -148,6 +219,11 @@ Em seu modelo, Bohr incluiu uma série de afirmações:
 ![[quim-bohr-1.png]]
 Utilizando o **modelo de Bohr**, podem-se explicar os **espectros atômicos**. Primeiramente, os **elétrons** são excitados na lâmpada de gás e, em seguida, ao retornarem aos níveis de menor **energia**, liberam **energia** na forma de luz. Como a cor da luz emitida depende da diferença de **energia** entre os níveis envolvidos na transição (veja a ilustração C), e como essa diferença varia de **elemento** para **elemento**, a luz apresenta uma cor característica para cada **elemento químico**.
 ![[quim-bohr-2.png]]
+
+```ad-summary
+#### O modelo atômico de Thomson
+Havia a necessidade de um novo modelo, e foi J. J. Thomson quem o propôs. O **átomo**, segundo ele, deveria ser formado por uma esfera de carga elétrica positiva, possuindo, em sua superfície, **elétrons** incrustados. Assim, a carga elétrica total de um **átomo** seria nula, pois a carga negativa dos **elétrons** compensaria a carga positiva da esfera que os contém. Esse modelo é chamado por alguns de “modelo do pudim de passas”.
+```
 ## Elementos químicos
 Provavelmente você já deve ter ouvido falar que a fórmula da **água** é H₂O. Outros exemplos de fórmulas usadas pelos químicos são CO₂ (gás carbônico), N₂ (gás nitrogênio), O₂ (gás oxigênio), O₃ (gás ozônio), C₂H₆O (etanol), C₆H₁₂O₆ (glicose), NH₃ (amônia) e CH₄ (gás metano).
 

@@ -754,7 +754,7 @@ O **núcleo interfásico** é o estado do **núcleo celular** durante a **interf
 Quando se estuda a **mitose** em **células vegetais**, percebem-se diferenças em relação ao processo que ocorre nas **células animais**. Inicialmente, não há **centríolos** nem **ásteres**; mesmo assim, ocorre a formação das **fibras do fuso**.
 ```
 #### Prófase
-Durante a **prófase** , a primeira fase da **mitose**, os **cromossomos** se condensam, acarretando o desaparecimento dos **nucléolos**, o **fuso acromático** começa a se formar e a **carioteca** se desfaz, dispersando os **componentes nucleares** no **citoplasma**. 
+Durante a **prófase**, a primeira fase da **mitose**, os **cromossomos** se condensam, acarretando o desaparecimento dos **nucléolos**, o **fuso acromático** começa a se formar e a **carioteca** se desfaz, dispersando os **componentes nucleares** no **citoplasma**. 
 ##### Condensação dos cromossomos
 A **condensação cromossômica** marca o início da **prófase**, gradualmente os **cromossomos** tornam-se mais curtos e mais grossos, e cada vez mais visíveis ao **microscópio óptico**. 
 

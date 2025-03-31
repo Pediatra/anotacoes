@@ -75,6 +75,10 @@ Submeter a amostra à **fusão** e, posteriormente, à **ebulição**, acompanha
 ### Misturas heterogêneas e misturas homogêneas
 Ao adicionarmos um pouco de **ferro** em pó a um pouco de **enxofre** em pó, obteremos uma **mistura** que não possui propriedades iguais em todos os seus pontos. Os pequenos fragmentos de **ferro** possuem as propriedades da **substância** **ferro** (cor cinza metálica, **PF** = 1.538 °C, etc.) e os pequenos fragmentos de **enxofre** possuem as propriedades da **substância** **enxofre** (cor amarela, PF = 115 °C, etc.). Trata-se de um exemplo de **mistura heterogênea**, uma **mistura** que não possui as mesmas propriedades em toda a sua extensão.
 
+```ad-tip
+**Mistura** formada por gases é sempre **homogênea**.
+```
+
 Por outro lado, se colocarmos uma pitada de **açúcar** numa porção de **água** pura e mexermos com uma colher por alguns minutos, obteremos uma **mistura** que possui as mesmas propriedades em toda a sua extensão. Colocando na língua uma gota proveniente da parte de cima dessa **mistura**, sentiremos exatamente o mesmo gosto doce que sentiríamos ao provar uma gota proveniente da parte de baixo dela. Além disso, quaisquer porções dessa  são **incolores**, têm a mesma **densidade** e compartilham as mesmas propriedades. Esse é um exemplo de **mistura homogênea**, ou **solução**, **mistura** que tem as mesmas propriedades em todos os seus pontos.
 
 ![[quim-substancia-het-homo.png]]
@@ -422,7 +426,7 @@ $$
 Mas por que Lavoisier escolheu recipientes fechados? Entre os **reagentes** e/ou entre os **produtos** de uma **reação química** podem existir **substâncias gasosas**, tais como o **oxigênio**, o **hidrogênio** e o **gás carbônico**. Se, por exemplo, uma **substância gasosa** for produzida em uma **reação**, ela sairá espontaneamente do recipiente e sua **massa** não será medida pela balança como parte da **massa** final do **sistema**. Ao escolher recipientes fechados, Lavoisier eliminou dúvidas sobre a possível entrada ou saída de **gases** do **sistema**.
 ```
 ### A Lei das Proporções Constantes, de Proust
-O estudo das **reações de decomposição** foi importante para que o francês Joseph-Louis Proust descobrisse que as **substâncias compostas** têm uma composição fixa.
+O estudo das **reações de decomposição** foi importante para que o francês Joseph Louis Proust descobrisse que as **substâncias compostas** têm uma composição fixa.
 
 Usaremos como exemplo a **substância** **água**, que é composta dos elementos **hidrogênio** e **oxigênio**. Os seguintes dados experimentais, são referentes à decomposição de amostras de diferentes **massas** de **água**:
 - 9 g de **água** → 1 g de **hidrogênio** + 8 g de **oxigênio**
