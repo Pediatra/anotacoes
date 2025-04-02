@@ -33,6 +33,13 @@ Ao representar um **átomo**, os químicos convencionaram escrever o **número a
 - ¹²₆C representa um **átomo** do **elemento químico** **carbono** com 6 **prótons**, 6 **elétrons** e 6 **nêutrons**.
 - ²³₁₁Na representa um **átomo** do **elemento químico** **sódio** com 11 **prótons**, 11 **elétrons** e 12 **nêutrons**.
 - ³⁷₁₇Cl representa um **átomo** do **elemento químico** **cloro** com 17 **prótons**, 17 **elétrons** e 20 **nêutrons**.
+
+```ad-note
+Nesses casos os **prótons** e **elétrons** estão em mesmo número porque os **átomos**, em seu estado neutro, não possuem carga elétrica líquida. Isso acontece porque:
+
+- **Prótons** têm carga positiva (+1)
+- **Elétrons** têm carga negativa (-1)
+```
 ### Isótopos
 **Isótopos** são dois ou mais **átomos** que possuem o mesmo **número atômico** (Z) e diferentes **números de massa** (A). O **hidrogênio** é o **elemento químico** com **número atômico** 1. Será que todos os **átomos** de **hidrogênio** que existem na natureza são exatamente iguais? A resposta é não.
 
@@ -50,6 +57,100 @@ Uma vez que possuem o mesmo **número atômico**, são **átomos** de um mesmo *
 
 **Isótonos** são dois ou mais **átomos** que possuem o mesmo número de **nêutrons** (N) e diferentes **números atômicos** (Z) e **número de massa** (A).
 ```
+#### Exercícios
+
+1 - **Dados os átomos:**
+
+- Átomo A: Z = 8, A = 16
+- Átomo B: Z = 8, A = 17
+- Átomo C: Z = 9, A = 17
+
+**a)** Quais são isótopos do mesmo elemento?  
+**b)** Justifique sua resposta.
+
+> [!info]- Resposta  
+> #### Explicação
+a) Os **átomos** A e B são **isótopos**.  
+b) **Isótopos** são **átomos** do mesmo elemento (mesmo Z) com diferentes **números de massa** (A).
+>- A e B têm Z = 8 (**oxigênio**), mas A = 16 e A = 17.
+> - C tem Z = 9 (**flúor**), logo não é **isótopo** de A ou B.
+
+2 - **Dados os átomos:**
+- ¹²₆C (Carbono-12)
+- ¹⁴₇N (Nitrogênio-14)
+
+a) Quantos nêutrons cada um possui?  
+b) Eles são isótonos?  
+
+> [!info]- Resposta
+> #### Explicação  
+> a) ¹²₆C: **Nêutrons** = A - Z = 12 - 6 = 6 
+>  ¹⁴₇N: **Nêutrons** = 14 - 7 = 7  
+> b) Não são **isótonos**, pois têm números diferentes de **nêutrons** (6 ≠ 7).  
+
+3 - **Dados os átomos:**
+- ⁴⁰₁₈Ar (Argônio-40)
+- ⁴⁰₂₀Ca (Cálcio-40)
+
+**Eles são isóbaros? Justifique.**
+
+> [!info]- Resposta  
+> #### Explicação
+Sim, são **isóbaros**. Os **isóbaros** possuem o mesmo **número de massa** (A) e diferentes **números atômicos** (Z).  Ambos têm A = 40, mas Z = 18 (Ar) e Z = 20 (Ca).
+
+4 - **Considere os átomos a seguir:  ₁₉⁴⁰X ₂₀⁴⁰Y ₄₀⁹¹ Z ₁₉³⁹R ₃₉⁹⁰S ₄₀⁹⁰T**  
+  
+a) Quais são isótopos?   
+b) Quais são isóbaros?   
+c) Quais são isótonos?   
+d) Quais pertencem ao mesmo elemento químico?   
+e) Quais deveriam estar representados usando o mesmo símbolo químico?
+
+> [!info]- Resposta  
+> #### Explicação
+**a)** Os **elementos químicos** que são **isótopos**, são: ₁₉⁴⁰X e ₁₉³⁹R; ₄₀⁹¹Z e ₄₀⁹⁰T.  
+**b)** Os **elementos químicos** que são **isóbaros**, são: ₁₉⁴⁰X e  ₂₀⁴⁰Y; ₃₉⁹⁰S e ₄₀⁹⁰T.  
+**c)** Os **elementos químicos** que são **isótonos** são:  ₂₀⁴⁰Y e ₁₉³⁹R (possuem número igual de 20 **nêutrons**); e ₄₀⁹¹Z e ₃₉⁹⁰S (possuem número igual de 51 **nêutrons**).  
+**d)** Os elementos ₁₉⁴⁰X e ₁₉³⁹R, porque possuem o mesmo **número atômico** de valor igual à 19 **prótons**.  E os elementos ₄₀⁹¹Z e ₄₀⁹⁰T, porque possuem o mesmo **número atômico** de valor igual à 40 **prótons**.  
+**e)** Deveriam estar representados usando o mesmo símbolo químico os elementos: X e R, Z e T.
+
+5 - **O silício, elemento químico mais abundante na natureza depois do oxigênio, tem grande aplicação na indústria eletrônica. Por outro lado, o enxofre é de importância fundamental na obtenção do ácido sulfúrico. Sabendo se que o átomo z= 14 a=28 Si é isótono de uma das variedades isotópicas do enxofre, S z=16 , pode-se afirmar que este átomo tem número de massa igual a?**
+
+a) 14.
+b) 16.
+c) 30.
+d) 32.
+e) 34.
+
+> [!info]- Resposta  
+> **Resposta correta: c) 30.**
+> #### Explicação
+> O **silício**-28 tem 14 **nêutrons** (28 - 14).  O **isótono** de **enxofre** deve ter os mesmos 14 **nêutrons**. Como o **enxofre** tem Z = 16, seu **número de massa** será 16 (**prótons**) + 14 (**nêutrons**) = 30.
+
+6 - **Alguns estudantes de química, avaliando seus conhecimentos relativos a conceitos básicos para o estudo do átomo, analisam as seguintes afirmativas:** 
+
+I. Átomos isótopos são são aqueles possuem mesmo número atômico e número de massa diferente.  
+II. O número atômico de um elemento correspondente à soma do número do número de prótons com o de nêutrons.  
+III. O número de massa de um átomo, em particular, é a soma do número de prótons com o de elétrons.  
+IV. Átomos isóbaros são aqueles que possuem números atômicos diferentes e mesmo número de massa.  
+V. Átomos isótonos são aqueles que apresentam número atômicos diferentes, números de massa diferentes e mesmo número de nêutrons.  
+  
+**Esses estudantes concluem, corretamente, que as afirmativas verdadeiras são as indicadas por:**  
+  
+a) I, II e V  
+b) I, IV e V 
+c) II e III
+d) II, III e V 
+e) II e V
+
+> [!info]- Resposta  
+>**Resposta correta:** **b) I, IV e V****
+> #### Explicação
+>  I. Correta, **isótopos** são **átomos** do mesmo elemento (mesmo Z) com diferentes **números de massa** (A). Ex: Carbono-12 e Carbono-14.
+ II.  Incorreta, o **número atômico** (Z) é apenas o número de **prótons**. A soma de **prótons** e **nêutrons** é o **número de massa** (A).  Z = **prótons**; A = **prótons** + **nêutrons**. 
+III. Incorreta, o **número de massa** (A) é a soma de **prótons** e **nêutrons**, não **elétrons**. **Elétrons** não contribuem significativamente para a massa. 
+IV. Correta, **isóbaros** são **átomos** de elementos diferentes (Z diferente) com mesmo A. Ex: Potássio-40 (Z=19) e Cálcio-40 (Z=20). 
+V. Correta , **isótonos** compartilham o mesmo N (**nêutrons**), mas diferem em Z e A. | Ex: Carbono-14 (N=8) e Oxigênio-16 (N=8). 
 ## Cargas elétricas, atração e repulsão
 Atritando um bastão de vidro em um pedaço de lã, pendurando esse bastão com o auxílio de um barbante e, logo após, aproximando-o do pedaço de lã, notaremos que ambos se atraem. Porém, se em seguida friccionarmos outro bastão de vidro em outro pedaço de lã e aproximarmos esse bastão daquele que está suspenso, notaremos que ambos se repelem.
 
@@ -98,6 +199,87 @@ Assim, estes são alguns exemplos de íons:
 - **Ânions trivalentes:** N³⁻, P³⁻
 - **Cátions trivalentes:** Al³⁺, Fe³⁺, Cr³⁺
 - **Cátions tetravalentes:** Sn⁴⁺, Pb⁴⁺
+### Exercícios
+
+1 - **O íon ₅₃I⁻ é importante para o funcionamento normal da glândula tireoide e, por isso, deve estar presente, em quantidade adequada, na dieta humana. Quantos prótons e quantos elétrons há na constituição desse ânion?** 
+
+
+> [!info]- Resposta  
+> #### Explicação
+> Um átomo neutro de iodo transforma-se no ânion monovalente quando recebe 1 elétron.
+> $$
+{}^{53}I
+\begin{cases}
+\text{53 prótons} \\
+\text{53 elétrons}
+\end{cases}
+\xrightarrow{\text{Acrescentando 1 elétron}}
+{}^{53}I^-
+\begin{cases}
+\text{53 prótons} \\
+\text{54 elétrons}
+\end{cases}
+>  $$
+> Portanto, o íon ₅₃I⁻ tem 53 prótons e 54 elétrons.
+
+2 - **Um isótopo de um elemento metálico tem número de massa 65 e 35 nêutrons no núcleo. O cátion derivado desse isótopo tem 28 elétrons. A carga desse cátion é:**
+
+a) -1.
+b) +3.
+c) 0.
+d) +1.
+e) +2.
+
+> [!info]- Resposta  
+> **Resposta correta: e) +2.**
+> #### Explicação
+> Primeiro, precisamos descobrir o número de **prótons**, sabemos que o **número de massa** do elemento é 65 e 35 **nêutrons**. Dessa forma:
+> $$
+A = N + P \Rightarrow 65 = 35 - P \Rightarrow P = 30 
+>$$
+ Isso significa que o **cátion** perdeu 2 **elétrons**, resultando em uma carga +2.
+
+3 - **Analise este quadro, em que se apresenta o número de prótons, de nêutrons e de elétrons de quatro espécies químicas:**
+
+| Espécie | Número de prótons | Número de nêutrons | Número de elétrons |
+|---------|-------------------|--------------------|--------------------|
+| I       | 1                 | 0                  | 0                  |
+| II      | 9                 | 10                 | 10                 |
+| III     | 11                | 12                 | 11                 |
+| IV      | 20                | 20                 | 18                 |
+Considerando-se as quatro espécies apresentadas, é INCORRETO afirmar que:
+
+a) I é o cátion H⁺.  
+b) II é o ânion F⁻.  
+c) III tem número de massa 23.  
+d) IV é um átomo neutro.
+
+> [!info]- Resposta  
+> **Resposta correta: d)**
+> #### Explicação
+> a) Correta, pois I realmente é um cátion H⁺, visto que seu número de prótons se difere de +1 dos elétrons.
+> b) Correta, pois II é um ânion F⁻, visto que seu número de prótons se difere em -1 dos elétrons.
+> c) Correta, pois o número de massa é realmente 23, 11 + 12 = 23.
+> d) Errada, não é um átomo neutro é um íon positivo. Um átomo neutro teria 20 elétrons; como perdeu 2 elétrons, é um cátion Ca²⁺
+
+4 - **Espécies químicas simples que apresentam o mesmo número de elétrons são chamadas de isoeletrônicas. Assim, entre Mg, Na⁺, Cl⁻, S, K⁺ e Ar, são isoeletrônicas:**  
+
+(Dados: números atômicos — Na = 11; Mg = 12; S = 16; Cl = 17; Ar = 18; K = 19)
+
+a) Cl⁻ e S.  
+b) K⁺, Ar e Cl⁻.  
+c) Na⁺ e Mg.  
+d) Na⁺ e Cl⁻.  
+e) Na⁺ e K²⁺.
+
+> [!info]- Resposta  
+> **Resposta correta: b)**
+> #### Explicação
+a) Cl⁻ (18) e S (16) NÃO são **isoeletrônicas**.  
+b) K⁺ (18), Ar (18) e Cl⁻ (18) SIM, são **isoeletrônicas**.  
+c) Na⁺ (10) e Mg (12) NÃO são **isoeletrônicas**.  
+d) Na⁺ (10) e Cl⁻ (18) NÃO são **isoeletrônicas**.  
+e) Na⁺ (10) e K²⁺ (17) NÃO são **isoeletrônicas**.
 ## Modelo atômico de Dalton
 A palavra **átomo** vem do grego e significa “indivisível”. Ela foi usada pela primeira vez por alguns filósofos da Grécia Antiga que, baseados em argumentos filosóficos, propunham que todas as coisas são formadas por **partículas** muito pequenas e indivisíveis, os **átomos**.
 
@@ -219,13 +401,97 @@ Em seu modelo, Bohr incluiu uma série de afirmações:
 ![[quim-bohr-1.png]]
 Utilizando o **modelo de Bohr**, podem-se explicar os **espectros atômicos**. Primeiramente, os **elétrons** são excitados na lâmpada de gás e, em seguida, ao retornarem aos níveis de menor **energia**, liberam **energia** na forma de luz. Como a cor da luz emitida depende da diferença de **energia** entre os níveis envolvidos na transição (veja a ilustração C), e como essa diferença varia de **elemento** para **elemento**, a luz apresenta uma cor característica para cada **elemento químico**.
 ![[quim-bohr-2.png]]
+```ad-tip
+"Absorve sobe, emite desce":  
+  - Ao absorver energia, o **elétron** sobe para órbitas mais externas.  
+  - Ao emitir energia, desce para órbitas mais internas.
+```
 
 ```ad-summary
 #### O modelo atômico de Thomson
 Havia a necessidade de um novo modelo, e foi J. J. Thomson quem o propôs. O **átomo**, segundo ele, deveria ser formado por uma esfera de carga elétrica positiva, possuindo, em sua superfície, **elétrons** incrustados. Assim, a carga elétrica total de um **átomo** seria nula, pois a carga negativa dos **elétrons** compensaria a carga positiva da esfera que os contém. Esse modelo é chamado por alguns de “modelo do pudim de passas”.
 ```
+### Exercícios
+
+1 - **O modelo atômico de Bohr introduziu importantes inovações em relação aos modelos anteriores. Entre elas, podemos citar:**
+
+a) A matéria é descontínua.
+b) Existência de nêutrons.
+c) A matéria possui natureza elétrica.
+d) Quantização da energia.
+e) Explicação da experiência de Rutherford.
+
+> [!info]- Resposta  
+> **Resposta Correta:** d)
+> #### Explicação
+> **Bohr** propôs que os **elétrons** giram em órbitas específicas (níveis de energia quantizados) sem emitir **radiação**. Cada órbita tem uma energia fixa, e o **elétron** só muda de nível ao absorver ou emitir um quantum de energia. Isso explica por que os **átomos** emitem luz em frequências específicas (linhas espectrais).
+> #### Analisando as outras alternativas
+> a) **Matéria** descontínua é um ideia já presente desde Demócrito (modelos anteriores não negavam isso).  
+b) **Nêutrons** foram descobertos por Chadwick em 1932 (após Bohr).  
+c) Natureza elétrica já era conhecida (e.g., modelo de Thomson).  
+e) Experiência de **Rutherford**, Bohr não a explicou; usou-a como base para seu modelo (o núcleo já era aceito).
+
+2 - **Julgue os itens em verdadeiros (V) ou falsos (F):**
+
+I - O elétron, no nível 3, é mais energético que no nível 1.  
+II - A transferência de elétrons do nível 1 para o 3 envolve liberação de energia.  
+III - O elétron pode ocupar qualquer nível de energia dentro do átomo.
+IV - Quando um elétron retorna de um nível de energia mais baixo para um nível mais elevado, ele libera energia na forma de radiação eletromagnética.
+
+> [!info]- Resposta  
+> #### Explicação
+> I - Verdadeiro, no **modelo atômico de Bohr**, os **níveis de energia** são quantizados e numerados (n=1, 2, 3...). Quanto mais afastado do núcleo (maior número quântico principal), maior a energia do **elétron**. Portanto, um **elétron** no nível 3 possui mais energia que no nível 1.
+> II - Falso, para um **elétron** saltar para um nível mais energético (ex: 1→3), ele precisa ABSORVER energia. A liberação de energia ocorre apenas quando o **elétron** decai para um nível menos energético (ex: 3→1).
+> III - Falso, segundo Bohr, os elétrons só podem ocupar **níveis de energia** específicos e quantizados. Não existem níveis intermediários entre as órbitas permitidas.
+> IV - Falso, - Há dois erros nesta afirmação:
+  >1. O correto seria "de um nível mais elevado para um mais baixo" (não o contrário).
+  >2. Quando o **elétron** realmente decai (nível alto para baixo), sim, libera energia como **radiação**.
+
+3 -  (UFRN) Considere o seguinte diagrama, de níveis de energia para o átomo de hidrogênio:
+
+![[quim-exercicio-bohr.png]]
+
+As transições em que ocorre apenas absorção de energia são:
+a) I, II, III e IV.
+b) III e IV.
+c) I e II.
+d) I e III.
+
+> [!info]- Resposta  
+> **Resposta Correta:** c) I e II.
+> #### Explicação
+> Para pular um **nível eletrônico**, o **elétron** precisa absorver energia. Logo, pela lógica, como as flechas para cima significam um aumento da energia eletrônica, elas representam transições em que ocorre sua absorção.
+
+4 - **O físico dinamarquês Niels Bohr (1885-1962) enunciou, em 1913, um modelo atômico que relacionou a quantidade de energia dos elétrons com sua localização na eletrosfera. Em relação à energia associada às transições eletrônicas, um elétron, ao absorver energia, pode sofrer a seguinte transição:**
+
+a) da órbita N para a órbita M.  
+b) da órbita P para a órbita O.  
+c) da órbita L para a órbita K.  
+d) da órbita O para a órbita P.  
+e) da órbita M para a órbita L.
+
+> [!info]- Resposta  
+> **Resposta Correta: d)**
+> #### Explicação
+> a)/b) Erradas, transição para uma órbita mais interna (perda de energia).
+> c)/e) Errada, decaimento (emissão de energia), não absorção.
+> d) Correta, O **elétron** absorve energia para saltar para uma órbita mais externa (P está mais distante que O).
+
+5 - **De acordo com o modelo de Bohr, a luz vista durante o teste da chama é emitida:** 
+
+a) quando os átomos se quebram em vários pedaços.
+b) pelos elétrons quando são promovidos a níveis de menor energia.
+c) pelos elétrons quando retornam, após a excitação, a níveis de menor energia. 
+d) quando o núcleo do átomo se quebra em dois pedaços devido ao aquecimento.
+
+> [!info]- Resposta  
+> **Resposta Correta: c)**
+> #### Explicação
+> a)/d) Erradas, falam sobre quebra do **átomo**/núcleo, isso descreve **fissão nuclear**, não o teste da chama. O teste da chama envolve apenas os **elétrons**, não o núcleo.
+> b) Errada, **elétrons** não emitem luz quando são PROMOVIDOS (quando absorvem energia). A emissão ocorre apenas quando RETORNAM aos níveis mais baixos.
+> c) Correta, essa fenômeno mostra que os níveis de energia são quantizados e as transições eletrônicas ocorrem com absorção/emissão de quantidades específicas de energia.
 ## Elementos químicos
-Provavelmente você já deve ter ouvido falar que a fórmula da **água** é H₂O. Outros exemplos de fórmulas usadas pelos químicos são CO₂ (gás carbônico), N₂ (gás nitrogênio), O₂ (gás oxigênio), O₃ (gás ozônio), C₂H₆O (etanol), C₆H₁₂O₆ (glicose), NH₃ (amônia) e CH₄ (gás metano).
+Provavelmente você já deve ter ouvido falar que a fórmula da **água** é H₂O. Outros exemplos de fórmulas usadas pelos químicos são CO₂ (gás carbônico), N₂ (gás nitrogênio), O₂ (**gás** oxigênio), O₃ (gás ozônio), C₂H₆O (etanol), C₆H₁₂O₆ (glicose), NH₃ (amônia) e CH₄ (gás metano).
 
 Todas as **substâncias** são formadas por **átomos**. As **substâncias simples** são formadas por **átomos** de um único **elemento** e as **substâncias compostas**, por **átomos** de dois ou mais **elementos** diferentes.
 
