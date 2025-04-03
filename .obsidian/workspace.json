@@ -4,11 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "e386cd27d82c261d",
+        "id": "076529aefc3ca810",
         "type": "tabs",
         "children": [
           {
-            "id": "23be64c8c5f51625",
+            "id": "f3487f11b1dde7d9",
             "type": "leaf",
             "state": {
               "type": "markdown",
@@ -191,13 +191,21 @@
       "terminal:Open terminal": false
     }
   },
-  "active": "23be64c8c5f51625",
+  "active": "f3487f11b1dde7d9",
   "lastOpenFiles": [
-    "imgs/enem/química/quim-exercicio-bohr.png",
-    "enem/química/Átomos.md",
-    "enem/química/Conceitos básicos.md",
-    "imgs/enem/química/quim-exercicio-rutherford.png",
     "enem/química/Substâncias.md",
+    "imgs/enem/biologia/bio-respiração-reações-itocondria.png",
+    "enem/química/Átomos.md",
+    "imgs/enem/química/quim-exercicio-ds-4.png",
+    "imgs/enem/química/quim-exercicio-ds-4.png",
+    "imgs/enem/química/quim-exercicio-ds-3.png",
+    "imgs/enem/química/quim-ds-ion.png",
+    "imgs/enem/química/quim-exercicio-ds-2.png",
+    "image-removebg-preview(1).png",
+    "imgs/enem/química/quim-ds-neutro.png",
+    "imgs/enem/química/quim-exercicio-ds.png",
+    "imgs/enem/química/quim-ds-diagrama-diagonal.png",
+    "enem/química/Conceitos básicos.md",
     "enem/biologia/Conceitos Básicos.md",
     "enem/biologia/Histologia.md",
     "enem/biologia/Vírus.md",
@@ -207,14 +215,6 @@
     "salvar/Sites.md",
     "salvar/Livros.md",
     "salvar",
-    "imgs/enem/química/quim-substancia-het-homo.png",
-    "imgs/enem/química/quim-substancia-eletricidade.png",
-    "imgs/enem/química/quim-rutherford-3.png",
-    "imgs/enem/química/quim-rutherford.png",
-    "imgs/enem/química/quim-rutherford-2.png",
-    "imgs/enem/química/quim-polaridade-solubilidade.png",
-    "imgs/enem/química/quim-polaridade-ligacao-polar-2.png",
-    "imgs/enem/química/quim-polaridade-ion-cov.png",
     "imgs/enem/química",
     "imgs/enem/biologia",
     "imgs/ética e compliance",

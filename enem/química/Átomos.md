@@ -151,6 +151,152 @@ e) II e V
 III. Incorreta, o **número de massa** (A) é a soma de **prótons** e **nêutrons**, não **elétrons**. **Elétrons** não contribuem significativamente para a massa. 
 IV. Correta, **isóbaros** são **átomos** de elementos diferentes (Z diferente) com mesmo A. Ex: Potássio-40 (Z=19) e Cálcio-40 (Z=20). 
 V. Correta , **isótonos** compartilham o mesmo N (**nêutrons**), mas diferem em Z e A. | Ex: Carbono-14 (N=8) e Oxigênio-16 (N=8). 
+
+7 - **A densidade da agua comum, H2O, e da agua pesada, D2O, medidas nas mesmas condições de pressão e temperatura, são diferentes. Isso ocorre porque os átomos de hidrogênio e deutério diferem quanto ao:** 
+
+a) Número atômico.  
+b) Número de elétrons.  
+c) Número de nêutrons.  
+d) Número de oxidação.  
+e) Número de prótons.
+
+> [!info]- Resposta  
+>**Resposta correta: c) Número de nêutrons.**
+> #### Explicação
+> a)/e) Erradas, ambos têm Z=1 (mesmo número de **prótons**).
+> b) Errada, em **átomos** neutros, ambos têm 1 **elétron**.
+> c) Correta, mesmo **átomo** se diferenciando apenas a sua **massa atômica**, incrementada pelo número de **nêutrons**.
+> d) Errada, a **oxidação** não muda porque ambos estão ligados a 1 **oxigênio**.
+
+8 - **A água pesada é quimicamente formada por átomos de hidrogênio e oxigênio, tal como a água comum. No entanto, a água pesada contém predominantemente átomos de ​²​H (deutério) e ​¹⁶​O. Ela é utilizada em reatores nucleares para moderar nêutrons emitidos em reações nucleares que ocorrem no núcleo do reator e geram energia térmica. Os átomos de hidrogênio e deutério são classificados como `_________` . Em uma molécula de água pesada, o número total de nêutrons é igual a `_______`. As lacunas são preenchidas correta e respectivamente por**  
+  
+a) isômeros … 10  
+b) isômeros … 18  
+c) isótopos … 10  
+d) isótopos … 18  
+e) isótopos … 20
+
+> [!info]- Resposta  
+>**Resposta correta: c) isótopos … 10**
+> #### Explicação
+> a) Errada, **isômeros** são compostos com mesma **fórmula molecular** mas arranjos diferentes.
+> b) Errada, erro duplo (**isômeros** + cálculo incorreto).
+> c) Correta, possuem mesmo **número atômico** (Z=1, mesmo **número de prótons**), diferem no número de **nêutrons**: ¹H: 0 **nêutron**; ²H: 1 **nêutron**. 
+> 
+> Cálculo de **nêutrons** em D₂O (água pesada):
+> 
+> 2 **átomos** de **deutério** (²H): 1 **nêutron** cada → 2 × 1 = 2 **nêutrons**
+> 1 **átomo** de **oxigênio**-16 (¹⁶O): 8 **nêutrons** → 8 **nêutrons**
+> Total = 2 (dos **deutérios**) + 8 (do **oxigênio**) = 10 **nêutrons**
+> 
+> d) Errada, cálculo errado (considerou erroneamente o **oxigênio** como tendo 16 **nêutrons**).
+> e) Errada, cálculo completamente equivocado.
+
+9 - **Considere as seguintes informações sobre os átomos A,B e C.** 
+
+I. A e B são isótopos.  
+II. A e C são isótonos.  
+III. B e C são isóbaros.  
+IV. O número de massa de A é igual a 55.  
+V. A soma dos números de de prótons de A,B e C é 79.  
+VI. A soma dos números de nêutrons de A,B e C é 88.  
+
+**Determine os números atômicos e de massa de A,B e C.**
+
+> [!info]- Resposta  
+> #### Explicação  
+> - **Isótopo** = Mesmo número de prótons  
+> - **Isótono** = Mesmo número de nêutrons  
+> - **Isóbaro** = Mesmo número de massa (P + N)  
+>  
+> Tabela Inicial
+>  
+> |               | A  | B  | C    |
+> |--------------|----|----|------|
+> | **Prótons**  | x  | x  | z - y  |
+> | **Nêutrons** | y  | z - x  | y  |
+> | **Massa Atômica** (P + N) | 55 | z  | z  |
+>  
+> Equações
+>  
+> $$
+> x + y = 55
+> $$  
+>  
+> $$
+> 2x + z - y = 79
+> $$  
+>  
+> $$
+> y + z - x + y = 88 \Rightarrow 2y + z - x = 88
+> $$  
+>  
+> Resolvendo para x e y
+>  
+> $$
+> x = 55 - y
+> $$  
+>  
+> Substituindo em \( 2x + z - y = 79 \):  
+>  
+> $$
+> 2(55 - y) + z - y = 79
+> $$  
+>  
+> $$
+> 110 - 2y + z - y = 79
+> $$  
+>  
+> $$
+> -3y + z = 79 - 110
+> $$  
+>  
+> $$
+> z = -31 + 3y
+> $$  
+>  
+> Substituindo em \( 2y + z - x = 88 \):  
+>  
+> $$
+> 2y - 31 + 3y - 55 = 88
+> $$  
+>  
+> $$
+> 6y = 88 + 86
+> $$  
+>  
+> $$
+> y = 29
+> $$  
+>  
+> Calculando \( x \):  
+>  
+> $$
+> x = 55 - 29 = 26
+> $$  
+>  
+> Calculando \( z \):  
+>  
+> $$
+> 2(26) + z - 29 = 79
+> $$  
+>  
+> $$
+> 52 + z = 108
+> $$  
+>  
+> $$
+> z = 56
+> $$  
+>  
+> **Solução Final**  
+>  
+> |               | A  | B  | C  |
+> |--------------|----|----|----|
+> | **Prótons**  | 26  | 26  | 27  |
+> | **Nêutrons**  | 29  | 30  | 29  |
+> | **Massa Atômica** (P+N)  | 55  | 56  | 56  |
+
 ## Cargas elétricas, atração e repulsão
 Atritando um bastão de vidro em um pedaço de lã, pendurando esse bastão com o auxílio de um barbante e, logo após, aproximando-o do pedaço de lã, notaremos que ambos se atraem. Porém, se em seguida friccionarmos outro bastão de vidro em outro pedaço de lã e aproximarmos esse bastão daquele que está suspenso, notaremos que ambos se repelem.
 
@@ -280,17 +426,66 @@ b) K⁺ (18), Ar (18) e Cl⁻ (18) SIM, são **isoeletrônicas**.
 c) Na⁺ (10) e Mg (12) NÃO são **isoeletrônicas**.  
 d) Na⁺ (10) e Cl⁻ (18) NÃO são **isoeletrônicas**.  
 e) Na⁺ (10) e K²⁺ (17) NÃO são **isoeletrônicas**.
-## Modelo atômico de Dalton
-A palavra **átomo** vem do grego e significa “indivisível”. Ela foi usada pela primeira vez por alguns filósofos da Grécia Antiga que, baseados em argumentos filosóficos, propunham que todas as coisas são formadas por **partículas** muito pequenas e indivisíveis, os **átomos**.
 
-Alguns pontos importantes da **Teoria de Dalton**, em linguagem moderna, são:
-- Todas as **substâncias** são formadas por **átomos**.
-- Os **átomos** de um mesmo **elemento químico** são iguais em todas as suas características (por exemplo, **tamanho** e **massa**).
-- Os **átomos** dos diferentes **elementos químicos** são diferentes entre si.
-- As **substâncias simples** são formadas por **átomos** de um mesmo **elemento químico**.
-- As **substâncias compostas** são formadas por **átomos** de dois ou mais **elementos** **químicos** diferentes, que se combinam sempre na mesma proporção.
-- **Átomos** não são criados nem destruídos; são esferas rígidas e indivisíveis.
-- Nas **reações químicas**, os **átomos** se recombinam.
+5 - **O átomo ⁵²M apresenta 28 nêutrons.  Assim, o íon M³⁺ é isoeletrônico ao átomo:**
+
+a) ²⁰Ca  
+b) ²²Ti  
+c) ²¹Sc  
+d) ²³V  
+e) ²⁵Mn
+
+> [!info]- Resposta  
+> **Resposta correta: c) ²¹Sc**
+> #### Explicação
+> Precisamos descobrir o número de prótons, sabendo que o o número de massa é 52 e o número de nêutrons é 28, utilizamos a seguinte fórmula:
+>
+> $$
+A = P + N \Rightarrow 52 = P + 28 \Rightarrow P = 24
+> $$
+> Com o átomo M está eletricamente estável podemos concluir que ele possuí 24 elétrons.
+> O íon M³⁺ perde 3 elétrons, ficando com 21 no total, ou seja alternativa c).
+
+6 - **O acelerador de partículas é um sistema utilizado para estudos da estrutura da matéria e física nuclear. Em um experimento realizado no acelerador, foram projetadas partículas que, ao colidirem com uma placa, geraram um tipo de espécie que apresenta 30 prótons, 28 nêutrons e 29 elétrons. Pode-se afirmar que essa espécie é um:**  
+
+a) cátion monovalente com número de massa igual a 59.  
+b) ânion bivalente com número de massa igual a 58.  
+c) ânion monovalente com número de massa igual a 57.  
+d) cátion monovalente com número de massa igual a 58.  
+e) cátion monovalente com número de massa igual a 57.
+
+> [!info]- Resposta  
+> **Resposta correta: d)**
+> #### Explicação
+Nesse caso, temos um átomo que possui 30 **prótons** e 28 **nêutrons**, logo, Z = 30 e uma massa de:
+>
+> $$
+> \begin{aligned}
+> A &= P + N \\
+> A &= 30 + 28 \\
+> A &= 58
+> \end{aligned}
+> $$
+>
+>
+Como ele possui 29 **elétrons**, um a menos que o número de prótons, o mesmo possui uma carga positiva, sendo assim, um cátion monovalente.
+
+## Modelo atômico de Dalton
+A palavra "átomo" tem origem grega e significa "indivisível". Este termo surgiu com filósofos da Grécia Antiga que, através de argumentos filosóficos, propuseram que tudo na natureza é composto por partículas extremamente pequenas e indivisíveis - os átomos.
+
+John Dalton posteriormente desenvolveu uma teoria atômica mais elaborada. Em linguagem moderna, sua teoria propõe que todas as substâncias são formadas por átomos. Átomos de um mesmo elemento químico são idênticos em características como tamanho e massa, enquanto átomos de elementos diferentes possuem propriedades distintas. Substâncias simples contêm átomos de apenas um elemento químico, enquanto substâncias compostas combinam átomos de dois ou mais elementos em proporções fixas. Dalton considerava os átomos como esferas rígidas e indivisíveis que não podem ser criados nem destruídos, apenas recombinados durante reações químicas.
+### Exercícios
+1 - **Dalton, na sua teoria atômica, propôs entre outras hipóteses que:**
+
+a) “os átomos são indivisíveis”.
+b) “os átomos de um determinado elemento são idênticos em massa”.
+
+**À luz dos seus conhecimentos atuais, quais as críticas que podem ser formuladas a cada uma dessas hipóteses?**
+
+> [!info]- Resposta  
+> #### Explicação
+> a) Hoje, sabemos que os átomos não são indivisíveis, mas podem ser divididos em **partículas** ainda menores como prótons, nêutrons e elétrons;
+> b) Embora os átomos de um mesmo elemento de fato possam ter a mesma massa atômica, também há a possibilidade deles terem diferentes números de massa, pois eles podem ter diferentes números de nêutrons, o que caracteriza a existência dos isótopos.
 ## Modelo atômico de Rutherford
 Á medida que novas evidências surgem, teorias e modelos têm, muitas vezes, de ser aperfeiçoados ou substituídos por outros. E foi isso que aconteceu com a **Teoria de Dalton** e seu modelo.
 
@@ -406,11 +601,6 @@ Utilizando o **modelo de Bohr**, podem-se explicar os **espectros atômicos**. P
   - Ao absorver energia, o **elétron** sobe para órbitas mais externas.  
   - Ao emitir energia, desce para órbitas mais internas.
 ```
-
-```ad-summary
-#### O modelo atômico de Thomson
-Havia a necessidade de um novo modelo, e foi J. J. Thomson quem o propôs. O **átomo**, segundo ele, deveria ser formado por uma esfera de carga elétrica positiva, possuindo, em sua superfície, **elétrons** incrustados. Assim, a carga elétrica total de um **átomo** seria nula, pois a carga negativa dos **elétrons** compensaria a carga positiva da esfera que os contém. Esse modelo é chamado por alguns de “modelo do pudim de passas”.
-```
 ### Exercícios
 
 1 - **O modelo atômico de Bohr introduziu importantes inovações em relação aos modelos anteriores. Entre elas, podemos citar:**
@@ -490,6 +680,274 @@ d) quando o núcleo do átomo se quebra em dois pedaços devido ao aquecimento.
 > a)/d) Erradas, falam sobre quebra do **átomo**/núcleo, isso descreve **fissão nuclear**, não o teste da chama. O teste da chama envolve apenas os **elétrons**, não o núcleo.
 > b) Errada, **elétrons** não emitem luz quando são PROMOVIDOS (quando absorvem energia). A emissão ocorre apenas quando RETORNAM aos níveis mais baixos.
 > c) Correta, essa fenômeno mostra que os níveis de energia são quantizados e as transições eletrônicas ocorrem com absorção/emissão de quantidades específicas de energia.
+
+6 - **Cada elemento químico apresenta um espectro característico, e não há dois espectros iguais. O espectro é o retrato interno do átomo e assim é usado para identificá-lo. Bohr utilizou o espectro de linhas para representar seu modelo atômico, assentado em postulados, cujo verdadeiro é:**  
+  
+a) ao mudar de órbita ou nível, o elétron emite ou absorve energia superior a diferença de energia entre as órbitas ou níveis onde ocorreu esta mudança  
+b) todo átomo possui um certo número de órbitas, com energia constante, chamadas estados estacionários, nos quais o elétron pode movimentar-se sem perder nem ganhar energia  
+c) os elétrons descrevem, ao redor do núcleo, órbitas elípticas com energia variada  
+d) o átomo é uma esfera positiva que, para tornar-se neutra, apresenta elétrons (partículas negativas) incrustados em sua superfície
+
+> [!info]- Resposta  
+> **Resposta Correta: b)**
+> #### Explicação
+a) Errada. A energia emitida/absorvida é igual (não superior) à diferença entre os níveis.  
+b) Correta. Reflete o 1º postulado: órbitas com energia constante (estados estacionários) onde elétrons não perdem/ganham energia.  
+c) Errada. Bohr propôs órbitas circulares (não elípticas) e energias fixas (não variadas).  
+d) Errada. Descreve o modelo de Thomson (pudim de passas), não o de Bohr.
+
+7 - **Analise as afirmativas abaixo:**  
+
+I. Em determinadas circunstâncias, um átomo neutro, ao ceder um elétron, adquire uma carga elétrica positiva: A⁰ → A⁺ + e⁻.  
+II. Segundo Niels Bohr (1885-1962), o elétron passa de uma órbita mais externa para outra mais interna, quando recebe energia.  
+III. Um elemento químico é constituído de átomos de mesma carga nuclear (mesmo “Z”).  
+
+**Considerando as afirmativas I, II e III, marque a alternativa correta.**  
+
+a) Apenas I e II estão corretas.  
+b) Apenas I e III estão corretas.  
+c) Apenas II está correta.  
+d) Todas estão corretas.  
+e) Apenas I está correta.
+
+> [!info]- Resposta  
+> **Resposta Correta: b)**
+> #### Explicação
+I - Correta, quando um átomo neutro perde um elétron, ele se transforma em um **cátion** (íon positivo), conforme a equação:
+> $$
+A^0 \rightarrow A^+ + e^- 
+> $$
+> Exemplo: Na⁰ → Na⁺ + e⁻.
+> 
+> II - Errada, segundo Bohr, o elétron emite energia (na forma de fóton) ao passar de uma órbita mais externa para uma mais interna. Para pular para uma órbita mais externa, ele absorve energia. A afirmativa inverteu os conceitos.
+> 
+> III - Correta, o número atômico define um elemento químico. Átomos com o mesmo Z (mesmo número de prótons) pertencem ao mesmo elemento, mesmo que tenham números de massa diferentes (isótopos).
+
+ 8 - **O sal de cozinha (NaCl) emite luz de coloração amarela quando colocado numa chama. Baseando-se na teoria atômica, é correto afirmar que:**  
+
+a) os elétrons do cátion Na⁺, ao receberem energia da chama, saltam de uma camada mais externa para uma mais interna, emitindo luz amarela.  
+b) a luz amarela emitida nada tem a ver com o sal de cozinha, pois ele não é amarelo.  
+c) a emissão da luz amarela se deve a átomos de oxigênio.  
+d) os elétrons do cátion Na⁺, ao receberem energia da chama, saltam de uma camada mais interna para uma mais externa e, ao perderem a energia ganha, emitem-na sob a forma de luz amarela.  
+e) qualquer outro sal também produziria a mesma coloração.
+
+> [!info]- Resposta  
+> **Resposta Correta: d)**
+> #### Explicação
+a) Errada, elétrons não emitem luz ao cair para camadas internas (isso ocorre no retorno, mas a emissão é consequência da perda de energia, não do salto inicial). Além disso, o Na⁺ (íon) não tem elétrons para saltar; a emissão vem do Na⁰ (átomo neutro formado na chama).
+b) Errada, a cor da luz depende do elemento químico (no caso, o sódio), não da cor do sal em estado sólido.
+c) Errada, o oxigênio não emite luz amarela. A cor é típica do sódio (ex.: lâmpadas de vapor de sódio).
+ d) Correta, quando aquecido na chama os elétrons do Na absorvem energia e saltam para níveis mais externos (excitados).  Ao retornarem ao nível fundamental, liberam energia na forma de luz visível (amarela, para o Na)
+ e) Errada, cada elemento tem uma assinatura espectroscópica única. Por exemplo, sais de potássio emitem luz violeta, e de cobre, verde.
+## Modelo atômico de Thomson
+O **modelo atômico de Thomson**, proposto pelo físico britânico Joseph John Thomson em 1897, representa um marco importante na história da física. Este modelo surgiu como resultado direto de suas pesquisas com os **raios catódicos**, contribuindo significativamente para nossa compreensão da estrutura da **matéria**.
+
+Os **raios catódicos** foram observados pela primeira vez em experimentos com tubos de vidro parcialmente evacuados (com baixa pressão) nos quais dois **eletrodos** metálicos eram inseridos. Quando uma alta voltagem era aplicada entre estes **eletrodos**, um feixe luminoso se formava, partindo do **eletrodo** negativo (**cátodo**) em direção ao eletrodo positivo (**ânodo**).
+
+Thomson realizou vários experimentos com estes raios e descobriu propriedades importantes:
+
+1. Os raios viajavam em linha reta do **cátodo** em direção ao **ânodo**.
+2. Eles podiam ser desviados por **campos elétricos** e **magnéticos**.
+3. O desvio indicava que os raios eram compostos por **partículas** carregadas negativamente.
+4. Estas **partículas** pareciam ser idênticas, independentemente do material do **cátodo** ou do **gás** no tubo.
+
+Baseado nestas observações, Thomson concluiu que os **raios catódicos** eram, na verdade, feixes de **partículas subatômicas** - que mais tarde seriam chamadas de **elétrons** - e que estas partículas eram constituintes fundamentais de toda matéria.
+
+A partir de suas descobertas, Thomson propôs um novo modelo para o **átomo**, frequentemente chamado de "modelo do pudim de passas". Segundo este modelo:
+
+- O **átomo** consistia em uma esfera uniforme de carga positiva.
+- Dentro desta esfera positiva, estavam distribuídos pequenos corpúsculos de carga negativa (os **elétrons**).
+- Os **elétrons** estavam distribuídos pela esfera positiva de maneira que o **átomo** como um todo fosse eletricamente neutro.
+
+```ad-summary
+O **modelo de Thomson** foi revolucionário por várias razões:
+
+1. Foi o primeiro modelo a incorporar **partículas subatômicas**, desafiando a ideia do **átomo** como uma unidade indivisível.
+2. Demonstrou que os **átomos** continham partículas carregadas eletricamente.
+3. Estabeleceu o **elétron** como uma partícula fundamental da matéria.
+
+Embora o modelo tenha sido posteriormente substituído pelo modelo planetário de **Rutherford** em 1911, as contribuições de **Thomson** foram essenciais para o desenvolvimento da física atômica e para nossa compreensão atual da estrutura da **matéria**.
+
+Os experimentos com **raios catódicos** e o **modelo atômico de Thomson** representam um exemplo importante de como a observação experimental cuidadosa pode levar a avanços teóricos significativos na ciência.
+```
+### Exercícios
+1 - **No fim do século XIX, Thomson realizou experimentos em tubos de vidro que continham gases a baixas pressões, em que aplicava uma grande diferença de potencial. Isso provocava a emissão de raios catódicos. Esses raios, produzidos num cátodo metálico, deslocavam-se em direção à extremidade do tubo.**
+
+**Nesses experimentos, Thomson observou que:** 
+**I) a razão entre a carga e a massa dos raios catódicos era independente da natureza do metal constituinte do cátodo ou do gás existente no tubo;** 
+**II) os raios catódicos, ao passarem entre duas placas carregadas, com cargas de sinal contrário, se desvia­vam na direção da placa positiva.** 
+
+**Considerando-se essas observações, é CORRETO afirmar que os raios catódicos são constituídos de:** 
+a) elétrons. 
+b) ânions. 
+c) prótons. 
+d) cátions.
+
+> [!info]- Resposta  
+> **Resposta Correta: a) elétrons.**
+> #### Explicação
+> a) Correta, partículas com carga negativa, presentes em todos os materiais, com massa muito menor que **átomos**.
+> b)/d) Erradas, a razão carga/**massa** ser constante, independente do **metal** do **cátodo** ou **gás** no tubo, indica que as **partículas** são constituintes universais da **matéria**, não podendo ser **ânions** ou **cátions**, pois esses dependem do **átomo** de origem.
+> c) Errada, o desvio para a placa positiva revela que as **partículas** têm carga negativa.
+
+2 - **Thomson determinou, pela primeira vez, a relação entre a massa e a carga do elétron, o que pode ser considerado como a descoberta do elétron. É reconhecida como uma contribuição de Thomson ao modelo atômico:** 
+
+a) o átomo ser indivisível. 
+b) a existência de partículas subatômicas. 
+c) os elétrons ocuparem níveis discretos de energia. 
+d) os elétrons girarem em órbitas circulares ao redor do núcleo. 
+e) o átomo possuir um núcleo com carga positiva e uma eletrosfera.
+
+> [!info]- Resposta  
+> **Resposta Correta: b)**
+> #### Explicação
+> a) Errada, **Thomson** provou justamente o oposto (**átomos** são divisíveis).
+> c) Errada, esta foi contribuição de **Bohr**.
+> d) Errada, também proposta por **Bohr** posteriormente.
+> e) Errada, ideia desenvolvida por **Rutherford**.
+## Subníveis de energia
+Uma vez que, nas décadas de 1920 e 1930, a análise de espectros se mostrava uma das melhores maneiras de investigar a **eletrosfera**, muitos cientistas centraram seus esforços nesse campo. Com a construção de aparelhos mais avançados para obter os espectros, foi possível perceber que eles apresentam uma estrutura fina, ou seja, algumas das linhas são compostas de duas ou mais linhas muito próximas.
+![[quim-ds-subniveis.png]]
+A estrutura fina dos espectros foi explicada quando os cientistas propuseram que os **níveis de energia** são formados por subdivisões, chamadas de **subníveis**. Estes são designados pelas letras minúsculas s, p, d, f, g, h etc.
+
+```ad-info
+A **camada K** é formada pelo **subnível** s.
+A **camada L** é formada pelos **subníveis** s e p.
+A **camada M** é formada pelos **subníveis** s, p e d.
+A **camada N** é formada pelos **subníveis** s, p, d e f.
+E assim por diante...
+```
+
+Cada **subnível** comporta um certo número máximo de **elétrons**, conforme mostrado a seguir. Ordenando (com base em evidências experimentais obtidas de **átomos** com dois ou mais **elétrons**) os **subníveis** em sequência crescente de energia, os cientistas chegaram ao seguinte esquema:
+![[quim-ds-energia.png]]
+```ad-warning
+A simbologia 1s indica **subnível** s do primeiro nível, 2s indica **subnível** s do segundo nível, 2p indica **subnível** p do segundo nível e assim por diante.
+```
+
+```ad-summary
+Como pode ser visto no esquema, o **subnível** 4s, apesar de pertencer à quarta camada, apresenta energia inferior à do subnível 3d, que pertence à terceira camada. Algumas outras situações de inversão desse tipo ocorrem entre os vários **subníveis** (por exemplo, o **subnível** 5s tem energia inferior ao 4d e ao 4f; o **subnível** 6s tem energia inferior ao 4f e ao 5d). 
+```
+
+O esquema a baixo é mais abrangente e permite estabelecer a ordem crescente de energia desde 1s até 6d.
+![[quim-ds-energia-2.png]]
+
+```ad-summary
+### O Princípio da Incerteza de Heisenberg
+
+O Princípio da Incerteza de Heisenberg, formulado pelo físico Werner Heisenberg em 1927, explica que o próprio ato de medir uma grandeza física afeta o valor que estamos tentando medir. Este fenômeno se torna mais significativo quanto menor for o objeto analisado.
+
+Para entender esse conceito, podemos usar a analogia da medição de temperatura. Ao medir a temperatura de uma piscina ou de um copo d'água com um termômetro, a interferência do instrumento é desprezível. Porém, ao tentar medir uma minúscula gota de orvalho, o termômetro inevitavelmente alterará sua temperatura - esquentando-a se estiver mais fria que o instrumento, ou resfriando-a se estiver mais quente.
+
+O mesmo ocorre em escala atômica. Quando tentamos observar **elétrons**, a própria luz utilizada para "enxergá-los" interage com eles, alterando sua posição e energia. Por isso, é impossível determinar com precisão absoluta a posição de um elétron em um átomo, tornando sem sentido a ideia de trajetórias definidas, como as órbitas circulares propostas por Bohr.
+
+Devido a esta limitação fundamental, a pesquisa atômica passou a concentrar-se em evidências indiretas, como os espectros atômicos, que fornecem informações valiosas sobre os níveis de energia na eletrosfera. Atualmente, entende-se que um elétron é melhor caracterizado por sua energia do que por sua posição, velocidade ou trajetória.
+```
+### Distribuição eletrônica nos subníveis para átomos neutros
+Há uma disposição natural que faz as coisas tenderem sempre a uma situação de menor energia. Considere a queda de um corpo: ao final, a energia potencial do sistema é menor do que no início. O mesmo acontece com uma mola esticada, que, assim que for solta, voltará ao seu comprimento habitual. 
+
+```ad-important
+A tendência a minimizar a energia também é observada na **eletrosfera** dos **átomos**. Os **elétrons** tendem a distribuir-se nos subníveis de menor energia, desde que haja lugar disponível.
+```
+
+Considere, por exemplo, o **átomo** eletricamente neutro de **hidrogênio** 1 H, que possui 1 elétron. Este permanece no **subnível** 1s, que, entre todos, possui menor **energia**. Dizemos que a **distribuição eletrônica** do 1 H nos **subníveis** é 1s1.
+
+No caso do ²He, a distribuição é 1s², ou seja, os seus 2 **elétrons** ocupam o **subnível** de menor energia, 1s. O lítio ³Li apresenta distribuição 1s² 2s¹. Note que o terceiro **elétron** não é comportado pelo subnível 1s, que comporta no máximo 2 **elétrons**. Ele é forçado a ocupar o **subnível** 2s, que, depois do **subnível** 1s, é o que apresenta menor energia.
+
+![[quim-ds-exemplo.png]]
+#### Diagrama das diagonais
+Mostram a ordem em que se dá o preenchimento dos subníveis (para a maioria dos átomos dos
+elementos). Ele nos ajuda a realizar a distribuição eletrônica, o que é feito seguindo as diagonais. 
+Observe abaixo a configuração eletrônica de alguns átomos neutros.
+
+![[quim-ds-diagrama-diagonal.png]]
+
+##### Exercícios
+ 
+1 - **Coloque em ordem crescente de energia os subníveis eletrônicos: 4d 4f 5p 6s**
+
+a) 4d , 5p , 6s , 4f.
+d) 5p , 6s , 4f , 4d.
+b) 4d , 4f , 5p , 6s.
+e) 6s , 5p , 4d , 4f.
+c) 4f , 4d , 5p , 6s.
+
+> [!info]- Resposta  
+> **Resposta Correta: a)**
+> #### Explicação
+A ordem crescente de energia dos **subníveis** é fornecida pelo diagrama das diagonais. Localizando 4d, 4f, 5p e 6s nesse diagrama, concluímos que a ordem crescente de energia é: 4d , 5p , 6s , 4f, dada pela alternativa a.
+
+2 -  Escreva a distribuição eletrônica nos subníveis de energia para os seguintes átomos:
+
+a) ¹⁷Cl
+b) ²⁶Fe
+
+> [!info]- Resposta  
+> #### Explicação
+Utilizando o **diagrama das diagonais**, devemos distribuir, respectivamente, 17 e 26 **elétrons**, pois, lembre-se, num **átomo** (subentende-se **átomo** neutro) o número de **elétrons** é igual ao de **prótons**. Assim:
+>
+> ![[quim-exercicio-ds.png]]
+
+#### Distribuição eletrônica nas camadas para átomos neutros
+Além de auxiliar na distribuição eletrônica nos subníveis, o diagrama das diagonais possibilita a elaboração da distribuição eletrônica nos níveis ou camadas. Veja os exemplos:
+
+![[quim-ds-neutro.png]]
+##### Exercícios
+
+1 - Escreva a distribuição eletrônica em camadas (níveis de energia) para os seguintes átomos:
+
+a) ¹¹Na
+b) ¹⁷Cl
+c) ²⁶Fe
+
+> [!info]- Resposta  
+> #### Explicação
+Utilizando o diagrama das diagonais, devemos inicialmente distribuir os elétrons nos subníveis. A seguir, agrupamos os elétrons por camada (nível de energia):
+>
+> ![[quim-exercicio-ds-2.png]]
+
+2 - **Na crosta terrestre, o segundo elemento mais abundante, em massa, tem, no estado fundamental, a seguinte configuração eletrônica:**
+
+**nível 1: completo; nível 2: completo;**
+**nível 3: 4 elétrons**
+
+**A alternativa que indica corretamente esse elemento é:**
+a) Alumínio (Z = 13).
+c) Nitrogênio (Z = 7).
+b) Ferro (Z = 26).
+d) Oxigênio (Z = 8).
+e) Silício (Z = 14).
+
+> [!info]- Resposta  
+> **Resposta Correta: e)**
+> #### Explicação
+De acordo com a descrição feita, temos: K - 2 L - 8 M - 4.
+Isso conduz ao número atômico 14, elemento químico silício.
+#### Distribuição eletrônica em íons
+Os **íons** diferem dos respectivos **átomos** neutros apenas no número de **elétrons**. Assim, para fazer a **distribuição eletrônica** de **íons**, devemos inicialmente fazer a **distribuição eletrônica** como se fosse um **átomo** neutro. Em seguida, retiramos **elétrons** se for um **cátion** ou acrescentamos se for um **ânion**. É importantíssimo que, ao acrescentar ou retirar **elétrons**, realizemos essa operação com a **camada de valência**.
+
+```ad-attention
+**Camada de valência** é a camada mais afastada do núcleo.
+```
+
+![[quim-ds-ion.png]]
+
+##### Exercícios
+
+1 - Escreva a configuração eletrônica do cátion bivalente obtido a partir do ²⁶Fe.
+
+> [!info]- Resposta  
+> #### Explicação
+> Inicialmente, devemos distribuir 26 **elétrons** de acordo com o **diagrama das diagonais**. A seguir, retiramos 2 **elétrons** da **camada de valência**.
+>
+![[quim-exercicio-ds-3.png]]
+
+2 -  Escreva a distribuição eletrônica em camadas para ¹⁵P³⁻.
+
+> [!info]- Resposta  
+> #### Explicação
+> Inicialmente, devemos distribuir 15 **elétrons** de acordo com o **diagrama das diagonais**. A seguir, adicionamos 3 **elétrons** na **camada de valência**. Depois, fazemos a distribuição pelas camadas de acordo com as quantidades respectivas de cada camada.
+> 
+> ![[quim-exercicio-ds-4.png]]
 ## Elementos químicos
 Provavelmente você já deve ter ouvido falar que a fórmula da **água** é H₂O. Outros exemplos de fórmulas usadas pelos químicos são CO₂ (gás carbônico), N₂ (gás nitrogênio), O₂ (**gás** oxigênio), O₃ (gás ozônio), C₂H₆O (etanol), C₆H₁₂O₆ (glicose), NH₃ (amônia) e CH₄ (gás metano).
 
@@ -507,6 +965,37 @@ Assim, por exemplo:
 - A fórmula O₂ representa a **substância** cujas **moléculas** são formadas por dois **átomos** do **elemento químico** **oxigênio**.
 - A fórmula O₃ representa a **substância** cujas **moléculas** são formadas por três **átomos** do **elemento químico** **oxigênio**.
 - A fórmula H₂O representa a **substância** cujas **moléculas** são formadas por dois **átomos** do **elemento químico** **hidrogênio** e um **átomo** do **elemento químico** **oxigênio**.
+
+```ad-summary
+### Elementos químicos presentes no corpo humano
+| Elemento                     | Símbolo | Z   | Comentário                                                                                                                                 |
+|------------------------------|---------|-----|--------------------------------------------------------------------------------------------------------------------------------------------|
+| **Presentes em grande quantidade** |         |     |                                                                                                                                            |
+| Hidrogênio                   | H       | 1   | São formadores de substâncias presentes em grande quantidade no organismo (síquicos, proteínas, gorduras etc.). Dentre elas, hidrogênio e oxigênio formam a água (H2O), que é responsável por mais da metade da massa de um ser humano. |
+| Carbono                      | C       | 6   |                                                                                                                                            |
+| Nitrogênio                   | N       | 7   |                                                                                                                                            |
+| Oxigênio                     | O       | 8   |                                                                                                                                            |
+| **Presentes em quantidade pequena** |         |     |                                                                                                                                            |
+| Sódio                        | Na      | 11  | Forma um (Na+1) presente no sangue e nos demais líquidos do organismo.                                                                     |
+| Magnésio                     | Mg      | 12  | Tem papel importante no funcionamento de músculos.                                                                                         |
+| Fósforo                      | P       | 15  | Presente no fosfato, que toma parte no sistema de armazenamento de energia.                                                                |
+| Enxofre                      | S       | 16  | Participa da composição de algumas proteínas.                                                                                              |
+| Cloro                        | Cl      | 17  | Forma um (Cl-1) presente no sangue e nos demais líquidos do organismo.                                                                     |
+| Potássio                     | K       | 19  | Forma um (K+1) presente no sangue e nos demais líquidos do organismo.                                                                      |
+| Cálcio                       | Ca      | 20  | Toma parte em ossos e dentes, na forma de íon (Ca+2).                                                                                      |
+| **Presentes em quantidade muito pequena (apenas traços)** |         |     |                                                                                                                                            |
+| Flúor                        | F       | 9   | Participa do esmalte dental, que reduz a formação de cáries.                                                                               |
+| Cromo                        | Cr      | 24  | Participa do metabolismo dos açúcares.                                                                                                     |
+| Manganês                     | Mn      | 25  | Ajuda na metabolização de açúcares e gorduras e na formação dessas.                                                                        |
+| Ferro                        | Fe      | 26  | Componente da hemoglobina, pigmento que transporta oxigênio no sangue.                                                                     |
+| Cobalto                      | Co      | 27  | Faz parte da composição de vitamina B12.                                                                                                   |
+| Cobre                        | Cu      | 29  | Ajuda na ocorrência de algumas reações químicas.                                                                                           |
+| Zinco                        | Zn      | 30  | Necessário ao crescimento normal.                                                                                                          |
+| Selênio                      | Se      | 34  | Auxilia a digestão de óleos e gorduras.                                                                                                    |
+| Molibdênio                   | Mo      | 42  | Ajuda na ocorrência de algumas reações químicas.                                                                                           |
+| Iodo                         | I       | 53  | Importante para o bom funcionamento da tireoide.                                                                                           |
+
+```
 ### Equação química
 Voltemos ao exemplo da **decomposição** da **água**. Levando em conta a composição das **moléculas** envolvidas, podemos representar essa **reação** assim: 
 $$
