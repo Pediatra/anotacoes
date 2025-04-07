@@ -1030,6 +1030,469 @@ não está corretamente balanceada, pois há menos **átomos** de N e de O no la
 $$
 N2 + O{2} \rightarrow 2NO
 $$
+## Tabela periódica
+A **Tabela Periódica** é uma organização dos elementos químicos em ordem crescente de **número atômico (Z)**, que é a quantidade de prótons no núcleo. Ela foi proposta por **Dmitri Mendeleev** em 1869 e aprimorada ao longo do tempo.
+
+![[quim-tabela-periodica.png]]
+
+1. **Grupos (Famílias) → Colunas Verticais (1 a 18)**
+	- Elementos com **propriedades químicas semelhantes**.
+- **Grupos importantes**:
+    - **Metais alcalinos (Grupo 1)**: Li, Na, K, Rb, Cs, Fr → Reativos, formam bases.
+    - **Metais alcalinoterrosos (Grupo 2)**: Be, Mg, Ca, Sr, Ba, Ra → Menos reativos que o Grupo 1.
+    - **Halogênios (Grupo 17)**: F, Cl, Br, I, At → Formam sais com metais.
+    - **Gases nobres (Grupo 18)**: He, Ne, Ar, Kr, Xe, Rn → Estáveis, pouca reatividade.
+ 1. **Períodos → Linhas Horizontais (1 a 7)**
+	- Representam o **número de camadas eletrônicas** do átomo.
+
+```ad-summary
+#### Metais, não metais e semimetais
+**Metais** são substâncias simples que geralmente conduzem bem eletricidade e calor, são maleáveis (podem ser transformados em lâminas) e dúcteis (podem ser transformados em fios). Além disso, são sólidos em condições ambientes (25 °C e pressão atmosférica), com exceção do mercúrio (Hg), que é líquido.  
+_Exemplo:_ O cobre (Cu) é usado em fios elétricos por sua alta condutividade, enquanto o alumínio (Al) é maleável o suficiente para ser transformado em folhas (como papel alumínio).
+
+**Não metais** (ou ametais) geralmente não conduzem bem calor e eletricidade (exceto o grafite, forma do carbono) e não são maleáveis ou dúcteis. Onze não metais são gasosos em condições ambientes (como hidrogênio, oxigênio e cloro), um é líquido (bromo) e os demais são sólidos.  
+_Exemplo:_ O oxigênio (O₂) é um gás essencial para a respiração, enquanto o enxofre (S) é um não metal sólido usado em fertilizantes.
+
+**Semimetais** têm propriedades intermediárias entre metais e não metais e são sólidos em condições ambientes. Dois exemplos importantes são o silício (Si) e o germânio (Ge), usados em componentes eletrônicos.  
+_Exemplo:_ O silício é a base de chips de computador e células solares devido à sua capacidade de conduzir eletricidade de forma controlada.
+```
+### Camada de valência 
+Observando a **configuração eletrônica** é possível perceber que os **átomos** de elementos de um mesmo grupo apresentam em comum o número de **elétrons** na última camada.
+
+Os **átomos** de elementos do grupo 1 apresentam 1 **elétron** na última camada. A diferença entre a **eletrosfera** de seus **átomos** está no número de camadas. O **átomo** de **hidrogênio** (primeiro período) apresenta uma camada; o de **lítio** (segundo período), duas camadas; o de **sódio** (terceiro período), três camadas; e assim por diante.
+
+O que os fatos mostrados parecem indicar com relação à valência? O fato de elementos de um mesmo grupo apresentarem a mesma valência (número de ligações possíveis com outros átomos) deve estar relacionado com o número de elétrons na última camada. Isso parece lógico, pois, quando um átomo se une a outro, os elétrons da camada mais externa de cada um deles devem ser mais importantes nessa união do que os elétrons das camadas mais internas.
+
+De fato, os químicos dispõem de muitas evidências para associar os elétrons da última camada com a capacidade de um átomo estabelecer ligação com outro ou com outros átomos. Isso é tão importante na Química que a camada eletrônica mais externa recebe um nome especial.
+
+A camada mais externa do átomo de um elemento químico é aquela envolvida diretamente no estabelecimento de união com outro(s) átomo(s). Ela é denominada **camada de valência**. Os elétrons dessa camada são chamados de **elétrons de valência**.
+
+```ad-attention
+Elementos de um mesmo grupo da **tabela periódica** apresentam o mesmo número de **elétrons** na **camada de valência**. Exceção a isso é o elemento **hélio** (Z = 2). Seus átomos apresentam 2 **elétrons** na **camada de valência**, mas ele não é colocado no grupo 2. Suas propriedades não se assemelham às dos elementos daquele grupo (Be, Mg, Ca, Sr, Ba, Ra), mas sim às dos **gases nobres** (Ne, Ar, Kr, Xe, Rn). Por essa razão, o **hélio** é considerado um **gás nobre** e é incluído no grupo 18 da **tabela periódica**.
+```
+
+```ad-summary
+#### Representação de Lewis
+
+A **representação de Lewis** é um sistema que ilustra como os **elétrons** se organizam nas **ligações químicas**, usando símbolos dos **elementos** e pontos ou traços para mostrar os **elétrons** de **valência** e como eles são compartilhados entre **átomos**. 
+
+Na **notação de Lewis**, o símbolo químico do **átomo** representa o núcleo e os **elétrons** das camadas internas. Os **elétrons de valência** são representados como pontos ao redor do símbolo ou como traços entre **átomos** quando formam **ligações**.
+
+![[quim-repr-lewis.png]]
+```
+### Valência
+Uma das propriedades mais importantes dos elementos químicos é a capacidade de seus átomos se combinarem com outros átomos.
+
+Um átomo de hidrogênio, por exemplo, pode unir-se a outro átomo de hidrogênio, formando a substância simples H₂. Pode também combinar-se com um átomo de flúor, formando HF, ou com um de cloro, formando HCl. Em linguagem química, dizemos que o hidrogênio apresenta valência 1, ou seja, um átomo de hidrogênio pode unir-se a apenas um outro átomo.
+
+O hidrogênio é capaz de combinar-se com muitos elementos químicos conhecidos, formando compostos. Com base na fórmula desses compostos, podemos avaliar a valência do elemento que se combina com o hidrogênio.
+
+Considere, por exemplo, as seguintes fórmulas de substâncias formadas por hidrogênio e por elementos do segundo período da tabela periódica:
+
+![[quim-valencia-1.png]]
+
+Essas fórmulas ilustram que **lítio** (Li) e **flúor** (F) apresentam **valência** 1, **berílio** (Be) e **oxigênio** (O), **valência** 2, **boro** (B) e **nitrogênio** (N), **valência** 3, e **carbono** (C), **valência** 4. O **gás nobre** do segundo período, o **neônio** (Ne), não forma composto com **hidrogênio**; sua valência é zero.
+
+Agora considere as fórmulas das substâncias formadas pelo **hidrogênio** com os elementos do terceiro período da tabela periódica:
+
+![[quim-valencia-2.png]]
+
+Nelas percebemos que **sódio** (Na) e **cloro** (C,) apresentam **valência** 1, **magnésio** (Mg) e **enxofre** (S), **valência** 2, **alumínio** (A,) e **fósforo** (P), **valência** 3, e **silício** (Si), **valência** 4. O **gás nobre** do terceiro período, o **argônio** (Ar), não forma composto com **hidrogênio**; sua valência é zero.
+
+As fórmulas das substâncias formadas por esses elementos do segundo e do terceiro períodos com flúor ou com cloro, ambos de valência 1, também reforçam as conclusões que tiramos. Observe:
+
+![[quim-valencia-3.png]]
+
+Como o oxigênio apresenta valência 2, seus átomos podem combinar-se com dois átomos de valência 1, ou com um átomo de valência 2, e assim por diante. Observe, por exemplo, as fórmulas de algumas substâncias formadas por oxigênio e alguns elementos do segundo e do terceiro períodos:
+
+![[quim-valencia-4.png]]
+
+```ad-summary
+##### O conceito de propriedade periódica dos elementos
+Analisando o gráfico de valência versus número atômico apresentado a baixo, é possível entender o que vem a ser uma propriedade periódica.
+
+A propriedade valência, para elementos com números atômicos de 1 a 20, varia de modo definido (o valor da valência se repete a cada período).
+
+O gráfico mostra uma propriedade periódica, ou seja, o valor numérico da propriedade se repete de período em período.
+
+Quando você observa uma propriedade periódica, pode verificar que, a intervalos mais ou menos regulares, os valores da propriedade variam de determinado modo à medida que o número atômico (Z) aumenta.
+
+Podemos afirmar que a base do estudo da tabela periódica está no conhecimento e na interpretação das propriedades periódicas dos elementos.
+
+Essa periodicidade será extremamente útil na previsão das propriedades e do comportamento dos elementos químicos.O fundamental é que o estudante perceba como se relacionam as propriedades dos elementos, suas posições na tabela periódica e suas estruturas eletrônicas.
+
+![[quim-valencia-5.png]]
+```
+### Raio atômico
+O **raio atômico** (RA) pode ser considerado uma medida do tamanho do **átomo**. Tamanho do **átomo** é um conceito bastante vago. É impossível saber onde termina a **nuvem eletrônica** ao redor dele. Operacionalmente, o que se faz é adotar alguns critérios para definir o raio do **átomo**. 
+
+Para que seja possível discutir a propriedade periódica **raio atômico**, vamos considerar o **átomo** como sendo uma esfera; o raio atômico será a distância média do **elétron** mais externo até o núcleo.
+
+![[quim-atomo-raio.png]]
+
+```ad-info
+O raio atômico é medido em picometro (pm).
+1 pm = 10⁻¹²m
+```
+
+Em um grupo da **tabela periódica** o raio atômico aumenta à medida que o Z (prótons) cresce, e esse aumento ocorre de cima para baixo. O raio atômico aumenta de cima para baixo porque há um aumento do número de camadas ocupadas por elétrons.
+
+
+![[quim-raio-grupos.png]]
+
+Em um período os elementos possuem o mesmo número de camadas. Da esquerda para a direita, há um aumento do número de prótons (Z), o que obviamente acarreta um aumento da carga nuclear. Os elétrons da eletrosfera vão sendo mais fortemente atraídos, o que causa a diminuição do raio atômico. Comparando K (de maior raio) com Br (de menor raio):
+
+![[quim-raio-periodo.png]]
+
+```ad-important
+Num período, o raio atômico aumenta da direita para a esquerda, porque, para um mesmo número de camadas ocupadas, os elementos situados à esquerda possuem uma carga nuclear menor.
+```
+
+```ad-summary
+#### Raio atômico x raio iônico
+
+Metais têm tendência a doar elétrons, transformando-se em íons positivos (cátions). Não metais têm tendência a ganhar elétrons, transformando-se em íons negativos (ânions). Essa perda ou ganho de elétrons permite adquirir a estrutura eletrônica de um gás nobre, ou seja, como veremos em outro capítulo, atingir a estabilidade.
+
+![[quim-raio-ionico.png]]
+
+```
+#### Exercícios
+
+ 1 - **Considerando um grupo ou família na tabela periódica, podemos afirmar em relação ao raio atômico:**
+
+a) Aumenta com o aumento do número atômico, devido ao aumento do número de camadas.  
+b) Aumenta à medida que aumenta o número de elétrons do nível L.  
+c) Não sofre influência da variação do número atômico.  
+d) Diminui à medida que aumenta o número atômico, devido ao aumento da força de atração do núcleo.  
+e) Diminui com o aumento atômico, devido ao aumento do número de elétrons
+
+> [!info]- Resposta  
+> **Resposta Correta: a)**
+> #### Explicação
+> a) Correta, em uma mesma família, o número atômico maior indica mais prótons e elétrons, mas o efeito dominante é o aumento de camadas (ex.: Lítio (2 camadas) → Sódio (3 camadas) → Potássio K (4 camadas)).
+> b) Errada, o nível L (2ª camada) é fixo para elementos do mesmo período, não da família. Além disso, o raio depende do nível de valência (última camada), não de camadas internas.
+> c) Errada, o **número atômico** influencia diretamente o raio: mais camadas = raio maior (na família).
+> d) Errada, descreve a tendência horizontal (períodos), não vertical. Em períodos, o raio diminui com o aumento de Z (mais prótons atraem elétrons para mais perto).
+> e) Errada, o aumento de elétrons não reduz o raio na família. Pelo contrário: mais elétrons ocupam novas camadas, aumentando o raio.
+> 
+
+2 - **Os átomos neutros de dois elementos químicos A e B, estáveis, apresentam respectivamente as distribuições eletrônicas:  A: K = 2, L = 8, M = 7  B: K = 2, L = 7**  
+
+**Pode-se dizer, a respeito desses dois elementos, que:**  
+
+a) apresentam o mesmo número de nêutrons.  
+b) são metais.  
+c) apresentam o mesmo número de prótons.  
+d) pertencem à mesma família da Tabela Periódica.  
+e) apresentam o mesmo raio atômico.
+
+> [!info]- Resposta  
+> **Resposta Correta: d)**
+> #### Explicação
+> a) Errada, nêutrons dependem do isótopo. Não há informação sobre massa atômica (A).
+> b) Errada, cloro e flúor são **não metais** (família dos halogênios).
+> c) Errada, Cl (Z=17) ≠ F (Z=9).
+> d) Correta, ambos são halogênios (família 17 ou 7A).
+> e) Errada, O raio do ferro é menor que o do cloro (cloro tem mais camadas).
+> 
+
+3 - Em relação ao tamanho de átomos e íons, são feitas as afirmações seguintes:  
+
+I. O Cl⁻ (g) é menor do que o Cl (g).  
+II. O Na⁺ (g) é menor do que o Na (g).  
+III. O Ca²⁺ (g) é maior do que o Mg²⁺ (g).  
+IV. O Cl (g) é maior do que o Br (g).  
+
+Das afirmações anteriores, estão corretas apenas:  
+a) II.  
+b) I e II.  
+c) II e III.  
+d) I, III e IV.  
+e) II, III e IV.
+
+> [!info]- Resposta  
+> **Resposta Correta: d)**
+> #### Explicação
+>I - Errada, ânion Cℓ⁻ recebeu um elétron e o núcleo passou a atrair os elétrons com menor força, logo, sofreu uma expansão;
+II - Correta, o cátion Na⁺ perdeu um elétron e o núcleo passou a atrair os elétrons com maior força, logo, sofreu contração;
+III - Correta, os cátions ₂₀Ca⁺² e ₁₂Mg⁺² estão situados no mesmo Grupo e  o ₂₀Ca⁺² possui uma camada a mais que o ₁₂Mg⁺²;
+IV - Correta, os átomos ₁₇Cℓ e ₃₅Br estão situados no mesmo Grupo e  o ₃₅Br possui uma camada a mais que o ₁₇Cℓ;
+### Energia de ionização
+Seja um **átomo** isolado, no **estado gasoso** e no estado fundamental. Quando ele absorve energia, **elétrons** podem ser transferidos de um nível para outro mais afastado do núcleo. Se a energia fornecida for suficientemente alta, será possível arrancar um **elétron** do átomo em questão, transformando-o num **íon** positivo.
+
+![[quim-atomo-ei.png]]
+
+```ad-important
+**Energia de ionização** (EI) é a energia mínima necessária para arrancar um elétron de um átomo que se encontra no estado fundamental, gasoso e isolado.
+```
+
+Em um grupo da tabela periódica a energia de ionização aumenta à medida que o número de prótons (Z) diminui, aumentando de baixo para cima. De baixo para cima ocorre, num grupo, diminuição do número de camadas ocupadas por elétrons (diminui o raio atômico). Devido a esse fato, os elétrons externos encontram-se mais próximos do núcleo e, consequentemente, é maior a atração do núcleo sobre eles, sendo necessária maior energia para arrancar um elétron, ou seja, aumenta a energia de ionização.
+
+![[quim-atomo-ie-2.png]]
+
+Num período: A energia de ionização aumenta à medida que o número atômico cresce (da esquerda para a direita). O aumento da energia de ionização com o aumento do Z está diretamente ligado à diminuição do raio atômico.
+
+```ad-important
+Num período ou num grupo, a energia de ionização será tanto maior quanto menor for o raio atômico.
+```
+#### Segunda, terceira, ... energia de ionização
+É possível retirar mais de um elétron do átomo, bastando, após a retirada do primeiro elétron, fornecer mais energia. Chamamos de primeira energia de ionização a energia necessária para retirar um elétron do átomo neutro (no estado fundamental, gasoso e isolado); de segunda energia de ionização a energia necessária para retirar outro elétron do cátion resultante da primeira ionização; e assim sucessivamente. 
+
+Um átomo que possui vários elétrons apresenta várias energias de ionização, por exemplo: 
+
+![[quim-ie-exemplo.png]]
+
+```ad-important
+A segunda energia de ionização é maior que a primeira, a terceira energia de ionização é maior que a segunda, e assim sucessivamente. Isso é fácil de entender, pois, quanto maior for a carga do íon positivo, o mesmo número de prótons estará atraindo menor quantidade de elétrons. O raio atômico estará diminuindo e, consequentemente, a energia de ionização, aumentando.
+```
+
+```ad-attention
+Os metais, de modo geral, possuem baixas energias de ionização (não é necessário muita energia para arrancar 1 elétron);
+Os não metais, de modo geral, possuem altas energias de ionização (a retirada de 1 elétron necessita maior quantidade de energia).
+```
+#### Exercícios
+
+1 - **Considere as seguintes transformações que envolvem o elemento sódio:**
+
+**Na (s) → Na (ℓ) → Na (g) → Na⁺ (g) + e⁻**
+
+**​            I     II     III**
+
+**Há absorção de energia na realização:**
+
+a) da transformação I, somente.
+b) da transformação II, somente.
+c) da transformação III, somente.
+d) das transformações I e II, somente.
+e) das transformações I, II e III.
+
+> [!info]- Resposta  
+> **Resposta Correta: e)**
+> #### Explicação
+>  ###### Transformação I (Fusão):
+ >- Requer energia para mudar do estado sólido para líquido
+ > - Energia necessária para vencer as forças intermoleculares
+> ###### Transformação II (Vaporização):
+  >- Requer energia para mudar do estado líquido para gasoso
+  >- Energia necessária para separar completamente as partículas
+>###### Transformação III (Ionização):
+  >- Requer energia para remover um elétron do átomo gasoso
+  >- Corresponde à primeira energia de ionização do sódio
+
+2 - **A análise das configurações eletrônicas dos elementos químicos A, B, C e D, no estado fundamental, permite-nos estabelecer conclusões sobre suas propriedades físico-químicas:**
+
+**A — 1s² 2s² 2p⁶ 3s¹**  
+**B — 1s² 2s² 2p⁶**  
+**C — 1s² 2s² 2p⁶ 3s² 3p⁶ 4s²**  
+**D — 1s² 2s² 2p⁶ 3s² 3p⁶ 4s² 3d¹⁰ 4p⁵**  
+
+**A seguir, são feitas as seguintes afirmações:**  
+
+I. O elemento B possui o maior valor correspondente ao 1º potencial de ionização;  
+II. O elemento A é classificado como halogênio;  
+III. O raio do íon estável (C²⁺) formado pelo elemento C é maior que o raio do seu átomo neutro correspondente;  
+IV. O elemento D pertence ao grupo dos halogênios e quarto período da tabela periódica.  
+
+**São corretas as afirmações:**  
+
+a) todas.  
+b) somente II e III.  
+c) somente I e IV.  
+d) somente I e II.  
+e) somente I, II e III.
+
+> [!info]- Resposta  
+> **Resposta Correta: c)**
+> #### Explicação
+>I - Correta, **neônio** (B) é um gás nobre com configuração estável (camada completa), exigindo muita energia para remover um **elétron**.
+II - Errada, **sódio** (A) é um **metal alcalino** (grupo 1), não **halogênio** (grupo 17).
+III - Errada, **cálcio** (C) forma Ca²⁺ ao perder 2 elétrons, reduzindo a repulsão eletrônica e diminuindo o raio: **Ca²⁺ < Ca**.
+IV - Correta, **bromo** (D) está no grupo 17 (**halogênios**) e 4º período (n=4).
+
+3 -  **Para dois elementos químicos genéricos X e Y, sabe-se que é mais fácil retirar elétrons de X do que de Y. Com relação a essa afirmativa, analise as proposições a seguir:**
+
+I. O 1º potencial de ionização de X é maior que o 1º potencial de ionização de Y.  
+II. X poderia ser representado pelo elemento químico enxofre (S) e Y, pelo elemento químico alumínio (Al).  
+III. X poderia ser representado pelo elemento rubídio (Rb) e Y, pelo elemento químico lítio (Li).  
+IV. X pode ser um não metal e Y, um metal, sendo ambos do mesmo período da tabela periódica.  
+
+**Está(ão) correta(s):**  
+
+a) apenas I.  
+b) apenas II.  
+c) apenas III.  
+d) apenas IV.  
+e) apenas II e IV.
+
+> [!info]- Resposta  
+> **Resposta Correta: c)**
+> #### Explicação
+>I - Errada, se é mais fácil remover elétrons de X, seu PI (**potencial de ionização**) é menor que o de Y.
+II/IV - Errada, pois o elemento X provavelmente é um metal, devido a sua facilidade de ceder elétrons.
+III - Correta, pois o elemento **rubídio** possui um **raio atômico** maior que o do átomo de **lítio**.
+
+4 - **A 1ª energia de ionização é medida pela energia X quando 1 elétron é retirado de um Y isolado. Para um mesmo elemento, a 2ª energia de ionização é Z do que a 1ª.**
+
+**Completa-se corretamente o texto substituindo-se X, Y e Z, respectivamente, por:**
+
+| X            | Y            | Z     |
+| ------------ | ------------ | ----- |
+| a) liberada  | átomo neutro | maior |
+| b) absorvida | átomo neutro | maior |
+| c) absorvida | íon positivo | menor |
+| d) liberada  | íon positivo | menor |
+| e) absorvida | íon negativo | menor |
+> [!info]- Resposta  
+> **Resposta Correta: b)**
+> #### Explicação
+>###### X = absorvida:  
+  > - A remoção de um elétron requer energia (**endotérmico**).  
+>###### Y = átomo neutro:  
+  > - A 1ª **energia de ionização** refere-se à remoção do elétron de um átomo neutro (ex.: Na → Na⁺ + e⁻).  
+> ###### Z = maior:
+  > - A 2ª **energia de ionização** (ex.: Na⁺ → Na²⁺ + e⁻) é maior porque a carga nuclear efetiva atrai os elétrons restantes com mais força.
+> 
+
+5 - **O sal de cozinha, NaCl, contém iodeto de potássio, KI, em concentrações muito pequenas, e traços do íon iodeto na dieta ajudam a prevenir o alargamento da glândula tireoide. Em relação aos íons presentes nesses sais, foram feitas as seguintes afirmações:**
+
+I. Os íons Na⁺ e K⁺ pertencem ao mesmo período da tabela periódica.
+II. O íon I⁻ tem raio iônico maior que o íon Cl⁻, pois o íon I⁻ tem um maior número de camadas.
+III. O íon K⁺ tem potencial de ionização maior do que o íon I⁻, pois os elétrons do íon K⁺ se encontram mais afastados do núcleo.
+
+Está(ão) correta(s) apenas:
+a) I e II.  
+b) II e III.  
+c) I.  
+d) II.  
+e) III.
+
+> [!info]- Resposta  
+> **Resposta Correta: d)**
+> #### Explicação
+>I - Errada, Na⁺ (derivado do Na, Z=11) pertence ao 3º período. K⁺ (derivado do K, Z=19) pertence ao 4º período.
+II - Correta, Cl⁻ e I⁻ são **isoeletrônicos** (ambos têm 18 elétrons), mas I⁻ está no 5º período (mais camadas) que Cl⁻ (3º período). Ordem de **raio iônico**: I⁻ > Cl⁻.
+III - Errada, K⁺ tem **menor PI** que I⁻, pois: K⁺ (derivado de **metal alcalino**) tem elétrons menos atraídos pelo núcleo (carga efetiva menor) e  I⁻ (derivado de **halogênio**) retém seus **elétrons** com mais força.  Além disso, a justificativa está errada: elétrons mais afastados reduzem o **ponto de ionização**, não aumentam.
+## Afinidade eletrônica
+Como vimos, é possível arrancar 1 elétron de um átomo, bastando para isso fornecer energia (energia de ionização). A partícula que resultar daí será um íon positivo.
+
+```ad-info
+Em termos simples, **afinidade eletrônica** ou **eletroafinidade** de um átomo é a quantidade de energia liberada quando um átomo gasoso, isolado e no seu estado fundamental, recebe 1 elétron.
+
+```
+
+Vejamos uma outra situação. Seja um determinado átomo no estado gasoso, isolado e no estado fundamental. Esse átomo pode receber um elétron em sua camada de valência e, nesse caso, haverá liberação de energia. Assim o átomo se transforma num íon negativo. 
+
+A quantidade de energia liberada pelo átomo ao receber o elétron será tanto maior quanto mais fortemente o elétron atraído se ligar ao átomo.
+
+![[quim-ae.png]]
+
+```ad-abstract
+Valores precisos de **afinidade eletrônica** são muito difíceis de ser medidos e não são conhecidos para todos os elementos. Valores teóricos foram deduzidos para muitos elementos e, em geral, confirmam a variação periódica da afinidade eletrônica. Veja abaixo o gráfico da afinidade eletrônica em função do número atômico, para os três primeiros períodos da tabela periódica.
+
+![[quim-ae-valores.png]]
+```
+
+```ad-info
+Há átomos que, quando recebem um elétron, absorvem energia em vez de liberá-la. Nesse caso, a afinidade eletrônica tem sinal negativo. Há alguns casos desse tipo no gráfico a cima.
+```
+
+Em um grupo da tabela periódica a afinidade eletrônica aumenta à medida que o número atômico diminui, o que ocorre de baixo para cima. Quanto maior for a atração exercida pelo átomo sobre o elétron a ser recebido na sua camada mais externa, tanto maior será a energia liberada (AE).  A atração exercida sobre o elétron será tanto maior quanto menor for o raio atômico; assim átomos de pequeno raio terão alta afinidade eletrônica.
+
+```ad-attention
+Quanto menor for o raio atômico, maior será a afinidade eletrônica.
+
+| Elementos   | EI    | AE    | Tendência                  |
+|-------------|-------|-------|----------------------------|
+| Metais      | Baixa | Baixa | Perder e⁻ facilmente       |
+| Não metais  | Alta  | Alta  | Ganhar e⁻ facilmente       |
+
+```
+#### Exercícios
+
+1  - **Uma das atividades importantes realizadas pelos químicos é o estudo de propriedades químicas macroscópicas observadas em substâncias simples e compostas. A constatação de regularidades permite ao químico elaborar teorias para explicar, ao nível microscópico, essas propriedades.**
+
+**A posição de um elemento no quadro periódico permite deduzir algumas propriedades de seus átomos, de sua(s) substância(s) simples e de substâncias compostas nas quais ele está presente.**
+
+**Considerando as propriedades periódicas mais comumente estudadas, classifique os itens que se seguem em verdadeiros ou falsos.**
+
+I. O potencial de ionização é uma propriedade dos átomos dos elementos químicos.  
+II. A eletroafinidade é uma propriedade da grafite e do diamante.  
+III. Em um mesmo grupo da tabela periódica, os elementos localizados nos últimos períodos têm raio menor que aqueles localizados nos primeiros períodos.  
+IV. Tanto para os elementos representativos quanto para os de transição, dentro de um mesmo grupo, as propriedades químicas são muito semelhantes.
+
+> [!info]- Resposta  
+> #### Explicação
+>I - Correta, o potencial de ionização (energia para remover um elétron) é uma **propriedade atômica**, medida para átomos isolados no estado gasoso.
+II - Errada, a eletroafinidade é uma propriedade de átomos isolados, não de substâncias como grafite ou diamante (formas **alotrópicas** do **carbono**).
+III - Errada, em um **grupo**, o raio atômico **aumenta** de cima para baixo (com o número de **camadas eletrônicas**). Exemplo (Grupo 1): Li (152 pm) < Na (186 pm) < K (227 pm).
+IV - Correta, elementos do mesmo grupo compartilham **valência** similar (elétrons na última camada), levando a propriedades químicas semelhantes.
+
+2 - **Dadas as configurações eletrônicas dos seguintes átomos no seu estado fundamental:**
+
+I. 1s² 2s² 2p⁶ 3s² 3p⁶  
+II. 1s² 2s² 2p⁶ 3s²  
+III. 1s² 2s² 2p⁶ 3s² 3p⁶ 4s¹  
+IV. 1s² 2s² 2p⁶ 3s² 3p⁵  
+
+**É errado afirmar que:**  
+
+a) dentre os átomos, o átomo I tem o maior potencial de ionização.  
+b) a perda de 2 elétrons pelo átomo II leva à formação do cátion Mg²⁺.  
+c) dentre os átomos, o átomo III tem a maior afinidade eletrônica.  
+d) o ganho de 1 elétron pelo átomo IV ocorre com a liberação de energia.  
+e) o átomo IV é um halogênio.
+
+> [!info]- Resposta  
+> **Resposta Correta: c)**
+> #### Explicação
+> a) Correta, o átomo I é o de menor raio atômico, logo o de maior energia de ionização. 
+> b) Correta, o átomo II é o Mg (Z = 12), que ao perder 2 elétrons se transforma no cátion Mg²⁺. 
+> c) Errada, o átomo III é o que possui o maior raio atômico, logo é o que apresenta a menor afinidade eletrônica. 
+> d) Correta, o átomo IV sendo um halogênio (7 elétrons na camada de valência) ao ganhar 1 elétron libera energia. 
+> e) Correta, é um halogênio (7 elétrons na camada de valência).
+> 
+
+3 - **Considere as seguintes afirmativas, em relação às propriedades periódicas:**
+
+I. O flúor tem raio atômico maior que os demais halogênios porque tem o menor número atômico do grupo.  
+II. Na família dos gases nobres, o potencial de ionização é nulo, porque esses elementos não formam compostos.  
+III. Num mesmo período, um elemento de número atômico Z tem sempre maior afinidade eletrônica que o de número atômico Z - 1.  
+
+**A(s) afirmativa(s) correta(s) é(são) somente:**  
+
+a) I.  
+b) II.  
+c) III.  
+d) I e II.  
+e) II e III.
+
+> [!info]- Resposta  
+> **Resposta Correta: c)**
+> #### Explicação
+>I - Errada, o **flúor** tem o **menor raio** do grupo, não o maior.
+II - Errada, gases nobres têm os maiores potenciais de ionização (dificuldade em remover elétrons devido à configuração estável).
+III - Correta, em um período, a afinidade eletrônica aumenta da esquerda para a direita (maior Z = maior atração por elétrons).
+
+4 - **Analise as afirmativas abaixo:**
+
+I. O comportamento químico semelhante dos elementos de uma dada família da tabela periódica, é mais bem explicado pelo fato de que os átomos desses elementos possuem a mesma estrutura nuclear.  
+II. O elemento químico cujo número atômico é igual a 11 pertence à família 1A e ao 3º período da tabela periódica.  
+III. Eletroafinidade é a energia necessária para retirar um elétron de um átomo no estado gasoso, formando um íon gasoso.  
+
+**Considerando as afirmativas I, II e III, marque a alternativa correta.**  
+
+a) Apenas I está correta.  
+b) Apenas I e II estão corretas.  
+c) Apenas II e III estão corretas.  
+d) Apenas II está correta.  
+e) Apenas III está correta.
+
+> [!info]- Resposta  
+> **Resposta Correta: d)**
+> #### Explicação
+>I - Errada, o comportamento químico semelhante em uma família deve-se à configuração eletrônica da camada de valência (e não à estrutura nuclear).
+II - Correta, configuração: 1s² 2s² 2p⁶ 3s¹ → 3º período (última camada = 3). 1 elétron na camada de valência → Família 1A (metais alcalinos).
+III - Errada, confundiu os conceitos **eletroafinidade**: Energia liberada ao adicionar um elétron a um átomo gasoso (ex.: Cl + e⁻ → Cl⁻ + energia). **Potencial de ionização**: Energia necessária para **remover** um elétron (ex.: Na → Na⁺ + e⁻).
 ## Ligações químicas
 Um passo importante para entender as **ligações químicas** é agrupar **substâncias** de acordo com características específicas:
 	a) Primeiro grupo — **substâncias** que conduzem a **corrente elétrica** no **estado líquido**, mas não no **sólido**. Por exemplo, cloreto de **lítio**, brometo de **potássio**, cloreto de **cálcio**, cloreto de **sódio**, óxido de **alumínio** e óxido de **magnésio**.
@@ -1044,7 +1507,7 @@ A **ligação química** é a união entre **átomos**. Ela pode ser de três ti
 - terceiro grupo, os **átomos** se unem por **ligação metálica**.
 
 ```ad-summary
-##### Os gases nobres e a regra do octeto
+#### Os gases nobres e a regra do octeto
 Dos milhões de **substâncias** conhecidas, sabe-se de apenas seis nas quais existem **átomos** não unidos a outros **átomos**. Essas **substâncias** são o **hélio**, o **neônio**, o **argônio**, o **criptônio**, o **xenônio** e o **radônio**, **gases** presentes em pequena quantidade na **atmosfera** terrestre. Esses **gases** são formados por **átomos** não unidos dos **elementos** do grupo 18 da **tabela periódica**, o grupo dos **gases nobres**.Além disso, até hoje não foi descoberta sequer uma **substância** natural na qual **átomos** de **gases nobres** estejam unidos a **átomos** de outros **elementos**. 
 
 
