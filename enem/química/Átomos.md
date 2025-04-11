@@ -28,7 +28,7 @@ No estudo da Química, são de fundamental importância as definições:
  A fórmula matemática é: A = Z + N.
 ```
 
-Ao representar um **átomo**, os químicos convencionaram escrever o **número atômico** na parte inferior esquerda do símbolo e o **número de massa** na parte superior esquerda. Assim, por exemplo:
+Ao representar um **átomo**, os químicos convencionaram escrever o **número atômico** na parte inferior esquerda do símbolo e o **número de massa** na parte superior esquerda. Assim, por exemplo: 
 
 - ¹²₆C representa um **átomo** do **elemento químico** **carbono** com 6 **prótons**, 6 **elétrons** e 6 **nêutrons**.
 - ²³₁₁Na representa um **átomo** do **elemento químico** **sódio** com 11 **prótons**, 11 **elétrons** e 12 **nêutrons**.
@@ -1151,9 +1151,19 @@ Num período, o raio atômico aumenta da direita para a esquerda, porque, para u
 ```ad-summary
 #### Raio atômico x raio iônico
 
-Metais têm tendência a doar elétrons, transformando-se em íons positivos (cátions). Não metais têm tendência a ganhar elétrons, transformando-se em íons negativos (ânions). Essa perda ou ganho de elétrons permite adquirir a estrutura eletrônica de um gás nobre, ou seja, como veremos em outro capítulo, atingir a estabilidade.
+O raio atômico é definido como a distância entre o núcleo do átomo e seu elétron mais afastado (camada de valência). Esta propriedade varia de forma periódica na tabela, aumentando de cima para baixo em um grupo devido ao maior número de camadas eletrônicas, e diminuindo da esquerda para a direita em um período devido ao aumento da carga nuclear efetiva que puxa os elétrons mais fortemente.
+
+Metais têm tendência a doar elétrons, transformando-se em íons positivos (cátions). Não metais têm tendência a ganhar elétrons, transformando-se em íons negativos (ânions). Essa perda ou ganho de elétrons permite adquirir a estrutura eletrônica de um gás nobre.
 
 ![[quim-raio-ionico.png]]
+
+Num cátion, a saída de elétrons reduz as repulsões entre os que ficam. Desse modo, o núcleo (positivo) consegue atrair efetivamente com maior intensidade esses elétrons remanescentes e, assim, a eletrosfera "encolhe". Nos ânions, acontece o inverso: a entrada de elétrons aumenta a repulsão entre eles e a eletrosfera "incha".
+
+Uma regra importante para comparações é que o raio iônico de um cátion é sempre menor que o raio do átomo neutro que o originou. Por exemplo, o raio do sódio metálico (Na) é 186 pm, enquanto o raio do íon Na⁺ é apenas 102 pm. De forma oposta, o raio iônico de um ânion é sempre maior que o raio do átomo neutro correspondente. O cloro (Cl) tem raio atômico de 99 pm, mas seu ânion Cl⁻ apresenta raio de 181 pm.
+
+Existe uma relação inversa entre o raio atômico e a energia de ionização: quanto menor o raio, maior a energia necessária para remover um elétron. Isso explica por que os gases nobres, com raios atômicos pequenos em seus períodos, têm energias de ionização extremamente altas.
+
+Essas diferenças entre raios atômicos e iônicos são fundamentais para a formação de compostos iônicos como o NaCl, onde a grande diferença de tamanho entre o Na⁺ (pequeno) e o Cl⁻ (grande) permite um empacotamento eficiente dos íons na estrutura cristalina, maximizando as forças de atração eletrostática que mantêm o composto estável.
 
 ```
 #### Exercícios
@@ -1196,14 +1206,15 @@ e) apresentam o mesmo raio atômico.
 > e) Errada, O raio do ferro é menor que o do cloro (cloro tem mais camadas).
 > 
 
-3 - Em relação ao tamanho de átomos e íons, são feitas as afirmações seguintes:  
+3 - **Em relação ao tamanho de átomos e íons, são feitas as afirmações seguintes:**  
 
 I. O Cl⁻ (g) é menor do que o Cl (g).  
 II. O Na⁺ (g) é menor do que o Na (g).  
 III. O Ca²⁺ (g) é maior do que o Mg²⁺ (g).  
 IV. O Cl (g) é maior do que o Br (g).  
 
-Das afirmações anteriores, estão corretas apenas:  
+**Das afirmações anteriores, estão corretas apenas:**  
+
 a) II.  
 b) I e II.  
 c) II e III.  
@@ -1217,6 +1228,51 @@ e) II, III e IV.
 II - Correta, o cátion Na⁺ perdeu um elétron e o núcleo passou a atrair os elétrons com maior força, logo, sofreu contração;
 III - Correta, os cátions ₂₀Ca⁺² e ₁₂Mg⁺² estão situados no mesmo Grupo e  o ₂₀Ca⁺² possui uma camada a mais que o ₁₂Mg⁺²;
 IV - Correta, os átomos ₁₇Cℓ e ₃₅Br estão situados no mesmo Grupo e  o ₃₅Br possui uma camada a mais que o ₁₇Cℓ;
+
+4 - **Responda a esta questão a partir da tabela a seguir, que apresenta os raios atômicos e iônicos de alguns elementos genéricos.**
+
+| Elementos genéricos | I   | II  | III | IV  |
+|---------------------|-----|-----|-----|-----|
+| Raio Atômico (Å)    | 1,57| 0,66| 1,06| 2,03|
+| Raio Iônico (Å)     | 0,95| 1,40| 1,74| 1,33|
+**O exame da tabela mostra que, nesses casos, formam ânions os elementos genéricos:**
+
+a) I e II  
+b) I e III  
+c) I e IV  
+d) II e III  
+e) III e IV
+
+> [!info]- Resposta  
+> **Resposta Correta: d)**
+> #### Explicação
+> **Ânions**: Átomos que ganham elétrons, tornando-se maiores que o átomo neutro (raio iônico > raio atômico).  
+> **Cátions**: Átomos que perdem elétrons, tornando-se menores que o átomo neutro (raio iônico < raio atômico).
+>
+> Elementos que formam ânions (raio iônico > raio atômico):  II (aumento de 112%) e III (aumento de 64%).  
+> Elementos que formam cátions (raio iônico < raio atômico):  I e IV
+
+5 - **O tamanho de um íon é diferente do tamanho do átomo que o originou. Levando em consideração essa afirmativa, o tamanho dos átomos e íons tem como sequência correta:**
+
+**Dado o número de prótons  (K = 19, Br = 35, Ca = 20, Al = 13, S = 16, Be = 4, N = 7)**  
+
+a) K⁺ < K < Br²⁻ < Br  
+b) Ca < Ca²⁺ < Br < Br⁻  
+c) Ca²⁺ < Al³⁺ <  S²⁻< S  
+d) Be²⁺ < N < Be < N³⁻  
+e) Al < Al³⁺ <  S < S²⁻
+
+> [!info]- Resposta  
+> **Resposta Correta: d)**
+> #### Explicação
+> **Ânions**: Átomos que ganham elétrons, tornando-se maiores que o átomo neutro (raio iônico > raio atômico).  
+> **Cátions**: Átomos que perdem elétrons, tornando-se menores que o átomo neutro (raio iônico < raio atômico).
+>
+a) Errada, o Br sendo ânion não é menor que seu Br em estado neutro.
+b) Errada, Ca é um metal, então seu raio é maior que o do Br.  
+c) Errada, O ânion S não é menor que os cátions Al e Ca.  
+d) Correta, O cátion Be é menor que o N neutro que também é menor que o Be, e o N sendo ânion.  
+e) Errada, O S neutro não é menor que o cátion Al.
 ### Energia de ionização
 Seja um **átomo** isolado, no **estado gasoso** e no estado fundamental. Quando ele absorve energia, **elétrons** podem ser transferidos de um nível para outro mais afastado do núcleo. Se a energia fornecida for suficientemente alta, será possível arrancar um **elétron** do átomo em questão, transformando-o num **íon** positivo.
 
@@ -1495,11 +1551,14 @@ II - Correta, configuração: 1s² 2s² 2p⁶ 3s¹ → 3º período (última cam
 III - Errada, confundiu os conceitos **eletroafinidade**: Energia liberada ao adicionar um elétron a um átomo gasoso (ex.: Cl + e⁻ → Cl⁻ + energia). **Potencial de ionização**: Energia necessária para **remover** um elétron (ex.: Na → Na⁺ + e⁻).
 ## Ligações químicas
 Um passo importante para entender as **ligações químicas** é agrupar **substâncias** de acordo com características específicas:
-	a) Primeiro grupo — **substâncias** que conduzem a **corrente elétrica** no **estado líquido**, mas não no **sólido**. Por exemplo, cloreto de **lítio**, brometo de **potássio**, cloreto de **cálcio**, cloreto de **sódio**, óxido de **alumínio** e óxido de **magnésio**.
-	b) Segundo grupo —  **substâncias** que não conduzem **corrente elétrica** no **estado sólido** nem no **líquido**; também se destacam por apresentar **pontos de fusão** significativamente mais baixos que as **substâncias** dos outros dois grupos. Inclui **etanol**, cloro, **água**, naftaleno, **iodo** e **glicose**.
-	c) Terceiro grupo — **substâncias** que conduzem **corrente elétrica** tanto no **estado sólido** quanto no **líquido**; quanto aos **pontos de fusão**, essas **substâncias** são razoavelmente comparáveis às do primeiro grupo. Inclui **alumínio**, **prata**, **ouro**, **cobre**, **ferro** e **platina**.
 
-As do primeiro grupo têm em sua composição simultaneamente **metal** e **não metal**. Essas **substâncias** são denominadas **substâncias iônicas**. As do segundo grupo apresentam apenas **elemento(s)** do tipo **não metal**. São chamadas **substâncias moleculares**. As do terceiro grupo apresentam apenas **metal** em sua composição. São as **substâncias metálicas**.
+Primeiro grupo — **substâncias** que conduzem a **corrente elétrica** no **estado líquido**, mas não no **sólido**. Por exemplo, cloreto de **lítio**, brometo de **potássio**, cloreto de **cálcio**, cloreto de **sódio**, óxido de **alumínio** e óxido de **magnésio**.
+
+Segundo grupo —  **substâncias** que não conduzem **corrente elétrica** no **estado sólido** nem no **líquido**; também se destacam por apresentar **pontos de fusão** significativamente mais baixos que as **substâncias** dos outros dois grupos. Inclui **etanol**, **cloro**, **água**, **naftaleno**, **iodo** e **glicose**.
+
+Terceiro grupo — **substâncias** que conduzem **corrente elétrica** tanto no **estado sólido** quanto no **líquido**; quanto aos **pontos de fusão**, essas **substâncias** são razoavelmente comparáveis às do primeiro grupo. Inclui **alumínio**, **prata**, **ouro**, **cobre**, **ferro** e **platina**.
+
+As do primeiro grupo têm em sua composição simultaneamente **metal** e **não metal**. Essas **substâncias** são denominadas **substâncias iônicas**. As do segundo grupo apresentam apenas elemento(s) do tipo **não metal**. São chamadas **substâncias moleculares**. As do terceiro grupo apresentam apenas **metal** em sua composição. São as **substâncias metálicas**.
 
 A **ligação química** é a união entre **átomos**. Ela pode ser de três tipos: **iônica**, **covalente** e **metálica**. Desse modo podemos classificar os grupos como:
 - primeiro grupo, os **átomos** se unem por **ligação iônica**;
@@ -1508,18 +1567,15 @@ A **ligação química** é a união entre **átomos**. Ela pode ser de três ti
 
 ```ad-summary
 #### Os gases nobres e a regra do octeto
-Dos milhões de **substâncias** conhecidas, sabe-se de apenas seis nas quais existem **átomos** não unidos a outros **átomos**. Essas **substâncias** são o **hélio**, o **neônio**, o **argônio**, o **criptônio**, o **xenônio** e o **radônio**, **gases** presentes em pequena quantidade na **atmosfera** terrestre. Esses **gases** são formados por **átomos** não unidos dos **elementos** do grupo 18 da **tabela periódica**, o grupo dos **gases nobres**.Além disso, até hoje não foi descoberta sequer uma **substância** natural na qual **átomos** de **gases nobres** estejam unidos a **átomos** de outros **elementos**. 
-
+Dos milhões de **substâncias** conhecidas, sabe-se de apenas seis nas quais existem **átomos** não unidos a outros **átomos**. Essas **substâncias** são o **hélio**, o **neônio**, o **argônio**, o **criptônio**, o **xenônio** e o **radônio**, **gases** presentes em pequena quantidade na **atmosfera** terrestre. Esses **gases** são formados por **átomos** não unidos dos **elementos** do grupo 18 da **tabela periódica**, o grupo dos **gases nobres**.Além disso, até hoje não foi descoberta sequer uma **substância** natural na qual **átomos** de **gases nobres** estejam unidos a **átomos** de outros **elementos**.
 
 Ao contrário de todos os outros **elementos**, os **gases nobres** apresentam a **última camada** contendo 8 **elétrons**, com exceção do **hélio**, no qual a **última camada** só comporta 2. Tudo indica, portanto, que possuir 8 **elétrons** na **última camada** (ou 2, caso seja a **camada K**) faz com que o **átomo** fique estável, essa afirmação constitui a **regra do octeto**.
 ```
 ### Ligação iônica
 Vamos, agora, elaborar ideias sobre perda e recebimento de **elétrons** por um **átomo**. Considere os **elementos** do segundo período da **tabela periódica**:
 
-| Elemento                      | ₃Li | ₄Be | ₅B  | ₆C  | ₇N  | ₈O  | ₉F  | ₁₀Ne |
-| ----------------------------- | --- | --- | --- | --- | --- | --- | --- | ---- |
-| Nº de **prótons**             | 3   | 4   | 5   | 6   | 7   | 8   | 9   | 10   |
-| Nº de **camadas eletrônicas** | 2   | 2   | 2   | 2   | 2   | 2   | 2   | 2    |
+![[quim-lig-ionica.png]]
+
 ```ad-info
 Os **átomos** de todos eles apresentam duas **camadas** com **elétrons**, pois são **elementos** do segundo período da **tabela periódica**. O que mantém os **elétrons** presos ao **átomo** é a atração exercida pelos **prótons** do núcleo, de **carga positiva**.
 ```
@@ -1528,12 +1584,8 @@ No **átomo** de **lítio**, o **elétron** da **camada de valência**  é atra�
 
 O que isso sugeriu aos químicos? À medida que vamos do **lítio** para o **neônio**, os **elétrons** da **camada de valência** estão mais presos ao **átomo**. Em outras palavras, nessa sequência, o **lítio** é o **átomo** que pode perder um **elétron** com mais facilidade e o **neônio** é o que perderia um **elétron** com maior dificuldade.
 
-Consideremos, agora, os **átomos** de **elementos** do terceiro período:
+![[quim-lig-ionica-2.png]]
 
-| Elemento                      | ₁₁Na | ₁₂Mg | ₁₃Al | ₁₄Si | ₁₅P | ₁₆S | ₁₇Cl | ₁₈Ar |
-| ----------------------------- | ---- | ---- | ---- | ---- | --- | --- | ---- | ---- |
-| Nº de **prótons**             | 11   | 12   | 13   | 14   | 15  | 16  | 17   | 18   |
-| Nº de **camadas eletrônicas** | 3    | 3    | 3    | 3    | 3   | 3   | 3    | 3    |
 Nessa sequência vale uma conclusão análoga: o **sódio** é o **elemento** cujo núcleo exerce menor atração sobre o **elétron** de **valência** e o **argônio** é o que exerce a maior. Podemos generalizar essa discussão da seguinte maneira: à medida que percorremos um período da **tabela periódica**, da esquerda para a direita, aumenta a atração exercida pelo núcleo sobre os **elétrons** da **camada de valência**.
 
 ```ad-note
@@ -1545,20 +1597,23 @@ Sem os **elétrons** de **valência**, a **última camada eletrônica** passa a 
 Os químicos também verificaram que os **átomos** dos **elementos** dos grupos 15, 16 e 17 apresentam, de modo geral, tendência a receber **elétrons** para ficar com oito **elétrons** na **última camada**. Assim, **átomos** de **ferro** e de **cloro**, sob determinadas condições, podem receber um **elétron**, **átomos** de **oxigênio** e **enxofre** podem receber dois e **átomos** de **nitrogênio** ou **fosforo** podem receber três.
 
 ```ad-note
- A discussão apresentada foi generalizada pelos químicos da seguinte maneira: **metais** têm tendência a formar **cátions**; e **não metais**, a formar **ânions**.
+Foi criada uma generalização sobre essa discussão, os **metais** têm tendência a formar **cátions**; e **não metais**, a formar **ânions**.
 ```
 
-```ad-important
-As **substâncias** formadas por **metais** e **não metais** apresentam elevados **pontos de fusão** e de **ebulição**, conduzem **corrente elétrica** no **estado líquido**, mas não no **estado sólido**. Além disso, o **composto iônico** tende a ser **sólido** nas condições ambientes de **pressão** e temperatura.
+```ad-abstract
+##### Propriedades dos Compostos Iônicos (Metais e Não Metais)
+Os compostos iônicos são formados pela combinação de metais (como Na, K, Mg, Ca, Al) com não metais (como F, Cl, Br, O). Estes compostos tendem a ser sólidos em condições ambientes de pressão e temperatura devido à forte atração eletrostática entre os cátions e ânions que formam o retículo cristalino. Os compostos iônicos apresentam elevados pontos de fusão e ebulição, geralmente acima de 600°C para fusão e acima de 1300°C para ebulição.
+
+Uma característica importante é seu comportamento em relação à condutividade elétrica: não conduzem corrente elétrica no estado sólido, porém conduzem quando estão no estado líquido. Exemplos típicos incluem o cloreto de sódio (NaCl) com ponto de fusão de 801°C e ebulição de 1465°C, o cloreto de lítio, o brometo de potássio e o óxido de magnésio, todos apresentando propriedades semelhantes que os caracterizam como substâncias iônicas.
 ```
 #### Formação de íons 
 Consideremos **átomos** neutros dos **elementos** **sódio** e **cloro**:
-- ₁₁Na: K–2 L–8 M–1
-- ₁₇Cl: K–2 L–8 M–7  
+
+![[quim-lig-ionica-formacao.png]]
 
 Nenhum deles está estável, de acordo com a **regra do octeto**. Contudo, se houver uma transferência de 1 **elétron** do **sódio** para o **cloro**, ambos atingirão a estabilidade:
-- ₁₁Na⁺: K–2 L–8
-- ₁₇Cl⁻: K–2 L–8 M–8  
+
+![[quim-lig-ionica-formacao-2.png]]
 
 Esse processo pode ser esquematizado simplificadamente, representando-se por bolinhas os elétrons da última camada (a camada de valência) ao redor do símbolo do elemento:
 
@@ -1571,6 +1626,8 @@ Os **íons** Na⁺ e Cl⁻ possuem **cargas elétricas** opostas; portanto, se a
 ```
 
 Assim,  **átomos** do **metal** **sódio** e do **não metal** **cloro** podem se unir quimicamente formando o **cloreto de sódio** (NaCl). O **cloreto de sódio** é apenas um exemplo de **composto iônico**, ou seja, um composto formado por **íons**. De modo geral, sempre que um **elemento**, que necessite doar **elétrons** para se estabilizar, se unir a outro, que necessite recebê-los, a união se dará por **ligação iônica**.
+
+![[quim-lig-ionica-exemplo.png]]
 
 ```ad-note
 Em processos químicos, **elétrons** não são criados nem destruídos. Assim, o total de **elétrons** doado deve ser igual ao total recebido. Em outras palavras, a carga total positiva no composto formado deverá ser igual à negativa, o que o tornará eletricamente neutro como um todo.
@@ -1596,18 +1653,249 @@ O **hidrogênio** apresenta apenas 1 **elétron**. Para ficar com **eletrosfera*
 
 Apesar de estar localizado no grupo 1 da **tabela periódica**, o **hidrogênio** se assemelha muito mais aos **halogênios**, pois apresenta tendência a, como eles, receber **elétrons**. O **hidrogênio** não é um **metal alcalino**. O **íon** H⁻ é chamado de **íon hidreto**.
 ```
+#### Neutralidade elétrica x octeto completo
+Antes de átomos isolados de sódio e cloro se unirem para formar NaCl ambos os átomos estavam eletricamente neutros (carga elétrica total zero), porém não estavam com o octeto completo (não estáveis), pois não possuíam 8 elétrons na última camada.
+
+Depois da união dos dois, eles deixaram de ser eletricamente neutros: agora são íons Na⁺¹ e Cl⁻¹.  O conjunto formado pelos íons Na⁺¹ e Cl⁻¹ é estável, pois ambos passaram a ter 8 elétrons na última camada. Estabilidade não deve ser confundida com neutralidade elétrica.
+
+Exemplificando esquematicamente, temos:
+
+![[quim-oct-neutr.png]]
+#### Exercícios
+
+1 - **Os metais podem combinar com halogênios por meio de ligações iônicas, formando compostos que se caracterizam por:**
+
+a) apresentarem altas temperaturas de fusão e ebulição.  
+b) serem condutores de eletricidade no estado sólido.  
+c) compartilharem elétrons.  
+d) se apresentarem como líquidos ou gases em temperatura ambiente.  
+e) serem moleculares.
+
+> [!info]- Resposta  
+> **Resposta Correta: a)**
+> ##### Explicação
+> a) Correta, compostos iônicos requerem muita energia para quebrar a rede cristalina.
+> b) Errada, só conduzem eletricidade dissolvidos ou fundidos (íons móveis). No sólido, os íons estão fixos na rede.
+> c) Errada, compostos iônicos envolvem transferência de elétrons, não compartilhamento (típico de ligações covalentes).
+> d) Errada, são sólidos em condições ambientes (ex.: sal de cozinha).
+> e) Formam **redes cristalinas**, não moléculas individuais.
+
+2 - **O elemento A tem número atômico 11 e o elemento B, 8. O composto mais provável formado pelos elementos A e B será:**
+
+a) líquido nas condições ambientais.  
+b) um sólido com baixo ponto de fusão.  
+c) bom condutor de eletricidade quando fundido.  
+d) um composto de fórmula genérica AB₂.  
+e) insolúvel em água.
+
+> [!info]- Resposta  
+> **Resposta Correta: c)**
+> ##### Explicação
+> a) Errada, compostos iônicos são sólidos à temperatura ambiente.
+> b) Errada, sólidos iônicos têm altos pontos de fusão.
+> c) Correta, Na₂O conduz eletricidade quando fundido (íons livres).
+> d) Errada, a fórmula correta é **A₂B** (Na₂O), não AB₂.
+> e) Errada, óxidos de metais alcalinos são solúveis em água.
+
+3 - **Considere os seguintes elementos químicos: Na, Mg, S, H e Br. Os compostos iônicos formados entre esses elementos são:**  
+
+a) Na₂S – MgS – NaH – MgH₂ – NaBr – MgBr₂  
+b) Na₂S – MgS – H₂S – NaBr – MgBr₂ – HBr  
+c) NaS – MgS – Mg₂H – NaBr – Mg₂Br  
+d) NaS₂ – MgS – NaH – Mg₂H – NaBr – Mg₂Br
+
+> [!info]- Resposta  
+> **Resposta Correta: b)**
+> ##### Explicação
+> Para encontrar o composto formado, precisamos fazer as distribuições eletrônicas dos elementos para encontrar quantos elétrons eles necessitam doar ou receber para atingir a estabilidade, de acordo com a regra do octeto.  
+>
+> Assim, temos:  
+>
+> Na = 1s² 2s² 2p⁶ 3s¹  
+> Mg = 1s² 2s² 2p⁶ 3s²  
+> S = 1s² 2s² 2p⁶ 3s² 3p⁴  
+> H = 1s¹  
+> Br = 1s² 2s² 2p⁶ 3s² 3p⁶ 4s² 3d¹⁰ 4p⁵  
+>
+> Assim, observando a camada de valência, entendemos que:  
+>
+> Na = ⁺¹ → tendência a perder um elétron  
+> Mg = ⁺² → perder 2 elétrons  
+> S = ⁻² → ganhar 2 elétrons  
+> H = ⁺¹ → perder um elétron  
+> Br = ⁻¹ → ganhar um elétron  
+>
+> Logo, pelo cruzamento de cargas, temos:  
+> Na₂S – MgS – H₂S – NaBr – MgBr₂ – HBr
+> 
+> Regra básica para compostos iônicos  
+  >- A soma das cargas dos cátions e ânions deve ser zero.  
+  >- Metais (Grupos 1 e 2) + não metais (Grupos 16 e 17) = compostos iônicos.
+
+4 - **Para adquirir configuração eletrônica de gás nobre, o átomo de número atômico 16 deve:**
+
+a) perder dois elétrons.  
+b) receber seis elétrons.  
+c) perder quatro elétrons.  
+d) receber dois elétrons.  
+e) perder seis elétrons.
+
+> [!info]- Resposta  
+> **Resposta Correta: d)**
+> ##### Explicação
+> Configuração do enxofre (Z = 16) = 1s² 2s² 2p⁶ 3s² 3p⁴
+> Para alcançar a estabilidade de gás nobre é necessário alcançar 8, assim deve receber dois elétrons.
+
+5 - **Sabendo que o número atômico do cálcio é 20 e do cloro é 17, a fórmula de um provável composto entre esses dois elementos será:**
+
+a) CaCl₃  
+b) CaCl  
+c) Ca₂Cl₂  
+d) Ca₃Cl₂  
+e) CaCl₂
+
+> [!info]- Resposta  
+> **Resposta Correta: e)**
+> #### Explicação
+> Configurações eletrônicas:
+>- **Cálcio** (Ca, Z=20): 1s² 2s² 2p⁶ 3s² 3p⁶ 4s² → Grupo 2 (metais alcalinos terrosos); Perde 2 elétrons para formar Ca²⁺ (atinge configuração do argônio).  
+>- **Cloro** (Cl, Z=17): 1s² 2s² 2p⁶ 3s² 3p⁵ → Grupo 17 (halogênios); Ganha 1 elétron para formar **Cl⁻** (atinge configuração do argônio).
+>
+>Balanceamento de cargas:
+>- Ca²⁺ tem carga +2.  
+>- Cl⁻ tem carga -1.
+>
+> $$
+ \text{1 Ca}^{2+} + \text{2 Cl}^{-} \rightarrow \text{CaCl}_2
+> $$
+
+6 - **A maioria dos elementos químicos são metais. Comparando-se as características de metais e de não metais situados em um mesmo período da tabela periódica, é CORRETO afirmar que os átomos de metais têm:**
+
+a) menores tamanhos.  
+b) maior eletronegatividade.  
+c) menor número de elétrons de valência.  
+d) maiores energias de ionização.
+
+> [!info]- Resposta  
+> **Resposta Correta: c)**
+> ##### Explicação
+> a) Errada, o raio atômico diminui da esquerda (metais) para a direita (não metais) devido ao aumento da carga nuclear efetiva.
+> b) Errada, **eletronegatividade** é a capacidade de atrair elétrons. Não metais (lado direito) são mais eletronegativos.
+> c) Correta, Metais têm 1-3 elétrons de valência enquanto **não metais** têm 4-7.
+> d) Errada, **Energia de ionização** é menor em metais (elétrons menos atraídos pelo núcleo).
+
+7 - **Os telefones celulares, telefones sem fio, relógios, controles remotos, são alguns dos equipamentos que funcionam com baterias à base de Lítio (Li). Considerando o íon Li⁺ e a posição do elemento na tabela periódica, é incorreto afirmar que esse íon:**
+
+a) apresenta 1 nível completamente preenchido.  
+b) tem um núcleo com 3 prótons.  
+c) tem a mesma configuração eletrônica que o átomo de Hélio.  
+d) apresenta números iguais de prótons e elétrons.  
+e) quando se liga com o íon cloreto, forma um composto iônico.
+
+> [!info]- Resposta  
+> **Resposta Correta: d)**
+> ##### Explicação
+> a) Correta, o íon Li⁺ tem apenas a camada K (1s²) preenchida, com 2 elétrons.
+> b) Correta, o número de prótons (Z=3) **não muda** na formação do íon.
+> c) Correta, Li⁺ → 1s² e  He → 1s².
+> d) Errada, Li⁺ tem 3 **prótons** e 2 **elétrons** (carga +1).
+> e) Correta, Li⁺ (cátion) + Cl⁻ (ânion) → LiCl (**composto iônico**).
+
+8 - **As propriedades das substâncias podem ser relacionadas com o tipo de ligação que existe entre seus átomos. Por exemplo: compostos que possuam ligações iônicas têm alto ponto de fusão (geralmente acima de 350 °C); todos são sólidos à temperatura ambiente, grande parte deles são solúveis em água e suas soluções aquosas conduzem corrente elétrica.**
+
+**Assinale a alternativa em que aparecem SOMENTE substâncias predominantemente iônicas.**
+
+a) Perclorato de sódio (NaClO₄); etanoato de sódio (CH₃CO₂Na) e cloreto de etila (CH₃CH₂Cl).  
+b) Iodeto de sódio (NaI); hexano (CH₃(CH₂)₄CH₃) e carbonato de cálcio (CaCO₃).  
+c) Fluoreto de sódio (NaF); hidróxido de potássio (KOH) e nitrato de prata (AgNO₃).  
+d) Acetileno (etino) (C₂H₂); ácido perclórico (HClO₄) e cloreto de sódio (NaCl).  
+e) Ácido sulfúrico (H₂SO₄); hidróxido de sódio (NaOH) e metanol (CH₃OH).
+
+> [!info]- Resposta  
+> **Resposta Correta: c)**
+> ##### Explicação
+> a) Errada, contém um composto covalente.
+> - NaClO₄ (Perclorato de sódio): Iônico (Na⁺ + ClO₄⁻).
+> - CH₃CO₂Na (Acetato de sódio): Iônico (Na⁺ + CH₃COO⁻).
+> - CH₃CH₂Cl (Cloreto de etila): Covalente (não metal + não metal).
+> 
+> b) Errada, hexano é covalente
+> - NaI (Iodeto de sódio): Iônico.
+> - C₆H₁₄ (Hexano): Covalente (hidrocarboneto).
+> - CaCO₃ (Carbonato de cálcio): Iônico.
+> 
+> c) Correta, todos iônicos,
+> - NaF (Fluoreto de sódio): Iônico.
+> - KOH (Hidróxido de potássio): Iônico (K⁺ + OH⁻).
+> - AgNO₃ (Nitrato de prata): Iônico (Ag⁺ + NO₃⁻).
+> 
+> d) Errada, dois compostos covalentes
+> - C₂H₂ (Acetileno): Covalente (tripla ligação C≡C).
+> - HClO₄ (Ácido perclórico): Covalente (apesar de ser ácido, a ligação H-ClO₄ é polar, não iônica).
+> - NaCl (Cloreto de sódio): Iônico.
+> 
+> e) Errada, dois covalentes.
+> - H₂SO₄ (Ácido sulfúrico): Covalente (ligações H-O-SO₃H são polares, mas a molécula é molecular).
+> - NaOH (Hidróxido de sódio): Iônico.
+> - CH₃OH (Metanol): Covalente.
+
+9 - **Dois metais, designados X e Y, reagem com cloro formando os compostos iônicos XCl e YCl. Os íons dos elementos X e Y devem, portanto, possuir igual:**
+
+a) raio iônico.  
+b) carga elétrica.  
+c) número de prótons.  
+d) energia de ionização.  
+e) número de elétrons.
+
+> [!info]- Resposta  
+> **Resposta Correta: b)**
+> ##### Explicação
+   >- XCl e YCl indicam que ambos os metais formam íons com carga +1 (pois o cloro tem carga -1).  
+   >- Os **íons** X⁺ e Y⁺ devem ter a mesma carga elétrica (+1) para balancear a carga do Cl⁻ nos compostos.  
+   >- Isso não implica que tenham o mesmo raio, número de prótons, **energia de ionização** ou elétrons (que dependem do elemento específico).
+  > 
+> a) Errada, o raio depende do elemento (ex.: Na⁺ e K⁺ têm cargas iguais mas raios diferentes).
+> b) Correta, ambos formam íons +1 para combinar com Cl⁻.
+> c) Errada, prótons definem o elemento (X e Y podem ser diferentes, como Na e K).
+> d) Errada, varia conforme o metal (ex.: Li e Na têm **energias de ionização** diferentes).
+> e) Errada, elétrons dependem do átomo neutro (ex.: Na⁺ tem 10 e⁻, K⁺ tem 18 e⁻).
+
+10 - Um elemento metálico forma um óxido de fórmula MO₂. A fórmula de seu cloreto será, provavelmente:
+
+a) MCl  
+b) MCl₂  
+c) MCl₃  
+d) MCl₄  
+e) MCl₅
+
+> [!info]- Resposta  
+> **Resposta Correta: d)**
+> ##### Explicação
+> É possível determinar a valência do metal (M) no óxido MO₂:
+ >  - No óxido MO₂, o oxigênio (O) tem valência -2.  
+  > - Para balancear as cargas:  
+  >  $$
+\text{M}^{x+} + 2 \times \text{O}^{2-} = 0 \implies x - 4 = 0 \implies x = +4
+> $$
+  >- Portanto, o metal M tem carga +4 no óxido.
+  >
+  > Agora  é deduzir a fórmula com cloreto:
+   > - O cloro (Cl) tem valência **-1**.  
+  > - Para formar um composto com M⁴⁺, são necessários **4 cloretos** para balancear a carga:
+  > $$
+   \text{M}^{4+} + 4 \times \text{Cl}^{-} \rightarrow \text{MCl}_4
+ > $$  
 ### Ligação covalente 
 **Ligação covalente** é basicamente o compartilhamento de **elétrons**, mas como podemos explicar a união entre **átomos** de um ou mais **elementos químicos** que precisem receber **elétrons**?
-![[quim-covalente-cl-eletronica.png]]
-```ad-note
-Representação de um **átomo** de **cloro**, com seus 7 **elétrons** na **camada de valência**.
-```
 
-```ad-info
-O **átomo** de **cloro** precisa de mais 1 **elétron** para adquirir a estabilidade de acordo com a **regra do octeto**.
+![[quim-covalente-cl-eletronica.png]]
+
+```ad-note
+Representação acima mostra um **átomo** de **cloro**, com seus 7 **elétrons** na **camada de valência**. É possível notar que o **átomo** de **cloro** precisa de mais 1 **elétron** para adquirir a estabilidade de acordo com a **regra do octeto**.
 ```
 
 Foi proposto que, na **substância** Cl₂, os **átomos** se mantêm unidos porque suas **eletrosferas** compartilham alguns **elétrons** da **última camada**. Compartilhar, nesse caso, significa que alguns **elétrons** passam a fazer parte da **camada de valência** dos dois **átomos ligados**. Compartilhando **elétrons**, eles passam a se adequar a **regra do octeto**.
+
 ![[quim-covalente-compartilhando.png]]
 
 Nenhum dos **átomos** envolvidos transformou-se em **íon**, ou seja, nenhum deles perdeu ou recebeu **elétrons**. Devido ao compartilhamento, todos passaram a ter, em suas **eletrosferas**, número de **elétrons** igual ao dos **gases nobres**.
@@ -1616,15 +1904,20 @@ Nenhum dos **átomos** envolvidos transformou-se em **íon**, ou seja, nenhum de
 **Substâncias** formadas pela união de **átomos** de **não metais** (incluindo o **hidrogênio**) apresentam **pontos de fusão** e **ebulição** relativamente baixos e não conduzem **corrente elétrica** nos estados **líquido** ou **sólido**. 
 ```
 
+```ad-attention
+Para que aja o compartilhamento de elétrons, os átomos participantes necessitam de uma baixa diferença de eletronegatividade (≤ 1,7 eV).
+```
+
 Vamos examinar agora os casos das **substâncias** H₂, O₂ e N₂. Procurando os **elementos** H, O e N na **tabela periódica**, determinamos quantos **elétrons** apresentam na **camada de valência**.
 
 ![[quim-covalente-compartilhando-2.png]]
+
 Quando **átomos** se unem por compartilhamento de **elétrons**, dizemos que entre eles se estabelece **ligação covalente**. Os grupos de **átomos** unidos por **ligação covalente** são denominados **moléculas**.
 
 Três maneiras distintas de representar uma molécula são:
-	a) **Fórmula molecular**: Indica o número e o tipo de **átomos** em uma **molécula**.
-	b) **Fórmula eletrônica**: Representa os **elétrons** da **camada de valência** e mostra como são compartilhados.
-	c) **Fórmula estrutural**: Representa cada par de **elétrons** compartilhado por meio de um tracinho.
+1. **Fórmula molecular**: Indica o número e o tipo de **átomos** em uma **molécula**.
+2. **Fórmula eletrônica**: Representa os **elétrons** da **camada de valência** e mostra como são compartilhados.
+3.  **Fórmula estrutural**: Representa cada par de **elétrons** compartilhado por meio de um tracinho.
 
 ![[quim-covalente-formulas.png]]
 
@@ -1641,8 +1934,9 @@ Na **ligação iônica**, **elétrons** são transferidos, formando **cátions**
 
 Na **ligação covalente**, os **átomos** não doam nem recebem **elétrons**, não ocorrendo a formação de **íons**. Os **átomos** se unem compartilhando **elétrons** e formando **moléculas**.
 ```
-### Ligações covalentes adicionais usando par eletrônico de um mesmo átomo
+#### Ligações covalentes adicionais usando par eletrônico de um mesmo átomo
 Considere o **composto** de **fórmula molecular** SO₂, um poluente atmosférico comum nas grandes cidades. Suas **moléculas** podem ser representadas da seguinte forma:
+
 ![[quim-covalente-compartilhamento-3.png]]
 
 Como você pode perceber, uma dessas **ligações** foi feita por meio do compartilhamento de dois **elétrons** provenientes de apenas um dos **átomos** envolvidos, o **enxofre**. Na **regra do octeto**, não há restrição alguma a isso. 
@@ -1667,6 +1961,235 @@ Como se pode explicar, em nível microscópico, o fato de existirem **substânci
 
 A união entre as **moléculas** se deve às **ligações químicas intermoleculares**, isto é, interações atrativas entre as **moléculas**.
 ```
+#### Exercícios
+
+1 - **Nos compostos covalentes, os átomos dos elementos se ligam através de ligações simples, duplas ou triplas dependendo de suas configurações eletrônicas. Assim, é correto afirmar que as fórmulas estruturais das moléculas H₂, N₂, CO₂ e F₂ são:**
+
+a) H–H, N≡N, O≡C-O, F-F  
+b) H–H, N≡N, O=C-O, F-F  
+c) H-H, N≡N, O=C=O, F-F  
+d) H-H, N≡N, O≡C-O, F=F  
+e) H-H, N≡N, O≡C=O, F-F
+
+> [!info]- Resposta  
+> **Resposta Correta: c)**
+> ##### Explicação
+> O **hidrogênio** é um elemento que possui somente um elétron na ultima camada, assim, necessita fazer apenas uma ligação para obter estabilidade. Portanto, o gás hidrogênio possui estrutura H - H.
+>
+O **nitrogênio** possui cinco elétrons na sua ultima camada, necessitando de outros três para estabilidade. Assim, ao se ligar com outro nitrogênio irá formar uma ligação tripla: N Ξ N.
+>
+O **carbono** precisa fazer quatro ligações e o **oxigênio** duas para ficarem estáveis, por isso, o gás carbônico apresenta a estrutura O = C = O.
+>
+O **flúor** precisa somente de um elétron para ficar estável, assim, ao se ligar a outro flúor forma apenas uma ligação simples: F - F.
+
+2 - **Sabendo-se os números atômicos de H (Z=1), C (Z=6) e N (Z=7), a fórmula de Lewis do cianeto de hidrogênio é:**
+
+![[imgs/enem/química/quim-lig-cov-exercicio.png]]
+
+> [!info]- Resposta  
+> **Resposta Correta: a)**
+> ##### Explicação
+H => faz ligação utilizando 1 elétron;  
+C => faz ligação utilizando 4 elétrons;  
+N => faz ligação utilizando 5 elétrons.   
+>
+ O H forma uma ligação simples com C (2 elétrons)
+ O C e N formam uma ligação tripla entre si (6 elétrons)
+ O N completa seu octeto com um par de elétrons não ligantes (2 elétrons)
+
+3 - **O dióxido de carbono (CO₂) é um gás essencial no globo terrestre. Sem a presença deste gás, o globo seria gelado e vazio. Porém, quando ele é inalado em concentração superior a 10%, pode levar o indivíduo à morte por asfixia. Esse gás apresenta em sua molécula um número de ligações covalentes igual a:**
+
+a) 4.  
+b) 1.  
+c) 2.  
+d) 3.  
+e) 0.
+
+> [!info]- Resposta  
+> **Resposta Correta: c)**
+> ##### Explicação
+O **carbono** pode compartilhar 4 elétrons para formar ligações.
+>
+O oxigênio , pode compartilhar 2 vezes
+>
+O ═ C ═ O
+>
+Portanto cada dupla representa 2 ligações covalentes no total são 4 ligações
+
+4 - **O elemento bromo forma compostos iônicos e moleculares. Assinale a alternativa que apresenta, respectivamente, um composto iônico e um molecular formado pelo bromo:**
+
+a) CaBr₂ e HBr  
+b) CBr₄ e KBr  
+c) NaBr e MgBr₂  
+d) KBr e NH₄Br
+
+> [!info]- Resposta  
+> **Resposta Correta: a)**
+> ##### Explicação
+**Compostos Iônicos** são formados entre **metais** (que doam elétrons) e **não metais** (que recebem elétrons). Compostos Moleculares (Covalentes) são formados entre **não metais** (compartilhamento de elétrons).
+>
+> Cálcio (metal) doa 2 elétrons para 2 átomos de bromo (não metal).
+> Hidrogênio (não metal) e bromo (metal) compartilham elétrons.
+
+5 - **O gás hilariante (N₂O) foi o primeiro anestésico geral usado em cirurgias. Admitamos que sua fórmula eletrônica seja:**
+
+![[quim-lig-cov-exercicio 1.png]]
+
+**Escolha, entre as opções a seguir, a que melhor descreve as ligações existentes na molécula:**
+
+a) Quatro ligações iônicas.  
+b) Duas ligações covalentes simples.  
+c) Duas ligações covalentes e duas iônicas.  
+d) Duas ligações covalentes duplas.  
+e) Uma ligação covalente quádrupla.
+
+> [!info]- Resposta  
+> **Resposta Correta: d)**
+> ##### Explicação
+N₂O é composto de dois átomos de nitrogênio e um átomo de oxigênio, ou seja, apenas por ametais.
+>
+Ligação formada por ametais, apenas: ligação covalente.
+>
+N=N=O
+
+6 - **A ureia, CH₄N₂O é o produto mais importante de excreção do nitrogênio pelo organismo humano. Na molécula da ureia, que é formada por oito átomos, o carbono apresenta duas ligações simples e uma dupla, o oxigênio uma ligação dupla, cada átomo de nitrogênio três ligações simples e cada átomo de hidrogênio uma ligação simples. Átomos iguais não se ligam entre si. Baseando-se nessas informações, escreva a fórmula estrutural da ureia, representando ligações simples por um traço (-) e ligações duplas por dois traços (=).**
+
+> [!info]- Resposta  
+> ##### Explicação
+Quanto a **fórmula estrutural,** **oxigênio** fará uma **ligação dupla**, o **carbono** uma dupla e duas simples e o **nitrogênio** três ligações simples.
+>
+>- Nitrogênio ⇒ 5 elétrons ⇒ 3 ligações
+>- Carbono ⇒ 4 elétrons ⇒ 4 ligações
+>- Oxigênio ⇒ 6 elétrons ⇒ 2 ligações
+>
+>Diante disso, podemos organizar a fórmula estrutural através das **ligações covalentes** realizadas entre eles e buscando a estabilidade.  
+>
+Assim, o **oxigênio** fará uma ligação **dupla** com o **carbono**. O **carbono** fará a **dupla** com o **oxigênio** e **duas simples** com o **nitrogênio.** O **nitrogênio** **três ligações simples**, uma com o **carbono** e duas com o **hidrogênio.**
+>
+> ![[quim-lig-cov-ureia.png]]
+
+7 - **O número máximo de ligações coordenadas ou dativas que o cloro pode efetuar é igual a:** 
+
+**(número atômico: Cl = 17)**
+
+a) 1.  
+b) 2.  
+c) 3.  
+d) 4.  
+e) 5.
+
+> [!info]- Resposta  
+> **Resposta Correta: c)**
+> ##### Explicação
+> A distribuição eletrônica do cloro é 1s² 2s² 2p⁶ 3s² 3p⁵.
+> 
+Na última camada temos sete elétrons, neste caso o cloro poderá fazer 3 ligações dativa (compartilha pares de elétrons) e sobrará um elétron para fazer uma ligação covalente normal;
+
+8 - **Para o estudo das relações entre o tipo de ligação química e as propriedades físicas das substâncias X e Y, sólidas a temperatura ambiente, foi realizado um experimento que permitiu as seguintes constatações:**
+
+**I. A substância X, no estado sólido, não conduz a corrente elétrica, porém, no estado líquido, a conduz.**  
+**II. A substância Y não conduz a corrente elétrica no estado sólido nem no estado líquido.**  
+
+Pode-se, então, concluir que:  
+a) As substâncias X e Y são covalentes.  
+b) As substâncias X e Y são iônicas.  
+c) A substância X é iônica e a substância Y é covalente.  
+d) A substância X é um metal.  
+e) A substância Y é um metal.
+
+> [!info]- Resposta  
+> **Resposta Correta: c)**
+> ##### Explicação
+> Sustância X - **Composto iônico**.  
+  >  - No estado sólido, os íons estão fixos na rede cristalina.  
+   > - No estado líquido (fundido), os íons tornam-se móveis, permitindo condução.
+>
+>  Substância Y - **Composto covalente**.  
+>    - Não possui íons livres nem elétrons deslocalizados em nenhum estado.
+> 
+
+9 - **Escreva a fórmula estrutural para cada fórmula molecular representada a seguir:**
+
+a) CH₅N  
+b) CO₂  
+c) C₂Cl₂F₄ 
+
+**Números atômicos:**  
+C = 6; H = 1; N = 7; O = 8; Cl = 17; F = 9
+
+> [!info]- Resposta  
+> ##### Explicação
+> Para escrever a fórmula estrutural dos compostos, deve-se identificar a valência de seus átomos. Em regra geral, o número de ligações que cada elemento faz é:
+> 
+>- Carbono → O carbono possui 4 elétrons na sua camada de valência, portanto, para completar o octeto necessitará fazer 4 ligações.
+>- Hidrogênio → Possui apenas um elétron em sua camada de valência, logo, somente este será compartilhado (1 ligação).
+>- Nitrogênio → Possui 5 elétrons em sua camada de valência, portanto, necessitará realizar mais 3 ligações para alcançar o octeto.
+>- Oxigênio → Tem 6 elétrons na camada de valência, por isso, fará mais 2 ligações para completar o octeto.
+>- Cloro → Possui 7 elétrons na camada de valência, necessitando de mais um elétron para alcançar o octeto (1 ligação).
+>- Flúor → Assim como o cloro, possui 7 elétrons em sua última camada.
+>
+> ![[quim-lig-cov-exercio-9.jpg]]
+
+10 - **O fosgênio (COCl₂), um gás incolor, tóxico, de cheiro penetrante, utilizado na 1ª guerra mundial como gás asfixiante, é produzido a partir da reação:**  
+
+**CO (g) + Cl₂ (g) → COCl₂ (g).**  
+
+**Sobre a molécula do fosgênio, podemos afirmar que ela apresenta:**  
+
+a) duas ligações duplas e duas ligações simples.  
+b) uma ligação dupla e duas ligações simples.  
+c) duas ligações duplas e uma ligação simples.  
+d) uma ligação tripla e uma ligação dupla.  
+e) uma ligação tripla e uma simples.
+
+> [!info]- Resposta  
+> ##### Explicação
+Como o **Cl, C e O** são **ametais**, então ocorre a **ligação covalente**.
+>- O **Cloro** apresenta 7 elétrons, portanto, necessita de apenas um elétron para se estabilizar.
+>- O **Carbono** apresenta 4 elétrons, portanto, necessita de 4 elétrons para se estabilizar
+>- O **Oxigênio** apresenta 6 elétrons, portanto, necessita de 2 elétrons para se estabilizar
+>
+Diante dessas informações, concluímos que, o **Carbono** será central, ligando-se com os **Cloros** nas extremidades por uma **ligação covalente** em cada.
+>
+O **Oxigênio** fará uma dupla ligação com o **Carbono**, fazendo com que ambos se estabilizem e completem 8 elétrons na camada de valência.
+>
+> ![[quim-lig-cov-exercicio-10.jpg]]
+
+11 - **O ozônio próximo à superfície é um poluente muito perigoso, pois causa sérios problemas respiratórios e também ataca as plantações através da redução do processo da fotossíntese. Um possível mecanismo que explica a formação de ozônio nos grandes centros urbanos são os produtos da poluição causada pelos carros, representada pela equação química a seguir:**
+
+$$
+\text{NO}_2\ (g) + \text{O}_2\ (g) \rightarrow \text{NO}\ (g) + \text{O}_3\ (g)
+$$
+
+**Estudos experimentais mostram que essa reação ocorre em duas etapas:**
+
+**I.**  
+$$
+\text{NO}_2\ (g) \xrightarrow{\text{Luz}} \text{NO}\ (g) + \text{O} \quad \text{(lenta)}
+$$
+
+**II.**  
+$$
+\text{O}_2 + \text{O} \rightarrow \text{O}_3 \quad \text{(rápida)}
+$$
+
+**Com relação às espécies químicas envolvidas nas reações de formação do ozônio no ar atmosférico, é correto afirmar:**
+
+a) As substâncias NO₂ e NO apresentam número ímpar de elétrons.  
+b) O₂ e O₃ são substâncias compostas.  
+c) O₃ é menos reativo que O₂ por ser mais iônico.  
+d) O oxigênio atômico é muito estável e por isso ataca com facilidade o O₂.  
+e) O NO₂ apresenta três ligações covalentes simples.
+
+> [!info]- Resposta  
+> **Resposta Correta: a)**
+> ##### Explicação
+> a) Correta, NO₂ apresenta 17 elétrons e o NO 11 elétrons. 
+> b) Errada, são **substâncias simples**, compostas de um só átomo.
+> c) Errada, O₃ é mais reativo que O₂ devido à sua estrutura instável (**ligações ressonantes**). Nenhum dos dois é **iônico** (ambos são **covalentes**).
+> d) Errada, o oxigênio atômico (O) é altamente instável e reativo, justificando sua rápida reação com O₂ para formar O₃.
+> e) Errada, apresenta quatro **ligações covalentes simples**.
+
 ### Ligação metálica
 Uma vez que os **metais** são bons condutores de **corrente elétrica**, é de se esperar que possuam em sua estrutura **elétrons** livres para se movimentarem. Essa é uma das evidências que levaram à elaboração do modelo da **ligação química** existente nos **metais**.
 
@@ -1704,13 +2227,13 @@ As **substâncias metálicas** conduzem **corrente elétrica** no estado **sóli
 #### Propriedades das substâncias metálicas
 **Alta condutividade térmica e elétrica**: Essas propriedades se devem aos **elétrons** livres. Seu movimento ordenado constitui a **corrente elétrica** e sua agitação permite a rápida propagação do **calor** através dos metais.
 
-**Altos pontos de fusão e de ebulição**: Em geral, são características dos metais (embora haja exceções, como **mercúrio**, PF = -39 °C; **gálio**, PF = 30 °C; e **potássio**, PF = 63 °C). Devido a essa propriedade e também à boa condutividade térmica, alguns metais são usados em panelas e em radiadores de automóveis.
+Altos pontos de fusão e de ebulição: Em geral, são características dos metais (embora haja exceções, como **mercúrio**, PF = -39 °C; **gálio**, PF = 30 °C; e **potássio**, PF = 63 °C). Devido a essa propriedade e também à boa condutividade térmica, alguns metais são usados em panelas e em radiadores de automóveis.
 
-**Maleabilidade**: Metais são muito maleáveis, ou seja, fáceis de transformar em lâminas. O metal mais maleável é o **ouro**, que permite obter as lâminas mais finas (com espessuras da ordem de até 0,00001 cm!).
+Maleabilidade: Metais são muito maleáveis, ou seja, fáceis de transformar em lâminas. O metal mais maleável é o **ouro**, que permite obter as lâminas mais finas (com espessuras da ordem de até 0,00001 cm!).
 
-**Ductibilidade**: Metais também são muito dúcteis, isto é, fáceis de transformar em fios. O **ouro** é também o mais dúctil dos metais, permitindo que se obtenham fios finíssimos (1 g fornece 2.000 m de fio!).
+Ductibilidade: Metais também são muito dúcteis, isto é, fáceis de transformar em fios. O **ouro** é também o mais dúctil dos metais, permitindo que se obtenham fios finíssimos (1 g fornece 2.000 m de fio!).
 
-**Resistência à tração**: O **ferro**, sob a forma de **aço**, é um exemplo de metal que apresenta grande resistência à tração. Isso significa que, quando se tenta esticar um cabo ou uma barra de **ferro**, eles suportam uma força muito grande, e só arrebentam se a força ultrapassar determinado valor. Essa propriedade permite sua utilização em cabos de elevadores e na construção civil, na mistura com o concreto, formando o chamado concreto armado.
+Resistência à tração: O **ferro**, sob a forma de **aço**, é um exemplo de metal que apresenta grande resistência à tração. Isso significa que, quando se tenta esticar um cabo ou uma barra de **ferro**, eles suportam uma força muito grande, e só arrebentam se a força ultrapassar determinado valor. Essa propriedade permite sua utilização em cabos de elevadores e na construção civil, na mistura com o concreto, formando o chamado concreto armado.
 
 ```ad-summary
 ##### Diferença entre as ligações
@@ -1720,6 +2243,157 @@ As **substâncias metálicas** conduzem **corrente elétrica** no estado **sóli
 |Molecular|Baixos|Sólido, líquido ou gasoso|Não|Não|
 |Metálica|Altos|Sólido|Sim|Sim|
 ```
+#### Exercícios
+
+1 - **A condutibilidade elétrica dos metais é explicada admitindo-se:**
+
+a) ruptura de ligações iônicas.  
+b) ruptura de ligações covalentes.  
+c) existência de prótons livres.  
+d) existência de elétrons livres.  
+e) existência de nêutrons livres.
+
+> [!info]- Resposta  
+> **Resposta Correta: d)**
+> ##### Explicação
+> a) Errada, metais não possuem ligações iônicas (essas ocorrem entre metais e não metais, como em NaCl)
+> b) Errada, ligações covalentes são típicas de não metais (ex.: H₂O). Metais têm ligações metálicas, não **covalentes**.
+> c) Errada, prótons estão fixos no núcleo atômico e não se movem livremente.
+> d) Correta, os elétrons da camada de valência dos átomos metálicos estão deslocalizados, formando um "mar" que permite a condução de corrente.
+> e) Errada, nêutrons são partículas neutras e não participam da condução elétrica.
+
+2 - **Analise as propriedades físicas na tabela a seguir:**
+
+| Amostra | Ponto de fusão | Ponto de ebulição | Condução a 25°C | Condução a 1000°C |
+|---------|----------------|-------------------|------------------|-------------------|
+| A       | 801°C          | 1.413°C           | Isolante         | Condutor          |
+| B       | 43°C           | 182°C             | Isolante         | Isolante          |
+| C       | 1.535°C        | 2.760°C           | Condutor         | Condutor          |
+| D       | 1.284°C        | 2.250°C           | Isolante         | Isolante          |
+
+**Segundo os modelos de ligação química, A, B, C e D podem ser classificados, respectivamente, como:**  
+
+a) composto iônico, metal, substância molecular, metal.  
+b) metal, composto iônico, composto iônico, substância molecular.  
+c) composto iônico, substância molecular, metal, metal.  
+d) substância molecular, composto iônico, composto iônico, metal.  
+e) composto iônico, substância molecular, metal, composto iônico.
+
+> [!info]- Resposta  
+> **Resposta Correta: e)**
+> ##### Explicação
+ Amostra A
+>- PF/PE altos (801°C / 1.413°C).  
+>- Isolante no sólido, condutor no líquido → **Composto iônico**
+  >- Sólido: íons fixos na rede.  
+  >- Líquido: íons móveis conduzem corrente.  
+>
+> Amostra B
+>- PF/PE baixos (43°C / 182°C).  
+>- Isolante em ambos os estados → **Substância molecular**
+  >- Ligações covalentes intramoleculares fortes, mas fracas intermolecularmente.  
+>
+> Amostra C
+>- PF/PE muito altos (1.535°C / 2.760°C).  
+>- Condutor em ambos os estados → **Metal** 
+ > - Elétrons deslocalizados conduzem corrente em qualquer estado.  
+>
+>  Amostra D
+>- PF/PE altos (1.284°C / 2.250°C).  
+> - Isolante em ambos os estados → **Composto iônico ou covalente reticular** 
+
+3 - **Segundo o jornal Folha de São Paulo, novos estudos atribuem o naufrágio do Titanic ao emprego equivocado de rebites na fixação das chapas de ferro do casco. Os tais rebites eram feitos de ferro e não de uma liga apropriada. Sobre ligas, assinale o correto.**
+
+a) Ligas metálicas são materiais que contêm dois ou mais elementos químicos, sendo que todos eles são, obrigatoriamente, metais.  
+b) O emprego das ligas é vantajoso porque elas apresentam propriedades físicas definidas, tendo pontos de fusão e ebulição constantes.  
+c) As ligas obedecem, rigorosamente, à lei de Proust, por terem uma estrutura cristalina bem definida, o que lhes garante maior resistência à corrosão.  
+d) Amálgama é o nome particular dado a uma liga de mercúrio e outro metal, ainda hoje usada em restaurações dentárias.
+
+> [!info]- Resposta  
+> **Resposta Correta: d)**
+> ##### Explicação
+> a) Errada, ligas podem conter não metais em pequenas quantidades (ex.: **aço** tem ferro e carbono).
+> b) Errada, ligas são **misturas** (não compostos), portanto têm faixas de fusão/ebulição, não valores fixos.
+> c) Errada, **Lei de Proust** (proporções definidas) aplica-se a compostos, não a misturas como ligas.
+> d) Correta, Amálgamas são ligas de mercúrio (Hg) com metais como prata (Ag) o estanho (Sn), usadas em odontologia.
+
+4 - **Constituída por ferro fundido, a bigorna é uma ferramenta usada pelos ferreiros artesanais para amoldar ferramentas pré-fundidas ou aquecidas até atingir o nível de calor denominado rubro, no qual o metal pode ser moldado através de pancadas fortes e constantes. Nos metais, essa propriedade se deve:**
+
+I. ao deslizamento de camadas dos átomos do metal.  
+II. à aproximação dos átomos na estrutura causada pelo aquecimento.  
+III. à proximidade da mudança de estado para o líquido.  
+
+Está correto o que se afirma SOMENTE em:  
+a) I.  
+b) II.  
+c) III.  
+d) I e II.  
+e) I e III.
+
+> [!info]- Resposta  
+> **Resposta Correta: e)**
+> ##### Explicação
+> I. Correta, os metais possuem uma estrutura cristalina com ligações metálicas, onde os elétrons são compartilhados formando um "mar de elétrons". Quando aquecidos e submetidos a forças externas (como as pancadas do ferreiro), as camadas de átomos podem deslizar umas sobre as outras sem romper completamente a estrutura. Essa propriedade é conhecida como maleabilidade ou ductilidade, e é essencial para que o metal possa ser moldado.
+> II. Errada, o aquecimento de um metal geralmente causa expansão térmica, ou seja, os átomos tendem a se afastar, não a se aproximar. O aumento de temperatura fornece mais energia para os átomos vibrarem, aumentando o volume ocupado pelo metal.
+> III. Correta, quando um metal atinge o estado "rubro" (incandescente), ele está em uma temperatura elevada que o aproxima do seu ponto de fusão. Nessa condição, as ligações entre os átomos estão enfraquecidas (embora ainda não completamente rompidas como no estado líquido), facilitando o rearranjo dos átomos quando submetidos a forças externas.
+
+5 - Com o auxílio da tabela periódica, julgue os itens a seguir em certos ou errados.
+
+I. De acordo com o modelo atômico de Dalton, uma lâmina de aço, ao ser infinitamente dividida, produz elétrons, nêutrons e prótons.  
+II. O estanho apresenta dois elétrons na sua camada de valência.  
+III. Na formação do metal utilizado na fabricação de latas, a estabilidade das ligações entre os átomos de ferro pode ser explicada pela teoria do octeto.  
+IV. Maleabilidade é uma propriedade fundamental dos metais, que justifica a sua aplicação na confecção de embalagens.
+
+> [!info]- Resposta  
+> **Resposta Correta: e)**
+> ##### Explicação
+> I. Errada, de acordo com o modelo atômico de Dalton, os átomos eram considerados indivisíveis e esféricos.
+> II. Errada, o estanho está localizado no grupo 14 da tabela periódica. Sendo assim, apresenta 4 elétrons em sua camada de valência.
+> III. Errada, **ligações metálicas** são explicadas pelo "mar de elétrons", não pela teoria do octeto (que vale para ligações iônicas/covalentes). Metais frequentemente não seguem o octeto (ex.: Fe pode ter até 18 elétrons na camada de valência).
+> IV. Correta, maleabilidade é uma característica fundamental das ligações metálicas, sendo a capacidade de ser moldado em lâminas (ex.: alumínio em latas). Justificada pelo deslizamento de camadas atômicas na rede metálica sem romper a estrutura.
+
+6 - **Considere os seguintes dados obtidos sobre propriedades de amostras de alguns materiais.**
+
+| Material | Massa (g) | Volume (mL, a 20°C) | Temperatura de fusão (°C) | Temperatura de ebulição (°C) |
+| -------- | --------- | ------------------- | ------------------------- | ---------------------------- |
+| X        | 115       | 100                 | 257 a 251                 | 115 a 120                    |
+| Y        | 174       | 100                 | 80                        | 218                          |
+| Z        | 0,13      | 100                 | -650                      | -1120                        |
+| T        | 74        | 100                 | 2219                      | 2183                         |
+| W        | 100       | 100                 | 0                         | 100                          |
+**Com respeito a esses materiais, pode-se afirmar que:**
+
+a) a 20°C, os materiais X e Y estão no estado líquido.  
+b) a 20°C, apenas o material Z está no estado gasoso.  
+c) os materiais Z, T e W são substâncias.  
+d) os materiais Y e T são misturas.  
+e) se o material Y não for solúvel em W, então ele deverá flutuar se for adicionado a um recipiente contendo o material W, ambos a 20°C.
+
+> [!info]- Resposta  
+> **Resposta Correta: b)**
+> ##### Análise dos Dados:
+>**Estado Físico** a 20°C:  
+  > - X: PF = 251-257°C, PE = 115-120°C → **Sólido** (20°C < PF).  
+   >- Y: PF = 80°C, PE = 218°C → **Líquido** (PF < 20°C < PE).  
+   >- Z: PF = -650°C, PE = -1120°C → **Gasoso** (20°C > PE).  
+   >- T: PF = 2219°C, PE = 2183°C → **Sólido** (20°C < PF).  
+   >- W: PF = 0°C, PE = 100°C → **Líquido** (PF < 20°C < PE).  
+   >
+>**Densidade**:  
+  > - Y: d = 174g/100mL = 1,74 g/mL.  
+   >- W: d = 100g/100mL = 1,00 g/mL.  
+   >- Se Y não for solúvel em W e d(Y) > d(W), Y não flutua em W.  
+   >
+> **Substâncias** vs. **Misturas:**  
+  > - **Misturas** têm faixas de PF/PE (ex.: X).  
+   >- **Substâncias puras** têm PF/PE fixos (ex.: T, W). Z pode ser gás nobre (substância pura).
+   >
+> ##### Explicação
+> a) Errada, X é sólido (20°C < PF).
+> b) Correta, Z é o único com PE < 20°C.
+> c) Errada, X e Y também podem ser (dados insuficientes).
+> d) Errada, T tem PF/PE fixos (substância pura).
+> e) Errada, d(Y) > d(W) → Y afunda.
 ## Geometria molecular
 Quando **átomos** de **não metais** se unem, eles o fazem por meio de uma ou mais **ligações covalentes**. Como consequência dessa união, surgem **moléculas** com dois ou mais **átomos**. A **geometria molecular** descreve como os **núcleos** dos **átomos** que constituem a **molécula** estão posicionados uns em relação aos outros. 
 ![[quim-geometria-moleculas.png]]
