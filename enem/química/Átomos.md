@@ -2411,8 +2411,225 @@ Por meio de técnicas avançadas, os químicos determinaram a geometria de vári
 - **CH₂O** — trigonal plana
 - **H₂O** — angular
 - **SO₂** — angular
+### Modelo da repulsão dos pares eletrônicos da camada de valência (VSEPR)
+Trata-se de um método muito utilizado nas últimas décadas, em todo o mundo, para prever a geometria de moléculas. Ele se baseia no modelo da repulsão dos pares eletrônicos da camada de valência.
+
+Para entender melhor, Imagine que enchêssemos dois balões de gás (“bexigas” usadas em festas infantis), os amarrássemos pela boca e os soltássemos sobre o chão. Em que disposição geométrica eles iriam cair? E se repetíssemos esse procedimento usando três e quatro balões?
+
+![[quim-geo-baloes.png]]
+
+Perceba, pelas imagens acima, que os balões se afastam o máximo possível uns dos outros. Unindo os seus centros imaginários, conseguiríamos um segmento de linha reta, um triângulo equilátero e um tetraedro, como mostrado a seguir:
+
+![[quim-geo-baloes-2.png]]
+
+Do mesmo modo que os balões, os pares de elétrons que formam as ligações também procuram afastar-se ao máximo uns dos outros, pois repelem-se mutuamente. 
+
+Os balões representam os pares de elétrons ao redor do átomo central. Devido à repulsão entre os elétrons, se houver dois pares de elétrons ao redor do átomo central, eles tenderão a ficar em lados opostos. Se forem três pares, eles terão as posições dos vértices de um triângulo equilátero. Se forem quatro, estarão direcionados para os vértices de um tetraedro. 
+
+```ad-note
+Ao usar o modelo VSEPR, as ligações simples, duplas ou triplas são indistintamente tratadas como um conjunto de elétrons que se afasta ao máximo de outras ligações e também de pares de elétrons não usados em ligação.
+```
+
+Para determinar a geometria de uma molécula, o modelo da repulsão dos pares eletrônicos da camada de valência propõe uma sequência de passos que leva em conta as ideias que acabamos de expor:
+
+1. Escreva a fórmula eletrônica da substância e conte quantos “pares de elétrons” existem ao redor do átomo central. Entenda por “par de elétrons”:
+	- ligação covalente, seja ela simples, dupla ou tripla;
+	- par de elétrons não usado em ligação.
+2. Escolha a disposição geométrica que distribua esses “pares de elétrons”, assegurando a máxima distância entre eles:
+
+| Número de pares de elétrons | Distribuição escolhida   |
+|-----------------------------|---------------------------|
+| 2                           | Segmento de reta          |
+| 3                           | Triângulo equilátero      |
+| 4                           | Tetraedro                 |
+3.  Determine a geometria molecular, considerando apenas os átomos unidos ao átomo central. Apesar de serem os pares de elétrons que determinam a distribuição geométrica ao redor do átomo central, a geometria molecular é uma expressão da posição relativa dos núcleos dos átomos nela presentes. Assim, neste terceiro passo, consideramos apenas os átomos unidos ao átomo central (e ignoramos, portanto, os pares de elétrons não usados em ligações).
+
+Em **geometria molecular**, é muito aplicada a expressão ângulo de ligação. Por exemplo, nas moléculas lineares **CO₂** e **BeF₂**: o ângulo vale **180°**;   na trigonal **BF₃**, vale **120°**;   e nas tetraédricas **CH₄** e **CCl₄**, vale **109°28′**.
+
+![[quim-geo-angulo.png]]
+
+Na molécula de água (angular) e na de amônia (piramidal), os ângulos entre as ligações valem, respectivamente, 104,5° e 107°. O fato de esses ângulos serem menores do que 109°28’ é explicado considerando que a repulsão entre par de elétrons não compartilhado e par de elétrons compartilhado é mais intensa do que a repulsão entre pares de elétrons compartilhados.
+
+![[quim-geo-angulo-2.png]]
+
+ Exemplo de aplicação do modelo
+ ![[quim-geo-angulo-exemplo 1.png]]
+#### Exercícios
+
+1 - **De acordo com a Teoria da repulsão dos pares eletrônicos da camada de valência (VSEPR), os pares de elétrons em torno de um átomo central se repelem e se orientam para o maior afastamento angular possível. Considere que os pares de elétrons em torno do átomo central podem ser uma ligação covalente (simples, dupla ou tripla) ou simplesmente um par de elétrons livres (sem ligação). Com base nessa teoria, é correto afirmar que a geometria molecular do dióxido de carbono é:**
+
+a) trigonal plana.  
+b) piramidal.  
+c) angular.  
+d) linear.  
+e) tetraédrica.
+
+> [!info]- Resposta  
+> **Resposta Correta: d)**
+> ##### Explicação
+> Seguindo a fórmula do **dióxido de carbono**
+> 
+> **O == C == O**
+>
+Apenas observando a fórmula, se pode perceber que a sua geometria é **linear**.
+>
+O carbono faz duas duplas ligações covalentes com os átomos de oxigênio. Ele apresenta duas nuvens eletrônicas e **a máxima distância possível entre elas é de 180 graus**, o que significa que a sua geometria molecular é **linear**.
+
+2 - **Julgue se a afirmação é certa ou errada:**
+**"A geometria da molécula H₂CO é trigonal plana."**
+
+> [!info]- Resposta  
+> **Resposta Correta: Certo**
+> ##### Explicação
+> O carbono precisa fazer 4 ligações e ele faz duas com apenas um oxigênio e duas com dois hidrogênios.
+>
+> - **Carbono** (C): 4 elétrons na camada de valência.  
+>- **Oxigênio** (O): 6 elétrons na camada de valência.  
+>- **Hidrogênio** (H): 1 elétron cada.
+>
+
+3 - **O gás SO₂ possui moléculas:**
+
+I. lineares;
+II. com ângulos teóricos de ligações iguais a 120°;
+III. em que há ligações entre dois átomos de oxigênio.
+
+**Está(ão) correta(s) somente a(s) afirmativa(s):**
+
+a) I.
+d) I e III.
+b) II.
+e) II e III.
+c) III.
+
+> [!info]- Resposta  
+> **Resposta Correta: d)**
+> ##### Explicação
+I. Errada, a molécula de SO₂ (dióxido de enxofre) tem uma **geometria angular**, não linear, porque o átomo central de enxofre possui um par de elétrons não ligantes que repele os átomos de oxigênio, formando um ângulo menor que 120°.
+>
+II. Correta, teoricamente, sem considerar a repulsão do par solitário, a geometria seria trigonal planar com ângulos de 120° (o enxofre faz 3 ligações: duas com oxigênios e uma com o par de elétrons).
+>
+III. Errada, porque não há ligação direta entre os átomos de oxigênio - cada oxigênio está ligado apenas ao enxofre, não formando uma cadeia O-S-O.
+
+4 -  **Os desenhos são representações de moléculas em que se procura manter proporções corretas entre raios atômicos e distâncias internucleares. Os desenhos podem representar, respectivamente, moléculas de:** 
+
+![[quim-geo-exercicio-4.png]]
+  
+a) oxigênio, água e metano.  
+b) cloreto de hidrogênio, dióxido de carbono e amônia.
+c) monóxido de carbono, dióxido de carbono e ozônio.  
+d) cloreto de hidrogênio, amônia e água.
+e) monóxido de carbono, oxigênio e ozônio.  
+
+> [!info]- Resposta  
+> **Resposta Correta: b)**
+> ##### Explicação
+**Figura I** corresponde a um composto formado por dois elementos químicos, sendo assim linear, com grande densidade de elétrons em um deles, ou seja, polar. Assim, o mesmo pode representar o **monóxido de carbono** ou **cloreto de hidrogênio**, não podendo ser o oxigênio, pois o mesmo é **apolar**.
+>
+A **Figura II** corresponde a um composto formado por três elementos químicos, linear, com densidade de elétrons uniformemente distribuída, ou seja, apolar. Assim, o mesmo pode representar o **dióxido de carbono**, não podendo ser a amônia que é piramidal e composta por quatro elementos químicos, oxigênio que é composto por dois elementos ou água, que é angular.
+>
+A **Figura III** corresponde a um composto formado por quatro elementos químicos, piramidal com densidade eletrônica no elemento central, sendo polar. Logo, ela corresponde a **amônia**, não podendo ser o ozônio porque o mesmo é angular e possui três elementos.
+
+5 - **Considere as seguintes fórmulas e ângulos de ligações.**
+
+| Fórmula | Ângulo    |
+|---------|-----------|
+| H₂O     | 105°      |
+| NH₃     | 107°      |
+| CH₄     | 109° 28’  |
+| BeH₂    | 180°      |
+
+**As formas geométricas dessas moléculas são, respectivamente:**
+
+a) angular, piramidal, tetraédrica, linear.
+b) angular, piramidal, tetraédrica, angular.
+c) angular, angular, piramidal, trigonal.
+d) trigonal, trigonal, piramidal, angular.
+e) tetraédrica, tetraédrica, tetraédrica, angular.
+
+> [!info]- Resposta  
+> **Resposta Correta: a)**
+> ##### Explicação
+> H₂O (105°) → Angular  
+  A molécula de água tem dois pares de elétrons não ligantes no oxigênio, que repelem as ligações O-H, formando uma geometria angular (ou "V"). O ângulo é menor que o tetraédrico ideal (109,5°) devido à maior repulsão dos pares solitários.
+>
+> NH₃ (107°) → Piramidal  
+A amônia tem um par de elétrons não ligantes no nitrogênio, que empurra os três hidrogênios para baixo, formando uma pirâmide trigonal. O ângulo é menor que o tetraédrico ideal por causa da repulsão do par solitário.
+>
+CH₄ (109° 28’) → Tetraédrica  
+O metano tem quatro ligações C-H idênticas, sem pares solitários no carbono, formando um tetraedro perfeito com ângulos de ~109,5°.
+>
+BeH₂ (180°) → Linear  
+O hidreto de berílio não tem pares de elétrons não ligantes no berílio (que só faz duas ligações). A repulsão mínima entre os átomos de hidrogênio resulta em uma geometria linear, com ângulo de 180°.
+
+6 - **A molécula da água tem geometria molecular angular e o ângulo formado é de ~104° e não ~109° como previsto. Esta diferença se deve:**
+
+a) aos dois pares de elétrons não ligantes no átomo de oxigênio.
+b) à repulsão entre os átomos de hidrogênio, muito próximos.
+c) à atração entre os átomos de hidrogênio, muito próximos.
+d) ao tamanho do átomo de oxigênio.
+e) ao tamanho do átomo de hidrogênio.
+
+> [!info]- Resposta  
+> **Resposta Correta: a)**
+> ##### Explicação
+> Na molécula de água (H₂O), o átomo central (oxigênio) possui:
+>- 2 ligações com hidrogênios   
+>- 2 pares de elétrons não ligantes (também chamados de pares solitários).
+>
+A repulsão entre os elétrons desses pares não ligantes é maior do que a repulsão entre os elétrons das ligações O-H. Por isso, eles "comprimem" as ligações, reduzindo o ângulo H-O-H de 109,5° (valor esperado para uma geometria tetraédrica ideal) para ~104°.
+> ##### Por que as outras estão erradas
+> b)/c) A repulsão/atração entre os hidrogênios é insignificante comparada à repulsão dos pares solitários.
+> d)/e) O tamanho dos átomos não é o fator determinante para a variação do ângulo.
+
+7 - A**s moléculas das substâncias NOCl, SOCl₂, N₂O e SF₆ apresentam, respectivamente, geometria:**
+
+a) linear, angular, tetraédrica e octaédrica.  
+b) angular, piramidal, linear e octaédrica.  
+c) angular, piramidal, angular e tetraédrica.  
+d) linear, trigonal plana, piramidal e octaédrica.
+
+> [!info]- Resposta  
+> **Resposta Correta: b)**
+> ##### Explicação
+NOCl (Cloreto de Nitrosila)
+> - Estrutura de Lewis: N central ligado a O (dupla ligação), Cl (simples) e com um par de elétrons não ligante.
+> - Geometria: Angular (AX₂E, 2 ligantes + 1 par não ligante).
+>
+SOCl₂ (Cloreto de Tionila)
+> - Estrutura de Lewis: S central ligado a O (dupla ligação), 2 Cl (simples) e 1 par não ligante.
+> - Geometria: Piramidal trigonal (AX₃E, 3 ligantes + 1 par não ligante).
+>     
+N₂O (Óxido Nitroso)
+> - Estrutura de Lewis: N≡N⁺-O⁻ (estrutura linear com ressonância).
+> - Geometria: Linear (AX₂, sem pares não ligantes no átomo central).
+>     
+SF₆ (Hexafluoreto de Enxofre)
+> - Estrutura de Lewis: S central ligado a 6 F (todos ligações simples).
+> - Geometria: Octaédrica (AX₆, sem pares não ligantes).
+
+8 - **Assinale o item que apresenta corretamente a estrutura de Lewis e a geometria**  
+**para as moléculas de gás carbônico e água, respectivamente.​**
+
+![[quim-geo-exercicio-8.png]]
+
+> [!info]- Resposta  
+> **Resposta Correta: a)**
+> ##### Explicação
+O gás carbônico é linear, pois não há pares de elétrons sobrando e por isso não terá repulsão. Já a água há pares de elétrons sobrando no oxigênio e com isso a repulsão de elétrons vai ocorrer e a molécula vai ficar com uma geometria angular.
 ### Polaridade de ligações
+Átomos dos diversos **elementos químicos** apresentam diferentes tendências para atrair elétrons. Denomina-se eletronegatividade a tendência que o átomo de um determinado elemento apresenta para atrair elétrons, num contexto em que se acha ligado a outro(s) átomo(s). 
+
+```ad-note
+Embora essa atração se dê sobre todo o ambiente eletrônico que circunda o núcleo do átomo, é de particular interesse a atração que ele exerce sobre os elétrons envolvidos na ligação química.
+
+Em paralelo, podemos construir uma fila com alguns dos elementos e suas eletronegatividades que aparecem frequentemente no estudo da Química:
+
+![[quim-pol-exercicio-2.png]]
+```
+
 Considere uma **molécula** de HF. O par de **elétrons** compartilhado não é atraído igualmente por ambos os **átomos**, uma vez que o **flúor** é mais **eletronegativo** que o **hidrogênio**. 
+
 ![[quim-polaridade-atracao-polar.png]]
 
 Embora o par de **elétrons** seja compartilhado, ele se encontra mais deslocado em direção ao **flúor**. Dizemos que no **flúor** aparece uma carga parcial negativa (simbolizada por δ-) e no **hidrogênio** uma carga parcial positiva (simbolizada por δ+). A **ligação** entre H e F é chamada de **ligação covalente polar**, pois nela existem dois **polos elétricos**, um negativo e outro positivo. 
@@ -2434,23 +2651,246 @@ lc --> a[Apolar]
 p --> c[Átomos com diferentes  eletronegatividades]
 a --> d[Átomos com  eletronegatividades iguais]
 ```
-
-```ad-summary
-##### Eletronegatividade
-Denomina-se eletronegatividade a tendência que o átomo de um determinado elemento apresenta para atrair elétrons, num contexto em que se acha ligado a outro(s) átomo(s). Embora essa atração ocorra sobre todo o ambiente eletrônico que circunda o núcleo do átomo, é de particular interesse a atração que ele exerce sobre os elétrons envolvidos na ligação química.
-```
-#### Ligação iônica versus ligação covalente
+#### Ligação iônica x ligação covalente
 Considere as **ligações** esquematizadas a baixo, cada qual acompanhada do respectivo valor de diferença (representado por Δ) entre as **eletronegatividades** de ambos os **átomos**. Como pode-se perceber, à medida que a diferença de **eletronegatividade** aumenta, os **elétrons** passam a ser cada vez mais predominantemente atraídos por um dos **átomos**. 
 
 ![[quim-polaridade-ion-cov.png]]
 
 
+A fronteira entre a **ligação covalente** e a **iônica** não é algo extremamente claro e bem definido.  
+De modo geral, pode-se considerar que valores de Δ acima de 2 indicam ligação com forte caráter iônico. E valores abaixo de 1,5 indicam ligação com caráter predominantemente covalente.
+
+Substâncias como AlCl₃, AlBr₃, FeCl₃ e SnCl₄, apesar de serem formadas por metal e não **metal**, têm ligações que não são tipicamente **iônicas**, tendendo mais a **covalentes polares**, já que Δ < 1,5.
+
+Com efeito, tais compostos não têm pontos de **fusão** e de ebulição tão altos como os dos compostos tipicamente iônicos, como NaCl, KBr, CaCl₂, MgO e Al₂O₃.
+
 ```ad-note
 A **ligação iônica** pode ser encarada como um caso extremo da **ligação covalente polar**, em que a diferença de **eletronegatividade** é tão grande que o **elétron** é transferido de um **átomo** para outro em vez de ser compartilhado por ambos.
 ```
+### Exercícios
 
-```ad-summary
-##### Polaridade e solubilidade
+1 - **Em 1932, o químico norte-americano Linus Pauling propôs uma medida quantitativa da distribuição dos elétrons nas ligações, em que o poder de atração dos elétrons por um átomo, quando esse é parte da ligação, é chamado de eletronegatividade.**  
+
+**Assinale a alternativa que aponta qual é o átomo de halogênio mais eletronegativo e por quê.**  
+
+a) O mais eletronegativo é o átomo de **iodo**, pois é o menor entre os halogênios e seus elétrons estão fortemente atraídos pelo núcleo do átomo.  
+b) O átomo mais eletronegativo é o átomo de **cloro**, pois é o menor entre os halogênios e seus elétrons estão fortemente atraídos pelo núcleo do átomo.  
+c) O mais eletronegativo é o átomo de **flúor**, pois é o menor entre os halogênios e seus elétrons estão fortemente atraídos pelo núcleo do átomo.  
+d) O átomo mais eletronegativo é o átomo de **bromo**, pois é o maior átomo entre os halogênios e seus elétrons formam ligações covalentes com mais facilidade.  
+e) O mais eletronegativo é o átomo de **flúor**, pois é o maior entre os halogênios e seus elétrons estão fortemente atraídos pelo núcleo do átomo.
+
+> [!info]- Resposta  
+> **Resposta Correta: c)**
+> ##### Explicação
+Eletronegatividade nos halogênios: A eletronegatividade aumenta de baixo para cima no grupo dos halogênios da tabela periódica. Isso ocorre porque quanto menor o átomo, maior a atração do núcleo sobre os elétrons da ligação (menor distância do núcleo à camada de valência).
+
+2 - **Considere as afirmativas abaixo e marque a alternativa INCORRETA.**
+
+a) As propriedades dos elementos são funções periódicas de seus números atômicos.  
+b) Um átomo de bromo, quando se torna um íon brometo, Br⁻, tem seu tamanho aumentado.  
+c) Os íons Na⁺ e F⁻ possuem a mesma estrutura eletrônica.  
+d) A eletronegatividade, em um mesmo período da tabela periódica, diminui à medida que o número atômico aumenta.
+
+> [!info]- Resposta  
+> **Resposta Correta: d)**
+> ##### Explicação
+a) Correta, as propriedades dos elementos são funções periódicas de seus **números atômicos** (Z), não das massas atômicas. Por exemplo, ponto de fusão, raio atômico e eletronegatividade variam periodicamente com Z.
+b) Correta, quando o bromo (Br) ganha 1 elétron para formar Br⁻, a repulsão entre elétrons aumenta, expandindo a nuvem eletrônica.
+c) Correta, Na⁺ (perde 1 elétron): 1s² 2s² 2p⁶ e F⁻ (ganha 1 elétron): 1s² 2s² 2p⁶
+d) Errada, em um mesmo período, a eletronegatividade aumenta com o número atômico (da esquerda para a direita), pois os átomos atraem elétrons com mais força devido ao aumento da carga nuclear efetiva.
+
+3 -  **Considere as substâncias representadas pelas fórmulas: HCl, NH₃, NaF e H₂S. Em qual delas existe maior diferença de eletronegatividade entre os elementos quimicamente unidos?**
+
+> [!info]- Resposta  
+> ##### Explicação
+Entre as substâncias apresentadas, a que possui elementos mais distantes entre si na fila de
+eletronegatividade é o NaF. Nela há o elemento mais eletronegativo (o flúor) e um metal (o sódio):
+>
+![[quim-pol-exercicio-2.png]]
+
+4 - **Sódio (grupo 1 da Tabela Periódica), magnésio (grupo 2), fósforo (grupo 15), enxofre (grupo 16) e cloro (grupo 17) localizam-se em um mesmo período da Tabela Periódica.**
+
+**Como você explica, fundamentado no conceito de eletronegatividade, o fato de NaCl e MgCl₂ serem formados por íons (substâncias iônicas), enquanto PCl₃, SCl₂ e Cl₂ são formados por moléculas (substâncias moleculares)?**
+
+> [!info]- Resposta  
+> ##### Explicação
+À medida que aumenta a diferença de eletronegatividade, aumenta o caráter iônico da ligação.
+>
+![[quim-pol-exercicio-3.png]]
+>
+> Sódio e magnésio possuem uma diferença de eletronegatividade suficientemente grande em relação ao cloro para que NaCl e MgCl₂ apresentem **ligação iônica**. Os elementos fósforo e enxofre apresentam uma menor diferença de eletronegatividade em relação ao cloro e, assim, as ligações em PCl₃ e SCl₂ são **covalentes polares**. Finalmente, no Cl₂ a diferença de eletronegatividade entre os átomos é nula e, consequentemente, a ligação é **covalente apolar**.
+
+5 - **As ligações químicas nas substâncias K(s), HCl(g), KCl(s) e Cl₂(g) são:
+
+a) metálica, covalente polar, iônica, covalente apolar.  
+b) iônica, covalente polar, metálica, covalente apolar.  
+c) covalente apolar, covalente polar, metálica, covalente apolar.  
+d) metálica, covalente apolar, iônica, covalente polar.  
+e) covalente apolar, covalente polar, iônica, metálica.
+
+> [!info]- Resposta  
+>  **Resposta Correta: a)**
+> ##### Análise das substâncias
+>
+K(s) 
+ >  - O potássio é um **metal alcalino** (Grupo 1).  
+  > - Nos sólidos metálicos, os átomos compartilham elétrons deslocalizados em uma "nuvem eletrônica", caracterizando **ligação metálica**.  
+>
+HCl(g) 
+  > - Formado por hidrogênio (H) e cloro (Cl).  
+   > - O cloro é mais eletronegativo (3,16) que o hidrogênio (2,20), criando uma **ligação covalente polar** (diferença de eletronegatividade = 0,96).  
+>
+KCl(s) 
+  > - Composto entre um metal alcalino (K) e um halogênio (Cl).  
+  > - Grande diferença de eletronegatividade (K = 0,82; Cl = 3,16 → ΔEN = 2,34), formando **ligação iônica**.  
+>
+Cl₂(g) 
+ >  - Molécula diatômica formada por dois átomos de cloro.  
+ >  - Como são átomos idênticos, a diferença de eletronegatividade é zero, caracterizando **ligação covalente apolar**.
+ >
+ >##### Resumo
+| Substância | Tipo de Ligação           | Justificativa                                                                 |
+|------------|---------------------------|-------------------------------------------------------------------------------|
+| K(s)       | Metálica                  | Elétrons deslocalizados entre átomos de metal.                               |
+| HCl(g)     | Covalente polar           | Compartilhamento desigual de elétrons (H-Cl).                                |
+| KCl(s)     | Iônica                    | Transferência de elétrons do K (baixa EN) para Cl (alta EN).                  |
+| Cl₂(g)     | Covalente apolar          | Compartilhamento igual de elétrons entre átomos idênticos.                   |
+
+6 - **Considerando os seguintes haletos de hidrogênio HF, HCl e HBr, pode-se afirmar que:**
+
+a) a molécula mais polar é HF.
+b) a molécula mais polar é HCl.
+c) todos os três são compostos iônicos.
+d) somente HF é iônico, pois o flúor é muito eletronegativo.
+e) somente HBr é covalente, pois o bromo é um átomo muito grande para formar ligações iônicas.
+
+> [!info]- Resposta  
+> **Resposta Correta: a)**
+> ##### Explicação
+> Os elementos H, F, Cl e Br são não metais e possuem diferentes eletronegatividades.  
+Nos compostos HF, HCl e HBr, há ligações covalentes polares.
+>
+No HF, como a diferença de eletronegatividade entre o hidrogênio e o flúor é a mais acentuada, a ligação apresenta a maior polaridade, tornando essa molécula a mais polar entre as três.
+>
+> ##### Por que as outras estão erradas?
+> b) Errada, porque a eletronegatividade do flúor é maior que a do cloro, resultando em maior diferença de eletronegatividade no HF comparado ao HCl. Quanto maior a diferença de eletronegatividade, maior a polaridade da ligação.
+> c) Errada, porque HF, HCl e HBr são compostos covalentes polares, não iônicos. Embora possuam caráter polar, as diferenças de eletronegatividade não são suficientes para caracterizá-los como iônicos.
+> d) Errada, porque mesmo o HF é classificado como covalente polar, não iônico. Apesar da alta **eletronegatividade** do flúor, a diferença entre F e H não ultrapassa o limite para ser considerada ligação iônica.
+> e) Errada, porque todos os três são covalentes, não apenas o HBr. O tamanho do átomo não é o fator determinante para a natureza da ligação.
+
+7 - **Nas moléculas apresentadas abaixo, indique quais apresentam ligações covalentes polares, quais apresentam ligações covalentes apolares e qual a polaridade das moléculas.**
+
+**I) CO₂**  
+**II) H₂O**  
+**III) O₂**  
+
+a) I – ligação covalente polar, molécula apolar; II – ligação covalente polar, molécula polar; III – ligação covalente apolar, molécula apolar.  
+b) I – ligação covalente apolar, molécula polar; II – ligação covalente polar, molécula apolar; III – ligação covalente polar, molécula polar.  
+c) I – ligação covalente polar, molécula polar; II – ligação covalente apolar, molécula polar; III – ligação covalente polar, molécula polar.  
+d) I – ligação covalente apolar, molécula apolar; II – ligação covalente apolar, molécula apolar; III – ligação covalente apolar, molécula polar.  
+e) I – ligação covalente polar, molécula apolar; II – ligação covalente apolar, molécula polar; III – ligação covalente apolar, molécula apolar.
+
+> [!info]- Resposta  
+> **Resposta Correta: a)**
+> ##### Explicação
+> CO₂  
+> As ligações duplas entre entre o oxigênio e o carbono são polares porém a molécula é apolar devido a geometria  linear da molécula que faz com que os as forças elétricas de cada ligação C=O assumam um sentido vetorial cuja a resultante é nula,
+>
+O=C=O
+>
+>H₂O
+>As ligações entre os hidrogênio e o oxigênio são polares e a geometrias  angular da molécula faz com que a molécula seja polar resultante das forças elétricas provocam forte dipolo elétrico
+>
+> O-H
+>
+> O₂
+> As ligação dupla entre os átomos de oxigênio é apolar e a molécula  é apolar pois não há diferença de eletronegatividade.
+>
+O=O 
+
+8 - **A figura mostra modelos de algumas moléculas com ligações covalentes entre seus átomos.**
+
+![[quim-pol-exercicio-7.png]]
+
+**Analise a polaridade dessas moléculas, sabendo que tal propriedade depende de:**
+
+- **Diferença de eletronegatividade entre os átomos que estão diretamente ligados. (Nas moléculas apresentadas, átomos de elementos diferentes têm eletronegatividades diferentes.)**
+- **Forma geométrica das moléculas.**
+
+**Dentre essas moléculas, pode-se afirmar que são polares apenas:**
+
+a) A e B  
+b) A e C  
+c) A, C e D  
+d) B, C e D  
+e) C e D
+
+> [!info]- Resposta  
+> **Resposta Correta: e)**
+> ##### Explicação
+> As geometrias sempre polares são as geometrias que apresentam par de elétrons não ligante no átomo central: geometria angular e geometria piramidal. As geometrias: linear, trigonal plana e tetraédrica somente serão apolares, se os átomos periféricos forem iguais entre si. Basta que um átomo periférico ligado ao átomo central seja diferente de algum outro átomo periférico, para que a molécula seja classificada como polar.
+>
+> ![[quim-pol-exercicio-7-2.png]]
+> 
+> Molécula A
+> Sua geometria é tetraédrica, e apresenta quatro ligantes iguais, logo, trata-se de uma molécula apolar.
+> 
+> Molécula B 
+> É uma molécula linear que apresenta dois átomos iguais ligados ao átomo central. Porém, como sua geometria é linear, o número de nuvens eletrônicas no átomo central é igual ao número de ligantes iguais, o que torna essa molécula apolar.
+> 
+> Molécula C
+> Possui geometria angular, com dois átomos iguais ligados ao átomo central. Como sua geometria é angular, o número de nuvens eletrônicas no átomo central é diferente do número de ligantes iguais, assim, a molécula é polar.
+> 
+> Molécula D
+> É **diatômica** (dois átomos), formada por átomos de elementos diferentes, portanto, é polar.
+
+9 - **A eletronegatividade de um elemento indica o poder de atração que um átomo desse elemento exerce sobre o par eletrônico da ligação da qual participa. As diferenças de eletronegatividade entre os átomos indicam o tipo de ligação entre tais átomos.**
+
+| Elemento | Eletronegatividade |
+|----------|--------------------|
+| Li       | 1,0                |
+| Si       | 1,9                |
+| C        | 2,6                |
+| N        | 3,0                |
+| O        | 3,4                |
+**Com esses dados, conclui-se que a substância cujas ligações apresentam maior caráter iônico é:**
+
+a) SiO₂  
+b) CO  
+c) Li₂O  
+d) NO  
+e) O₂
+
+> [!info]- Resposta  
+> **Resposta Correta: c)**
+> ##### Explicação
+> Li₂O é o composto com maior caráter iônico devido à grande diferença de eletronegatividade entre lítio (metal alcalino) e oxigênio (não metal altamente eletronegativo).
+> ##### Por que as outras estão erradas?
+> a) Errada, a diferença de eletronegatividade é de somente 1,5 (3,4 do O menos 1,9 do silício)  
+b) Errada, covalente polar não iônico.  
+d) Errada, covalente apolar não iônico. 
+e) Errada, covalente apolar com caráter iônico nulo.
+
+10 - **O experimento mostra o desvio de um filete de água quando um bastão eletrizado positivamente é aproximado.** 
+
+![[quim-pol-exercicio-10.png]]
+
+**Considerando suas ligações interatômicas e forças intermoleculares, a propriedade da água que justifica o fenômeno é:**
+
+a) ser um composto iônico.  
+b) possuir moléculas polares.  
+c) ter ligações covalentes apolares.  
+d) apresentar interações de van der Waals.
+
+> [!info]- Resposta  
+> **Resposta Correta: b)**
+> ##### Explicação
+ A molécula de H₂O é angular e **polar**, com oxigênio (δ⁻) e hidrogênios (δ⁺). O bastão positivo atrai o polo negativo (Oδ⁻) das moléculas de água, alinhando-as e desviando o jato.
+> ##### Por que as outras estão erradas?
+a) Errada, pois a aguá não possui ligações iônicas e sim ligações covalentes.
+c) Errada, pois a aguá tem lições polares, e uma das maiores justificativas é o fato de não possuir apenas elementos iguais.
+d) Errada, pois na água temos ligação do tipo de hidrogênio.
+### Polaridade e solubilidade
 Para entender melhor a relação entre **polaridade** e solubilidade olha a imagem de três copos um pouco de **água** e **etanol**, **gasolina** e **querosene**, e **água** e **gasolina**, respectivamente. 
 
 ![[quim-polaridade-solubilidade.png]]
@@ -2460,7 +2900,78 @@ Lembrando que **água** e **etanol** são **polares** e que **gasolina** e **que
 a) **Soluto polar** tende a se dissolver bem em **solvente polar**.
 b) **Soluto apolar** tende a se dissolver bem em **solvente apolar**.
 c) Quando o **solvente** é **polar** e o **soluto apolar**, ou vice-versa, não existe tendência para que haja solubilização. Isso explica, por exemplo, o fato de a **gasolina** não se dissolver bem em **água**.
-```
+#### Exercícios
+
+1 - **Em vazamentos ocorridos em refinarias de petróleo, que extravasam para rios, lagos e oceanos, verifica-se a utilização de barreiras de contenção para evitar a dispersão do óleo. Nesses casos, observa-se a formação de um sistema heterogêneo onde o petróleo fica na superfície desses recursos hídricos. Sobre o sistema acima descrito, é correto afirmar que a água e o petróleo não se misturam porque:**
+
+a) se apresentam em estados físicos diferentes.  
+b) apresentam densidades diferentes, e o petróleo fica na superfície devido a sua maior densidade.  
+c) apresentam moléculas com polaridades diferentes, e o petróleo fica na superfície devido a sua menor densidade.  
+d) a viscosidade da água é maior que a do petróleo.  
+e) a elevada volatilidade do petróleo faz com que este fique na superfície.
+
+> [!info]- Resposta  
+> **Resposta Correta: c)**
+> ##### Explicação
+Via de regra, líquido polar e líquido apolar não tendem a formar sistema homogêneo. Na mistura heterogênea formada por ambos, o de maior densidade constituirá a fase inferior e o de menor densidade, a fase superior.
+>
+> ##### Por que as outras estão erradas?
+> a) Errada, ambos são líquidos em condições ambientais.
+> b) Errada, petróleo tem menor densidade que a água, por isso flutua.
+> d) Errada, a viscosidade não determina a imiscibilidade (álcool é menos viscoso que água e se mistura).
+> e) Errada, a volatilidade não explica a formação do sistema heterogêneo.
+
+2 - **Considere um mecânico com as mãos sujas de graxa (derivado do petróleo). O melhor solvente para remoção desta graxa é:**
+
+a) água  
+b) gasolina  
+c) vinagre  
+d) água com sal (salmoura)  
+e) álcool comum
+
+> [!info]- Resposta  
+> **Resposta Correta: b)**
+> ##### Explicação
+Para a remoção da graxa, que é apolar (derivado direto do petróleo), é mais recomendado o uso de um solvente também apolar. Dentre as alternativas, o único líquido apolar é a gasolina.
+>
+> ##### Por que as outras estão erradas?
+> a)/d Errada, ambos são moléculas polares.
+> c) Errada, solução aquosa de ácido acético (polar).
+> e) Errada, substância polar (**grupo OH**), mas com cadeia carbônica pequena.
+
+3 - **Óleo de soja praticamente não se dissolve em água. A partir dessa informação, qual das deduções é mais cabível?**
+
+a) As moléculas de óleo são menores do que as de água.  
+b) Os elementos químicos presentes nas moléculas de óleo são totalmente diferentes dos presentes nas de água.  
+c) As moléculas do óleo de soja devem ser apolares.  
+d) Óleo de soja possui moléculas extremamente polares.  
+e) O número de átomos nas moléculas de óleo deve ser 3.
+
+> [!info]- Resposta  
+> **Resposta Correta: c)**
+> ##### Explicação
+A solubilidade é governada pela regra "semelhante dissolve semelhante":
+> - **Substâncias polares** (como água) dissolvem outras **polares** ou iônicas.
+> - **Substâncias apolares** (como óleos) dissolvem outras **apolares**.
+>
+> ##### Por que as outras estão erradas?
+> a) Errada, a solubilidade não depende do tamanho, mas da polaridade.
+> b) Errada, tanto água (H₂O) quanto óleo (C, H, O) compartilham elementos em comum.
+> d) Errada, se o óleo fosse polar, seria solúvel em água.
+> e) Errada, arbitrário e irrelevante para a solubilidade (triglicerídeos têm dezenas de átomos).
+
+4 - **Julgue se a afirmativa é certa ou errada:**
+
+**"A diferença de eletronegatividade entre o oxigênio e o carbono faz a molécula de dióxido de carbono apresentar um momento de dipolo maior que o da molécula de hidrogênio, o que torna o dióxido de carbono mais solúvel em água que o hidrogênio."**
+
+> [!info]- Resposta  
+> **Resposta Correta: Errada**
+> ##### Explicação
+A molécula de gás carbônico (CO₂) é linear e seu momento dipolar resultante (MD) é igual a zero, já que os vetores que definem o momento dipolar da molécula se anulam. Logo, a molécula é apolar.
+>
+Por sua vez, a molécula de H₂ é apolar porque a diferença de eletronegatividade entre os dois hidrogênios resulta em um dipolo igual a zero:
+>
+MD (H₂) = 2,2 − 2,2 = 0
 ## Forças intermoleculares
 No **estado gasoso**, as **moléculas** se encontram bastante separadas, movimentando-se com muita liberdade. Já no **estado líquido**, elas se encontram mais próximas e unidas, movimentando-se com menor liberdade. No **estado sólido**, as **moléculas** estão bem organizadas e ainda mais unidas, com seu movimento muito restrito.
 
@@ -2495,16 +3006,23 @@ Assim, no HCl **líquido** ou **sólido**, são essas as forças que mantêm as 
 ```ad-info
 As **interações dipolo permanente-dipolo permanente** ocorrem entre **moléculas polares** de **substâncias** como HCl, HBr, HI, H₂S, H₂Se, H₂Te, PH₃, AsH₃, SbH₃, **éter** e **acetona**.
 ```
+
+![[quim-fm-dipolo.png]]
+
+```ad-note
+Representação das interações **dipolo-dipolo**, que unem as moléculas de uma **substância polar**.
+```
 ### Ligações de hidrogênio
 Os **átomos** dos elementos **flúor** (F), **oxigênio** (O) e **nitrogênio** (N) são pequenos e muito **eletronegativos**. Quando eles estão ligados a um **átomo** de **hidrogênio**, há uma grande **polarização** dessa **ligação**. Isso quer dizer que o **polo positivo** formado no **átomo** de **hidrogênio** será muito intenso.
 
 Devido à intensidade desse polo, o **átomo** de **hidrogênio** interage com o par de **elétrons** de outra **molécula** vizinha, como nos exemplos representados nas figuras (A), (B) e (C). Essa interação entre **moléculas** recebe o nome de **ligação de hidrogênio** **ponte de hidrogênio**. 
 
 ```ad-important
-Trata-se de uma interação mais forte do que as do tipo **dipolo-dipolo**.
+É uma interação mais forte do que as do tipo **dipolo-dipolo**.
 ```
 
 Na **água** (H₂O), no fluoreto de hidrogênio (HF) e na **amônia** (NH₃), **líquidos** ou **sólidos**, são essas **forças** que mantêm as **moléculas** unidas. 
+
 ![[quim-forças-ligações-hidrogenio.png]]
 
 ```ad-info
@@ -2546,6 +3064,264 @@ Comparando **moléculas** com tamanhos e massas parecidos, pode-se afirmar que a
 
 ![[quim-forças-intesidades.png]]
 ```
+
+![[quim-fm-grafo.png]]
+### Exercícios
+
+1 - **Qual das substâncias abaixo apresenta moléculas que, nos estados sólido e líquido, estão associadas por pontes de hidrogênio?**
+
+a) H₂  
+b) CH₄  
+c) NH₃  
+d) PH₃  
+e) NaH
+ 
+ > [!info]- Resposta  
+> **Resposta Correta: c)**
+> ##### Explicação
+>  H₂ 
+>  São apolares e interagem por meio de interações **dipolo instantâneo–dipolo induzido**.
+>    
+ CH₄ 
+ Também são apolares e se associam por forças do tipo **dipolo instantâneo–dipolo induzido**.  
+ >
+ NH₃ 
+ Há hidrogênio ligado diretamente ao nitrogênio. Quando, em uma molécula, existe H ligado a F, O ou N, tal molécula estabelece ligação de hidrogênio com outra molécula igual a ela.  
+>
+  PH₃ 
+  É polar e, assim, estabelece com outras moléculas dessa mesma substância interações dipolo-dipolo.  
+ >
+ NaH 
+ É iônica (Na é metal e H é não metal). É, portanto, formada por íons, e não por moléculas.
+
+2 - **As substâncias SO₂, NH₃, HCl e Br₂ apresentam as seguintes interações intermoleculares, respectivamente:**
+
+a) forças de London, dipolo-dipolo, ligação de hidrogênio e dipolo induzido-dipolo induzido. 
+b) dipolo-dipolo, ligação de hidrogênio, dipolo-dipolo e dipolo induzido-dipolo induzido.  
+c) dipolo-dipolo, ligação de hidrogênio, ligação de hidrogênio e dipolo-dipolo.  
+d) dipolo instantâneo-dipolo induzido, dipolo-dipolo, ligação de hidrogênio, dipolo-dipolo.
+
+ > [!info]- Resposta  
+> **Resposta Correta: b)**
+> ##### Explicação
+SO₂   
+Esta substância **heteronuclear** apresenta **momento de dipolo** permanente, pois sua geometria é angular. Portanto, a interação será do tipo **dipolo-dipolo**.
+>
+NH₃   
+Esta substância apresenta um hidrogênio ligado a um átomo de **nitrogênio**. Portanto, a interação será do tipo ligação de hidrogênio.
+>
+HCl   
+Esta substância **heteronuclear** apresenta momento de **dipolo permanente**. Portanto, a interação será do tipo **dipolo-dipolo**.
+>
+Br₂   
+Esta substância **homonuclear** não apresenta momento de **dipolo permanente**. Portanto, a interação será do tipo **dipolo instantâneo-dipolo induzido** (ou forças de London).
+
+3 - **Assinale a opção correta.**
+
+a) As moléculas da água, H₂O, apresentam geometria linear, ligações covalentes polares entre seus átomos e interações intermoleculares do tipo pontes de hidrogênio.  
+b) As moléculas do metano, CH₄, apresentam geometria tetraédrica, ligações covalentes apolares entre seus átomos e interações intermoleculares do tipo pontes de hidrogênio.  
+c) As moléculas do dióxido de carbono, CO₂, apresentam geometria linear, ligações covalentes polares entre seus átomos e interações intermoleculares do tipo forças de London.  
+d) A molécula da amônia, NH₃, apresenta geometria octaédrica, ligações iônicas e interações intermoleculares do tipo forças de London.
+
+ > [!info]- Resposta  
+> **Resposta Correta: c)**
+> ##### Explicação
+> O **dióxido de carbono** (CO₂) possui geometria linear, com os átomos de oxigênio dispostos simetricamente em relação ao átomo de carbono. As ligações entre o carbono e os átomos de oxigênio são **covalentes** e **polares**, devido à diferença de **eletronegatividade** entre esses elementos. As interações intermoleculares no CO₂ são do tipo força **dipolo instantâneo-dipolo induzido**, decorrentes da **polarização** temporária das **moléculas**.
+> ##### Por que as outras estão erradas?
+> a) Errada, a água tem geometria angular, não linear, devido aos 2 pares de elétrons não ligantes no oxigênio
+> b) Errada, metano não forma **pontes de hidrogênio**; suas interações são **dipolo instantâneo-dipolo induzido**
+> d) Errada, A amônia tem geometria piramidal, não octaédrica e suas ligações N-H são **covalentes polares**, não **iônicas**. Além disso, a amônia forma pontes de hidrogênio, não forças de London.
+
+4 - O gás carbônico (CO₂), quando congelado, é conhecido como gelo-seco, muito utilizado em carrinhos de sorvete e em efeitos especiais em cinema e televisão. Nessa condição, suas moléculas estão unidas por:
+
+a) pontes de hidrogênio.  
+b) ligações covalentes.  
+c) forças de van der Waals.  
+d) ligações dipolo-dipolo.  
+e) ligações iônicas.
+
+ > [!info]- Resposta  
+> **Resposta Correta: c)**
+> ##### Explicação
+O dióxido de carbono (CO₂) possui uma estrutura molecular linear com a fórmula O=C=O. Esta molécula, apesar de possuir ligações covalentes polares entre o carbono e os oxigênios, é apolar na sua totalidade devido ao cancelamento dos momentos dipolares em direções opostas.
+>
+No estado sólido (gelo seco), as moléculas de CO₂ são mantidas unidas exclusivamente por forças de van der Waals, especificamente as forças de dispersão de London. Estas forças surgem de dipolos instantâneos causados pela movimentação natural dos elétrons nas moléculas, criando atrações fracas mas suficientes para manter a estrutura sólida em temperaturas adequadas.
+> ##### Por que as outras estão erradas?
+> a) Errado, pois exigem H ligado a N, O ou F.
+> b) Errado, pois ocorrem dentro da molécula, não entre moléculas.
+> d) Errado, pois requerem moléculas polares (CO₂ é apolar).
+> e) Errado, não é possível pois o CO₂ é molecular.
+
+5 - **A um frasco graduado contendo 50 mL de álcool etílico foram adicionados 50 mL de água, sendo o frasco imediatamente lacrado para evitar perdas por evaporação. O volume da mistura foi determinado, verificando-se que era menor do que 100 mL. Todo o processo foi realizado à temperatura constante. Com base nessas informações, é correto afirmar:**
+
+a) os volumes das moléculas de ambas as substâncias diminuíram após a mistura.  
+b) os volumes de todos os átomos de ambas as substâncias diminuíram após a mistura.  
+c) a distância média entre moléculas vizinhas diminuiu após a mistura.  
+d) ocorreu reação química entre a água e o álcool.  
+e) nas condições descritas, mesmo que fossem misturados 50 mL de água a outros 50 mL de água, o volume final seria inferior a 100 mL.
+
+ > [!info]- Resposta  
+> **Resposta Correta: c)**
+> ##### Explicação
+Essa questão trata de interações intermoleculares, o álcool puro tem como principal interação as **ligações de hidrogênio** no **grupo OH**.  
+  >
+A água tem também esse tipo de interação, no entanto a água é capaz de fazer mais ligações de H e de forma mais efetiva, por conter dois átomos de H capazes de fazer esse tipo de ligação.   
+  >
+A água pode fazer ligações de H com o etanol de forma mais forte e efetiva do que as **moléculas** de **etanol** entre si, ocasionando em uma maior aproximação entre as moléculas, em consequência, o volume ocupado pela substância é menor.
+> ##### Por que as outras estão erradas?
+> a)/b) Erradas, o tamanho das moléculas e átomos não se altera; apenas o arranjo intermolecular muda.
+> d) Errada, não há formação de novas substâncias (é uma mistura física, não química).
+> e) Errada, misturar 50 mL de água com outros 50 mL de água não reduz o volume, pois as interações já são maximizadas na água pura.
+
+6 - **Na seguinte estrutura estão representadas moléculas de água unidas entre si por ligações:**
+![[quim-fm-exercicio-5.png]]
+
+a) covalentes.  
+b) iônicas.  
+c) por pontes de hidrogênio.  
+d) por pontes de oxigênio.  
+e) peptídicas.
+
+ > [!info]- Resposta  
+> **Resposta Correta: c)**
+> ##### Explicação
+Cada molécula possui **ligações covalentes polares** entre oxigênio (O) e hidrogênio (H).  O oxigênio é altamente eletronegativo, criando dipolos (δ⁻ no O e δ⁺ no H).  
+>
+As moléculas de água se atraem através de **pontes de hidrogênio** (um tipo especial de dipolo-dipolo).  O Hδ⁺ de uma molécula interage com o Oδ⁻ de outra molécula vizinha.
+> ##### Por que as outras estão erradas?
+> a) Errada, descrevem **ligações intramoleculares** (dentro da mesma molécula), não entre moléculas de água.
+> b) Errada, água não forma íons; suas interações são **intermoleculares**.
+> d) Errada, termo inexistente. O correto é "**pontes de hidrogênio**".
+> e) Errada, são ligações entre aminoácidos (proteínas), não aplicável à água.
+
+7 - **As pontes de hidrogênio formadas entre moléculas de água podem ser representadas por:**
+
+![[quim-fm-exercicio-6.png]]
+
+**Com base nesse modelo represente as pontes de hidrogênio que existem entre moléculas de amônia (NH₃).**
+
+ > [!info]- Resposta  
+> ##### Explicação
+> A água tem dois pares de elétrons livres e pode apresentar uma arrumação espacial como a apresentada no enunciado. No entanto, o NH₃ tem somente um par de elétrons livres e consequentemente só poderá apresentar uma arrumação linear como mostrado abaixo:
+> 
+> ![[quim-fm-exercicio-6-2.png]]
+
+8 - **As festas e eventos têm sido incrementados com o efeito de névoa intensa do gelo-seco, o qual é constituído de gás carbônico solidificado. A respeito do fato, pode-se afirmar:**
+
+a) A névoa nada mais é que a liquefação do gás carbônico pela formação das forças intermoleculares.  
+b) O gelo-seco é uma substância composta e encontra-se na natureza no estado líquido.  
+c) O gelo-seco é uma mistura de substâncias adicionadas ao gás carbônico e, por essa razão, a mistura se solidifica.  
+d) Na solidificação do gás carbônico ocorre a formação de forças intermoleculares dipolo-dipolo.  
+e) Sendo a molécula de CO₂ apolar, a atração entre as moléculas se dá por dipolo instantâneo-dipolo induzido.
+
+ > [!info]- Resposta  
+> **Resposta Correta: e)**
+> ##### Explicação
+Analisando a molécula de gás carbônico, temos que:  
+  >
+ O=C=O  
+  >
+Nela, o **carbono** apresenta posição central dentre dois oxigênios, que são elementos iguais e, portanto, possuem a mesma **eletronegatividade**.  
+  >
+O fato de o carbono ocupar uma posição central dentre dois átomos iguais faz com que a **polaridade** surgida na molécula seja igual a zero, uma vez que os dois **oxigênio** exercem a mesma atração sobre os elétrons, o que acaba anulando as forças.  
+  >
+Por outro lado, pelo CO2 ser uma molécula **apolar**, suas ligações **intermoleculares** serão de natureza fraca, já que são ligações entre moléculas apolares. Esses tipos de ligação recebem o nome de **forças de London**, conhecidas também por **dipolo induzido**, já que são ligações entre moléculas apolares.
+> ##### Por que as outras estão erradas?
+> a) Errada, a névoa é vapor de água condensado, não CO₂ líquido (o CO₂ não liquefaz em condições ambientais).
+> b) Errada, o gelo-seco é CO₂ puro (**substância simples**) e não existe naturalmente no estado líquido (sublima a -78,5°C).
+> c) Errada, o gelo-seco é uma substância pura, não uma mistura.
+> d) Errada, o CO₂ sólido não forma dipolo-dipolo (é apolar; as forças são do tipo **forças de London**).
+
+9 - A ilustração a seguir representa o retículo cristalino molecular da substância cloro no estado sólido. O que mantém as moléculas de C,2 unidas nessa estrutura?
+
+![[quim-fm-exercicio-8.png]]
+
+ > [!info]- Resposta  
+> ##### Explicação
+> O que mantém as moléculas de Cl₂ unidas nessa estrutura são as **forças intermoleculares de van der Waals**, especificamente as forças de dispersão de London (ou forças de dispersão). Estas forças são relativamente fracas e resultam de dipolos instantâneos que se formam devido a flutuações momentâneas na distribuição eletrônica das moléculas.
+>
+Como o Cl₂ é uma molécula apolar, não existem forças dipolo permanente ou ligações de hidrogênio entre as moléculas, apenas essas interações de dispersão, o que explica o baixo ponto de fusão do cloro sólido.
+
+10 - **Na atualidade, um trabalho essencial do químico consiste em sintetizar novos materiais a partir do conhecimento das estruturas químicas e físicas de seus componentes. O estudo da estrutura química dos materiais projetados permite prever as suas propriedades físicas e químicas mesmo antes de eles serem sintetizados em laboratório. Isso se deve à relação entre as interações atômicas e as propriedades macroscópicas dos materiais. A respeito dessa relação, julgue os itens a seguir (em certos ou errados).**
+
+a) Entre outros fatores, a estrutura química de solventes para compostos polares deve apresentar átomos ligantes que tenham uma significativa diferença de eletronegatividade.
+b) Devido à força elétrica entre os seus constituintes, os compostos iônicos geralmente são gasosos.
+c) A ligação de hidrogênio é uma ligação química que ocorre apenas entre átomos de hidrogênio.
+d) Um composto que tenha um átomo central com dois pares de elétrons não compartilhados e que seja unido a dois outros átomos apresentará uma configuração espacial trigonal plana.
+
+ > [!info]- Resposta  
+> **Resposta Correta: a)**
+> ##### Explicação
+> a) Correta, solventes polares (como água ou acetona) devem ter ligações com diferença significativa de eletronegatividade (ex: O-H) para gerar dipolos permanentes, essenciais para dissolver compostos polares. Exemplo: água (H₂O) dissolve sal (NaCl) devido à interação entre seus dipolos e os íons.
+> b) Errada, compostos iônicos são **sólidos cristalinos** em condições ambientes, não gasosos. Suas forças eletrostáticas fortes resultam em altos pontos de fusão e ebulição.  Exemplo: NaCl só se torna líquido a ≈800°C e gasoso acima de 1.413°C.
+> c) Errada, ligações de hidrogênio ocorrem entre H ligado a N, O ou F (muito eletronegativos) e outro N, O ou F. Não envolvem H-H (isso seria uma ligação covalente simples). Exemplo: **pontes de hidrogênio** em H₂O (entre Oδ⁻ e Hδ⁺ de moléculas vizinhas).
+> d) Errada, um átomo central com 2 pares não compartilhados e 2 ligações adota geometria angular (ex: H₂O), não trigonal plana (que requer 3 ligações e 0 pares não compartilhados, como BF₃).
+
+11 - **Os agregados moleculares são mantidos por interações físicas (forças intermoleculares) distintas daquelas que originam as ligações químicas. Por exemplo, as moléculas de água são mantidas em um agregado molecular através das ligações de hidrogênio, que são originadas das interações entre as extremidades opostas dos dipolos da água. Sobre as pontes de hidrogênio, é correto afirmar que:**
+
+a) ocorrem frequentemente entre moléculas apolares, em baixas temperaturas.  
+b) são mais fortes do que as ligações iônicas ou eletrovalentes.  
+c) contribuem decisivamente para a ocorrência da água no estado líquido, a 25 °C e 1 atm.  
+d) são forças intermoleculares originadas da interação entre dois átomos de hidrogênio.  
+e) somente ocorrem nos agregados moleculares de água, a 25 °C e 1 atm.
+
+ > [!info]- Resposta  
+ >**Resposta Correta: c)**
+> ##### Explicação
+> a) Errada, **pontes de hidrogênio** exigem H ligado a N, O ou F (moléculas polares).
+> b) Errada, pontes de hidrogênio são **mais fracas** (5-10% da força de uma ligação covalente).
+> c) Correta, as pontes de hidrogênio são responsáveis por manter a água líquida em condições ambientes.
+> d) Errada, pontes de hidrogênio ocorrem entre Hδ⁺ (ligado a N/O/F) e outro N/O/Fδ.
+> e) Errada, não são exclusividades da molécula de água, também ocorrem em outros compostos (ex: NH₃, HF, DNA).
+
+12 - **Analise o gráfico, que apresenta as temperaturas de ebulição de compostos binários do hidrogênio com elementos do grupo 16 (coluna 6A), à pressão de 1 atm.**
+
+![[quim-pol-exercicio-11.png]]
+A partir das informações apresentadas, é INCORRETO afirmar que:
+
+a) a substância mais volátil é o H₂S, pois apresenta a menor temperatura de ebulição.
+b) a água apresenta maior temperatura de ebulição, pois apresenta ligações de hidrogênio.
+c) todos os hidretos são gases à temperatura ambiente, exceto a água, que é líquida.
+d) a 100 °C, a água ferve, rompendo as ligações covalentes antes das intermoleculares.
+
+ > [!info]- Resposta  
+ >**Resposta Correta: d)**
+> ##### Explicação
+> a) Correta, H₂S é o mais volátil (menor T.E. = -60°C), pois tem apenas **forças de London** (molécula polar, mas sem pontes de H).
+> b) Correta, tem T.E. alta (100°C) devido a **pontes de hidrogênio** (forças intermoleculares fortes).
+> c) Correta, H₂S, H₂Se, H₂Te são gases à temperatura ambiente (T.E. < 25°C).  Água é líquida (T.E. = 100°C).
+> d) Errada, a ebulição da água rompe as **forças intermoleculares** (pontes de hidrogênio), não as **ligações covalentes** O-H.
+
+13 - **A tabela apresenta as temperaturas de ebulição (TE) de três líquidos à pressão atmosférica:**
+
+| Líquido  | Fórmula química | TE (°C) |
+|----------|-----------------|---------|
+| Acetona  | (CH₃)₂CO        | 56      |
+| Água     | H₂O             | 100     |
+| Etanol   | CH₃CH₂OH        | 78      |
+**Com relação aos dados, podemos afirmar que:**
+
+a) As interações intermoleculares presentes na acetona são mais fortes que aquelas presentes na água.  
+b) As interações intermoleculares presentes no etanol são mais fracas que aquelas presentes na acetona.  
+c) Dos três líquidos, a acetona é o que apresenta ligações de hidrogênio mais fortes.  
+d) A magnitude das interações intermoleculares é a mesma para os três líquidos.  
+e) As interações intermoleculares presentes no etanol são mais fracas que aquelas presentes na água.
+
+ > [!info]- Resposta  
+ >**Resposta Correta: e)**
+> ##### Explicação
+> a) Errada, a acetona tem interações mais fracas que a água (56°C < 100°C).
+> b) Errada, o etanol tem interações mais fortes que a acetona (78°C > 56°C).
+> c) Errada, a acetona não forma **pontes de hidrogênio** (só **dipolo-dipolo**).
+> d) Errada, as magnitudes são diferentes (água > etanol > acetona).não as **ligações covalentes** O-H.
+> e) Correta, o etanol tem pontes de hidrogênio mais fracas que a água (78°C < 100°C).
+> 
+> ##### Tabela comparativa:
+| Líquido  | Interação Predominante       | TE (°C) | Comparação de Força          |
+|----------|-----------------------------|---------|-------------------------------|
+| Água     | Pontes de H (H-Oδ⁻⋯Hδ⁺)     | 100     | Mais forte                |
+| Etanol   | Pontes de H (O-Hδ⁺⋯Oδ⁻)     | 78      | Intermediária (parte apolar)  |
+| Acetona  | Dipolo-dipolo (C=Oδ⁻⋯Cδ⁺)   | 56      | Mais fraca (sem pontes H) |
 ### Forças intermoleculares e ponto de ebulição
 Quando uma **substância molecular** passa do **estado líquido** (ou **sólido**) para o **estado gasoso**, ocorre o rompimento de **ligações intermoleculares**. Por exemplo, quando o HF sofre **ebulição**, rompem-se **ligações de hidrogênio**. Quando HCl, HBr ou HI (**polares**) sofrem **ebulição**, quebram-se **interações dipolo-dipolo**. E quando F₂, Cl₂, Br₂ ou I₂ (**apolares**) sofrem **ebulição**, rompem-se **interações dipolo instantâneo-dipolo induzido**.
 
@@ -2554,7 +3330,7 @@ Por que as **substâncias** apresentam diferentes **pontos de ebulição**? Isso
 Vejamos, primeiramente, o efeito do tamanho da **molécula**.  Para entender a influência desse fator, lembre-se de que as **interações dipolo instantâneo-dipolo induzido** existem em todas as **moléculas**, sejam elas **polares** ou **apolares**. Quanto maior for o tamanho da **molécula**, maior será a superfície para atuação dessas interações e, portanto, mais difícil será fazer a **molécula** se separar das outras, desprendendo-se da **fase líquida** e passando para a **fase vapor**.
 
 ```ad-important
- Assim, quanto maior o tamanho da **molécula**, maior será a temperatura necessária para a fervura, ou seja, maior o **ponto de ebulição**.
+ Quanto maior o tamanho da **molécula**, maior será a temperatura necessária para a fervura, ou seja, maior o **ponto de ebulição**.
 ```
 
 ```ad-note
@@ -2570,8 +3346,141 @@ Ao compararmos duas **substâncias** com o mesmo tipo de **interação intermole
 
 Ao compararmos duas **substâncias** com **massas moleculares** próximas, a que tiver **forças intermoleculares** mais intensas possuirá maior **ponto de ebulição**.
 ```
+#### Exercícios
+
+1 - **Ruptura de ligações por pontes de hidrogênio ocorre quando:**
+
+a) água gasosa é decomposta em hidrogênio e oxigênio.  
+b) hidrogênio líquido se vaporiza.  
+c) vapor d’água se condensa.  
+d) água líquida se evapora.  
+e) gás d’água (mistura de CO + H₂) entra em combustão.
+
+ > [!info]- Resposta  
+> **Resposta Correta: d)**
+> ##### Explicação
+> a) Errada, numa reação química, há um rearranjo de átomos, ou seja, eles passam a se unir de maneiras diferentes. Nas reações químicas são rompidas e formadas ligações químicas entre átomos (ligações interatômicas).  
+> b) Errada, na vaporização do H₂ (apolar) líquido, são rompidas interações **dipolo instantâneo–dipolo induzido**.
+> c) Errada,  na condensação do vapor de água (quando as moléculas se unem e passam da fase de vapor para a fase líquida), são formadas ligações de hidrogênio.  
+> d) Correta, na evaporação da água (quando as moléculas se separam e passam da fase líquida para a fase de vapor), são rompidas ligações de hidrogênio.
+> e) Errada, a combustão é um exemplo de **reação química**. Nas **reações químicas** são rompidas e formadas ligações químicas entre átomos (ligações interatômicas).
+
+2 - **O CO₂ no estado sólido (gelo-seco) passa diretamente para o estado gasoso em condições ambiente; por outro lado, o gelo comum derrete nas mesmas condições em água líquida, a qual passa para o estado gasoso numa temperatura próxima a 100 °C. Nas três mudanças de estados físicos são rompidas, respectivamente:**
+
+a) ligações covalentes; pontes de hidrogênio; pontes de hidrogênio.  
+b) **interações de Van der Waals**; ligações iônicas; ligações iônicas.  
+c) interações de Van der Waals; pontes de hidrogênio; ligações covalentes.  
+d) interações de Van der Waals; pontes de hidrogênio; pontes de hidrogênio.  
+e) interações de Van der Waals; pontes de hidrogênio; interações de Van der Waals.
+
+ > [!info]- Resposta  
+> **Resposta Correta: d)**
+> ##### Explicação
+> Gelo-seco (CO₂ sólido → gasoso):  
+ >  - Forças rompidas: Interações de Van der Waals (forças de London, dipolo induzido-dipolo induzido).  
+   >- Justificativa: O CO₂ é apolar; suas moléculas no sólido são mantidas por forças fracas de London.  
+>
+>Gelo comum (H₂O sólido → líquido):  
+   >- Forças rompidas: Pontes de hidrogênio.  
+   >- Justificativa: A água no estado sólido forma uma rede extensa de pontes de hidrogênio, que são parcialmente rompidas na fusão.  
+>
+>Água líquida → vapor (100 °C):  
+   >- Forças rompidas: Pontes de hidrogênio (totalmente rompidas na vaporização).  
+   > - Justificativa: A ebulição requer energia suficiente para vencer todas as pontes de hidrogênio restantes no líquido.
+
+3 - **A intensificação das interações intermoleculares ocorre quando:**
+
+a) a água entra em ebulição.  
+b) o vapor de água sofre condensação.  
+c) a água, a altas temperaturas, decompõe-se em oxigênio e hidrogênio.  
+d) o vapor de água é aquecido.  
+e) o gelo sofre fusão.
+
+ > [!info]- Resposta  
+> **Resposta Correta: b)**
+> ##### Explicação
+> a) Errada, enfraquece as interações (transição líquido → gasoso).
+> b) Correta, o vapor (gás) ao ir para o estado líquido aumenta a proximidade molecular, intensificando as pontes de hidrogênio.
+> c) Errada,  envolve quebra de ligações covalentes (H-O-H), não intermoleculares.
+> d) Correta, nesse caso reduz interações (as moléculas ficam mais afastadas) não intensifica.
+> e) Errada, reduz parcialmente as interações (sólido → líquido diminui a organização das pontes de hidrogênio).
+
+4 - **Considere as afirmações:**
+
+I. Comparando duas substâncias com o mesmo tipo de interação intermolecular, a que possuir maior massa molecular possuirá maior ponto de ebulição.  
+II. Comparando duas substâncias com massas molares próximas, a que possuir forças intermoleculares mais intensas possuirá maior ponto de ebulição.  
+III. O ponto de ebulição é propriedade específica de uma substância.  
+
+**Está correto o contido em:**  
+
+a) I apenas.  
+b) II apenas.  
+c) III apenas.  
+d) I e II apenas.  
+e) I, II e III.
+
+ > [!info]- Resposta  
+> **Resposta Correta: e)**
+> ##### Explicação
+> I. Correta, para substâncias com o mesmo tipo de interação (ex: ambas com forças de London), a maior massa molecular aumenta a superfície de contato entre moléculas, intensificando as **forças de London** e elevando o ponto de ebulição.
+> II. Correta, se as massas molares são similares, o fator decisivo é a intensidade das interações intermoleculares.
+> III. Correta, o ponto de ebulição é uma propriedade intensiva (não depende da quantidade) e característica de cada substância pura.
+
+5 - **O gás carbônico liberado na atmosfera, originário da queima de combustíveis fósseis, é considerado o responsável pelo efeito estufa, já que absorve ondas de calor refletidas pela superfície terrestre, provocando o aquecimento da atmosfera. Por outro lado, o hidrogênio é considerado combustível não poluente, pois o seu produto de queima é a água, que também absorve ondas de calor; porém, condensa-se facilmente em função do seu ponto de ebulição, ao contrário do CO₂.**
+
+**Com base nessas informações, pode-se afirmar que a diferença de ponto de ebulição entre o CO₂ e o H₂O relaciona-se:**
+
+a) à interação iônica das moléculas do CO₂.  
+b) ao menor peso molecular da água.  
+c) à polaridade da molécula da água.  
+d) ao conteúdo de oxigênio das moléculas.  
+e) à diferença dos raios atômicos dos elementos.
+
+ > [!info]- Resposta  
+> **Resposta Correta: c)**
+> ##### Explicação
+O ponto de ebulição da  água (H₂O) é 100°C (alto) devido a **pontes de hidrogênio** (forças intermoleculares fortes). Já o ponto de ebulição do gás carbônico (CO₂) é -78,5°C (sublima) porque suas interações são **forças de London** (fracas, **molécula apolar**).  
+>
+A molécula de água é angular e **polar** (δ⁺ nos H, δ⁻ no O), permitindo pontes de hidrogênio, exigindo mais energia para romper essas interações (alto P.E.).  A molécula de gás carbônico linear e apolar (momentos dipolares se cancelam). Possuindo interações fracas (London), por isso apresentam baixo ponto de ebulição.
+>
+> ##### Por que as outras estão erradas?
+> a) Errada, CO₂ tem ligações covalentes polares, mas é molecular.
+> b) Errada, peso é irrelevante (H₂O tem MM=18 g/mol; CO₂=44 g/mol – se fosse decisivo, CO₂ teria P.E. maior).
+> d) Errada, ambos têm oxigênio, mas não explica a diferença.
+> e) Errada, não influencia diretamente as interações intermoleculares.
+
+7 -  **O gráfico mostra o ponto de ebulição das substâncias formadas pelo hidrogênio e pelos elementos de cada um dos grupos 14, 15, 16 e 17 da tabela periódica em função da massa molecular. Com base nele, responda às perguntas.**
+
+![[quim-fm-exercicio-7.png]]
+
+**a) Por que os pontos de ebulição de H₂O, HF e NH₃ destoam do comportamento das outras substâncias formadas por elementos do mesmo grupo de O, F e N?**  
+**b) Por que não acontece o mesmo com o CH₄?**
+
+ > [!info]- Resposta  
+> ##### Explicação
+a) Embora na sequência HF, HCl, HBr e HI haja aumento da massa da molécula, o HF destoa, apresentando maior ponto de ebulição devido ao tipo de interação intermolecular. Entre moléculas de HF ocorrem ligações de hidrogênio, interações mais fortes do que as do tipo dipolo-dipolo, que ocorrem entre as moléculas de HCl, de HBr e de HI. A mesma razão (presença de ligações de hidrogênio) faz H₂O e NH₃ possuírem pontos de ebulição que destoam dentro das sequências H₂O, H₂S, H₂Se, H₂Te e NH₃, PH₃, AsH₃, SbH₃.
+>
+b) Em toda a sequência CH₄, SiH₄, GeH₄, SnH₄, o tipo de interação intermolecular é o mesmo: dipolo instantâneo – dipolo induzido. O CH₄ não destoa porque não apresenta um tipo de interação intermolecular diferente dos outros membros da série. O aumento do ponto de ebulição na sequência CH₄, SiH₄, GeH₄, SnH₄ acompanha o aumento da massa da molécula.
+
 ## Alotropia
 Com os **elementos químicos** **oxigênio**, **fósforo**, **carbono** e **enxofre**, ocorre um interessante fenômeno: eles formam mais de uma **substância simples**. Essas diferentes **substâncias simples** formadas por um mesmo **elemento químico**, são conhecidas como **alótropos**. Desse modo, quando um **elemento** apresenta **alótropos**, diz-se que ocorre o fenômeno da **alotropia**.
+
+**Carbono**:  
+   - Grafite (estrutura em camadas hexagonais).  
+   - Diamante (rede tetraédrica rígida).  
+   - Fulereno (moléculas esféricas como C₆₀).  
+
+**Oxigênio**:  
+   - O₂ (oxigênio molecular, essencial para respiração).  
+   - O₃ (ozônio, protege contra raios UV).  
+
+**Fósforo**:  
+   - Fósforo branco (P₄, altamente reativo).  
+   - Fósforo vermelho (polímero estável).
+
+**Enxofre**:
+- Enxofre rômbico (S₈, forma mais estável à temperatura ambiente).
+- Enxofre monoclínico (outra forma alotrópica estável a temperaturas mais altas).
 
 O **elemento** **oxigênio** (símbolo O, **número atômico** 8) é encontrado na **atmosfera** na forma dos **alótropos** **gás oxigênio** (**moléculas biatômicas** de **fórmula molecular** O₂) e **gás ozônio** (**moléculas triatômicas** de **fórmula molecular** O₃).
 ![[quim-alotropia.png]]
@@ -2592,11 +3501,48 @@ Outro **elemento químico** que ocorre o fenômeno da **alotropia** é o carbono
 O grafite é um **sólido** opaco e pouco duro. Já o diamante é um **sólido** transparente e muito duro. É a **substância** natural mais dura de que se tem conhecimento. Por causa disso, é usado para cortar vidro e para fazer brocas.
 
 ```ad-tldr
-**Dureza** é a capacidade de resistir a ser riscado por outras **substâncias**. Quando dizemos que a **unha** é mais dura que o sabonete, estamos dizendo que a **unha** é capaz de riscar o sabonete, mas não é riscada por ele. Desse modo, o fato de o diamante ser a **substância** natural mais dura quer dizer que ele risca todas as outras **substâncias** naturais, mas não é riscado por elas.
+###### Dureza
+Dureza é a capacidade de resistir a ser riscado por outras **substâncias**. Quando dizemos que a unha é mais dura que o sabonete, estamos dizendo que a unha é capaz de riscar o sabonete, mas não é riscada por ele. Desse modo, o fato de o diamante ser a **substância** natural mais dura quer dizer que ele risca todas as outras **substâncias** naturais, mas não é riscado por elas.
 ```
 
-Há pessoas que acham que o diamante é resistente a impactos, como, por exemplo, uma martelada. Isso não é verdade. Se dermos uma violenta martelada num diamante, ele será totalmente despedaçado.
-
-Observando os modelos a seguir, você pode perceber as diferenças existentes entre grafite e diamante em nível microscópico.
+Observando os modelos a seguir, é possível perceber a natureza macromolecular entre grafite e diamante.
 
 ![[quim-alotropia-carvao.png]]
+### Exercícios
+
+1 - **Alotropia é o fenômeno que envolve diferentes substâncias:**
+
+a) simples, formadas pelo mesmo elemento químico.  
+b) compostas, formadas por diferentes elementos químicos.  
+c) simples, com a mesma atomicidade.  
+d) compostas, com a mesma fórmula molecular.  
+e) compostas, formadas pelos mesmos elementos químicos.
+
+ > [!info]- Resposta  
+> **Resposta Correta: a)**
+> ##### Explicação
+> a) Correta, alotropia só ocorre com substâncias simples (um único elemento).
+> b) Errada, alotropia não se aplica a compostos (diferentes elementos).
+> c) Errada, alótropos podem ter atomicidades diferentes (ex: O₂ vs. O₃).
+> d) Errada, alotropia não envolve fórmulas moleculares idênticas.
+> e) Errada, descreve isomerismo, não alotropia (ex: C₂H₆O pode ser etanol ou dimetiléter).
+
+2 - **O oxigênio, fundamental à respiração dos animais, e o ozônio, gás que protege a Terra dos efeitos dos raios ultravioleta da luz solar, diferem quanto:**
+
+a) ao número de prótons dos átomos que entram em suas composições.  
+b) ao número atômico dos elementos químicos que os formam.  
+c) à configuração eletrônica dos átomos que os compõem.  
+d) à natureza dos elementos químicos que os originam.  
+e) ao número de átomos que compõem suas moléculas.
+
+ > [!info]- Resposta  
+> **Resposta Correta: e)**
+> ##### Explicação
+**Oxigênio** (O₂): **Molécula diatômica** (2 átomos de oxigênio ligados por uma ligação dupla: O=O).  
+>
+**Ozônio** (O₃): **Molécula triatômica** (3 átomos de oxigênio em forma angular, com ressonância: O=O-O).
+> ##### Por que as outras estão erradas?
+> a) Errada, pois ambos são formados por átomos de oxigênio, que possuem **8 prótons** cada.
+> b) Errada, pois o número atômico (Z=8) é o mesmo para todos os átomos de oxigênio em O₂ e O₃.
+> c) Errada, pois os átomos de oxigênio em O₂ e O₃ têm a mesma configuração eletrônica: 1s² 2s² 2p⁴.
+> d) Errada, pois ambos são formados exclusivamente por oxigênio (mesmo elemento químico).
