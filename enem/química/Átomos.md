@@ -1019,6 +1019,11 @@ Em outras palavras, duas **moléculas** de **água** reagem para formar duas **m
 ```
 
 Agora, sim, está expressa a verdadeira proporção entre as quantidades de **moléculas** que participam da **reação**. Essa maneira de representar uma **reação química** é denominada **equação química**. O exemplo que acabamos de ver é a **equação química** que representa a **decomposição** da **água**. Os números que indicam a proporção entre as quantidades de **moléculas**, numa **equação química**, são chamados de **coeficientes estequiométricos**. Na **equação** acima, o coeficiente da **água** é 2, o do **hidrogênio** é 2 e o do **oxigênio** é 1 (que não precisa ser escrito).
+
+```ad-attention
+Em uma equação química:
+(s) indica sólido; (l) indica líquido; (g) indica gasoso; (aq) indica aquoso.
+```
 #### Balanceamento de equações químicas
 Analisando os exemplos de **equações químicas** mostrados anteriormente, é possível perceber que o número de **átomos** de certo **elemento químico** é igual nos **reagentes** e nos **produtos**. Isso porque os **átomos** não são destruídos nem criados, de acordo com a **lei de Lavoisier**,  numa **reação química**. Quando escrevemos uma **equação química**, ela deve estar corretamente balanceada, ou seja, os coeficientes devem estar corretamente indicados. Caso contrário, não estará sendo respeitado o fato de o número de **átomos** se conservar. 
 
@@ -2625,7 +2630,7 @@ Embora essa atração se dê sobre todo o ambiente eletrônico que circunda o n�
 
 Em paralelo, podemos construir uma fila com alguns dos elementos e suas eletronegatividades que aparecem frequentemente no estudo da Química:
 
-![[quim-pol-exercicio-2.png]]
+![[quim-elem-eletronegatividade.png]]
 ```
 
 Considere uma **molécula** de HF. O par de **elétrons** compartilhado não é atraído igualmente por ambos os **átomos**, uma vez que o **flúor** é mais **eletronegativo** que o **hidrogênio**. 
@@ -2651,7 +2656,7 @@ lc --> a[Apolar]
 p --> c[Átomos com diferentes  eletronegatividades]
 a --> d[Átomos com  eletronegatividades iguais]
 ```
-#### Ligação iônica x ligação covalente
+#### Ligação iônica vs. ligação covalente
 Considere as **ligações** esquematizadas a baixo, cada qual acompanhada do respectivo valor de diferença (representado por Δ) entre as **eletronegatividades** de ambos os **átomos**. Como pode-se perceber, à medida que a diferença de **eletronegatividade** aumenta, os **elétrons** passam a ser cada vez mais predominantemente atraídos por um dos **átomos**. 
 
 ![[quim-polaridade-ion-cov.png]]
@@ -3546,3 +3551,145 @@ e) ao número de átomos que compõem suas moléculas.
 > b) Errada, pois o número atômico (Z=8) é o mesmo para todos os átomos de oxigênio em O₂ e O₃.
 > c) Errada, pois os átomos de oxigênio em O₂ e O₃ têm a mesma configuração eletrônica: 1s² 2s² 2p⁴.
 > d) Errada, pois ambos são formados exclusivamente por oxigênio (mesmo elemento químico).
+> 
+## Condutividade elétrica de soluções aquosas
+Analisando o experimento a seguir podemos retirar algumas conclusões sobre a relação entre condutividade elétrica em meio aquoso e as ligações atômicas.
+
+![[quim-cesa.png]]
+
+```ad-note
+Leve em consideração que essa solução é uma **mistura homogênea** e a que **solução aquosa** de uma substância é uma mistura homogênea formada pela substância e pela água.
+```
+
+A **solução aquosa** de cloreto de sódio (NaCl) conduz corrente elétrica, como evidenciado em _A_. Testes similares permitiram enunciar, de modo geral, que: As **substâncias iônicas**, quando dissolvidas em água, produzem uma **solução** que conduz corrente elétrica.
+
+O açúcar de cana (C₁₂H₂₂O₁₁) e o cloreto de hidrogênio (HCl) são ambos moleculares. Conforme revelou a experiência feita, a solução aquosa de açúcar não conduziu corrente elétrica (esquema _B_), mas a solução de cloreto de hidrogênio sim (esquema _C_). Muitos testes desse tipo, feitos em laboratório com soluções aquosas de **substâncias moleculares**, permitiram generalizar: Algumas substâncias moleculares, quando dissolvidas em água, produzem solução aquosa que não conduz corrente elétrica. 
+
+Exemplos delas são o açúcar de cana (açúcar comum, ou sacarose, C₁₂H₂₂O₁₁), a glicose (C₆H₁₂O₆), o álcool comum (C₂H₆O) e a ureia (CH₄N₂O).Algumas substâncias moleculares, quando dissolvidas em água, produzem solução aquosa que conduz corrente elétrica. Exemplos são o cloreto de hidrogênio (HCl), o brometo de hidrogênio (HBr) e a amônia (NH₃).
+### Dissociação iônica e ionização
+Um material pode conduzir corrente elétrica desde que apresente cargas elétricas livres para se movimentarem. Vamos utilizar essa ideia para entender a explicação proposta pelos químicos para o fato de algumas soluções conduzirem a corrente elétrica e outras não.
+
+Quando o cloreto de sódio é dissolvido em água (lembre-se: dissolver é o ato de fazer uma solução), os íons presentes no seu retículo cristalino são separados por ação da água. O esquema a seguir dá uma ideia desse acontecimento microscópico.
+
+![[quim-cessa-dissociao-io.png]]
+
+Perceba que a solução aquosa de cloreto de sódio tem íons livres e, portanto, isso está de acordo com o fato de ela conduzir corrente elétrica.
+
+```ad-important
+**Dissociação iônica** é a separação dos íons de uma substância iônica, que acontece quando ela se dissolve em água.
+```
+
+```ad-tldr
+A palavra dissociação relaciona-se ao verbo dissociar, que quer dizer separar. Assim, a expressão dissociação iônica significa, literalmente, separação dos íons.
+```
+
+A dissociação iônica do NaCl em água pode ser assim equacionada:
+
+$$
+NaCl (s) → Na⁺ (aq) + Cl⁻ (aq)
+$$
+### O açúcar **não** sofre dissociação iônica.
+O açúcar de cana (C₁₂H₂₂O₁₁), ao contrário do sal, é uma substância formada por moléculas. Quando ele se dissolve em água, suas moléculas são separadas pela ação da água.
+
+O esquema a seguir representa esse acontecimento microscópico. Perceba que a solução formada não apresenta íons e, portanto, não conduz eletricidade.
+
+![[quim-cesa-acucar.png]]
+
+A separação das moléculas do açúcar não pode ser chamada de dissociação iônica, uma vez que não há íons se separando. Tal processo não possui nenhum nome em particular. Se você precisar se referir a esse acontecimento, diga apenas que "o açúcar se dissolveu em água".
+
+A dissolução do açúcar em água pode ser assim equacionada:
+
+$$
+C₁₂H₂₂O₁₁ (s) → C₁₂H₂₂O₁₁ (aq)
+
+$$
+### O HCl sofre ionização
+O que ocorre ao dissolver o cloreto de hidrogênio (HCl) em água é um pouco diferente. O cloreto de hidrogênio é uma substância molecular. Os químicos concluíram que, quando ele se dissolve em água, suas moléculas não são apenas separadas e se dispersam na água, mas também são “quebradas” sob a ação desse líquido.
+
+Nessa quebra, ambos os elétrons da **ligação covalente** entre H e Cl permanecem com o cloro; nenhum fica com o hidrogênio. Assim, ocorre a formação do cátion H⁺ e do ânion Cl⁻. Esse acontecimento é denominado **ionização**.
+
+```ad-abstract
+Ionização é a formação de íons que acontece quando algumas substâncias moleculares se dissolvem em água. Exemplos de substâncias que se ionizam ao serem dissolvidas em água são o cloreto de hidrogênio (HCl), o brometo de hidrogênio (HBr) e a amônia (NH₃). Nem todas as substâncias moleculares sofrem ionização ao se dissolverem em água.
+```
+
+O esquema a seguir ilustra esse acontecimento microscópico. As moléculas de HCl espalham-se pela água e são quebradas, originando os íons H⁺ e Cl⁻. A solução resultante conduz eletricidade porque apresenta íons livres para se movimentarem.
+
+![[quim-cesa-ionizacao.png]]
+
+A ionização do HCl em água pode ser assim equacionada:
+
+$$
+HCl (g) → H⁺ (aq) + Cl⁻ (aq)
+$$
+
+```ad-note
+Esteja atento ao uso correto das palavras
+Na dissolução do NaCl, em água ocorre **dissociação iônica**.
+Na dissolução do HCl, em água ocorre ionização.
+Na dissolução do C₁₂H₂₂O₁₁ em água não ocorre **dissociação iônica** nem ionização.
+```
+
+```ad-summary
+##### Soluções eletrolíticas e soluções não eletrolíticas
+**Soluções eletrolíticas** são aquelas que contêm íons e, por isso, conduzem corrente elétrica. Elas são formadas quando:
+
+- Substâncias iônicas (como NaCl) sofrem dissociação iônica na água
+- Algumas substâncias moleculares (como HCl) sofrem ionização na água
+
+**Soluções não eletrolíticas** são aquelas que não contêm íons e, portanto, não conduzem corrente elétrica. Elas são formadas quando substâncias moleculares (como o açúcar C₁₂H₂₂O₁₁) se dissolvem na água sem sofrer ionização.
+
+As substâncias que produzem soluções condutoras de eletricidade são chamadas de eletrólitos, porque sofrem dissociação iônica ou ionização quando dissolvidas em água.
+```
+### Exercícios
+
+1 - **O cloreto de cálcio — CaCl₂ — é um sólido iônico. O cloridreto — HCl — é um gás de caráter ácido. As soluções aquosas desses compostos conduzem corrente elétrica porque o...**
+
+a) CaCl₂ se ioniza e o HCl se dissocia.  
+b) CaCl₂ se ioniza e o HCl se dissolve.  
+c) CaCl₂ se dissocia e o HCl se ioniza.  
+d) CaCl₂ se dissolve e o HCl se dissocia.
+
+ > [!info]- Resposta  
+> **Resposta Correta: c)**
+> ##### Explicação
+> As soluções aquosas de CaCl₂ e HCl conduzem corrente elétrica devido à dissociação em íons em água, permitindo o fluxo de cargas elétricas através dos íons.
+>
+As soluções aquosas de cloreto de cálcio (CaCl₂) e ácido clorídrico (HCl) conduzem corrente elétrica devido à presença de íons em solução.Quando esses compostos se dissolvem em água, eles se dissociam em seus íons constituintes.
+>
+O CaCl₂ se dissocia em íons cálcio (Ca²⁺) e íons cloreto (Cl⁻), enquanto o HCl se dissocia em íons hidrogênio (H⁺) e íons cloreto (Cl⁻).
+>
+Esses íons carregados presentes na solução permitem a passagem de corrente elétrica, facilitando o fluxo de cargas elétricas e conduzindo eletricidade.
+
+2 - **Sal de cozinha (cloreto de sódio) e açúcar (sacarose) são sólidos brancos solúveis em água. Suas soluções aquosas apresentam comportamentos completamente diferentes quanto à condução de corrente elétrica. É correto afirmar que:**
+
+a) O cloreto de sódio é um composto iônico e sua solução aquosa conduz corrente elétrica, devido à presença de moléculas de NaCl. A sacarose é um composto covalente e sua solução aquosa tem viscosidade muito alta, diminuindo a condutividade da água.  
+b) Uma substância como o cloreto de sódio, que em solução aquosa forma íons, é chamada de eletrólito. A solução de sacarose conduz corrente elétrica, devido à formação de ligações de hidrogênio entre as moléculas de sacarose e água.  
+c) O cloreto de sódio é um composto iônico e suas soluções aquosas conduzem corrente elétrica, devido à presença de íons livres. A sacarose é um composto constituído de moléculas e suas soluções aquosas não conduzem corrente elétrica, pois as moléculas neutras de sacarose não contribuem para o transporte de cargas.  
+d) A dissolução de sacarose em água leva à quebra das moléculas de sacarose em glicose e frutose e estas moléculas conduzem corrente elétrica. A solução de sal, por sua vez, apresenta condutividade menor que a da água destilada.  
+e) Soluções aquosas de sacarose ou de cloreto de sódio apresentam condutividade elétrica maior do que aquela apresentada pela água pura, pois há formação de soluções eletrolíticas. Os íons formados são os responsáveis pelo transporte de cargas em ambos os casos.
+
+ > [!info]- Resposta  
+> **Resposta Correta: c)**
+> ##### Explicação
+> a) Errada, a condução de corrente na solução de NaCl não se deve à presença de "moléculas de NaCl". Na verdade, o NaCl não forma moléculas em solução, mas sim se dissocia completamente em íons Na+ e Cl-. Além disso, a sacarose não aumenta a **viscosidade** da água a ponto de diminuir significativamente sua condutividade.
+> b) Errada, a solução de sacarose não conduz corrente elétrica. Embora a sacarose forme ligações de hidrogênio com a água, essas ligações não geram íons ou partículas carregadas, portanto não contribuem para a condução de eletricidade.
+> c) Correta, o cloreto de sódio (NaCl) é realmente um composto iônico que, ao se dissolver em água, separa-se em íons Na+ e Cl- que ficam livres na solução. Esses íons são partículas carregadas que permitem a condução de eletricidade. Já a sacarose é um composto molecular (covalente) que permanece como moléculas neutras quando dissolvida em água, sem formar íons. Como não há partículas carregadas na solução de sacarose, ela não conduz corrente elétrica.
+> d) Errada, está errada em dois pontos. Primeiro, a dissolução da sacarose em água não causa a quebra das moléculas em glicose e frutose (isso seria hidrólise, que não ocorre espontaneamente). Segundo, afirma incorretamente que a solução de sal tem condutividade menor que a água destilada, quando na verdade a solução de sal tem condutividade muito maior.
+> e) Errada, a sacarose não forma **solução eletrolítica**. Apenas o NaCl é um eletrólito. A sacarose não forma íons em solução e, portanto, sua solução não apresenta condutividade elétrica maior que a água pura.
+
+3 - **A boa condutibilidade elétrica das soluções aquosas de cloreto de sódio deve-se ao movimento de:**
+
+a) elétrons livres.  
+b) elétrons compartilhados.  
+c) moléculas solvatadas.  
+d) moléculas dispersas.  
+e) íons dispersos.
+
+ > [!info]- Resposta  
+> **Resposta Correta: e)**
+> ##### Explicação
+> a) Errada, típico de metais, não de soluções iônicas.
+> b) Errada, ocorre em ligações covalentes (ex: sacarose), não iônicas.
+> c) Errada, a **solvatação** ocorre, mas são os íons que conduzem corrente.
+> d) Errada, moléculas neutras (ex: açúcar) não conduzem corrente.
+> e) Correta, NaCl sólido se dissolve em água, liberando íons Na⁺ e Cl⁻ móveis.
