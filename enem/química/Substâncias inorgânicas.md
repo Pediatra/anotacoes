@@ -31,18 +31,7 @@ Bases já possuem ligações iônicas antes mesmo da dissolução em água.
 
 Todas as bases liberam íons $\text{OH}^-$ como único ânion em solução aquosa, diferenciando-se apenas no cátion liberado. Exemplos de equações químicas que representam a dissociação iônica de bases são:
 
-$$
-\text{NaOH (s)} \xrightarrow{\text{H}_2\text{O}} \text{Na}^+ (aq) + \text{OH}^- (aq)
-$$
-$$
-\text{KOH (s)} \xrightarrow{\text{H}_2\text{O}} \text{K}^+ (aq) + \text{OH}^- (aq)
-$$
-$$
-\text{Ca(OH)}_2 (s) \xrightarrow{\text{H}_2\text{O}} \text{Ca}^{2+} (aq) + 2 \text{OH}^- (aq)
-$$
-$$
-\text{Al(OH)}_3 (s) \xrightarrow{\text{H}_2\text{O}} \text{Al}^{3+} (aq) + 3 \text{OH}^- (aq)
-$$
+$$ \text{NaOH (s)} \xrightarrow{\text{H}_2\text{O}} \text{Na}^+ (aq) + \text{OH}^- (aq) $$ $$ \text{KOH (s)} \xrightarrow{\text{H}_2\text{O}} \text{K}^+ (aq) + \text{OH}^- (aq) $$ $$ \text{Ca(OH)}_2 (s) \xrightarrow{\text{H}_2\text{O}} \text{Ca}^{2+} (aq) + 2 \text{OH}^- (aq) $$ $$ \text{Al(OH)}_3 (s) \xrightarrow{\text{H}_2\text{O}} \text{Al}^{3+} (aq) + 3 \text{OH}^- (aq) $$
 
 Os ácidos, por outro lado, são compostos moleculares com ligações covalentes. Quando dissolvidos em água, sofrem **ionização** - processo em que as moléculas são quebradas pela interação com a água, formando íons que antes não existiam.
 
@@ -52,16 +41,7 @@ Os ácidos, por outro lado, são compostos moleculares com ligações covalentes
 
 Todos os ácidos produzem íons $\text{H}^+$ como único cátion, variando apenas no ânion liberado. Outros exemplos incluem:
 
-$$
-\text{KOH (s)} \xrightarrow{\text{H}_2\text{O}} \text{K}^+ (aq) + \text{OH}^- (aq)
-$$
-$$
-\text{Ca(OH)}_2 (s) \xrightarrow{\text{H}_2\text{O}} \text{Ca}^{2+} (aq) + 2 \text{OH}^- (aq)
-$$
-$$
-\text{Al(OH)}_3 (s) \xrightarrow{\text{H}_2\text{O}} \text{Al}^{3+} (aq) + 3 \text{OH}^- (aq)
-$$
-
+$$ \text{KOH (s)} \xrightarrow{\text{H}_2\text{O}} \text{K}^+ (aq) + \text{OH}^- (aq) $$ $$ \text{Ca(OH)}_2 (s) \xrightarrow{\text{H}_2\text{O}} \text{Ca}^{2+} (aq) + 2 \text{OH}^- (aq) $$ $$ \text{Al(OH)}_3 (s) \xrightarrow{\text{H}_2\text{O}} \text{Al}^{3+} (aq) + 3 \text{OH}^- (aq) $$
 
 Em uma representação mais precisa, a **ionização de ácidos** envolve a formação do íon hidrônio:
 
@@ -82,52 +62,196 @@ Os ácidos podem ser divididos em dois grupos: os que não contêm oxigênio e o
 #### Ácidos não oxigenados (ou hidrácidos)
 As substâncias HF, HCl, HBr, HI, H₂S e HCN são gasosas nas condições ambientes. Quando dissolvidas em água são consideradas ácidos, pois sofrem ionização liberando íons H⁺.
 
-Para denominar esse tipo de ácido, basta escrever o nome do elemento seguido da terminação `ídrico`:
+Para denominar esse tipo de ácido, basta escrever o nome do elemento seguido da terminação _ídrico_:
 
-| Fórmula | Nome                 |
-|---------|----------------------|
-| HF      | ácido fluorídrico    |
-| HCl     | ácido clorídrico     |
-| HBr     | ácido bromídrico     |
-| HI      | ácido iodídrico      |
-| H₂S     | ácido sulfídrico     |
-| HCN     | ácido cianídrico     |
+|Fórmula|Nome|
+|---|---|
+|HF|ácido fluor_ídrico_|
+|HCl|ácido clor_ídrico_|
+|HBr|ácido brom_ídrico_|
+|HI|ácido iod_ídrico_|
+|H₂S|ácido sulf_ídrico_|
+|HCN|ácido cian_ídrico_|
+
 ```ad-note
 Essas substâncias são gases. Quando dissolvidas em água são denominadas ácidos, pois se ionizam liberando íons H⁺.
 ```
 #### Ácidos oxigenados (ou oxiácidos)
 Há várias maneiras de ensinar a dar nome para os ácidos que contêm oxigênio. A que consideramos a mais prática para ser apresentada neste momento requer que se conheça a fórmula de seis ácidos, quatro dos quais são:
 
-| Fórmula  | Nome             |
-|----------|------------------|
-| HNO₃     | ácido nítrico     |
-| HClO₃    | ácido clórico     |
-| H₂SO₄    | ácido sulfúrico   |
-| H₃PO₄    | ácido fosfórico   |
+|Fórmula|Nome|
+|---|---|
+|HNO₃|ácido n_ítrico_|
+|HClO₃|ácido cl_órico_|
+|H₂SO₄|ácido sulf_úrico_|
+|H₃PO₄|ácido fosf_órico_|
+
 ```ad-note
 Esses são os ácidos padrão para a nomenclatura. A partir deles, podemos deduzir outros nomes e outras fórmulas.
 ```
 
-Perceba que todos esses nomes terminam em `ico`. A partir deles, acrescentando ou retirando oxigênios, conseguimos a fórmula de outros ácidos.
+Perceba que todos esses nomes terminam em _ico_. A partir deles, acrescentando ou retirando oxigênios, conseguimos a fórmula de outros ácidos.
 
 ![[quim-acidos.png]]
 
 Elementos pertencentes a um mesmo grupo (família) da tabela periódica possuem propriedades semelhantes. Assim, Bromo (Br) e iodo (I) originam ácidos semelhantes aos do cloro (Cl), pois todos pertencem ao grupo dos halogênios.
 
 ![[quim-acido-cloro.png]]
-
 #### Ácidos provenientes da desidratação de oxiácidos
-Há alguns ácidos que podem ser encarados como provenientes da desidratação (perda de água) de outros ácidos. Nesse caso, utilizam-se os prefixos meta e piro para fazer a diferenciação.
+Há alguns ácidos que podem ser encarados como provenientes da desidratação (perda de água) de outros ácidos. Nesse caso, utilizam-se os prefixos _meta_ e _piro_ para fazer a diferenciação.
 
 ![[quim-acido-prefixo.png]]
 
 ```ad-tldr
-Sobre os prefixos orto, meta e piro, podemos dizer que: 
+Sobre os prefixos _orto_, _meta_ e _piro_, podemos dizer que: 
 
-- O prefixo orto indica apenas que o ácido em questão pode gerar outro por desidratação; esse prefixo pode ser omitido.
-- O prefixo meta indica que o ácido pode ser encarado como proveniente da retirada de 1 molécula de água de 1 molécula do ácido orto.
-- O prefixo piro indica que o ácido pode ser encarado como proveniente da retirada de 1 molécula de água de 2 moléculas do ácido orto.
+- O prefixo _orto_ indica apenas que o ácido em questão pode gerar outro por desidratação; esse prefixo pode ser omitido.
+- O prefixo _meta_ indica que o ácido pode ser encarado como proveniente da retirada de 1 molécula de água de 1 molécula do ácido orto.
+- O prefixo _piro_ indica que o ácido pode ser encarado como proveniente da retirada de 1 molécula de água de 2 moléculas do ácido orto.
 ```
+#### Exercícios
+
+1 - **Sabe-se que toda bebida gaseificada contém ácido carbônico (1), que, a partir do momento em que a garrafa que o contém é aberta, passa a se decompor em água e gás carbônico, manifestado pelas bolhas observadas na massa líquida; ácido muriático é o nome comercial do ácido clorídrico (2) impuro; baterias de automóvel contêm ácido sulfúrico (3); refrigerantes do tipo “cola” apresentam ácido fosfórico (4) além do ácido carbônico, na sua composição. Os ácidos 1, 2, 3 e 4, citados acima, possuem, respectivamente, fórmulas:**
+
+a) $H_2CO_3$, $HCl$, $H_2SO_4$, $H_3PO_4$  
+b) $CO_2$, $HClO$, $H_2S$, $H_2PO_4$  
+c) $CO_2$, $HCl$, $H_2SO_4$, $H_3PO_4$  
+d) $CO$, $HClO$, $H_2S$, $H_2PO_3$  
+e) $CO_2$, $NaHClO$, $H_2SO_3$, $HPO_2$
+
+> [!info]- Resposta 
+> **Resposta correta: a)**
+> ##### Explicação
+Ácido Carbônico:  
+   >- Fórmula: $H_2CO_3$  
+   >- Presente em bebidas gaseificadas, decompõe-se em $H_2O$ (água) e $CO_2$ (gás carbônico).  
+>
+Ácido Clorídrico ("Ácido Muriático"):
+  > - Fórmula: $HCl$  
+   > - Nome comercial impuro usado em limpeza.  
+>
+Ácido Sulfúrico: 
+   >- Fórmula: $H_2SO_4$  
+   >- Usado em baterias de carro (eletrólito).  
+>
+Ácido Fosfórico:
+  > - Fórmula: $H_3PO_4$  
+  > - Presente em refrigerantes de "cola" (além do $H_2CO_3$).
+
+2 - **O ácido fluorídrico (HF), apesar de ser um hidrácido, apresenta uma característica única entre os ácidos halogenídricos: é um ácido fraco. Em solução aquosa, ele se comporta de maneira distinta dos demais ácidos de sua classe, como o HCl, HBr e HI, que são considerados ácidos fortes. Além disso, o HF possui a capacidade de reagir com o vidro, que é composto principalmente por sílica (SiO₂).**  
+
+**Considerando as informações acima e seus conhecimentos sobre ácidos, analise as afirmativas a seguir:**
+
+**I. Os hidrácidos são compostos binários que apresentam hidrogênio ligado diretamente a um elemento não metálico, como nos compostos HCl, H₂S e HCN.**  
+**II. A força dos ácidos halogenídricos aumenta na seguinte ordem: HF < HCl < HBr < HI, o que pode ser explicado pela diminuição da energia de ligação entre o hidrogênio e o halogênio à medida que se desce na família dos halogênios.**  
+**III. A reação do HF com o vidro pode ser representada pela equação: SiO₂ + 6HF → H₂SiF₆ + 2H₂O, formando o ácido hexafluorossilícico, um exemplo de oxiácido.**  
+**IV. Todos os hidrácidos, quando em solução aquosa, apresentam um átomo de hidrogênio ionizável capaz de formar o íon hidrônio (H₃O⁺).**  
+
+a) I e II  
+b) II e III  
+c) I, II e IV  
+d) I, III e IV  
+e) I, II, III e IV
+
+> [!info]- Resposta 
+> **Resposta correta: c)**
+> ##### Explicação
+I. Correta, hidrácidos são compostos binários (formados por dois elementos) em que o hidrogênio está ligado diretamente a um não metal. Exemplos:  
+  >- HCl (hidrogênio + cloro)  
+  >- H₂S (hidrogênio + enxofre)  
+  >- HCN (hidrogênio + carbono e nitrogênio, embora seja um caso especial).
+  >
+II. Correta, a força dos **ácidos halogenídricos** aumenta na ordem: $HF < HCl < HBr < HI$. A força ácida depende da facilidade de liberar H⁺. Como o tamanho do halogênio aumenta (F → Cl → Br → I), a ligação H-X enfraquece (menor energia de ligação), facilitando a ionização. Devemos se atentar que o HF é fraco devido à forte ligação H-F e à formação de pontes de hidrogênio em solução.
+>
+III. Errada, a equação está correta ($SiO₂ + 6HF → H₂SiF₆ + 2H₂O$), mas o produto $H₂SiF₆$ (ácido hexafluorossilícico) não é um **oxiácido** (oxiácidos contêm oxigênio ligado ao elemento central, como H₂SO₄).  
+>
+IV. Correta, Todos os hidrácidos liberam H⁺ em água (ionizável), formando H₃O⁺. Mesmo o HF, embora fraco, ioniza-se parcialmente:  
+  >$$  
+  HF + H_2O \rightleftharpoons H_3O^+ + F^-  
+  >$$
+
+3 - **Os oxiácidos são compostos que apresentam hidrogênio, oxigênio e um terceiro elemento em sua estrutura. Muitos destes ácidos podem sofrer desidratação (perda de água) para formar os chamados ácidos derivados ou anidrácidos. Observe o diagrama abaixo que mostra a formação de alguns ácidos relacionados ao elemento fósforo:**
+
+**Ácido Fosfórico (H₃PO₄)**  
+- **Desidratação parcial → Ácido Metafosfórico (HPO₃) + H₂O**  
+- **Desidratação total → Pentóxido de Fósforo (P₂O₅) + 2H₂O**
+
+**Com base nessas informações, analise as afirmações:**
+
+**I. O ácido fosfórico (H₃PO₄) é um triácido, pois possui três hidrogênios ionizáveis.**  
+**II. Na desidratação parcial do H₃PO₄, forma-se o ácido metafosfórico (HPO₃), que é um monoácido.**  
+**III. O pentóxido de fósforo (P₂O₅) é um anidrido ácido que, em contato com água, pode regenerar o ácido fosfórico.**  
+**IV. Todos os oxiácidos do fósforo seguem a fórmula geral HₓPO₄, onde x varia de 1 a 3.**  
+
+a) I e II  
+b) II e III  
+c) I, II e III  
+d) I, III e IV  
+e) I, II, III e IV
+
+> [!info]- Resposta 
+> **Resposta correta: c)**
+> ##### Explicação
+I. Correta, o ácido fosfórico (H₃PO₄) é um **triácido** porque possui três hidrogênios ionizáveis (que podem ser liberados como H⁺ em solução aquosa).
+  >
+II. Correta,  desidratação parcial do H₃PO₄ remove uma molécula de água (H₂O), formando o **ácido metafosfórico (HPO₃)**, que é um **monoácido** (possui apenas um hidrogênio ionizável). Equação:  
+>$$  
+H_3PO_4 \xrightarrow{-H_2O} HPO_3  
+> $$
+>
+III. Correta, o pentóxido de fósforo (P₂O₅) é um **anidrido ácido** que, ao reagir com água, regenera o ácido fosfórico:  
+ > $$  
+  P_2O_5 + 3H_2O \rightarrow 2H_3PO_4  
+ > $$
+>
+IV. Errada, nem todos os oxiácidos do fósforo seguem a fórmula HₓPO₄. Exemplos:  
+  > - Ácido hipofosforoso (H₃PO₂) → Fórmula diferente.  
+  >- Ácido metafosfórico (HPO₃) → Não tem a estrutura PO₄.
+
+4 -  **A nomenclatura dos oxiácidos segue regras específicas que relacionam o número de átomos de oxigênio presentes na molécula com diferentes prefixos e sufixos. Considere os seguintes compostos:**
+
+| Composto | Fórmula   |
+|----------|-----------|
+| 1        | HClO      |
+| 2        | HClO₂     |
+| 3        | HClO₃     |
+| 4        | HClO₄     |
+| 5        | H₂SO₃     |
+| 6        | H₂SO₄     |
+**A respeito desses compostos e da nomenclatura de ácidos, analise as seguintes afirmações:**
+
+**I. O composto 1 é denominado ácido hipocloroso e possui o menor número de átomos de oxigênio na série dos oxiácidos de cloro.**  
+**II. Os compostos 3 e 4 são denominados, respectivamente, ácido clórico e ácido perclórico, sendo que o prefixo "per-" indica maior quantidade de oxigênio em relação ao ácido de referência (clórico).**  
+**III. Comparando os compostos 5 e 6, é correto afirmar que o ácido sulfúrico (H₂SO₄) é mais oxidante que o ácido sulfuroso (H₂SO₃) devido ao maior número de átomos de oxigênio em sua estrutura.**  
+**IV. Quando um não metal forma apenas dois oxiácidos, o que tem menos oxigênio recebe o sufixo "-oso" e o que tem mais oxigênio recebe o sufixo "-ico", como ocorre com os compostos 5 e 6.**  
+**V. O ácido nítrico (HNO₃) e o ácido nitroso (HNO₂) seguem a mesma lógica de nomenclatura dos oxiácidos de cloro, porém não existem os ácidos "hiponitroso" e "pernitroso" correspondentes.**  
+
+a) I, II e IV, apenas.  
+b) I, II, III e IV, apenas.  
+c) II, III e V, apenas.  
+d) I, II, IV e V, apenas.  
+e) I, II, III, IV e V.
+
+> [!info]- Resposta 
+> **Resposta correta: d)**
+> ##### Explicação
+I. Correta, o composto 1 (HClO) é o ácido hipocloroso, de fato o oxiácido de cloro com menor número de oxigênios(1). Prefixo "hipo-" + sufixo "-oso" = mínimo de oxigênios na série.
+>
+> II. Correta, A nomenclatura está correta:  
+ > - HClO₃ = ácido **clórico** (sufixo "-ico" para 3 oxigênios).  
+  >- HClO₄ = ácido **perclórico** (prefixo "per-" indica +1 oxigênio que o clórico).
+  >
+III. Correta, o ácido sulfúrico (H₂SO₄) é mais oxidante que o sulfuroso (H₂SO₃) porque:  
+  >- Tem mais oxigênios (4 > 3), o que aumenta seu poder de oxidação.  
+  >- Exemplo: H₂SO₄ é usado como oxidante em baterias de chumbo.
+>
+IV. Correta, para não metais com apenas dois oxiácidos:  
+  >- Menos oxigênio = sufixo "-oso" (H₂SO₃ = ácido sulfuroso).  
+  >- Mais oxigênio = sufixo "-ico" (H₂SO₄ = ácido sulfúrico).
+>
+V. Correta, nem todos os oxiácidos do fósforo seguem a fórmula HₓPO₄. Exemplos:  
+  > - Ácido hipofosforoso (H₃PO₂) → Fórmula diferente.  
+  >- Ácido metafosfórico (HPO₃) → Não tem a estrutura PO₄.
 ### Base
 As bases de Arrhenius são compostos iônicos formados por um cátion de elemento metálico ligado ionicamente ao íon OH⁻ (íon hidroxila). Por exemplo:  
 
@@ -310,7 +434,7 @@ b) Correta, o líquido mudou de cor (roxo → verde) ao adicionar uma base (leit
 c) Errada, a separação foi feita com um coador, ou seja, é uma **filtração**, não decantação (que usa diferença de densidade).
 d) Errada, hidróxido de magnésio (Mg(OH)₂) é uma **base**, não um óxido (que teria apenas Mg e O, como MgO).
 e) Errada, vinagre contém ácido acético, ou seja, é um **ácido**.
-### Sais
+## Sais
 Ao ouvir a palavra “sal” é bem provável que a primeira coisa da qual você se lembre seja o sal de cozinha, o cloreto de sódio (NaCl). Também é provável que você pense que o único “sal” que existe seja esse. Em Química, contudo, a palavra sal designa uma classe de substâncias iônicas.
 
 Além do cloreto de sódio, pertencem a essa classe muitos outros compostos, como, por exemplo: o carbonato de cálcio (CaCO₃), usado para diminuir a acidez do solo; o brometo de potássio (KBr), usado em medicamentos veterinários; o sulfato de sódio (Na₂SO₄), usado na produção de detergentes; e o cloreto de magnésio (MgCl₂), um dos muitos compostos dissolvidos na água do mar.
@@ -347,7 +471,7 @@ Os fertilizantes são fabricados de modo a fornecer esses elementos sob a forma 
 | Sulfato de ferro (II)     | FeSO₄             | Fonte de ferro para anêmicos             |
 | Sulfato de magnésio       | MgSO₄             | Laxante                                  |
 ```
-#### Neutralização total
+### Neutralização total
 Neste momento do estudo da Química é conveniente nos atermos a uma dessas três situações. Imagine que o número de moléculas de HCl presentes numa das soluções misturadas seja exatamente igual ao número de pares de íons Na⁺ e OH⁻ presentes na outra (lembre-se de que o NaOH não é **composto molecular**; ele é constituído por íons Na⁺ e OH⁻). Nesse caso, verifica-se que a solução resultante é neutra. Mais do que isso, se deixarmos a água **evaporar** completamente, verificaremos que restará um resíduo sólido branco no recipiente. Uma análise química desse resíduo mostra que se trata de cloreto de sódio.
 
 Quando misturamos as duas soluções conforme descrito acima, ocorre uma reação entre os íons H⁺ e OH⁻, formando água. Essa reação é chamada de neutralização:
@@ -375,7 +499,7 @@ Perceba que o balanceamento dessas equações emprega coeficientes para o ácido
 ```ad-attention
 Em uma **neutralização** total ácido-base, todos os H⁺ provenientes do ácido e todas as OH⁻ provenientes da base reagem formando H₂O.
 ```
-##### Exercícios
+#### Exercícios
 1 - **Escreva a equação da reação de neutralização total que ocorre entre H₃PO₄ e Ca(OH)₂.**
 
 > [!info]- Resposta 
@@ -504,8 +628,7 @@ b) Errada, o produto (NaCl + H₂O) não é reativo, mas a reação em si pode s
 c) Errada, a quantidade não impede a reação; ela ocorreria mesmo com pouco NaOH.  
 d) Errada, sabão é formado na reação de NaOH com gordura, não com HCl.  
 e) Errada, nenhum dos dois é salino; são ácido e base fortes.
-
-#### Nomenclatura dos ânions 
+### Nomenclatura dos ânions 
 Retirando os hidrogênios ionizáveis de um ácido, obtém-se a fórmula do ânion dele derivado. Uma vez conhecida a fórmula do ânion, chega-se à fórmula do sal considerando a ligação iônica entre ele e o cátion escolhido.
 
 ![[quim-sais-nomenclatura-2.png]]
@@ -521,13 +644,13 @@ A nomenclatura dos ânions é feita substituindo-se a terminação do nome do á
 Veja exemplos do nome e da fórmula de ânions, deduzidas a partir do nome e da fórmula dos ácidos correspondentes:
 
 ![[quim-sais-nomenclatura.png]]
-#### Neutralização parcial
+### Neutralização parcial
 As reações de neutralização que discutimos até aqui são chamadas de reações de **neutralização total**. No entanto, há também outras, que denominaremos reações de **neutralização parcial**.
 
 ```ad-attention
 Na neutralização parcial, nem todos os hidrogênios ionizáveis do ácido ou nem todas as hidroxilas da base são neutralizados.
 ```
-##### Neutralização parcial do ácido
+#### Neutralização parcial do ácido
 Como já vimos, para ocorrer a neutralização total deve haver uma proporção adequada entre a quantidade dos participantes, proporção que é indicada pelos coeficientes da equação química corretamente balanceada.
 
 Quando H₂SO₄ e NaOH tomam parte em uma reação de neutralização total e a água é evaporada da solução final, obtém-se um sólido cristalino, o sulfato de sódio, Na₂SO₄.
@@ -570,7 +693,7 @@ Veja outros exemplos:
 Então, após esses exemplos, podemos conceituar:  
 Na **neutralização parcial** de um ácido por uma base, nem todos os hidrogênios ionizáveis reagem com OH⁻. O sal formado, um hidrogenossal, conterá hidrogênio(s) ionizável(is).
 ```
-##### Neutralização parcial da base
+#### Neutralização parcial da base
 Se realizarmos a reação de neutralização total entre HCl e Ca(OH)₂ e, ao final, evaporarmos a água da solução, obteremos o sólido cloreto de cálcio, CaCl₂. Porém, repetindo esse procedimento com metade da quantidade de ácido, verifica-se que o sólido cristalino obtido tem composição Ca(OH)Cl.
 
 ![[imgs/enem/química/quim-sais-neutra-base.png]]
@@ -592,7 +715,7 @@ Note que há mais OH⁻ do que H⁺. Assim, nem todas as OH⁻ serão neutraliza
 Assim, podemos dizer que:  
 Na neutralização parcial de uma base por um ácido, nem todas as **hidroxilas** reagem com H⁺. O sal formado, um **hidroxissal**, conterá **hidroxila**(s).
 ```
-##### Exercícios
+#### Exercícios
 
 1 - **Os alquimistas foram muito importantes para a química, a ciência da transformação. Tentando encontrar a pedra filosofal, que teria o poder de transformar qualquer metal em outro, e o elixir da longa vida, que tornaria o ser humano imortal, criaram um grande número de aparelhos de laboratório e desenvolveram processos importantes para a produção de metais, de papiros, de sabões e de muitas substâncias, como o ácido nítrico, o ácido sulfúrico, o hidróxido de sódio e o hidróxido de potássio. Sobre essas substâncias, ácidos e bases, pode-se afirmar que:**
 
@@ -687,7 +810,7 @@ c) Correta, este é um **ácido triprótico** que pode liberar três íons H+ e 
 d) Errada, é um **ácido diprótico** que libera dois íons H+ e pode formar tanto um sal neutro (Na₂S) quanto um sal ácido (NaHS). 
 >
 e) Errada, é um ácido diprótico que libera dois íons H+ e pode formar tanto um sal neutro (Na₂SO₄) quanto um sal ácido (NaHSO₄). A afirmação está correta, então não é a resposta.
-#### Sais hidratados
+### Sais hidratados
 O gesso é fabricado utilizando como matéria-prima uma rocha chamada gipsita. Nela há uma substância denominada sulfato de cálcio diidratado, cuja fórmula química é CaSO₄ · 2 H₂O.
 
 ```ad-important
@@ -703,7 +826,7 @@ Chamamos de água de cristalização ou água de hidratação aquela que se enco
 Outros exemplos são:
 
 ![[quim-sais-hidratados.png]]
-#### Compostos higroscópicos 
+### Compostos higroscópicos 
 Há um ditado popular que diz: “Saleiro entupiu? Vem chuva!” . Esse “saber popular” possui certo fundo de verdade. O sal de cozinha pode conter algumas impurezas (MgCl₂ e MgSO₄) que são **higroscópicas**.
 
 ```ad-info
@@ -722,7 +845,7 @@ Se um frasco com ácido sulfúrico concentrado é deixado destampado, vapor de �
 Se pedaços de hidróxido de sódio sólido são deixados expostos à atmosfera, chegam a absorver tanta água que se dissolvem nela. Após algumas horas, no lugar do sólido, observa-se um líquido claro, que é uma solução aquosa de hidróxido de sódio. Fenômeno semelhante ocorre com o cloreto de cálcio.
 
 ![[quim-sais-higroscopicos.png]]
-#### Exercícios
+### Exercícios
 
 1 - **Certo produto desumidificador, geralmente encontrado à venda em supermercados, é utilizado para se evitar a formação de mofo em armários e outros ambientes domésticos.**  
 **A embalagem desse produto é dividida, internamente, em dois compartimentos — um superior e um inferior. Na parte superior, há um sólido branco iônico — o cloreto de cálcio, $CaCl_2$.**  
@@ -777,13 +900,58 @@ III. Correta, a reação entre amônia (caráter básico) com ácido nítrico é
 𝑁𝐻₃ + 𝐻𝑁𝑂₃ → 𝑁𝐻₄𝑁𝑂₃
 >$$
 >Sendo assim, há a formação do nitrato de amônio.
-### Força de eletrólitos 
+
+3 -  **A fórmula do carbonato de cálcio é CaCO₃. Nessa substância há átomos unidos por ligações:**
+
+a) iônicas, apenas.
+b) covalentes, apenas.
+c) metálicas, apenas.
+d) covalentes e metálicas.
+e) iônicas e covalentes.
+
+> [!info]- Resposta 
+> **Resposta correta: e)**
+> ##### Explicação
+O íon carbonato está relacionado ao ácido carbônico:
+![[quim-sais-exercicio-3.png]]
+>
+> Assim, no carbonato de cálcio, temos ligações iônicas (entre Ca²⁺ e CO₃²⁻) e covalentes (entre C e O no ânion carbonato):
+> ![[quim-sais-exercicio-3-2.png]]
+
+4 - Associe corretamente, de cima para baixo, a coluna da esquerda com a da direita:
+
+| Compostos          | Classificação     |
+| ------------------ | ----------------- |
+| I. Na₂B₄O₇ · 10H₂O | ( ) sal básico    |
+| II. Mg(OH)Cl       | ( ) sal duplo     |
+| III. NaKSO₄        | ( ) sal ácido     |
+| IV. NaHCO₃         | ( ) sal hidratado |
+a) I, III, IV, II  
+b) II, IV, III, I  
+c) I, II, III, IV  
+d) II, III, IV, I
+
+> [!info]- Resposta 
+> **Resposta correta: e)**
+> ##### Explicação
+II. Mg(OH)Cl → Sal básico  
+  > - Contém um grupo **hidroxila** (OH⁻) junto com um ânion (Cl⁻), caracterizando um **sal básico** (ou hidroxi-sal).  
+>
+III. NaKSO₄ → Sal duplo
+  > - Possui dois cátions diferentes (Na⁺ e K⁺) com o mesmo ânion (SO₄²⁻), sendo um **sal duplo**.  
+>
+V. NaHCO₃ → Sal ácido 
+   >- Apresenta um hidrogênio ionizável (H⁺) em sua estrutura, caracterizando um **sal ácido** (ou hidrogeno-sal).  
+>
+I. Na₂B₄O₇ · 10H₂O → Sal hidratado 
+   >- A presença de moléculas de água (H₂O) na fórmula indica um **sal hidratado**.
+## Força de eletrólitos 
 Além de frutas, o suco é fonte rica em eletrólitos. O eletrólito é uma substância que, dissolvida em água, produz uma solução condutora de corrente elétrica.
 
 ```ad-important
 De modo geral, **ácidos**, **bases** e **sais** são **eletrólitos**. 
 ```
-#### Força dos ácidos
+### Força dos ácidos
 Acompanhe o seguinte relato de experimento. Testam-se duas soluções feitas dissolvendo-se, numa mesma quantidade de água, igual número de moléculas de dois ácidos diferentes, HF e HCl. Verifica-se que o brilho da lâmpada é mais intenso no caso da solução de HCl, conforme a figura abaixo.
 
 ![[quim-elet-acidos.png]]
@@ -794,6 +962,10 @@ Soluções de ácidos diferentes nem sempre apresentam a mesma condutividade el�
 
 ```ad-note
 O **grau de ionização** (α) de um ácido indica a porcentagem das moléculas desse ácido dissolvidas na água que sofreram ionização.
+```
+
+```ad-important
+A força de um ácido é diretamente proporcional à porcentagem de moléculas que sofrem ionização quando em meio aquoso.
 ```
 
 Admitamos que na solução de HCl o grau de ionização seja de 92%, e na de HF seja de 8%. Isso significa que, de cada 100 moléculas de HCl dissolvidas, 92 originam íons; no caso do HF, apenas 8 em cada 100.
@@ -829,7 +1001,7 @@ Para os **ácidos não oxigenados** não há uma regra satisfatória para prever
 ```ad-note
 O ácido acético (CH₃COOH) é um ácido orgânico, mas que frequentemente aparece em procedimentos e em exercícios de Química Inorgânica. Ele é fraco.
 ```
-##### Exercícios
+#### Exercícios
 
 1 - **Apresentam-se, em ordem crescente de força, os ácidos:**
 
@@ -975,7 +1147,33 @@ O ácido perclórico é um dos ácidos mais fortes conhecidos, mais forte do que
 > $$
 \ce{HClO4(l) + H2O(l) -> H+ (aq) + ClO4^- (aq)}
 >$$
-#### Força das bases
+
+6 - **Soluções ácidas e soluções alcalinas exibem propriedades importantes, algumas delas ligadas à força do ácido ou da base. Uma solução aquosa de um ácido genérico HA poderá ser classificada como solução de um ácido fraco quando:**
+
+1. **Não se altera na presença de uma base.**  
+2. **Apresenta coloração avermelhada na presença do indicador fenolftaleína.**  
+3. **Apresentar uma concentração de íons H⁺ maior que a concentração de íons A⁻.**  
+4. **Mantiver uma concentração de HA muito maior que a concentração de íons H⁺.**  
+5. **A solução for altamente condutora de corrente elétrica.**  
+
+**Responda com a soma dos números dos itens corretos.**
+
+> [!info]- Resposta 
+> **Resposta correta: 8**
+> ##### Explicação
+> Item 01. Errado, ácidos fracos reagem com bases, mesmo que parcialmente. A caracterização de fraco está na extensão da ionização, não na inércia.  
+> 
+Item 02. Errado, a fenolftaleína é incolor em meio ácido (independente da força do ácido). Só fica avermelhada em meio **alcalino** (pH > 8,3). 
+>
+Item 04. Errado, em qualquer ácido (fraco ou forte) em solução aquosa, H⁺ = A⁻ (eletroneutralidade). A diferença está na proporção entre HA não ionizado e H⁺.  
+>
+Item 08. Correto, ácidos fracos ionizam-se pouco, então a concentração de HA não ionizado é muito maior que a de H⁺. Exemplo:  
+> $$  
+\text{HA} \rightleftharpoons \text{H}^+ + \text{A}^- \quad (K_a \text{ pequeno})  
+> $$  
+> 
+> Item 16. Errado, soluções de ácidos fracos são pouco condutoras, pois geram poucos íons (H⁺ e A⁻) em comparação com ácidos fortes.
+### Força das bases
 Veja o seguinte relato de experimento: adiciona-se uma "colherada" dos **hidróxidos** sólidos NaOH, Ca(OH)₂ e Zn(OH)₂ em três copos com a mesma quantidade de água. Mexe-se cada um por longo tempo e testa-se a condutividade elétrica de cada líquido. O que se observa aparece na figura abaixo.
 
 ![[quim-elet-bases.png]]
@@ -1006,7 +1204,7 @@ A amônia, NH₃, como já vimos, é uma base diferente. No que diz respeito à 
 ```ad-info
 Apesar de a amônia ser uma base solúvel em água, ela é classificada como **base fraca** porque, em suas soluções, há baixas concentrações de íons OH⁻.
 ```
-##### Exercícios
+#### Exercícios
 
 1 - **Considerando-se o aparelho esquematizado abaixo, quais das seguintes bases poderiam provocar um brilho muito intenso na lâmpada quando adicionadas, em quantidade adequada, à água?**
 
@@ -1066,7 +1264,59 @@ e) HCl
 | c) Mg(OH)₂ | Base fraca     | Parcial     | Sim (forma H₂O + sal) | Vermelha     |
 | d) SO₃  | Óxido ácido    | Reage com H₂O (forma H₂SO₄) | Não (é ácido) | Incolor (meio ácido) |
 | e) HCl  | Ácido forte    | Completa    | Não (é ácido)      | Incolor       |
-####  “Força” dos sais
+
+3 - **Uma base forte deve ter ligado ao grupo OH⁻:** 
+
+a) um elemento muito eletropositivo.  
+b) um elemento muito eletronegativo.  
+c) um semimetal.  
+d) um metal que dê 3 elétrons.  
+e) um ametal.
+
+> [!info]- Resposta 
+> **Resposta correta: a)**
+> ##### Explicação
+   Bases fortes são compostos que se dissociam completamente em água, liberando íons OH⁻. Exemplos comuns: NaOH (hidróxido de sódio), KOH (hidróxido de potássio).  
+>
+A relação com eletropositividade existe por elementos eletropositivos (como metais alcalinos - Grupo 1) têm baixa energia de ionização e tendência a doar elétrons, facilitando a liberação de OH⁻. Assim, quanto mais eletropositivo o metal, mais forte é a base formada.
+>
+> a) Correta, metais muito eletropositivos (ex.: Na, K) formam bases fortes.  
+  b) Errada, elementos eletronegativos (ex.: Cl, O) formam **ácidos**, não bases.  
+c) Errada, semimetais (ex.: B, Si) não formam bases fortes.  
+d) Errada, o número de elétrons doados não define a força da base (ex.: Ca(OH)₂, com metal que doa 2 elétrons, é forte).  
+e) Errada, ametais (ex.: N, S) formam ácidos ou bases muito fracas.
+
+4 - **Sabe-se que a reação de formação do hidróxido de amônio do detergente, que contém amoníaco, é expressa pela equação:**
+
+$$
+NH_3 + H_2O \rightleftharpoons NH_4^+ + OH^-
+$$
+
+**Fazemos, então, as seguintes afirmativas:**
+
+**I. O produto dessa reação se encontra altamente dissociado.**  
+**II. A solução tem pH básico.**  
+**III. De acordo com a teoria de Arrhenius, bases são substâncias que se dissociam em água, produzindo íons OH⁻.**  
+
+a) apenas I.  
+b) apenas II.  
+c) apenas III.  
+d) apenas I e II.  
+e) apenas II e III.
+
+> [!info]- Resposta 
+> **Resposta correta: e)**
+> ##### Explicação
+I. Incorreta, O hidróxido de amônio ($NH_4OH$) não se dissocia completamente. Ele é uma **base fraca**, pois o equilíbrio da reação favorece os reagentes ($NH_3$ e $H_2O$). Bases fortes (como NaOH) dissociam-se totalmente, mas $NH_3$ em água forma uma solução fracamente alcalina.
+>
+> II. Correta, a presença de íons $OH^-$ na solução aumenta o pH, caracterizando um meio básico (pH > 7).
+>
+> III. Incorreta, de acordo com Arrhenius, bases são compostos que liberam íons OH⁻ em água. Exemplo:  
+> $$
+NaOH \rightarrow Na^+ + OH^-
+> $$
+O $NH_3$ segue essa lógica indiretamente, pois gera $OH^-$ ao reagir com $H_2O$.
+###  “Força” dos sais
 Acompanhe o seguinte relato de experimento: adiciona-se o mesmo número de partículas dos sais sólidos NaCl e AgCl em dois copos com a mesma quantidade de água (dizemos “partículas” porque NaCl e AgCl não são compostos moleculares). Mexe-se cada um por longo tempo e testa-se a condutividade elétrica de cada líquido. O que se observa aparece na figura abaixo.
 
 ![[quim-elet-sais.png]]
@@ -1086,7 +1336,7 @@ Anteriormente, apresentamos informações sobre a força de ácidos e a força d
 ```ad-important
 Os sais solúveis produzem soluções com alta concentração de íons e que conduzem bem a corrente elétrica. Então, não é costume falar em “força” de sais. Todo sal que se dissolva bem em água produzirá uma solução com alta condutividade elétrica.
 ``` 
-##### Exercícios
+#### Exercícios
 
 1 - **Colocando grãos de nitrato de potássio em um frasco com água, nota-se que com o passar do tempo o sólido desaparece dentro da água. Qual das equações é a mais adequada para representar a transformação que ocorreu dentro do frasco?**
 
@@ -1142,3 +1392,542 @@ e) Todas as ligações no KNO₃ são iônicas, enquanto, no NaF, a ligação é
 > c) Correta, KNO₃ e NaF são sais iônicos solúveis (regra geral para sais do Grupo 1).  
 > d) Errada, ambos são **compostos iônicos**, embora o NO₃⁻ tenha ligações covalentes internas.  
 > e) Errada, alternativa parcialmente correta, mas enganosa. KNO₃ tem ligação iônica entre K⁺ e NO₃⁻, mas o NO₃⁻ possui ligações covalentes internas. NaF é puramente **iônico** (Na⁺ e F⁻).  
+## Óxidos
+Óxido é todo composto químico formado pelo oxigênio e um outro elemento que não seja o flúor. Há fundamentalmente dois modos para dar nome aos óxidos. Um deles é mais utilizado para os óxidos moleculares e o outro para os óxidos iônicos. Vejamos cada caso.
+
+```ad-info
+O composto OF₂ não é um **óxido**. Essa restrição ao flúor se deve ao fato de ser ele o único elemento mais **eletronegativo** que o oxigênio. 
+```
+### Óxidos moleculares  
+Uma vez que o oxigênio é um não metal, para que um óxido seja molecular basta que o oxigênio esteja combinado com outro não metal ou com um semimetal (lembre-se de que os compostos moleculares são formados por átomos de não metais, ou semimetais, unidos por ligações covalentes).  
+
+$$
+\text{ametal} + \text{oxigênio} = \text{óxido molecular}
+$$
+
+Por exemplo, podemos destacar os óxidos formados pelo nitrogênio:
+
+![[quim-oxid-mol.png]]
+
+Como você pode perceber, há uma considerável variedade de óxidos de nitrogênio. Essa diversidade também ocorre com alguns outros elementos. Pensando nisso, a regra de nomenclatura foi criada de modo a evitar confusões ao chamá-los apenas pelo nome.
+$$
+\left[\begin{array}{l}
+\text{mono} \\
+\text{di} \\
+\text{tri} \\
+\vdots
+\end{array}\right]
++ \text{óxido de} +
+\left[\begin{array}{l}
+\text{mono} \\
+\text{di} \\
+\text{tri} \\
+\vdots
+\end{array}\right]
++ \text{(elemento)}
+$$
+Por exemplo: 
+
+![[quim-oxid-mol-2.png]]
+
+### Óxidos iônicos  
+Os óxidos iônicos apresentam oxigênio combinado com um metal. 
+
+$$
+\text{metal} + \text{oxigênio} = \text{óxido iônico}
+$$
+
+```ad-important
+Lembre-se de que, de modo geral, metal e não metal se unem por ligação iônica
+```
+
+```ad-note
+Três importantes exceções a essa regra geral são o Mn₂O₇, o MnO₃ e o CrO₃, que possuem elevado caráter covalente.  
+```
+
+Podemos prever a fórmula do óxido de um determinado metal utilizando o que vimos sobre ligação iônica. Como o oxigênio apresenta 6 elétrons na **última camada**, quando em ligação iônica ele recebe 2 elétrons e fica com duas cargas negativas, formando o ânion O²⁻, denominado íon óxido.
+
+![[quim-oxid-ion.png]]
+
+Vimos que, no caso dos óxidos moleculares, havia elementos com grande variedade de **óxidos**. Já no caso dos óxidos iônicos, isso não acontece. Como consequência, não há necessidade de uma nomenclatura tão rica em detalhes. 
+
+Essa nomenclatura obedece à regra: escrever “óxido de” seguido pelo nome do metal. Caso seja um metal que forme mais de um cátion, então deve-se acrescentar, no final, um número, em algarismos romanos e entre parênteses, que corresponde à carga do cátion do metal.  
+
+$$
+\text{Óxido de } \underline{\text{(elemento)}} \quad + \quad \text{(carga do cátion em algarismo romano)}
+$$
+
+São exemplos de óxidos de metais com carga fixa:
+
+![[quim-oxid-ion-2.png]]
+
+E exemplos de óxidos de metais com carga variável:
+
+![[quim-oxid-ion-3.png]]
+### Óxidos ácidos ou anidridos 
+Considere a fórmula do ácido sulfúrico, H₂SO₄. Ao subtrair a fórmula da água, H₂O, da fórmula desse ácido, obtemos a fórmula SO₃, que representa o trióxido de enxofre.
+
+$$\begin{align} \mathrm{H_2SO_4} \\ -\mathrm{H_2}\phantom{S}\mathrm{O} \\ \hline \phantom{-\mathrm{H_2}}\mathrm{SO_3} \end{align}$$   
+Os químicos perceberam que alguns óxidos podem ser obtidos a partir da desidratação (retirada de água) de ácidos. Esses óxidos, que têm um comportamento químico intimamente relacionado ao ácido do qual provêm, são chamados de óxidos ácidos ou **anidridos**.
+
+Além da nomenclatura que já estudamos, há outra que se aplica aos óxidos ácidos. Eles podem ser nomeados escrevendo-se a palavra "anidrido" seguida do nome do ácido que origina o óxido.
+
+Exemplos da fórmula de **óxidos ácidos** e da relação matemática entre suas fórmulas e a dos ácidos de que provêm são:
+
+![[quim-oxid-acid.png]]
+
+
+Perceba que, nos casos envolvendo os ácidos nítrico (HNO₃) e nitroso (HNO₂), foi necessário multiplicar o ácido por 2 para que houvesse quantidade suficiente de hidrogênios e, consequentemente, fosse possível a subtração de água.
+#### Reação dos óxidos ácidos com água
+Analise as seguintes equações químicas, que representam reações de óxidos ácidos com água:
+
+$$
+\begin{align}
+\mathrm{SO_3(g)} + \mathrm{H_2O}(\ell) &\rightarrow \mathrm{H_2SO_4(aq)} \\
+\mathrm{CO_2(g)} + \mathrm{H_2O}(\ell) &\rightarrow \mathrm{H_2CO_3(aq)} \\
+\mathrm{N_2O_5}(\ell) + \mathrm{H_2O}(\ell) &\rightarrow \mathrm{2HNO_3(aq)}
+\end{align}
+$$
+
+Note que se trata exatamente do oposto do processo de subtração de água que nos leva a
+descobrir a fórmula de um anidrido.
+
+```ad-attention
+Óxidos ácidos reagem com água formando ácido.
+```
+
+```ad-summary
+##### CO₂: um óxido ácido muito conhecido
+A foto _A_, a baixo, mostra um pedaço de gelo-seco segurado por uma pinça. O gelo-seco é dióxido de carbono (CO₂) no estado sólido, a -78 °C.
+
+![[quim-oxid-co2.png]]
+
+O dióxido de carbono sofre sublimação, ou seja, passa do estado sólido diretamente ao gasoso. Daí vem a expressão "gelo-seco", já que ele, ao "derreter", não se transforma em líquido.
+
+O azul de bromotimol é um indicador ácido-base que assume a coloração azul em meio básico e amarela em meio ácido. Ao adicionarmos um pedaço de gelo-seco a um copo com água contendo algumas gotas de solução básica e esse indicador _B_, há uma mudança da cor azul para a amarela _C_, evidenciando que a presença de CO₂ no meio aquoso deixou-o ácido.
+```
+#### Reação de óxidos ácidos com bases
+Analise as equações de algumas reações de óxidos ácidos com bases:
+
+![[quim-oxid-acido-base.png]]
+
+Nesses processos fica evidente que esse tipo de óxido possui características ácidas, uma vez que reage com bases. Verifica-se que o sal formado possui o cátion da base e o ânion do ácido que corresponde ao óxido ácido.
+
+```ad-important
+Óxidos ácidos reagem com bases formando sal e água.
+```
+#### Exercícios
+
+1 - **Um oxiácido pode ser preparado pela reação de um óxido de um elemento não metálico com a água. Escreva as equações químicas balanceadas da obtenção, por esse método, dos ácidos sulfúrico (H₂SO₄) e carbônico (H₂CO₃).**
+
+> [!info]- Resposta 
+> ##### Explicação
+> Para o ácido sulfúrico
+> $$
+\begin{array}{c}
+\mathrm{H_2SO_4} \\
+\underline{-\mathrm{H_2O}} \\
+\mathrm{SO_3}
+\end{array}
+> $$
+>
+Para o ácido carbônico:
+> $$
+\begin{array}{c}
+\mathrm{H_2CO_3} \\
+\underline{-\mathrm{H_2O}} \\
+\mathrm{CO_2}
+\end{array}
+> $$
+>
+>
+Assim, as equações solicitadas são:
+>
+> $$
+\mathrm{SO_3} + \mathrm{H_2O} \rightarrow \mathrm{H_2SO_4}
+> $$
+>
+>$$
+\mathrm{CO_2} + \mathrm{H_2O} \rightarrow \mathrm{H_2CO_3}
+> $$
+
+2 -  **Equacione a reação entre:**
+
+a) trióxido de enxofre (SO₃) e hidróxido de bário (Ba(OH)₂);
+b) dióxido de carbono (CO₂) e hidróxido de potássio (KOH).
+
+> [!info]- Resposta 
+> ##### Explicação
+> a) O SO₃ é o óxido ácido correspondente ao H₂SO₄. Assim, na sua reação com Ba(OH)₂, o sal formado terá o cátion da base, Ba²⁺, e o ânion do ácido correspondente ao óxido, SO₄²⁻.
+>
+> ![[quim-oxid-acid-exercicio-2.png]]
+>
+> A equação é:
+>
+> $$
+ \mathrm{SO_3} + \mathrm{Ba(OH)_2} \rightarrow \mathrm{BaSO_4} + \mathrm{H_2O}
+> $$
+> 
+b) O CO₂ é o óxido ácido correspondente ao H₂CO₃. Ao reagir com KOH, formará o sal com o cátion  K⁺, proveniente da base, e o ânion CO₃²⁻, proveniente do ácido correspondente ao óxido.
+>
+> A equação é:
+>
+> $$
+\mathrm{CO_2} + 2\mathrm{KOH} \rightarrow \mathrm{K_2CO_3} + \mathrm{H_2O} 
+> $$
+> 
+> ![[quim-oxid-acid-exercicio-2-1.png]]
+
+3 - **No metabolismo, ocorre a formação de espécies denominadas “radicais livres”, que são caracterizadas por apresentarem elétrons desemparelhados em sua estrutura. Embora sejam geralmente considerados maléficos ao organismo, muitos radicais livres são essenciais para o seu funcionamento adequado. Considere os seguintes números de elétrons na camada de valência: H = 1; C = 4; N = 5; O = 6 e responda.**  
+
+**Dentre as espécies químicas NO, OH⁻ e CO₂, presentes no organismo, pode-se dizer que são “radicais livres”:**  
+
+a) NO, apenas.  
+b) OH⁻, apenas.  
+c) CO₂, apenas.  
+d) NO e OH⁻, apenas.  
+e) OH⁻ e CO₂, apenas.
+
+> [!info]- Resposta 
+> **Resposta correta: a)**
+> O óxido nítrico (NO) é formado pelo nitrogênio, que possui 5 elétrons, e pelo oxigênio, que possui 6 elétrons, totalizando 11 elétrons na camada de valência. Sua estrutura de Lewis mostra que há um elétron desemparelhado, pois o nitrogênio e o oxigênio compartilham um par de elétrons, mas resta um elétron sozinho. Por isso, o NO é considerado um radical livre (NO•).
+>
+O íon hidroxila (OH⁻) é formado por oxigênio com 6 elétrons, hidrogênio com 1 elétron, e mais um elétron adicional devido à carga negativa, somando 8 elétrons no total. Sua estrutura de Lewis indica que todos os elétrons estão emparelhados, não havendo elétrons desemparelhados. Assim, o OH⁻ não é um radical livre, sendo um íon estável.
+>
+O dióxido de carbono (CO₂) é composto por um átomo de carbono com 4 elétrons e dois átomos de oxigênio com 6 elétrons cada, totalizando 16 elétrons. Sua estrutura de Lewis mostra uma molécula linear com ligações duplas entre o carbono e cada oxigênio (C=O), e todos os elétrons estão emparelhados. Portanto, o CO₂ também não é um radical livre, sendo uma molécula estável.
+>
+Apenas o NO é considerado um radical livre porque é a única espécie entre as analisadas que possui um elétron desemparelhado. Em contraste, o OH⁻ e o CO₂ apresentam todos os seus elétrons emparelhados, o que lhes confere estabilidade.
+### Óxidos básicos
+Os óxidos com características básicas que nos interessam neste livro são os óxidos de metais alcalinos e os de metais alcalino-terrosos. Tais óxidos podem ser encarados como resultado da desidratação dos respectivos hidróxidos, de modo similar ao que fizemos com os ácidos:
+
+![[quim-oxid-base-1.png]]
+####  Reação de óxidos básicos com água
+Observe as seguintes equações químicas:
+
+$$
+CaO (s) + H₂O (ℓ) → Ca(OH)₂ (aq)  
+$$
+$$
+Na₂O (s) + H₂O (ℓ) → 2 NaOH (aq)
+
+$$
+
+Essas duas reações químicas são o oposto da subtração de água que fizemos anteriormente. Esse tipo de reação pode ser generalizado assim:
+
+```ad-info
+Óxidos básicos reagem com água formando base.
+```
+#### Reação de óxidos básicos com ácidos
+Observe, agora, as seguintes equações de reações de óxidos básicos com ácidos:
+
+![[quim-oxid-base-2.png]]
+
+Nessas equações, você deve ter percebido que o sal formado possui o ânion do ácido
+e o cátion da base correspondente ao óxido básico (que é o mesmo cátion do óxido básico).
+
+```ad-info
+**Óxidos básicos** reagem com ácidos formando sal e água.
+```
+
+```ad-summary
+##### CaO: um óxido básico muito conhecido
+O calcário é uma rocha constituída principalmente por carbonato de cálcio (CaCO₃), sendo muito utilizado na pavimentação do passeio público e na obtenção da cal viva (ou cal virgem):
+$$
+\begin{align}
+\mathrm{CaCO_3} \xrightarrow{\Delta} \mathrm{CaO} + \mathrm{CO_2} \\
+\end{align}
+$$
+A essa reação damos o nome de decomposição térmica do calcário. (O símbolo Δ indica aquecimento). A cal viva (CaO) formada é aplicada em pinturas (caiação) e também em argamassa, uma mistura de areia, cimento e cal. Em contato com a água, a cal viva forma a cal hidratada:
+$$
+\begin{align}
+\mathrm{CaO} + \mathrm{H_2O} \rightarrow \mathrm{Ca(OH)_2} \\
+\end{align}
+$$
+```
+#### Óxidos neutros
+Há três óxidos, CO, NO e N₂O, que, ao contrário dos óxidos ácidos e dos básicos, não reagem com água, nem com ácidos nem com bases. Eles são chamados de óxidos neutros. 
+
+```ad-note
+**Óxidos neutros** ou indiferentes são aqueles que não reagem com água, nem com ácidos nem com bases. São eles: CO, NO e N₂O. 
+```
+
+O fato de não reagirem com água, ácidos e bases não significa que não reajam com nenhuma outra substância. Veremos mais à frente que o NO reage, por exemplo, com o O₂ do ar. 
+
+```ad-abstract
+##### CO: um dos muitos problemas do cigarro. 
+Entre vários produtos formados na queima do fumo está o gás CO. Ele não reage com água, ácidos ou bases, pois é óxido neutro. Apesar disso, é capaz de reagir com a hemoglobina que existe em nosso sangue, impedindo-a de transportar oxigênio para as várias partes de nosso organismo. Esse é um dos inúmeros problemas associados ao tabagismo.
+```
+#### Exercícios
+
+1 - **Considere os elementos químicos carbono, cloro, nitrogênio, sódio, cálcio, potássio e fósforo. Quais, entre eles, podem formar óxidos:** 
+
+a) ácidos? 
+b) básicos? 
+c) neutros?
+
+> [!info]- Resposta 
+> ##### Explicação
+Os elementos citados são: 
+carbono: não metal;
+cloro: não metal;
+nitrogênio: não metal;
+sódio: metal alcalino;
+cálcio: metal alcalino-terroso;
+potássio: metal alcalino;
+fósforo: não metal.
+>
+Os **não metais** podem formar óxidos ácidos. Os metais alcalinos e alcalino-terrosos podem formar óxidos básicos. Os não metais carbono e nitrogênio podem formar óxidos neutros, que são CO, NO e N₂O.
+>
+Assim, as respostas são: 
+a) carbono, cloro, nitrogênio e fósforo. 
+b) sódio, cálcio e potássio. 
+c) carbono e nitrogênio.
+
+2 - **Em relação à equação química representada abaixo, é correto afirmar:**
+
+$$
+Na₂O (g) + H₂O (l) → 2 NaOH (aq)
+$$
+
+a) O Na₂O (g) não pode ser considerado um óxido, pois reage com a água.  
+b) O Na₂O (g) é considerado um sal, pois reage com a água para formar uma base.  
+c) O Na₂O (g) é considerado um óxido básico, pois reage com a água para formar uma base. 
+d) O Na₂O (g) é considerado um óxido ácido, pois ao reagir com a água forma uma base.  
+e) O Na₂O (g) é considerado um óxido básico, pois neutraliza uma base.
+
+> [!info]- Resposta 
+> **Resposta correta: c)**
+> ##### Explicação
+a) Errada, óxidos básicos reagem com água (é justamente sua propriedade).
+b) Errada, é um **óxido**, não sal. Sais são formados na neutralização.
+c) Correta, Na₂O é um **óxido básico** típico de metais alcalinos que reage com água para formar uma **base forte** (NaOH).
+d) Errada, óxidos ácidos formam ácidos, não bases.
+e) Errada, Neutraliza **ácidos**, não bases.
+### Peróxidos
+A **água oxigenada** é uma solução aquosa do composto de fórmula H₂O₂, chamado quimicamente de **peróxido de hidrogênio**.
+
+![[quim-oxid-peroxido.png]]
+
+Imagine que fosse possível retirar os dois hidrogênios de sua molécula, mas que cada um saísse deixando o respectivo elétron. A estrutura resultante seria formada por dois átomos de oxigênio e possuiria duas cargas negativas:
+
+![[quim-oxid-peroxido-2.png]]
+
+O íon resultante, o O₂²⁻, encontra-se presente em alguns compostos iônicos. É chamado de íon peróxido, e os compostos que o contêm pertencem à classe dos peróxidos. Os peróxidos de maior importância são os de metais alcalinos e alcalino-terrosos.
+
+```ad-tldr
+##### Não confunda óxido com peróxido
+Apesar de parecidos, os óxidos e os peróxidos de **metais alcalinos** e **alcalino-terrosos** possuem uma diferença decorrente dos diferentes ânions que os compõem:
+
+![[quim-oxid-peroxido-3.png]]
+
+```
+### Óxidos ácidos envolvidos na poluição atmosférica
+O ar atmosférico, na ausência de poluição, é composto fundamentalmente de N₂, O₂, Ar, CO₂ e quantidades variáveis de vapor de água. Nos locais poluídos, sobretudo em centros urbanos e industriais, muitas outras substâncias passam a fazer parte da sua composição. 
+
+| Tabela 2 | Exemplos de poluente |
+|----------|----------------------|
+| **Classe de poluentes** | **Composição** |
+| Monóxido de carbono | CO |
+| Óxidos de enxofre | SO₂ e SO₃ |
+| Óxidos de nitrogênio | NO e NO₂ |
+| Ozônio | O₃ |
+| Partículas | Fuligem (C), areia, partículas metálicas (Pb, Hg...) e fumaça, por exemplo |
+| Restos de combustível não queimado | Vapores de álcool e gasolina, por exemplo |
+#### A chuva é, naturalmente, um pouco ácida!
+Plantas e animais, ao respirar, eliminam **gás carbônico** (CO₂) na atmosfera. Podemos dizer que a presença desse gás na atmosfera é natural. Quando chove, ocorre uma reação entre ele e a água da chuva, produzindo ácido carbônico. A chuva fica um pouco ácida, porque o ácido carbônico é fraco:
+
+$$
+CO₂ (g) + H₂O (l) → H₂CO₃ (aq)
+
+$$
+
+A presença de H₂CO₃ na chuva não se deve à poluição. Essa acidez natural da chuva é tão baixa que não faz nenhum mal aos seres vivos.
+#### Óxidos de carbono e fuligem
+A combustão do álcool e da gasolina dentro dos motores dos automóveis produz uma mistura de dióxido de carbono (CO₂), monóxido de carbono (CO), carvão (C) pulverizado e água. A produção de CO₂ na queima de combustíveis e nas queimadas tem provocado aumento da concentração desse gás na atmosfera. Como consequência, intensifica-se o chamado efeito estufa, que tende a provocar um aumento da temperatura média do planeta.
+
+O CO é um gás extremamente tóxico. Ele afeta a capacidade do sangue de transportar oxigênio às diversas partes do corpo. O CO não tem cheiro nem cor e, dependendo da quantidade inalada, pode causar desde dor de cabeça até a morte.
+
+O carvão pulverizado, conhecido como fuligem, é o principal responsável pela cor escura da fumaça que sai do escapamento de automóveis, caminhões, ônibus e chaminés das fábricas. A presença da fuligem e de outras partículas sólidas em suspensão no ar causa irritação nos olhos e problemas respiratórios, como bronquite.
+#### Óxidos de enxofre
+Uma das principais impurezas nos derivados de petróleo (gasolina, óleo diesel) e no carvão mineral é o enxofre (S). Quando queimados, produzem dióxido de enxofre:
+
+$$
+S (s) + O₂ (g) → SO₂ (g)
+
+$$
+
+Ao reagir com a água da chuva, o SO₂ produz ácido sulfuroso:
+
+$$
+SO₂ (g) + H₂O (l) → H₂SO₃ (aq)
+$$
+
+O SO₂ também reage com o oxigênio para formar trióxido de enxofre:
+
+$$
+2SO₂ (g) + O₂ (g) → 2 SO₃ (g)
+$$
+
+O SO₃ reage com a água da chuva, formando ácido sulfúrico:
+
+$$
+SO₃ (g) + H₂O (l) → H₂SO₄ (aq)
+$$
+
+Assim se origina a chamada chuva ácida. Ela é responsável por inúmeros problemas, entre os quais se destacam:
+- prejuízos para a agricultura, pois o solo se torna ácido e, ao mesmo tempo, o SO₂ destrói as folhas dos vegetais;
+- a água dos rios e lagos se torna ácida e, consequentemente, imprópria à vida de peixes;
+- corrosão do mármore, do ferro e de outros materiais usados em monumentos e construções.
+
+```ad-note
+O álcool proveniente da cana-de-açúcar não contém enxofre e, portanto, não contribui para a formação de H₂SO₄ na chuva.
+```
+#### Óxidos de nitrogênio
+No motor dos automóveis ocorre a entrada de ar, cujo O₂ é necessário à combustão. Junto com esse O₂, entram os outros componentes do ar, que não deveriam, em princípio, tomar parte de reações dentro do motor. No entanto, devido à alta temperatura interna do motor, ocorre a reação entre N₂ e O₂:  
+
+$$
+N₂ (g) + O₂ (g) \xrightarrow{\text{faísca elétrica ou calor}} 2 NO (g)
+$$
+
+Uma vez lançado na atmosfera, o NO se transforma em um óxido ácido, o NO₂, que, ao reagir com a água da chuva, produz os ácidos nítrico e nitroso:  
+
+$$
+2 NO (g) + O₂ (g) → 2 NO₂ (g)  
+$$
+$$
+2 NO₂ (g) + H₂O (l) → HNO₃ (aq) + HNO₂ (aq)
+$$
+
+O HNO₂ formado se decompõe, gerando mais HNO₃:  
+
+$$
+3 HNO₂ (aq) → HNO₃ (aq) + 2 NO (g) + H₂O (l)
+$$
+
+O HNO₃ é um ácido forte. Juntamente com o H₂SO₄, ele é importante responsável pelo fenômeno da chuva ácida. Curiosamente, o HNO₃ não surge na chuva apenas devido à poluição. Nos raios que ocorrem durante as tempestades também se formam NO e NO₂, que conduzem ao aparecimento desse ácido na água. Assim, quantidades moderadas de HNO₃ podem existir na chuva, mesmo na ausência de poluição, desde que a chuva seja acompanhada de raios.
+
+O NO₂ também contribui para a formação de ozônio na atmosfera:  
+
+$$
+NO₂ (g) + O₂ (g) → NO (g) + O₃ (g)
+
+$$
+
+É benéfica para o ser humano a presença de ozônio na estratosfera, onde ele filtra os raios ultravioleta provenientes do Sol. Contudo, a presença desse gás na baixa atmosfera é inconveniente, pois causa irritação nos olhos e na garganta e também prejudica os vegetais. Assim sendo, o gás O₃ é considerado um poluente.
+
+![[quim-oxid-mundo.png]]
+#### Exercícios
+
+1 - **“Savanização da Amazônia”: Pesquisadores brasileiros do Inpe (Instituto Nacional de Pesquisas Espaciais) indicam o tamanho do estrago que o aquecimento global vai fazer na Amazônia. Os resultados dos estudos são alarmantes, pois até o final deste século 18% da área que hoje é mata deve virar uma vegetação rala, semelhante ao cerrado.**  
+
+**Na queima de florestas e combustíveis fósseis são liberados gases responsáveis pelo efeito estufa e que também contribuem para a formação de chuva ácida. Os principais poluentes gerados são: gás carbônico, monóxido de carbono, óxidos de enxofre e óxidos de nitrogênio (NOx).**  
+
+**Dentre os poluentes citados, o principal responsável pelo aquecimento global e um dos poluentes classificados como óxido ácido são, respectivamente:**  
+
+a) CO e NO₂  
+b) CO e SO₂  
+c) CO₂ e NO  
+d) CO₂ e NO₂  
+e) SO₂ e NO
+
+> [!info]- Resposta 
+> **Resposta correta: d)**
+> ##### Explicação
+O gás carbônico (CO₂) é o principal responsável pelo aquecimento global devido à sua alta concentração e capacidade de reter calor na atmosfera. Entre os poluentes listados, o dióxido de nitrogênio (NO₂) é um óxido ácido que reage com água formando ácido nítrico (HNO₃), seguindo a fórmula: $NO₂ + H₂O → HNO₃ + NO$. O dióxido de enxofre (SO₂) também é um óxido ácido, mas não está entre as opções corretas nas alternativas combinadas com CO₂. Os óxidos ácidos contribuem para a formação da chuva ácida ao reagirem com a água.
+
+2 -   **Na combustão do óleo diesel, devido à presença de impurezas, forma-se dióxido de enxofre, que, a seguir, reage com o oxigênio do ar formando um óxido de enxofre, $SO_x$.**  
+**Na reação desse óxido $SO_x$ com a água da chuva:**  
+
+a) É obtida uma solução levemente alcalina.  
+b) Há a formação de íons hidroxônio.  
+c) Formam-se íons SO₄²⁻.  
+d) São produzidas moléculas de ácido sulfídrico.  
+e) São obtidas moléculas de enxofre.
+
+> [!info]- Resposta 
+> **Resposta correta: b)**
+> ##### Explicação
+ Combustão do diesel:  
+  > - Forma SO₂ (dióxido de enxofre) devido a impurezas de enxofre no combustível.  
+  > 
+ Oxidação do SO₂:  
+   >- Reage com O₂ atmosférico, formando SO₃ (trióxido de enxofre).  
+   >
+Reação com água da chuva:  
+   >- SO₃ + H₂O → H₂SO₄ (ácido sulfúrico), principal componente da **chuva ácida**.
+>
+a) Errada, H₂SO₄ acidifica a água (pH < 7).
+b) Correta, H₂SO₄ ioniza-se em água, liberando H₃O⁺:  $H₂SO₄ + H₂O → H₃O⁺ + HSO₄⁻$
+c) Errada, HSO₄⁻ é o primeiro produto.
+d) Errada, H₂S é formado em decomposição, não nesta reação.
+e) Errada, não há redução de SO₃ para S.
+
+3 - **Monumentos históricos da cidade de Congonhas são constituídos principalmente por pedra sabão, um tipo de rocha calcárea, rica em carbonato de cálcio, CaCO₃. Os óxidos de enxofre (SO₃) e de nitrogênio (NO₂) são os principais causadores da chuva ácida que pode danificar esses monumentos. Pesquisadores têm identificado cada vez mais a presença de ranhuras nos monumentos provocadas pela ação da chuva sobre eles.**  
+
+**Sobre o fenômeno descrito acima, é INCORRETO afirmar que:**  
+
+a) A diminuição da poluição nos grandes centros urbanos ajudaria na preservação dos monumentos históricos.  
+b) As ranhuras nos monumentos são provocadas pela dissolução da pedra sabão.  
+c) Os ácidos presentes na chuva ácida apresentam as fórmulas H₂SO₄ e HNO₃.  
+d) Os óxidos citados apresentam características ácidas.
+
+> [!info]- Resposta 
+> **Resposta correta: b)**
+> ##### Explicação
+A presente questão trata de reações que ocorrem na **atmosfera** entre **óxidos ácidos** e a **água** proveniente da chuva. Dessa forma, temos as seguintes situações:
+>
+> $$
+SO₃ + H₂O ⇄ H₂SO₄
+> $$
+> $$
+2NO₂ + H₂O ⇄ HNO₃ + HNO₂
+> $$
+>
+Ou seja, a primeira reação, que evidencia a interação entre o **trióxido de enxofre**, também conhecido como anidrido sulfúrico, e a água da chuva, forma o **ácido sulfúrico**, altamente forte com um altíssimo poder corrosivo.
+>
+Além disso, a segunda reação destaca a interação entre o dióxido de nitrogênio, também conhecido como anidrido nítrico, e a água da chuva, formam o ácido nítrico e o ácido nitroso, sendo que o primeiro é altamente forte e corrosivo.
+>
+> a) Correta, a concentração tanto do SO₃ quanto o NO₂ na atmosfera são resultado de seu massivo uso pela sociedade, ou seja, uma diminuição da poluição causada pelo ser humano nos grandes centros pode auxiliar na redução da problemática destacada pela questão.
+b) Errada, as ranhuras nos monumentos são causados pela corrosão da pedra sabão e não pela dissociação.
+c) Correta, os ácidos que interagem com o monumento provocando a corrosão possuem fórmulas H₂SO₄ e HNO₃.
+d) Correta, tanto o SO₃ quanto o NO₂ são Óxidos Ácidos, resultado da neutralização parcial dos ácidos supracitados.
+
+4 - **Uma região industrial lança ao ar gases como o dióxido de enxofre e óxidos de nitrogênio, causadores da chuva ácida. A figura mostra a dispersão desses gases poluentes. Considerando o ciclo da água e a dispersão dos gases, analise as seguintes possibilidades:**
+
+I. As águas de escoamento superficial e de precipitação que atingem o manancial poderiam causar aumento de acidez da água do manancial e provocar a morte de peixes.  
+II. A precipitação na região rural poderia causar aumento de acidez do solo e exigir procedimentos corretivos, como a calagem.  
+III. A precipitação na região rural, embora ácida, não afetaria o ecossistema, pois a transpiração dos vegetais neutralizaria o excesso de ácido.  
+
+a) Pode ocorrer apenas a I.  
+b) Pode ocorrer apenas a II.  
+c) Podem ocorrer tanto a I quanto a II.  
+d) Podem ocorrer tanto a I quanto a III.  
+e) Podem ocorrer tanto a II quanto a III.
+
+> [!info]- Resposta 
+> **Resposta correta: c)**
+> ##### Explicação
+> I. Correta,  pH baixo afeta a respiração e reprodução de peixes.
+> II. Correta, solos ácidos exigem correção com CaCO₃. 
+> III. Errada, transpiração libera água, não neutraliza H⁺.
+
+5 - Plantas não conseguem aproveitar diretamente o nitrogênio do ar atmosférico para sintetizar ■. Esse componente do ar precisa ser transformado em compostos. Isso ocorre, na atmosfera, durante as tempestades com relâmpagos, quando se forma ■. Na raiz das leguminosas, bactérias transformam o nitrogênio em ■, que são fertilizantes naturais. Tais fertilizantes podem ser obtidos industrialmente, a partir do nitrogênio, em um processo cuja primeira etapa é a síntese de ■.  
+
+As lacunas do texto acima são adequadamente preenchidas, na sequência em que aparecem, respectivamente, por:  
+
+a) proteínas – amônia – sais de amônio – ozônio  
+b) açúcares – óxido nítrico – carbonatos – amônia  
+c) proteínas – ozônio – fosfatos – sais de amônio  
+d) açúcares – amônia – carbonatos – óxido nítrico  
+e) proteínas – óxido nítrico – nitratos – amônia
+
+> [!info]- Resposta 
+> **Resposta correta: e)**
+> ##### Explicação
+Lacuna 1. Plantas não conseguem aproveitar diretamente o nitrogênio para sintetizar proteínas, pois necessitam que ele esteja na forma de compostos como nitratos ou amônia, os quais são utilizados na produção de aminoácidos e, consequentemente, de _proteínas_. 
+>
+Lacuna 2. Durante tempestades com relâmpagos, forma-se óxido nítrico (NO), resultado da ação da alta energia dos relâmpagos sobre o nitrogênio (N₂) e o oxigênio (O₂) da atmosfera, e esse _óxido nítrico_ posteriormente origina nitratos que enriquecem o solo.
+>
+Lacune 3. Bactérias presentes nas raízes de leguminosas transformam o nitrogênio atmosférico em _nitratos_ (NO₃⁻), ou em alguns casos em amônia, tornando-o disponível para a absorção pelas plantas. 
+>
+Lacuna 4. O processo industrial responsável pela produção de fertilizantes, conhecido como Processo Haber-Bosch, tem como primeira etapa a síntese de _amônia_ (NH₃) a partir do nitrogênio (N₂) e do hidrogênio (H₂).

@@ -3137,7 +3137,7 @@ d) A molécula da amônia, NH₃, apresenta geometria octaédrica, ligações i�
 > b) Errada, metano não forma **pontes de hidrogênio**; suas interações são **dipolo instantâneo-dipolo induzido**
 > d) Errada, A amônia tem geometria piramidal, não octaédrica e suas ligações N-H são **covalentes polares**, não **iônicas**. Além disso, a amônia forma pontes de hidrogênio, não forças de London.
 
-4 - O gás carbônico (CO₂), quando congelado, é conhecido como gelo-seco, muito utilizado em carrinhos de sorvete e em efeitos especiais em cinema e televisão. Nessa condição, suas moléculas estão unidas por:
+4 - **O gás carbônico (CO₂), quando congelado, é conhecido como gelo-seco, muito utilizado em carrinhos de sorvete e em efeitos especiais em cinema e televisão. Nessa condição, suas moléculas estão unidas por:**
 
 a) pontes de hidrogênio.  
 b) ligações covalentes.  
@@ -3237,7 +3237,7 @@ Por outro lado, pelo CO2 ser uma molécula **apolar**, suas ligações **intermo
 > c) Errada, o gelo-seco é uma substância pura, não uma mistura.
 > d) Errada, o CO₂ sólido não forma dipolo-dipolo (é apolar; as forças são do tipo **forças de London**).
 
-9 - A ilustração a seguir representa o retículo cristalino molecular da substância cloro no estado sólido. O que mantém as moléculas de C,2 unidas nessa estrutura?
+9 - **A ilustração a seguir representa o retículo cristalino molecular da substância cloro no estado sólido. O que mantém as moléculas de C,2 unidas nessa estrutura?**
 
 ![[quim-fm-exercicio-8.png]]
 
