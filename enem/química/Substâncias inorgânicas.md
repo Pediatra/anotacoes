@@ -1931,3 +1931,352 @@ Lacuna 2. Durante tempestades com relâmpagos, forma-se óxido nítrico (NO), re
 Lacune 3. Bactérias presentes nas raízes de leguminosas transformam o nitrogênio atmosférico em _nitratos_ (NO₃⁻), ou em alguns casos em amônia, tornando-o disponível para a absorção pelas plantas. 
 >
 Lacuna 4. O processo industrial responsável pela produção de fertilizantes, conhecido como Processo Haber-Bosch, tem como primeira etapa a síntese de _amônia_ (NH₃) a partir do nitrogênio (N₂) e do hidrogênio (H₂).
+## Reações inorgânicas 
+A seguir você verá os principais tipos de reações químicas envolvendo substâncias inorgânicas: as **reações de adição**, as de **decomposição**, as de **deslocamento** e as de **dupla troca**.
+
+```ad-info
+É importante lembrar que uma reação química (ou transformação química) é um acontecimento em que uma ou mais substâncias se transformam em uma ou mais novas substâncias.
+```
+
+Para escrever corretamente uma equação química, devemos, primeiramente, escrever as fórmulas dos reagentes (antes da seta) e dos produtos (depois da seta). Tais fórmulas devem conter os índices de atomicidade corretos. Finalmente, devemos fazer o balanceamento da equação, que consiste em colocar os coeficientes da equação de tal modo que o número de átomos de certo elemento seja igual em ambos os membros.
+### Reação de adição (ou síntese)
+Os flashes fotográficos usados nos primórdios da fotografia (frequentemente retratados em filmes de época) envolviam a combustão do magnésio. Neles, uma chama desencadeava a reação entre pó de magnésio metálico e gás oxigênio (combustão do magnésio), que produz óxido de magnésio. Simultaneamente, é produzida intensa luz branca, usada para iluminar a cena fotografada.
+
+![[quim-reacao-inorganica.png]]
+
+A intensa luz branca que chega a ofuscar nossos olhos deve-se à energia liberada na reação. Alguns foguetes sinalizadores de socorro também se baseiam nesse processo. Trata-se do que os químicos chamam de reação de síntese ou adição.
+
+```ad-note
+Uma reação que apresente dois ou mais reagentes e apenas um produto é denominada **reação de adição** ou síntese.
+```
+### Reação de decomposição (ou análise)
+Ao aquecer dicromato de amônio, (NH₄)₂Cr₂O₇ sólido, ele se transforma em gás nitrogênio, trióxido de dicromo sólido e vapor de água. É liberada uma luz alaranjada característica, que por lembrar a erupção de um vulcão, fez com que essa experiência ficasse conhecida como o “vulcãozinho de dicromato”.
+
+![[quim-recao-inorganica-decomposicao.png]]
+
+```ad-note
+Uma reação que tiver um só reagente e dois ou mais produtos é classificada como **reação de decomposição** ou análise.
+```
+### Reação de deslocamento (ou simples troca)
+Adicionando pedaços de zinco em um tubo de ensaio com solução aquosa de HCl, verifica-se a liberação de bolhas de gás hidrogênio e a gradual corrosão do zinco, que vai “desaparecendo”.
+
+Esse processo pode ser equacionado da seguinte maneira:
+
+![[quim-reacao-inorganica-deslocamento.png]]
+
+Perceba que, no início, o zinco se apresentava na forma de substância simples e o hidrogênio, combinado com o cloro. Ao final, as situações se inverteram, ficando o zinco combinado e o hidrogênio na forma de substância simples. Um processo desse tipo é chamado de reação de deslocamento ou simples troca.
+
+```ad-note
+Em uma **reação de deslocamento** ou simples troca há dois **reagentes** e dois **produtos**. Entre os dois reagentes, um é **substância inorgânica simples** e o outro é uma **substância inorgânica composta**; com os produtos acontece o mesmo.
+```
+### Reação de dupla troca
+Ao misturar uma solução aquosa de nitrato de chumbo (II), Pb(NO₃)₂, e uma de iodeto de potássio, KI, ambas incolores, ocorre a reação equacionada a seguir:
+
+![[quim-reacao-inorganica-dupla-troca.png]]
+
+O sólido formado, PbI₂, é amarelo. Como ele é produzido na forma de inúmeros pequenos cristais, o líquido parece ficar amarelado. Porém, esperando vários minutos, esse sólido (precipitado) se depositará no fundo do recipiente e o líquido (sobrenadante), KNO₃ (aq), será incolor.
+
+```ad-note
+Diz-se que uma **reação de dupla troca** é quando há dois reagentes e dois produtos, todos substâncias inorgânicas compostas, e ocorre uma espécie de “troca”, conforme indicam as setas na equação do exemplo acima.
+```
+
+```ad-summary
+##### Resumindo esquematicamente
+
+- Reação de adição ou síntese:  
+    $X + Y + ... → P$
+- Reação de decomposição ou análise:  
+    $R → X + Y + ...$
+- Reação de deslocamento ou simples troca:  
+    $X + YZ → Y + XZ$  
+    ou  
+    $X + YZ → Z + YX$
+- Reação de dupla troca:  
+    $XY + ZW → ZY + XW$
+```
+### Exercícios
+
+1 - **A amônia é um composto utilizado como matéria-prima em diversos processos químicos. A obtenção da amônia pode ser expressa pela equação a seguir:**  
+
+$$
+N_2 (g) + 3 H_2 (g) \rightarrow 2 NH_3 (g)
+$$  
+**A obtenção de amônia pela reação citada pode ser classificada como uma reação de:**  
+
+a) deslocamento.  
+b) decomposição.  
+c) dupla troca.  
+d) síntese.
+
+> [!info]- Resposta 
+> **Resposta correta: d)**
+> ##### Explicação
+a) Errada, deslocamento ocorre quando um elemento substitui outro em um composto (ex.: $Zn + 2 HCl \rightarrow ZnCl_2 + H_2$).  
+b) Errada decomposição, oposto à síntese; um composto se divide em substâncias mais simples (ex.: $2 H_2O \rightarrow 2 H_2 + O_2$).  
+c) Errada, dupla troca envolve a troca de íons entre dois compostos (ex.: $NaCl + AgNO_3 \rightarrow NaNO_3 + AgCl$).
+d) Correta, Quando dois ou mais reagentes se combinam para formar um único produto.
+
+2 -  **Observe as reações I e II abaixo:**
+
+**Reação I:**  
+$$NH_3 + HCl \rightarrow NH_4Cl$$
+
+**Reação II:**  
+$$2 HgO \rightarrow 2 Hg + O_2$$
+
+**Podemos afirmar que I e II são, respectivamente, reações de:**
+
+a) síntese e análise.  
+b) simples troca e síntese.  
+c) dupla troca e análise.  
+d) análise e síntese.  
+e) dupla troca e simples troca.
+
+> [!info]- Resposta 
+> **Resposta correta: a)**
+> ##### Explicação
+Reação I:  
+Síntese (ou combinação direta). Dois reagentes ($NH_3$ e $HCl$) se combinam para formar um único produto ($NH_4Cl$). Equação típica: $A + B \rightarrow AB$.  
+>
+Reação II:
+Análise (ou decomposição). Um composto ($HgO$) se decompõe em duas substâncias mais simples ($Hg$ e $O_2$).  Equação típica: $AB \rightarrow A + B$.
+
+3 - **Um método para obter gás nitrogênio em laboratório consiste em aquecer o sal nitrito de amônio. Ao aquecê-lo, ele se transforma nos gás nitrogênio e em vapor de água. Equacione essa reação e classifique-a quanto ao seu tipo.**
+
+> [!info]- Resposta 
+> ##### Explicação
+Inicialmente escrevemos as fórmulas de reagente e produtos:
+>
+Reagente:
+>- Nitrito de amônio, $NH_4NO_2$
+>
+Produtos:
+>- Gás nitrogênio, $N_2$
+>- Vapor de água, $H_2O$
+>
+A seguir, escrevemos a equação utilizando essas fórmulas e fazemos o balanceamento:
+>
+$$NH_4NO_2 (s) \rightarrow N_2 (g) + 2H_2O (g)$$
+> 
+>Nesse processo um reagente origina mais de um produto ($R \rightarrow X + Y$). Portanto, é uma reação de **decomposição**.
+
+4 - **A partir do $NaHCO_3$, pode-se fabricar o composto X (cujo nome popular é soda ou barrilha).**
+
+$$2 NaHCO_3 (s) \xrightarrow{\Delta} X (s) + CO_2 (g) + H_2O (g)$$
+
+**Uma das aplicações de X é na obtenção de soda cáustica por meio da reação com a cal hidratada, $Ca(OH)_2$:**
+
+$$X (aq) + Ca(OH)_2 (aq) \rightarrow 2 NaOH (aq) + Y (s)$$
+
+a) Escreva a fórmula e o nome de X e Y.
+b) Classifique as duas reações de acordo com seu tipo.
+
+> [!info]- Resposta 
+> ##### Explicação
+a) O composto X é o carbonato de sódio, de fórmula $Na_2CO_3$, conhecido como barrilha ou soda. Ele é formado pela decomposição térmica do bicarbonato de sódio ($NaHCO_3$), conforme a reação:  
+$$2 NaHCO_3 \xrightarrow{\Delta} Na_2CO_3 + CO_2 + H_2O$$  
+>O composto Y é o carbonato de cálcio, de fórmula $CaCO_3$. Ele é produzido na reação entre o carbonato de sódio ($Na_2CO_3$) e a cal hidratada ($Ca(OH)_2$), resultando em hidróxido de sódio ($NaOH$) e carbonato de cálcio:  
+> $$Na_2CO_3 + Ca(OH)_2 \rightarrow 2 NaOH + CaCO_3$$
+b) a primeira reação, que envolve a decomposição do bicarbonato de sódio, é classificada como uma reação de decomposição, pois um único reagente se transforma em três produtos distintos. Já a segunda reação é uma reação de dupla troca, também chamada de metátese, onde há troca de íons entre os reagentes formando dois novos compostos.
+
+5 - **Dadas as reações abaixo, indique a opção que apresenta a ordem correta de suas classificações:**
+
+I. $Zn + 2 AgNO_3 \rightarrow 2 Ag + Zn(NO_3)_2$  
+II. $(NH_4)_2Cr_2O_7 \rightarrow N_2 + Cr_2O_3 + 4 H_2O$  
+III. $2 Mg + O_2 \rightarrow 2 MgO$  
+IV. $Cl_2 + 2 NaBr \rightarrow Br_2 + 2 NaCl$  
+V. $H_2SO_4 + Na_2CO_3 \rightarrow Na_2SO_4 + H_2O + CO_2$  
+
+a) deslocamento; decomposição; síntese; deslocamento; dupla troca.  
+b) deslocamento; síntese; decomposição; deslocamento; dupla troca.  
+c) dupla troca; decomposição; síntese; dupla troca; deslocamento.  
+d) dupla troca; síntese; decomposição; dupla troca; deslocamento.  
+e) síntese; decomposição; deslocamento; dupla troca; dupla troca.
+
+> [!info]- Resposta 
+> **Resposta correta: a)**
+> ##### Explicação
+>  Reação I: Deslocamento: O zinco (Zn) é mais reativo que a prata (Ag) e a substitui no composto.
+>
+ Reação II: Decomposição: O dicromato de amônio se decompõe em nitrogênio (N₂), óxido de cromo (Cr₂O₃) e água (H₂O).
+>
+Reação III: Síntese: Magnésio (Mg) e oxigênio (O₂) reagem para formar óxido de magnésio (MgO).
+>
+ Reação IV: Deslocamento: O cloro (Cl₂) é mais reativo que o bromo (Br₂) e o desloca do NaBr.
+>
+ Reação V: Dupla Troca: O ácido sulfúrico (H₂SO₄) e o carbonato de sódio (Na₂CO₃) trocam íons, formando novos compostos.
+### Reatividade dos metais
+Podemos executar uma experiência semelhante à que acabamos de descrever, envolvendo também outros metais. Utilizando placas de zinco, níquel e cobre e soluções de $ZnSO_4$, $NiSO_4$ e $CuSO_4$, podemos, a partir de dados experimentais, construir a tabela a seguir.
+
+![[quim-reacao-inorganica-reatividade-tabela.png]]
+
+Como podemos perceber, a placa de zinco possui maior tendência para reagir que as demais; já a de cobre possui a menor tendência das três.
+
+```ad-note
+É chamado de **reatividade** de um elemento a capacidade que ele possui para deslocar outro em uma reação de deslocamento, ou seja um elemento que é mais **reativo** é um elemento mais eletropositivo.
+```
+
+Assim, de acordo com o conceito de reatividade, temos:
+
+![[imgs/enem/química/quim-reacao-inorganica-reatividade.png]]
+
+Por meio de muitas experiências desse tipo, os químicos puderam construir uma fila de reatividade envolvendo os metais.
+
+![[quim-reacao-inorganica-reativade-2.png]]
+
+```ad-note
+A **nobreza** é o oposto de reatividade. Quanto maior a nobreza de um metal, menor é a sua tendência de deslocar outro metal em reações de deslocamento.
+```
+
+Podemos dizer, então, que a condição para que ocorra uma reação de deslocamento é que seja obedecida a fila de reatividade. Por exemplo:
+
+![[quim-reacao-inorganica-reatividade-3.png]]
+
+```ad-summary
+###### Reatividade dos não metais
+Fundamentados em experiências, os químicos construíram uma fila de reatividade para os não metais.
+
+![[quim-reacao-inorganica-reatividade-nao-metais.png]]
+
+É muito importante você perceber que as leis que regem as reações de deslocamento se resumem em duas filas de reatividade: a dos metais e a dos não metais.
+
+Lembre-se de que:
+- Um membro de uma dessas filas, se for mais reativo, desloca outro elemento,
+membro da mesma fila.
+- Um membro de uma fila nunca deslocará um membro da outra.
+
+Reações relevantes envolvendo a fila de reatividade dos metais são dos tipos:
+$$\text{metal 1} + \text{sal 1} \rightarrow \text{metal 2} + \text{sal} 2$$
+$$\text{metal 1} + \text{ácido} \rightarrow \text{H}_2 + \text{sal}$$
+Reações relevantes envolvendo a fila dos não metais são do tipo:
+$$\text{não metal 1} + \text{sal 1} \rightarrow \text{não metal 2} + \text{sal 2}$$
+
+```
+### Exercício
+
+ 1 - **Nas cinco equações químicas enumeradas abaixo, estão representadas reações de simples troca (deslocamento):**
+
+1. $Fe (s) + 2 AgNO_3 (aq) \rightarrow Fe(NO_3)_2 (aq) + 2 Ag (s)$  
+2. $3 Ni (s) + 2 AlCl_3 (aq) \rightarrow 3 NiCl_2 (aq) + 2 Al (s)$  
+3. $Zn (s) + 2 HCl (aq) \rightarrow ZnCl_2 (aq) + H_2 (g)$  
+4. $Sn (s) + 2 Cu(NO_3)_2 (aq) \rightarrow Sn(NO_3)_4 (aq) + 2 Cu (s)$  
+5. $2 Au (s) + MgCl_2 (aq) \rightarrow 2 AuCl (aq) + Mg (s)$  
+
+**Analisando essas equações, com base na ordem decrescente de reatividades (eletropositividades) mostrada a seguir:**  
+
+$$Mg > Al > Zn > Fe > Ni > H > Sn > Cu > Ag > Au$$  
+**pode-se prever que devem ocorrer espontaneamente apenas as reações de número:**  
+
+a) 3, 4 e 5  
+b) 2, 3 e 5  
+c) 1, 2 e 3  
+d) 1, 3 e 4
+
+> [!info]- Resposta 
+> **Resposta correta: d)**
+> ##### Explicação
+> Primeiro devemos entender que  a reação ocorre espontaneamente apenas se o metal reagente for mais reativo que o metal deslocado. Vamos observar cada reação:
+>
+Reação 1 ( $Fe + 2 AgNO_3 \rightarrow Fe(NO_3)_2 + 2 Ag$):
+  > - $Fe > Ag$ (Fe está à esquerda de Ag na série dada). Ocorre espontaneamente!
+>
+Reação 2  ($3 Ni + 2 AlCl_3 \rightarrow 3 NiCl_2 + 2 Al$): 
+   >- $Ni < Al$ (Ni está à direita de Al na série). Não ocorre espontaneamente, Al é mais reativo que Ni
+>
+Reação 3 ($Zn + 2 HCl \rightarrow ZnCl_2 + H_2$) : 
+  > -  $Zn > H$ (Zn está à esquerda de H na série). Ocorre espontaneamente!
+>
+Reação 4 ($Sn + 2 Cu(NO_3)_2 \rightarrow Sn(NO_3)_4 + 2 Cu$):
+  > - $Sn > Cu$ (Sn está à esquerda de Cu na série). Ocorre espontaneamente!  
+>
+Reação 5 ($2 Au + MgCl_2 \rightarrow 2 AuCl + Mg$):
+  > - $Au < Mg$ (Au está à direita de Mg na série). Não ocorre espontaneamente, Mg é mais reativo que Au.
+
+2 - **Os objetos metálicos perdem o brilho quando os átomos da superfície reagem com outras substâncias formando revestimento embaçado. A prata (Ag), por exemplo, perde o brilho quando reage com enxofre (S), formando uma mancha de sulfeto de prata (Ag₂S). A mancha pode ser removida colocando-se o objeto em uma panela de alumínio (Al) contendo água (H₂O) quente e um pouco de detergente por alguns minutos.**
+
+**Nesse processo, a reação química que corresponde à remoção das manchas é:**
+
+a) $AgS + Al \rightarrow AlS + Ag$  
+b) $AgSO_4 + Al \rightarrow AlSO_4 + Ag$  
+c) $3 Ag_2S + 2 Al \rightarrow Al_2S_3 + 6 Ag$  
+d) $3 Ag_2SO_4 + 2 Al \rightarrow Al_2(SO_4)_3 + 6 Ag$
+
+> [!info]- Resposta 
+> **Resposta correta: c)**
+> ##### Explicação
+A prata reage com enxofre para formar sulfeto de prata (Ag₂S):  
+>
+> $$4 Ag + 2 S \rightarrow 2 Ag_2S$$  
+> 
+Nesse caso, o **alumínio** é usado para remover o Ag₂S porque é mais **reativo** que a prata (segundo a série de reatividade dos metais). A reação de deslocamento ocorre:  
+>
+ > $$3 Ag_2S + 2 Al \rightarrow Al_2S_3 + 6 Ag$$  
+ >
+Nesse equação, o alumínio desloca a prata do sulfeto de prata, formando sulfeto de alumínio (Al₂S₃) e prata metálica (Ag), que recupera o brilho do objeto.
+
+3 - **Sabendo-se que a reatividade dos halogênios aumenta com o aumento da eletronegatividade, assinale a alternativa que indica possibilidade de reação química.**
+
+a) $2 NaBr + Cl_2 \rightarrow$  
+b) $2 NaBr + I_2 \rightarrow$  
+c) $2 NaCl + Br_2 \rightarrow$  
+d) $2 NaCl + I_2 \rightarrow$  
+e) $2 NaF + Cl_2 \rightarrow$
+
+> [!info]- Resposta 
+> **Resposta correta: a)**
+> ##### Explicação
+Série de reatividade dos halogênios (não metais)
+>
+  > $$F > Cl > Br > I$$  
+  > 
+Um halogênio mais reativo desloca um menos reativo de seus compostos.  
+>
+A reação ocorre se o halogênio reagente for mais reativo que o halogênio no composto.
+>
+a) Correta, Cl é mais reativo que Br → Reação ocorre.
+b) Errada, I é menos reativo que Br → Reação não ocorre.
+c) Errada, Br é menos reativo que Cl → Reação não ocorre.
+d) Errada, I é menos reativo que Cl → Reação não ocorre.
+e) Errada, Cl é menos reativo que F → Reação não ocorre.
+
+4 - **O cloro é largamente usado como antisséptico na purificação da água para consumo, ou nas piscinas, onde habitualmente é aplicado na forma de hipoclorito de sódio. Podemos testar a presença de cloro na água utilizando o iodeto de potássio. Sobre essa reação é correto afirmar:**
+
+a) Trata-se de uma reação de síntese, em que o produto obtido é o cloreto de potássio.  
+b) A ação do cloro sobre o KI indica que o cloro apresenta maior reatividade que o iodo e tem a capacidade de substituí-lo em seus compostos.  
+c) O cloreto de potássio formado é um sal insolúvel em água e, portanto, precipita.  
+d) Haverá formação da substância simples I₂, comprovando ser uma reação de análise ou decomposição.  
+e) É uma reação de dupla troca.
+
+> [!info]- Resposta 
+> **Resposta correta: b)**
+a) Errada, a reação é de deslocamento, não síntese. Além disso, o principal produto observado é o I₂, não apenas o KCl.  
+b) Correta, o cloro (mais reativo) desloca o iodo do KI, formando I₂.  
+c) Errada, KCl é um sal solúvel em água e não precipita.  
+d) Errada, a reação é de deslocamento, não análise/decomposição.  
+e) Errada, é uma simples troca (um elemento desloca outro).  
+
+5 - **Um dos problemas ambientais decorrentes da industrialização é a poluição atmosférica. Chaminés altas lançam ao ar, entre outros materiais, o dióxido de enxofre (SO₂), que pode ser transportado por muitos quilômetros em poucos dias. Dessa forma, podem ocorrer precipitações ácidas em regiões distantes, causando vários danos ao meio ambiente (chuva ácida).**  
+
+**Um dos danos ao meio ambiente diz respeito à corrosão de certos materiais. Considere as seguintes obras:**  
+
+**I. Monumento Itamarati – Brasília (mármore).**  
+**II. Esculturas do Aleijadinho – MG (pedra-sabão, contém carbonato de cálcio).**  
+**III. Grades de ferro ou alumínio de edifícios.**  
+**A ação da chuva ácida pode acontecer em:**  
+
+a) I, apenas.  
+b) I e II, apenas.  
+c) I e III, apenas.  
+d) II e III, apenas.  
+e) I, II, III.
+
+> [!info]- Resposta 
+> **Resposta correta: e)**
+> ##### Explicação
+> É designada chuva ácida a chuva ou precipitação atmosférica em que a acidez é maior do que a que resulta do dióxido de carbono (CO2) atmosférico dissolvido na água da precipitação.
+> 
+A chuva ácida é composta de ácido sulfúrico, ácido nítrico e nitroso, que são resultado de reações químicas que acontecem na atmosfera.
+>
+A chuva ácida pode acontecer nas obras citadas (monumento Itamarati – Brasília (mármore); esculturas de Aleijadinho – MG (pedra sabão, contém carbonato de cálcio) e grades de ferro ou alumínio de edifícios), pois os componentes da chuva ácida reagem com os componentes dessas construções.
+>
+O H2SO4 (ácido sulfúrico) reage com o mármore, com a pedra sabão e com o alumínio, resultando na corrosão dos mesmos. 
