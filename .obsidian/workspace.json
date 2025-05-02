@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "enem/química/Substâncias inorgânicas.md",
+                "file": "enem/química/Átomos.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Substâncias inorgânicas"
+              "title": "Átomos"
             }
           }
         ]
@@ -152,13 +152,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "enem/química/Substâncias inorgânicas.md",
+                "file": "enem/química/Átomos.md",
                 "followCursor": true,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Sumário de Substâncias inorgânicas"
+              "title": "Sumário de Átomos"
             }
           },
           {
@@ -193,21 +193,22 @@
   },
   "active": "2aab6586082883e9",
   "lastOpenFiles": [
-    "imgs/enem/química/quim-reacao-inorganica-reatividade-nao-metais.png",
-    "imgs/enem/química/quim-reacao-inorganica-reatividade-tabela.png",
-    "imgs/enem/química/quim-reacao-inorganica-reativade-2.png",
-    "imgs/enem/química/quim-reacao-inorganica-reatividade.png",
-    "imgs/enem/química/quim-reacao-inorganica-dupla-troca.png",
-    "enem/química/Substâncias inorgânicas.md",
-    "imgs/enem/química/quim-reacao-inorganica-reatividade-3.png",
-    "imgs/enem/química/quim-reacao-inorganica-reatividade-2.png",
-    "imgs/enem/química/quim-reacao-inorganica.png",
-    "imgs/enem/química/quim-reacao-inorganica-deslocamento.png",
-    "imgs/enem/química/quim-reacao-inorganica-descolamento-4.png",
-    "imgs/enem/química/quim-reacao-inorganica-descolamento-2.png",
-    "enem/química/Átomos.md",
-    "enem/química/Substâncias.md",
+    "imgs/enem/química/quim-medindo-materia-exercicio-3.png",
+    "imgs/enem/química/quim-medindo-materia-14.png",
+    "imgs/enem/química/quim-medindo-materia-13.png",
+    "imgs/enem/química/quim-medindo-materia-12.png",
+    "imgs/enem/química/quim-medindo-materia-11.png",
+    "imgs/enem/química/quim-medindo-materia-10.png",
+    "imgs/enem/química/quim-medindo-materia-exercicio-7.png",
+    "imgs/enem/química/quim-medindo-materia-exercicio-6.png",
+    "imgs/enem/química/quim-medindo-materia-exercicio-5.png",
+    "imgs/enem/química/quim-medindo-materia-exercicio-4-2.png",
+    "imgs/enem/química/quim-medindo-materia-exercicio-4.png",
     "enem/química/Conceitos básicos.md",
+    "enem/química/Átomos.md",
+    "enem/química/Substâncias inorgânicas.md",
+    "enem/química/Glossário.md",
+    "enem/química/Substâncias.md",
     "linguas/Russo.md",
     "linguas",
     "salvar/Livros.md",
@@ -238,7 +239,6 @@
     "caixa concurso/Testes.md",
     "caixa concurso/Sistemas Operacionais.md",
     "caixa concurso/Programação.md",
-    "caixa concurso/Portais Corporativos.md",
     "Sem título.canvas"
   ]
 }

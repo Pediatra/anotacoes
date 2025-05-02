@@ -1880,7 +1880,7 @@ e) MCl₅
  >  - No óxido MO₂, o oxigênio (O) tem valência -2.  
   > - Para balancear as cargas:  
   >  $$
-\text{M}^{x+} + 2 \times \text{O}^{2-} = 0 \implies x - 4 = 0 \implies x = +4
+\text{M}^{x+} + 2 \cdot  \text{O}^{2-} = 0 \implies x - 4 = 0 \implies x = +4
 > $$
   >- Portanto, o metal M tem carga +4 no óxido.
   >
@@ -1888,7 +1888,7 @@ e) MCl₅
    > - O cloro (Cl) tem valência **-1**.  
   > - Para formar um composto com M⁴⁺, são necessários **4 cloretos** para balancear a carga:
   > $$
-   \text{M}^{4+} + 4 \times \text{Cl}^{-} \rightarrow \text{MCl}_4
+   \text{M}^{4+} + 4 \cdot  \text{Cl}^{-} \rightarrow \text{MCl}_4
  > $$  
 ### Ligação covalente 
 **Ligação covalente** é basicamente o compartilhamento de **elétrons**, mas como podemos explicar a união entre **átomos** de um ou mais **elementos químicos** que precisem receber **elétrons**?
@@ -3693,3 +3693,603 @@ e) íons dispersos.
 > c) Errada, a **solvatação** ocorre, mas são os íons que conduzem corrente.
 > d) Errada, moléculas neutras (ex: açúcar) não conduzem corrente.
 > e) Correta, NaCl sólido se dissolve em água, liberando íons Na⁺ e Cl⁻ móveis.
+## Medindo a quantidade de matéria
+Átomos são pequenos demais para poder ser manipulados individualmente e, portanto, para ter sua massa determinada em balanças comuns. No final do século XIX, os cientistas começaram a desenvolver um aparelho denominado espectrômetro de massa, que permite a comparação da massa de átomos (e também de íons e de moléculas) com uma unidade previamente estabelecida.
+
+```ad-important
+O grama e seus múltiplos e submúltiplos não são as unidades mais adequadas para a massa de átomos, pois são unidades grandes demais para expressar tais grandezas. 
+```
+
+Os cientistas escolheram um dos isótopos do elemento químico carbono e atribuíram a ele o valor 12 (exato) para comparar a massa dos átomos. Como se vê, foi escolhido algo inerente ao mundo microscópico, algo da mesma ordem de grandeza da massa dos átomos. Por uma simples questão de conveniência, que tem a ver com o complexo funcionamento dos espectrômetros de massa, foi escolhido como unidade de massa atômica (u) um doze avos da massa do isótopo do carbono de número de massa 12, isto é, 1/12 da massa do ¹²C. Essa unidade de medida para a massa de átomos é denominada unidade de massa atômica e é simbolizada por u.
+### Massa atômica
+Os átomos de um elemento químico apresentam o mesmo número atômico, isto é, o mesmo número de prótons. Alguns elementos químicos existem na natureza sob a forma de mais de um isótopo, sendo que os isótopos de um elemento têm o mesmo número de prótons (pois são do mesmo elemento), mas diferentes números de nêutrons, o que acarreta diferentes números de massa.
+
+```ad-info
+Massa atômica é a massa de um átomo. Por questão de conveniência, ela costuma ser expressa em unidades de massa atômica (u).
+```
+
+De todos os elementos químicos conhecidos, apenas vinte existem na natureza sob a forma de um único tipo de átomo, ou seja, esses vinte elementos não apresentam dois ou mais isótopos naturais. Entre eles estão o flúor, o sódio, o alumínio, o fósforo, o manganês, o cobalto, o iodo e o ouro.
+
+```ad-note
+O fato de a massa de um átomo de flúor ser 19 u significa que seus átomos têm massa que é 19 vezes maior que 1/12 da massa de um átomo de ¹²C. Analogamente, um átomo de sódio tem massa 23 vezes maior que 1/12 da massa do ¹²C. E assim por diante.
+```
+
+```ad-summary
+##### Não confunda número de massa com **massa atômica**
+Evidências experimentais mostraram que a massa do próton e a do nêutron são próximas, mas não exatamente iguais, e que a massa do elétron é significativamente menor que ambas:
+
+Massa de um próton = 1,007276 u  
+Massa de um nêutron = 1,008665 u  
+Massa de um elétron = 0,000549 u
+
+Os elétrons contribuem muito pouco para a massa dos átomos. Prótons e nêutrons, por outro lado, apresentam contribuições significativas. O número de massa, simbolizado por A, que corresponde à soma dos números de prótons e de nêutrons de um átomo. Esse número é inteiro, maior que zero e não possui unidade.
+
+Já massa atômica é a massa de um átomo. Para expressar corretamente essa grandeza, devemos utilizar um número acompanhado de uma unidade, a unidade de massa atômica (u). A massa atômica quase sempre não tem valor inteiro.
+
+Então não confunda número de massa com massa atômica.
+
+No caso do alumínio (²⁷Al), por exemplo, o número de massa é 27 e a massa atômica é 26,981538 u.
+
+A massa atômica não é exatamente igual ao número de massa porque as massas de prótons e nêutrons não são exatamente 1 u e porque existe a pequena contribuição dos elétrons. 
+
+O importante é você perceber que quando o valor da massa de um átomo, expresso em u, é arredondado para o número inteiro mais próximo, o resultado desse arredondamento coincide numericamente com o número de massa.
+```
+### Massa molecular
+A **massa molecular** de uma substância é o nome dado à massa de uma molécula dessa substância. Por conveniência, essa grandeza é geralmente expressa em unidades de massa atômica (u).
+
+```ad-important
+A massa de uma molécula é calculada somando-se as massas dos átomos que a constituem.
+```
+
+Vejamos, por exemplo, os casos de água, amônia e dióxido de enxofre. Cada molécula de água, substância de fórmula molecular H₂O, é formada por dois átomos de hidrogênio (de 1 u cada) e um átomo de oxigênio (de 16 u). Assim, a massa molecular da água é 18 u.
+
+Cada molécula de amônia, substância de fórmula molecular NH₃, é formada por um átomo de nitrogênio (de 14 u) e três átomos de hidrogênio (de 1 u cada). Assim, a massa molecular da amônia é 17 u.
+### Contando entidades
+Uma única entidade do mundo microscópico da Química (átomo, molécula, fórmula unitária, íon etc.) tem dimensões tão pequenas que se torna impossível vê-la e consequentemente manipulá-la. Por essa razão, os químicos acharam conveniente especificar o número de entidades presentes em uma amostra não em termos individuais, mas preferencialmente na forma de "pacotes" contendo um determinado número de entidades. Dessa forma, ao invés de raciocinar no mundo microscópico, estaremos voltados ao mundo macroscópico.
+
+Boa parte das explicações para os fenômenos químicos envolve conhecer o número das entidades microscópicas participantes, tais como átomos, moléculas, íons e fórmulas unitárias.
+
+É importante ressaltar neste momento que massa não é uma grandeza que nos informa de modo direto o número de entidades microscópicas presentes em uma amostra. Observe o exemplo a seguir:
+
+Duas amostras, ambas de massa 414 g dos líquidos incolores água e álcool comum ($C_2H_6O$), encontram-se nas fotos abaixo. 
+
+![[quim-medindo-materia-alcool.png]]
+
+Como a densidade da água é 1,0 g/cm³ e a do álcool é 0,8 g/cm³, o volume da amostra de água é menor.
+
+O fato de essas amostras terem a mesma massa não garante que o número de entidades (neste caso, moléculas) em ambas seja o mesmo. Cálculos mostram que no caso da água existem 13,8 × 10²⁴ moléculas no interior do frasco e, no caso do álcool, temos 5,4 × 10²⁴ moléculas.
+
+Em geral, a uma mesma massa de cada uma das diferentes substâncias estão associados números distintos de entidades que compõem essas diferentes substâncias. Isso porque cada uma dessas entidades (átomos, moléculas, íons, fórmulas unitárias etc.) tem massas distintas.
+
+```ad-info
+Expressar a quantidade de entidades microscópicas presentes em uma amostra de matéria é muito importante, pois permite comparar amostras, interpretar fenômenos e fazer previsões acerca desses fenômenos.
+```
+
+Iremos a seguir, com auxílio de um exemplo, observar por que é importante para o químico trabalhar com um número fixo de entidades e as previsões e cálculos que podem ser efetuados em decorrência desse conhecimento. Para neutralizar o ácido derramado será feita a adição de cal viva ($CaO$). Assim, cabe aos químicos calcular: quantas toneladas de cal viva serão necessárias para neutralizar completamente o ácido derramado?
+
+A equação que representa a neutralização do ácido pela cal é descrita a seguir:
+
+$$1\ H_2SO_4 + 1\ CaO \rightarrow 1\ CaSO_4 + 1\ H_2O$$
+
+A equação química balanceada que representa a neutralização do $H_2SO_4$ pelo $CaO$ indica que, para neutralizar uma entidade $H_2SO_4$, é necessário uma entidade $CaO$ produzindo uma entidade $CaSO_4$ e uma entidade $H_2O$.
+
+![[quim-medindo-materia-1.png]]
+
+Mas como é possível relacionar os números de entidades (micro) com as quantidades medidas em laboratórios (macro)? Ou, então, como saber o número de entidades $H_2SO_4$ presentes em 19,6 toneladas do ácido derramado?
+
+Apesar de não podermos contar átomos ou moléculas diretamente, podemos determinar indiretamente seus números se conhecermos as massas dos átomos, moléculas ou fórmulas unitárias. 
+
+Consultando a tabela periódica, concluímos que a massa de uma molécula do $H_2SO_4$ é igual a 98 u e que a massa de uma fórmula unitária do $CaO$ é 56 u.
+####  Relacionando u com grama
+Conhecemos a massa de uma única entidade do $H_2SO_4$ (98 u) e de uma entidade do $CaO$ (56 u). Portanto, estamos raciocinando com grandezas microscópicas. Precisamos sair do mundo micro (uma entidade) e entrar no mundo macro, ou seja, descobrir quantas entidades $H_2SO_4$ estão presentes em 19,6 toneladas do referido ácido para sabermos o número de entidades $CaO$ a serem adicionadas para neutralizar completamente o ácido derramado.
+
+```ad-important
+Nossa situação é importante saber como relacionar o mundo micro (u) com o mundo macro (g, kg, t etc.), ou vice-versa.
+```
+
+Qualquer amostra de uma substância contém um número extremamente grande de entidades da qual a substância é feita. Essa amostra está associada a uma determinada massa, expressa em gramas. Torna-se então necessário um fator de conversão que relacione u (medida de massa para entidades individuais - micro) com grama (medida de massa para um grande número de entidades - macro).
+
+O número 6 × 10²³ (obtido por meio de numerosos experimentos com gases, cristais e processos de galvanoplastia) é o fator de conversão entre o grama (g), que corresponde ao nível macroscópico e a unidade de massa atômica (u), que corresponde ao nível microscópico.
+
+$$1\ g = 6 \cdot 10^{23}\ u$$
+
+Ele será bastante útil para relacionar massas de entidades microscópicas com massas medidas macroscopicamente, o que auxilia os químicos a realizar cálculos e previsões.
+#### Quantidade de matéria (n)
+A tabela abaixo mostra as sete unidades de base do Sistema Internacional de Unidades (SI).
+
+| Grandeza               | Unidade      | Símbolo |
+|------------------------|--------------|---------|
+| Comprimento            | metro        | m       |
+| Massa                  | quilograma   | kg      |
+| Tempo                  | segundo      | s       |
+| Corrente elétrica      | ampère       | A       |
+| Temperatura            | kelvin       | K       |
+| Intensidade luminosa   | candela      | Cd      |
+| Quantidade de matéria  | mol          | mol     |
+
+Dentre as grandezas mencionadas, a Química tem particular interesse na grandeza quantidade de matéria.
+
+Vimos anteriormente que o número $6 \cdot 10²³$ será bastante útil para relacionar massas de entidades microscópicas com massas medidas macroscopicamente.
+
+Qual será então a importância da grandeza quantidade de matéria nesse contexto?
+
+Para que os químicos possam especificar o número de átomos em uma amostra não como átomos individuais, mas preferencialmente em termos de "pacotes" contendo um determinado número de átomos, foi criada uma grandeza denominada "quantidade de matéria". Enfim, uma grandeza que possibilita aos químicos trabalhar com um número fixo de entidades!
+
+Desse modo, a unidade SI para a grandeza quantidade de matéria é o **mol**.
+
+```ad-important
+Lembre-se de que o quilograma é o padrão da grandeza massa. Já o mol é o padrão da grandeza quantidade de matéria.
+```
+
+O mol é definido como "a quantidade de matéria de um sistema que contém tantas unidades elementares quantos forem os átomos contidos em 0,012 kg (12 g) de carbono-12".
+
+E quantos são os átomos contidos em 0,012 kg de carbono-12?
+
+Observe neste exemplo que utiliza o elemento carbono a importância de relacionar u com g:
+
+$$1\ g = 6 \cdot 10^{23}\ u$$
+$$12\ g\ \text{de C} = \text{? átomos}$$
+
+ A tabela periódica nos informa que: ma(C) 5 = u (1 átomo)
+
+![[imgs/enem/química/quim-medindo-materia-2.png]]
+
+Resposta: 12 g (ou 0,012 kg) correspondem à massa de $6 \cdot 10^{23}$ átomos de C.
+
+```ad-summary
+###### Quantidade de matéria é expressa na unidade mol
+O mol é definido como "a quantidade de matéria de um sistema que contém $6 \cdot 10^{23}$ unidades elementares".
+
+Pela definição, qualquer quantidade de matéria que contenha $6 \cdot 10^{23}$ entidades elementares é 1 mol. Assim, pode-se ter 1 mol de átomos, de moléculas, de íons, de prótons, de elétrons, ou de outras partículas etc.
+
+O emprego desta definição de mol tornou obsoletos e colocou em desuso diversos termos, como número de mols, número de moléculas-grama, número de átomos-grama (todos substituídos por quantidade de matéria).
+```
+#### Átomos: do micro ao macro
+O que acontece quando substituímos **u** por **grama**?  
+Usando o mesmo raciocínio empregado anteriormente, vamos resolver um problema:  
+###### Problema 1 
+Determine o número de átomos em $27 \, \text{g}$ de alumínio.  
+
+$$
+27 \, \text{g de } A\ell = \text{? átomos}
+$$
+
+A tabela periódica nos informa que:   $\text{ma}(A\ell) = 27 \, \text{u} \, (\text{1 átomo})$
+
+![[quim-medindo-materia-4.png]]
+
+Resposta:  $27 \, \text{g}$ correspondem à massa de $6 \cdot 10^{23}$ átomos de $A\ell$.  
+###### Problema 2  
+Determine o número de átomos em $40 \, \text{g}$ de cálcio.  
+
+$$
+40 \, \text{g de } Ca = \text{? átomos}
+$$
+A tabela periódica nos informa que:  $\text{ma}(Ca) = 40 \, \text{u} \, (\text{1 átomo})$
+
+![[quim-medindo-materia-2 1.png]]
+
+Resposta: $40 \, \text{g}$ correspondem à massa de $6 \cdot 10^{23}$ átomos de $Ca$.  
+
+```ad-note
+Quando substituímos u por **grama**, o valor numérico da massa atômica, que correspondia à massa de um átomo, passa a corresponder à massa de 1 mol de átomos ($6 \cdot 10^{23}$ átomos).
+```
+#### Moléculas: do micro ao macro
+De modo análogo aos cálculos feitos envolvendo átomos, vejamos alguns exemplos envolvendo moléculas:
+###### Molécula de água
+Determine o número de moléculas em $18 \, \text{g}$ de água.
+$$
+18 \, \text{g de } H_2O = ? \, \text{moléculas}
+$$
+Dados da tabela periódica: $m(H_2O) = 18 \, \text{u} \, (1 \, \text{molécula})$
+
+![[quim-medindo-materia-5.png]]
+
+Resposta: $18 \, \text{g}$ correspondem à massa de $6 \cdot 10^{23}$ moléculas de $H_2O$.
+###### Molécula de sacarose
+Determine o número de moléculas em $342 \, \text{g}$ de sacarose.
+$$
+342 \, \text{g de } C_{12}H_{22}O_{11} = \text{? moléculas}
+$$
+Dados da tabela periódica: $m(C_{12}H_{22}O_{11}) = 342 \, \text{u} \, (1 \, \text{molécula})$
+
+![[quim-medindo-materia-6.png]]
+
+Resposta: $342 \, \text{g}$ correspondem à massa de $6 \cdot 10^{23}$ moléculas de $C_{12}H_{22}O_{11}$.
+###### Molécula de ácido sulfúrico
+Determine o número de moléculas em $98 \, \text{g}$ de ácido sulfúrico.
+
+$$
+98 \, \text{g de } H_2SO_4 = \text{? moléculas}
+$$
+
+Dados da tabela periódica: $m(H_2SO_4) = 98 \, \text{u} \, (1 \, \text{molécula})$
+
+![[quim-medindo-materia-7.png]]
+
+Resposta:  $98 \, \text{g}$ correspondem à massa de $6 \cdot 10^{23}$ moléculas de $H_2SO_4$.
+
+```ad-note
+Quando substituímos **u** por **grama**, o valor numérico da massa molecular, que correspondia à massa de uma molécula, passa a corresponder à massa de 1 mol de moléculas ($6 \cdot 10^{23}$ moléculas).
+
+Exemplos
+- $m(H_2O) = 18 \, \text{u}$ → massa de 1 molécula de água  
+  $18 \, \text{g de } H_2O$ → massa de $6 \cdot 10^{23}$ moléculas de água
+- $m(C_{12}H_{22}O_{11}) = 342 \, \text{u}$ → massa de 1 molécula de sacarose  
+  $342 \, \text{g de } C_{12}H_{22}O_{11}$ → massa de $6 \cdot 10^{23}$ moléculas de sacarose
+```
+###### Exemplo prático
+Na foto abaixo se encontram quatro substâncias dentro dos béqueres. A massa de cada uma delas corresponde à respectiva massa molecular expressa em gramas.
+
+![[imgs/enem/química/quim-medindo-materia-8.png]]
+
+Cada uma dessas amostras contém uma quantidade de substância correspondente a 1 mol, conforme mostrado a seguir:
+- 18 g de água → um mol de moléculas H₂O → 6 × 10²³ moléculas H₂O
+- 46 g de álcool → um mol de moléculas C₂H₆O → 6 × 10²³ moléculas C₂H₆O
+- 180 g de glicose → um mol de moléculas C₆H₁₂O₆ → 6 × 10²³ moléculas C₆H₁₂O₆
+- 342 g de sacarose → um mol de moléculas C₁₂H₂₂O₁₁ → 6 × 10²³ moléculas C₁₂H₂₂O₁₁
+
+```ad-summary
+##### Aplicação a íons e outros casos
+Enfim, agora é possível generalizar o que acontece quando substituímos u por grama, seja para átomos, moléculas ou íons:
+
+Se, partindo da massa de 1 átomo, 1 molécula ou 1 íon (uma entidade) expressa em u, substituirmos u por g, mantendo o mesmo número, passaremos a não ter mais a massa de um só átomo, molécula ou íon (entidade), mas sim de 1 mol ($6 \cdot  10^{23}$) de átomos, moléculas ou íons.
+
+A massa de um único átomo de alumínio (Al) é $27\ \text{u}$ e a massa de $6 \cdot 10^{23}$ átomos de alumínio é $27\ \text{g}$.
+
+A massa de uma única molécula de amônia ($NH_3$) é $17\ \text{u}$ e a massa de $6 \cdot 10^{23}$ moléculas de amônia é $17\ \text{g}$.
+
+A massa de um único íon sulfeto ($S^{2-}$) é $32\ \text{u}$ e a massa de $6 \cdot 10^{23}$ íons sulfeto é $32\ \text{g}$.
+
+A massa de um par de íons $[Na^+] [Cl^-]$ (também chamada massa fórmula do NaCl) é $58{,}5\ \text{u}$ e a massa de $6 \cdot 10^{23}$ pares de íons $[Na^+] [Cl^-]$ é $58{,}5\ \text{g}$.
+
+```
+#### Do nível atômico ao microscópico 
+Vamos usar como exemplo a substância água, constituída por moléculas $H_2O$.  
+Uma molécula de água, $H_2O$, é formada por dois átomos de hidrogênio e um átomo de oxigênio. Em nível laboratorial (macroscópico), trabalha-se com 1 mol de moléculas de $H_2O$ (18 g), que é constituído por 2 mol de átomos de hidrogênio (2 g) e 1 mol de átomos de oxigênio (16 g). Observe a comparação no esquema abaixo: (em gramas)
+
+![[quim-medindo-materia-8 1.png]]
+
+Agora que aprendemos a relacionar massas do nível microscópico com massas do nível macroscópico, podemos colocar em prática nossos conhecimentos para resolver o exemplo citado na página 413, que envolve a neutralização do ácido sulfúrico derramado na estrada.
+
+A neutralização do ácido pela cal é representada pela seguinte equação:
+
+![[quim-medindo-materia-9.png]]
+
+Através desses cálculos, os químicos chegam à conclusão de que, para neutralizar 19,6 t de $H_2SO_4$, são necessárias 11 ,2 t de $CaO$(s).
+### Constante de Avogadro 
+Por menores que sejam, amostras de substâncias são formadas por um número extremamente grande de entidades. A essas amostras está associada uma determinada quantidade de matéria.
+
+Existe uma relação de proporcionalidade entre o número de entidades na amostra e sua quantidade de matéria. Dessa forma podemos afirmar que, para qualquer amostra de uma determinada substância, seu número de entidades (N) é diretamente proporcional à sua quantidade de matéria (n).
+
+A constante de proporcionalidade que permite a passagem de quantidade de matéria para número de entidades é conhecida como Constante de Avogadro ($N_A$).
+
+$$N = N_A \cdot n$$
+
+```ad-important
+A Constante de Avogadro ($N_A$) é o número de entidades (N) por unidade de quantidade de matéria (n).
+```
+
+Seu valor pode ser medido experimentalmente e o valor obtido é $6,02214 \cdot 10^{23}\ \text{mol}^{-1}$. Ela é frequentemente aproximada para $6 \cdot 10^{23}$.
+
+```ad-note
+Conhecendo-se a Constante de Avogadro e as massas atômicas, é possível calcular não apenas o número de átomos em uma amostra, mas também o número de moléculas ou de íons, quando for o caso (substância molecular ou substância iônica).
+```
+
+```ad-summary
+###### Constante de Avogadro e quantidade de matéria
+Em Química a quantidade expressa pela Constante de Avogadro ($N_A$) aparece com muita frequência. Uma amostra de substância que contenha um número de partículas unitárias igual à Constante de Avogadro de partículas unitárias contém uma quantidade de matéria de partículas unitárias correspondente a 1 mol.
+
+Assim, um mol de entidades corresponde a um número de entidades igual à Constante de Avogadro:
+
+- Um mol de átomos de carbono são $6 \cdot 10^{23}$ átomos de carbono.
+- Um mol de átomos de alumínio são $6 \cdot 10^{23}$ átomos de alumínio.
+- Um mol de moléculas de água são $6 \cdot 10^{23}$ moléculas de água.
+- Um mol de íons sódio são $6 \cdot 10^{23}$ íons sódio.
+- Um mol de elétrons são $6 \cdot 10^{23}$ elétrons.
+```
+### Massa molar
+Para qualquer amostra de substância, sua massa (m) é diretamente proporcional a sua quantidade de matéria (n), isto é: 
+$$
+m = M \cdot n
+$$
+A constante de proporcionalidade que permite calcular a massa de certa quantidade de matéria é chamada “massa molar” (M). A massa molar é a massa da substância por unidade de quantidade de matéria.
+
+Assim: $m = M \cdot n$ ou então $M = \frac{m}{n}$
+
+Exemplos:
+$m(CO_2) = 44,0 \text{ u}$
+Para $n = 1 \text{ mol}$, $m = 44 \text{ g}$
+$M = \frac{m\text{(gramas)}}{n\text{(mol)}}$
+$M(CO_2) = 44,0 \text{ g/mol}$
+Significado: 1 mol de $CO_2$ tem massa de 44,0 g.
+
+Massa molar de determinada entidade química é a massa de um mol de unidades dessa entidade química. A massa molar pode se referir a moléculas, átomos, íons, elétrons etc.:
+
+- Para **elemento químico** – é a massa de um mol de átomos desse elemento.
+  $M(C) = 12 \text{ g/mol}$;    $M(Ar) = 27 \text{ g/mol}$
+
+- Para substância molecular – é a massa de um mol de moléculas dessa substância.
+  $M(H_2O) = 18 \text{ g/mol}$;    $M(NH_3) = 17 \text{ g/mol}$
+
+- Para íon – é a massa de um mol desse íon.
+  $M(Na^+) = 23 \text{ g/mol}$
+
+- Para substância iônica – é a massa de um mol de fórmulas, ou seja, o conjunto de íons que figura na fórmula usada para representar a substância.
+  $M \text{ }[Na^+][Cl^-] = 58,5 \text{ g/mol}$;    $M \text{ }[Ca^{2+}][F^-]_2 = 78,1 \text{ g/mol}$
+
+- Para substância metálica – é a massa de um mol de átomos do elemento metálico na forma de substância.
+  $M(Ar) = 27 \text{ g/mol}$
+### Exercícios
+
+1 - **Imagine que um copo contenha $\text{252 g}$ de água e esse conteúdo seja bebido por uma pessoa em 7 goles. Quantas moléculas são engolidas em um único gole?**
+
+ > [!info]- Resposta  
+> ##### Explicação
+Primeiro, vamos descobrir a massa molar da molécula de água: 
+>- O número 6 × 10²³ corresponde aproximadamente ao **número de Avogadro** (NA = 6,022 × 10²³ mol⁻¹) 
+>- A massa molar da água (H₂O) é 18 g/mol, pois: $$M(H_2O) = 2 \cdot M(H) + M(O) = 2 \cdot 1 \text{ g/mol} + 16 \text{ g/mol} = 18 \text{ g/mol}$$ 
+>- Portanto, 1 mol de água (H₂O) = 18 g de água contém $6 \cdot 10^{23}$ moléculas.
+>
+Sabendo que a cada gole contém 36 gramas, pois $\frac{252}{7} = 36$
+>$$
+\begin{align}
+&\text{Massa} && \text{Número de moléculas} \\
+&18 \text{ g} && 6 \cdot 10^{23} \text{ moléculas} \\
+&36 \text{ g} && x
+\end{align}
+>$$
+>$$x = \frac{36 \text{ g} \cdot 6 \cdot 10^{23} \text{ moléculas}}{18 \text{ g}} = \frac{36 \cdot 6 \cdot 10^{23}}{18} \text{ moléculas}$$
+>$$x = \frac{36 \cdot 6}{18} \cdot 10^{23} \text{ moléculas} = 12 \cdot 10^{23} \text{ moléculas}$$
+>$$\boxed{x = 1,2 \cdot 10^{24} \text{ moléculas}}$$
+
+2 - **Em uma amostra de $4,3\ \text{g}$ de hexano ($\text{C}_6\text{H}_{14}$) encontramos aproximadamente:**
+
+a) $6,00 \cdot 10^{23}$ moléculas e $1,20 \cdot 10^{25}$ átomos  
+b) $3,00 \cdot 10^{22}$ moléculas e $6,00 \cdot 10^{23}$ átomos  
+c) $3,00 \cdot 10^{23}$ moléculas e $6,00 \cdot 10^{24}$ átomos  
+d) $1,50 \cdot 10^{23}$ moléculas e $3,00 \cdot 10^{24}$ átomos  
+e) $1,50 \cdot 10^{22}$ moléculas e $3,00 \cdot 10^{23}$ átomos  
+
+ > [!info]- Resposta  
+> **Resposta Correta: b)**
+> ##### Explicação
+Vamos descobrir a massa molar da molécula de hexano:
+$$M(\text{C}_6\text{H}_{14}) = 6 \cdot M(\text{C}) + 14 \cdot M(\text{H})$$
+$$M(\text{C}_6\text{H}_{14}) = 6 \cdot 12\ \text{g/mol} + 14 \cdot 1\ \text{g/mol} = 86\ \text{g/mol}$$
+$$n = \frac{m}{M} = \frac{4,3\ \text{g}}{86\ \text{g/mol}} = 0,05\ \text{mol}$$
+$$\text{Nº de moléculas} = n \cdot NA = 0,05 \cdot 6 \cdot 10^{23} = 3 \cdot 10^{22} \text{ moléculas}$$
+Cálculo do número de átomos por molécula ($C_6H_{14}$ tem 20 átomos):
+$$\text{Átomos totais} = 3 \cdot  10^{22} \cdot  20 = 6 \cdot  10^{23} \text{ átomos}$$
+$$\boxed{\ 3,00 \cdot 10^{22}\ \text{moléculas e}\ 6,00 \cdot 10^{23}\ \text{átomos}}$$
+
+3 - **Num balão de vidro, com dois litros de capacidade e hermeticamente fechado, encontra-se uma mistura gasosa constituída por hidrogênio ($\text{H}_2$), hélio (He) e oxigênio ($\text{O}_2$), na qual existe $0,32\ \text{g}$ de cada gás componente, nas condições ambientais de temperatura e pressão. A reação de formação de água é iniciada por meio de uma faísca elétrica produzida no interior do balão.**
+
+**Antes de acontecer a reação de síntese da água, as quantidades de matéria dos componentes hidrogênio ($\text{H}_2$) e oxigênio ($\text{O}_2$) na mistura inicial são, respectivamente, iguais a:** 
+
+a) $1,0 \cdot 10^{-2}$ e $8,0 \cdot 10^{-2}\ \text{mol}$  
+b) $8,0 \cdot 10^{-2}$ e $1,6 \cdot 10^{-1}\ \text{mol}$  
+c) $1,6 \cdot 10^{-1}$ e $1,0 \cdot 10^{-2}\ \text{mol}$  
+d) $1,0 \cdot 10^{-2}$ e $1,6 \cdot 10^{-2}\ \text{mol}$
+
+ > [!info]- Resposta  
+> **Resposta Correta: b)**
+> ##### Explicação
+Hidrogênio ($\text{H}_2$): $M(\text{H}_2) = 2 \cdot 1 = 2\ \text{g/mol}$
+Oxigênio ($\text{O}_2$): $M(\text{O}_2) = 2 \cdot 16 = 32\ \text{g/mol}$
+$$\text{H}_2 = \frac{0,32\ \text{g}}{2\ \text{g/mol}} = 0,16\ \text{mol} = 1,6 \cdot 10^{-1}\ \text{mol}$$
+$$\text{O}_2 = \frac{0,32\ \text{g}}{32\ \text{g/mol}} = 0,01\ \text{mol} = 1,0 \cdot 10^{-2}\ \text{mol}$$
+$$\boxed{\ 1,6 \cdot 10^{-1}\ \text{mol (H}_2\text{) e } 1,0 \cdot 10^{-2}\ \text{mol (O}_2\text{)}}$$
+
+4 -  **O silício é um semimetal utilizado na elaboração de componentes eletrônicos. Calcule quantos átomos de silício há em um cristal de 56 mg desse elemento.**
+
+ > [!info]- Resposta  
+> ##### Explicação
+Uma das utilidades da Constante de Avogadro é no cálculo do número de átomos numa amostra, como ilustra a resolução deste exercício. Para a resolução montaremos uma regra de três, na qual colocaremos a massa de $56 \text{ mg}$ convertida para gramas, ou seja, $5,6 \cdot 10^{-2} \text{ g}$. Essa conversão pode ser feita, por exemplo, por meio da seguinte regra de três:
+>
+![[quim-medindo-materia-exercicio-4.png]]
+>
+Consultando a tabela periódica obtemos a massa atômica do silício, $28 \text{ u}$. Portanto, a massa de um mol desse elemento é $28 \text{ g}$ e podemos aplicar a ideia de que em $28 \text{ g}$ há $6,0 \cdot 10^{23}$ átomos.
+>
+![[quim-medindo-materia-exercicio-4-2.png]]
+
+5 -  **O cloreto de vinila ($C_{2}H_{3}Cl$) é matéria-prima para muitos plásticos (PVC) e fibras. Em $93,75 \text{ g}$ de cloreto de vinila, determine:**
+
+(Constante de Avogadro $6 \cdot 10^{23} \text{ mol}^{-1}$)
+
+a) a quantidade em mol de moléculas de $C_{2}H_{3}Cl$
+b) a quantidade em mol de átomos de carbono
+c) o número de átomos de carbono
+
+ > [!info]- Resposta  
+> ##### Explicação
+![[quim-medindo-materia-exercicio-5.png]]
+
+6 - **Na preparação de um material semicondutor, uma matriz de silício ultrapuro é impurificada com quantidades mínimas de gálio através de um processo conhecido como dopagem. Numa preparação, foi utilizada uma massa de 2,8 kg de silício ultrapuro, contendo $6,0 \cdot 10^{25}$ átomos de Si. Nesta matriz, foi introduzido gálio suficiente para que o número de seus átomos fosse igual a 0,01% do número de átomos de silício. Sabendo que a massa molar do gálio vale 70 g/mol e a constante de Avogadro empregada na preparação é igual a $6,0 \cdot 10^{23} \text{ mol}^{-1}$, a massa de gálio empregada na preparação é igual a:** 
+
+a) $70 \text{ g}$. 
+b) $0,70 \text{ g}$. 
+c) $0,0281 \text{ g}$. 
+d) $7,0 \cdot 10^{-1} \text{ g}$. 
+e) $7,0 \cdot 10^{-3} \text{ g}$.
+
+ > [!info]- Resposta  
+> **Resposta Correta: d)**
+> ##### Explicação
+![[quim-medindo-materia-exercicio-6.png]]
+
+7 - **O acetileno, $C_2H_2$, é um gás usado como combustível em maçaricos para soldar metal. Um serralheiro comprou um bujão de acetileno, no qual há 13 kg dessa substância.**
+
+a) Qual é a massa molar do acetileno?
+b) Quantas moléculas do gás o serralheiro comprou?
+
+ > [!info]- Resposta  
+> ##### Explicação
+a) Consultando a tabela periódica, temos que a massa atômica do carbono é 12 u e a do hidrogênio é 1 u. Assim, a massa molecular do $C_2H_2$ é 26 u, o que implica uma massa molar de 26 g/mol.
+>
+b) Em 26 g de $C_2H_2$ (1 mol) há $6,0 \cdot 10^{23}$ moléculas.
+>
+Para calcular o número de moléculas em 13 kg (13.000 g) de acetileno:
+>
+> $$n = \frac{m}{M} = \frac{13.000 \text{ g}}{26 \text{ g/mol}} = 500 \text{ mol}$$
+>
+$\text{Número de moléculas} = 500 \text{ mol} \cdot  6,0 \cdot 10^{23} \text{ moléculas/mol} = 3,0 \cdot 10^{26} \text{ moléculas}$
+>
+Portanto, o serralheiro comprou $3,0 \cdot 10^{26}$ moléculas de acetileno.
+>
+Assim:
+>
+![[quim-medindo-materia-exercicio-7.png]]
+### Mol e a composição das coisas
+A fórmula molecular da água, $H_2O$, indica que cada molécula dessa substância é constituída por dois átomos de hidrogênio e um de oxigênio, totalizando três átomos.
+
+Em duas moléculas de água há quatro átomos de hidrogênio e dois átomos de oxigênio, num total de seis átomos.
+Em dez moléculas de água há vinte átomos de hidrogênio e dez átomos de oxigênio, totalizando trinta átomos.
+Em $6 \cdot  10^{23}$ moléculas de água há $2 \cdot  6 \cdot  10^{23}$ átomos de hidrogênio e $1 \cdot  6 \cdot  10^{23}$ átomos de oxigênio, perfazendo um total de $3 \cdot  6 \cdot  10^{23}$ átomos.
+
+Como já sabemos, a quantidade de $6 \cdot  10^{23}$ entidades corresponde a um mol dessas entidades. Assim, podemos dizer que:
+
+Em 1 mol de moléculas de $H_2O$ há dois mols de átomos de hidrogênio e um mol de átomos de oxigênio, totalizando três mols de átomos.
+
+![[quim-medindo-materia-10.png]]
+
+```ad-note
+Em um mol de água (18 g) há $6 \cdot  10^{23}$ moléculas, cada uma formada por dois átomos de hidrogênio e um de oxigênio. Então há, nesse mol de água, $2 \cdot  6 \cdot  10^{23}$ átomos de hidrogênio e $6 \cdot  10^{23}$ átomos de oxigênio. Há, no total, $3 \cdot  6 \cdot  10^{23}$ átomos.
+```
+
+Considerando a fórmula de outras substâncias, podemos tirar conclusões análogas:
+
+Em 1 mol de moléculas de álcool comum, $C_2H_6O$, há dois mols de átomos de carbono, seis mols de átomos de hidrogênio e um mol de átomos de oxigênio, totalizando nove mols de átomos.
+Em 1 mol de cloreto de sódio, $[Na^+][Cl^-]$, há um mol de íons sódio, $Na^+$, e um mol de íons cloreto, $Cl^-$, totalizando dois mols de íons.
+Em 1 mol de fosfato de cálcio, $[Ca^{2+}]_3[PO_4^{3-}]_2$, há três mols de íons cálcio, $Ca^{2+}$, e dois mols de íons fosfato, $PO_4^{3-}$, totalizando cinco **mols** de íons.
+#### Porcentagem em massa de um elemento numa substância
+O conhecimento das massas atômicas (e, por consequência, das massas molares) permite estabelecer relação entre a massa de cada um dos elementos presentes em determinada substância, sendo conhecida sua fórmula química.
+
+Imagine que o químico encarregado de uma indústria que obtém cobre a partir de seus minérios tenha a possibilidade de comprar, por um mesmo preço por tonelada, o minério calcopirita ($CuFeS_2$) ou o minério calcosita ($Cu_2S$).
+
+Qual dos minérios ele deve preferir, do ponto de vista do custo?
+
+A massa molar de $CuFeS_2$ é 183,5 g e, pela fórmula, percebemos que em um mol dessa substância há um mol de cobre (63,5 g). Assim:
+
+![[quim-medindo-materia-11.png]]
+
+A massa molar de $Cu_2S$ é 159,1 g e, pela fórmula, em um mol dessa substância há dois mols de cobre (127,0 g, ou seja, duas vezes 63,5 g).
+
+![[quim-medindo-materia-12.png]]
+
+No caso de $CuFeS_2$, apenas 34,6% da massa do minério corresponde a cobre. Já no caso de $Cu_2S$, 79,8% corresponde a cobre. Assim, optando pela compra de calcosita, $Cu_2S$, o químico escolherá um minério do qual se pode extrair, de cada tonelada, maior quantidade de cobre.
+### Fórmulas químicas
+#### Fórmula molecular
+Quando átomos se unem por ligação covalente, formam entidades denominadas moléculas.
+
+```ad-important
+A **fórmula molecular** indica quais e quantos átomos de cada elemento constituem uma molécula de determinada substância.
+```
+
+As moléculas de uma substância também podem ser representadas pela fórmula eletrônica ou pela fórmula estrutural. Não é hábito empregar a expressão "fórmula molecular" para substâncias iônicas ou metálicas, pois elas não são constituídas por moléculas.
+#### Fórmula mínima (ou empírica)
+Os três tipos de substâncias — iônicas, moleculares e metálicas — podem ser representados pela fórmula mínima (ou empírica).
+
+```ad-important
+A fórmula mínima indica a proporção entre o número de átomos dos elementos que constituem uma substância. Essa proporção é expressa pelo conjunto dos menores números inteiros possíveis.
+```
+
+A glicose, por exemplo, tem fórmula molecular $C_6H_{12}O_6$. A proporção entre os números de átomos formadores dessa substância é 6 : 12 : 6. Essa mesma proporção, expressa por meio dos menores números inteiros possíveis, é 1 : 2 : 1. Assim, a fórmula mínima da glicose é $CH_2O$.
+
+A tabela abaixo mostra alguns exemplos de substâncias e suas fórmulas mínimas. Note que, em alguns casos, a fórmula mínima coincide com a fórmula molecular. Note, também, que no caso das substâncias iônicas (cloreto de sódio, sulfato de potássio) e metálicas (ouro, prata) não há fórmula molecular, pois essas substâncias não são constituídas por moléculas.
+
+| Nome da substância         | Fórmula molecular     | Fórmula mínima        |
+|----------------------------|------------------------|------------------------|
+| Água                       | $H_2O$                 | $H_2O$                 |
+| Peróxido de hidrogênio     | $H_2O_2$               | $HO$                   |
+| Glicose                    | $C_6H_{12}O_6$         | $CH_2O$                |
+| Ácido sulfúrico            | $H_2SO_4$              | $H_2SO_4$              |
+| Sacarose                   | $C_{12}H_{22}O_{11}$   | $C_{12}H_{22}O_{11}$   |
+| Cloreto de sódio           | –                      | $NaCl$                 |
+| Sulfato de potássio        | –                      | $K_2SO_4$              |
+| Ouro                       | –                      | $Au$                   |
+| Prata                      | –                      | $Ag$                   |
+#### Fórmula porcentual (ou centesimal)
+Os três tipos de substâncias — iônicas, moleculares e metálicas — também podem ser representados pela fórmula porcentual (ou centesimal).
+
+```ad-important
+A fórmula porcentual indica os elementos formadores da substância e suas porcentagens em massa.
+```
+
+No caso da água, por exemplo, um mol de moléculas (18 g) contém dois mols de átomos de hidrogênio (2 g) e um mol de átomos de oxigênio (16 g).
+
+![[quim-medindo-materia-13.png]]
+
+Assim, a fórmula porcentual da água é $H_{11,1\%}O_{88,9\%}$.
+
+No caso da glicose (fórmula molecular $C_6H_{12}O_6$), um mol de moléculas (180 g) contém seis mols de átomos de carbono ($6 \cdot 12$ g = 72 g), doze mols de átomos de hidrogênio ($12 \cdot 1$ g = 12 g) e seis mols de átomos de oxigênio ($6 \cdot 16$ g = 96 g).
+
+![[quim-medindo-materia-14.png]]
+
+Assim, a fórmula porcentual da glicose é $C_{40,0\%}H_{6,7\%}O_{53,3\%}$.
+#### Exercícios
+
+1 - **O magnésio pode ser obtido, por meios industriais adequados, a partir do cloreto de magnésio extraído da água do mar.**
+
+a) Qual a porcentagem, em massa, de magnésio no cloreto de magnésio (MgCl₂)?  
+b) Qual a massa de magnésio presente em 100 kg desse sal?
+
+ > [!info]- Resposta  
+> ##### Explicação
+a) Calculando cada massa molar:
+   >- Magnésio (Mg): $M(\text{Mg}) = 24\ \text{g/mol}$
+   >- Cloro (Cl): $M(\text{Cl}) = 35,5\ \text{g/mol}$
+   >- Cloreto de magnésio: $M(\text{MgCl}_2) = 24 + 2 \cdot 35,5 = 95\ \text{g/mol}$
+>$$\left(\frac{24}{95}\right) \cdot 100 \approx 25,26\%$$
+>$$\boxed{25,26\%}$$
+b) Como já sabemos a massa molar do composto químico basta multiplicar:
+>$$\text{Massa Mg} = 100\ \text{kg} \cdot 0,2526 = 25,26\ \text{kg}$$
+>$$\boxed{25,26\ \text{kg}}$$
+
+2 - **A hidroquinona é uma substância empregada na revelação de filmes fotográficos. Sua composição porcentual, em massa, é 65,4% de carbono, 5,5% de hidrogênio e 29,1% de oxigênio. Qual é a fórmula mínima da hidroquinona?**
+
+ > [!info]- Resposta  
+> ##### Explicação
+Determinar a fórmula mínima nada mais é que determinar a proporção entre o número de átomos dos elementos constituintes ou, de modo análogo, a proporção entre as quantidades em mols de átomos desses elementos.
+>
+Vamos, então, considerar uma amostra qualquer da substância e determinar quantos mols nela existem de cada elemento.
+>
+Para simplificar, consideremos 100 g de hidroquinona, em que há, de acordo com as porcentagens apresentadas, 65,4 g de carbono, 5,5 g de hidrogênio e 29,1 g de oxigênio.
+>
+Carbono: $n = \frac{m}{M} = \frac{65,4 \text{ g}}{12 \text{ g/mol}} = 5,5 \text{ mol}$
+>
+Hidrogênio: $n = \frac{m}{M} = \frac{5,5 \text{ g}}{1 \text{ g/mol}} = 5,5 \text{ mol}$
+>
+Oxigênio: $n = \frac{m}{M} = \frac{29,1 \text{ g}}{16 \text{ g/mol}} = 1,8 \text{ mol}$
+>
+Assim, há 5,5 mol de carbono, 5,5 mol de hidrogênio e 1,8 mol de oxigênio em 100 g de hidroquinona.
+>
+A fórmula poderia ser escrita como $C_{5,5}H_{5,5}O_{1,8}$.
+>
+Porém, na fórmula mínima devem-se usar números inteiros (e os menores possíveis). O restante da resolução consiste em descobrir quais são os menores números inteiros que guardam entre si a mesma proporção que 5,5 : 5,5 : 1,8.
+>
+Dividir uma proporção toda por um mesmo número não altera essa proporção. Vamos, então, dividi-la pelo menor dos números encontrados. Essa estratégia normalmente conduz a números inteiros ou à metade deles.
+>
+$\frac{5,5}{1,8} : \frac{5,5}{1,8} : \frac{1,8}{1,8} \Rightarrow 3 : 3 : 1$
+>
+Assim, a fórmula mínima pedida é $C_3H_3O_1$ ou simplesmente $C_3H_3O$.
+
+3 - **O aroma natural de canela se deve a uma substância de massa molecular 132 u e que apresenta 81,8% de carbono, 6,1% de hidrogênio e 12,1% de oxigênio.**
+
+**Qual a fórmula molecular dessa substância?**
+
+ > [!info]- Resposta  
+> ##### Explicação
+Como é conhecida a massa molecular (e, por consequência, a massa molar), vamos, inicialmente, determinar a massa de cada elemento dentro da massa de um mol da substância (132 g). A seguir, determinaremos a quantidade em mols de cada elemento.
+>
+![[quim-medindo-materia-exercicio-3.png]]
+>
+Agora, determinamos o número de mols de cada elemento:
+>
+Carbono: $n = \frac{m}{M} = \frac{108 \text{ g}}{12 \text{ g/mol}} = 9 \text{ mol}$
+>
+Hidrogênio: $n = \frac{m}{M} = \frac{8,05 \text{ g}}{1 \text{ g/mol}} = 8,05 \approx 8 \text{ mol}$
+>
+Oxigênio: $n = \frac{m}{M} = \frac{15,97 \text{ g}}{16 \text{ g/mol}} = 1 \text{ mol}$
+>
+Assim, se em 1 mol da substância há 9 mol de átomos de carbono, 8 mol de átomos de hidrogênio e 1 mol de átomos de oxigênio, a fórmula molecular é $\boxed{C_9H_8O}$.
