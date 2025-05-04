@@ -30,9 +30,9 @@ No estudo da Química, são de fundamental importância as definições:
 
 Ao representar um **átomo**, os químicos convencionaram escrever o **número atômico** na parte inferior esquerda do símbolo e o **número de massa** na parte superior esquerda. Assim, por exemplo: 
 
-- ¹²₆C representa um **átomo** do **elemento químico** **carbono** com 6 **prótons**, 6 **elétrons** e 6 **nêutrons**.
-- ²³₁₁Na representa um **átomo** do **elemento químico** **sódio** com 11 **prótons**, 11 **elétrons** e 12 **nêutrons**.
-- ³⁷₁₇Cl representa um **átomo** do **elemento químico** **cloro** com 17 **prótons**, 17 **elétrons** e 20 **nêutrons**.
+- $^{12}_{6}\text{C}$ representa um **átomo** do **elemento químico** **carbono** com 6 **prótons**, 6 **elétrons** e 6 **nêutrons**.
+- $^{23}_{11} \text{Na}$ representa um **átomo** do **elemento químico** **sódio** com 11 **prótons**, 11 **elétrons** e 12 **nêutrons**.
+- $^{37}_{17} \text{Cl}$ representa um **átomo** do **elemento químico** **cloro** com 17 **prótons**, 17 **elétrons** e 20 **nêutrons**.
 
 ```ad-note
 Nesses casos os **prótons** e **elétrons** estão em mesmo número porque os **átomos**, em seu estado neutro, não possuem carga elétrica líquida. Isso acontece porque:
@@ -60,13 +60,12 @@ Uma vez que possuem o mesmo **número atômico**, são **átomos** de um mesmo *
 #### Exercícios
 
 1 - **Dados os átomos:**
-
 - Átomo A: Z = 8, A = 16
 - Átomo B: Z = 8, A = 17
 - Átomo C: Z = 9, A = 17
 
-**a)** Quais são isótopos do mesmo elemento?  
-**b)** Justifique sua resposta.
+a) Quais são isótopos do mesmo elemento?  
+b) Justifique sua resposta.
 
 > [!info]- Resposta  
 > #### Explicação
@@ -76,8 +75,8 @@ b) **Isótopos** são **átomos** do mesmo elemento (mesmo Z) com diferentes **n
 > - C tem Z = 9 (**flúor**), logo não é **isótopo** de A ou B.
 
 2 - **Dados os átomos:**
-- ¹²₆C (Carbono-12)
-- ¹⁴₇N (Nitrogênio-14)
+- $^{12}_{6}\text{C}$ (Carbono-12)
+- $^{14}_{7}\text{N}$ (Nitrogênio-14)
 
 a) Quantos nêutrons cada um possui?  
 b) Eles são isótonos?  
@@ -89,8 +88,8 @@ b) Eles são isótonos?
 > b) Não são **isótonos**, pois têm números diferentes de **nêutrons** (6 ≠ 7).  
 
 3 - **Dados os átomos:**
-- ⁴⁰₁₈Ar (Argônio-40)
-- ⁴⁰₂₀Ca (Cálcio-40)
+- $^{40}_{18} \text{Ar}$ (Argônio-40)
+- $^{40}_{20} \text{Ca}$ (Cálcio-40)
 
 **Eles são isóbaros? Justifique.**
 
@@ -98,21 +97,21 @@ b) Eles são isótonos?
 > #### Explicação
 Sim, são **isóbaros**. Os **isóbaros** possuem o mesmo **número de massa** (A) e diferentes **números atômicos** (Z).  Ambos têm A = 40, mas Z = 18 (Ar) e Z = 20 (Ca).
 
-4 - **Considere os átomos a seguir:  ₁₉⁴⁰X ₂₀⁴⁰Y ₄₀⁹¹ Z ₁₉³⁹R ₃₉⁹⁰S ₄₀⁹⁰T**  
+4 - **Considere os átomos a seguir: $_{19}^{40}\text{X}$ $_{20}^{40}\text{Y}$ $_{40}^{91}\text{Z}$ $_{19}^{39}\text{R}$ $_{39}^{90}\text{S}$ $_{40}^{90}\text{T}$**  
   
-a) Quais são isótopos?   
-b) Quais são isóbaros?   
-c) Quais são isótonos?   
-d) Quais pertencem ao mesmo elemento químico?   
+a) Quais são isótopos?   
+b) Quais são isóbaros?   
+c) Quais são isótonos?   
+d) Quais pertencem ao mesmo elemento químico?   
 e) Quais deveriam estar representados usando o mesmo símbolo químico?
 
 > [!info]- Resposta  
 > #### Explicação
-**a)** Os **elementos químicos** que são **isótopos**, são: ₁₉⁴⁰X e ₁₉³⁹R; ₄₀⁹¹Z e ₄₀⁹⁰T.  
-**b)** Os **elementos químicos** que são **isóbaros**, são: ₁₉⁴⁰X e  ₂₀⁴⁰Y; ₃₉⁹⁰S e ₄₀⁹⁰T.  
-**c)** Os **elementos químicos** que são **isótonos** são:  ₂₀⁴⁰Y e ₁₉³⁹R (possuem número igual de 20 **nêutrons**); e ₄₀⁹¹Z e ₃₉⁹⁰S (possuem número igual de 51 **nêutrons**).  
-**d)** Os elementos ₁₉⁴⁰X e ₁₉³⁹R, porque possuem o mesmo **número atômico** de valor igual à 19 **prótons**.  E os elementos ₄₀⁹¹Z e ₄₀⁹⁰T, porque possuem o mesmo **número atômico** de valor igual à 40 **prótons**.  
-**e)** Deveriam estar representados usando o mesmo símbolo químico os elementos: X e R, Z e T.
+a) Os **elementos químicos** que são **isótopos**, são: $_{19}^{40}\text{X}$ e $_{19}^{39}\text{R}$; $_{40}^{91}\text{Z}$ e $_{40}^{90}\text{T}$.  
+b) Os **elementos químicos** que são **isóbaros**, são: $_{19}^{40}\text{X}$ e $_{20}^{40}\text{Y}$; $_{39}^{90}\text{S}$ e $_{40}^{90}\text{T}$.  
+c) Os **elementos químicos** que são **isótonos** são: $_{20}^{40}\text{Y}$ e $_{19}^{39}\text{R}$ (possuem número igual de 20 **nêutrons**); e $_{40}^{91}\text{Z}$ e $_{39}^{90}\text{S}$ (possuem número igual de 51 **nêutrons**).  
+d) Os elementos $_{19}^{40}\text{X}$ e $_{19}^{39}\text{R}$, porque possuem o mesmo **número atômico** de valor igual à 19 **prótons**. E os elementos $_{40}^{91}\text{Z}$ e $_{40}^{90}\text{T}$, porque possuem o mesmo **número atômico** de valor igual à 40 **prótons**.  
+e) Deveriam estar representados usando o mesmo símbolo químico os elementos: $\text{X}$ e $\text{R}$, $\text{Z}$ e $\text{T}$.
 
 5 - **O silício, elemento químico mais abundante na natureza depois do oxigênio, tem grande aplicação na indústria eletrônica. Por outro lado, o enxofre é de importância fundamental na obtenção do ácido sulfúrico. Sabendo se que o átomo z= 14 a=28 Si é isótono de uma das variedades isotópicas do enxofre, S z=16 , pode-se afirmar que este átomo tem número de massa igual a?**
 
@@ -152,7 +151,7 @@ III. Incorreta, o **número de massa** (A) é a soma de **prótons** e **nêutro
 IV. Correta, **isóbaros** são **átomos** de elementos diferentes (Z diferente) com mesmo A. Ex: Potássio-40 (Z=19) e Cálcio-40 (Z=20). 
 V. Correta , **isótonos** compartilham o mesmo N (**nêutrons**), mas diferem em Z e A. | Ex: Carbono-14 (N=8) e Oxigênio-16 (N=8). 
 
-7 - **A densidade da agua comum, H2O, e da agua pesada, D2O, medidas nas mesmas condições de pressão e temperatura, são diferentes. Isso ocorre porque os átomos de hidrogênio e deutério diferem quanto ao:** 
+7 - **A densidade da água comum, $H_2O$, e da água pesada, $D_2O$, medidas nas mesmas condições de pressão e temperatura, são diferentes. Isso ocorre porque os átomos de hidrogênio e deutério diferem quanto ao:** 
 
 a) Número atômico.  
 b) Número de elétrons.  
@@ -637,7 +636,7 @@ IV - Quando um elétron retorna de um nível de energia mais baixo para um níve
   >1. O correto seria "de um nível mais elevado para um mais baixo" (não o contrário).
   >2. Quando o **elétron** realmente decai (nível alto para baixo), sim, libera energia como **radiação**.
 
-3 -  (UFRN) Considere o seguinte diagrama, de níveis de energia para o átomo de hidrogênio:
+3 - **Considere o seguinte diagrama, de níveis de energia para o átomo de hidrogênio:**
 
 ![[quim-exercicio-bohr.png]]
 
@@ -778,6 +777,7 @@ Os experimentos com **raios catódicos** e o **modelo atômico de Thomson** repr
 **II) os raios catódicos, ao passarem entre duas placas carregadas, com cargas de sinal contrário, se desvia­vam na direção da placa positiva.** 
 
 **Considerando-se essas observações, é CORRETO afirmar que os raios catódicos são constituídos de:** 
+
 a) elétrons. 
 b) ânions. 
 c) prótons. 
@@ -860,7 +860,6 @@ elementos). Ele nos ajuda a realizar a distribuição eletrônica, o que é feit
 Observe abaixo a configuração eletrônica de alguns átomos neutros.
 
 ![[quim-ds-diagrama-diagonal.png]]
-
 ##### Exercícios
  
 1 - **Coloque em ordem crescente de energia os subníveis eletrônicos: 4d 4f 5p 6s**
@@ -886,7 +885,6 @@ b) ²⁶Fe
 Utilizando o **diagrama das diagonais**, devemos distribuir, respectivamente, 17 e 26 **elétrons**, pois, lembre-se, num **átomo** (subentende-se **átomo** neutro) o número de **elétrons** é igual ao de **prótons**. Assim:
 >
 > ![[quim-exercicio-ds.png]]
-
 #### Distribuição eletrônica nas camadas para átomos neutros
 Além de auxiliar na distribuição eletrônica nos subníveis, o diagrama das diagonais possibilita a elaboração da distribuição eletrônica nos níveis ou camadas. Veja os exemplos:
 
@@ -2976,7 +2974,7 @@ A molécula de gás carbônico (CO₂) é linear e seu momento dipolar resultant
 >
 Por sua vez, a molécula de H₂ é apolar porque a diferença de eletronegatividade entre os dois hidrogênios resulta em um dipolo igual a zero:
 >
-MD (H₂) = 2,2 − 2,2 = 0
+$MD (H₂) = 2,2 − 2,2 = 0$
 ## Forças intermoleculares
 No **estado gasoso**, as **moléculas** se encontram bastante separadas, movimentando-se com muita liberdade. Já no **estado líquido**, elas se encontram mais próximas e unidas, movimentando-se com menor liberdade. No **estado sólido**, as **moléculas** estão bem organizadas e ainda mais unidas, com seu movimento muito restrito.
 
@@ -3879,7 +3877,7 @@ De modo análogo aos cálculos feitos envolvendo átomos, vejamos alguns exemplo
 ###### Molécula de água
 Determine o número de moléculas em $18 \, \text{g}$ de água.
 $$
-18 \, \text{g de } H_2O = ? \, \text{moléculas}
+18 \, \text{g de } H_2O = \text{? moléculas}
 $$
 Dados da tabela periódica: $m(H_2O) = 18 \, \text{u} \, (1 \, \text{molécula})$
 
@@ -4293,3 +4291,437 @@ Hidrogênio: $n = \frac{m}{M} = \frac{8,05 \text{ g}}{1 \text{ g/mol}} = 8,05 \a
 Oxigênio: $n = \frac{m}{M} = \frac{15,97 \text{ g}}{16 \text{ g/mol}} = 1 \text{ mol}$
 >
 Assim, se em 1 mol da substância há 9 mol de átomos de carbono, 8 mol de átomos de hidrogênio e 1 mol de átomos de oxigênio, a fórmula molecular é $\boxed{C_9H_8O}$.
+## Gases
+As substâncias podem ser fundamentalmente de três tipos: **iônica**, **molecular** ou **metálica**. Nas condições ambientes (temperatura de 25 °C e pressão igual à pressão atmosférica ao nível do mar), as substâncias iônicas e as metálicas (exceto o mercúrio) são sólidas. Porém, entre as substâncias moleculares, nessas mesmas condições, encontramos as que são sólidas, as que são líquidas e as que são gasosas. 
+
+Assim, se uma determinada substância é gasosa nas condições ambientes, podemos deduzir que ela é formada por moléculas (isso inclui os gases nobres, cujas moléculas são formadas por apenas um átomo).
+
+```ad-warning
+Substâncias gasosas nas condições ambientes são moleculares.
+```
+
+No estado gasoso as moléculas encontram-se muito mais separadas umas das outras do que nos estados líquido e sólido. Isso ocorre porque a coesão entre as moléculas no estado gasoso é muito pequena. Essa é a explicação científica para o fato de uma mesma massa de uma substância molecular ocupar um volume muitíssimo maior no **estado gasoso** do que nos estados **líquido** e **sólido**.
+### A experiência de Torricelli 
+Em 1643, Torricelli realizou a seguinte experiência: encheu um tubo de vidro (com cerca de 1 m de comprimento) com mercúrio, tapou sua extremidade com o dedo e a destapou dentro de uma tigela também contendo mercúrio. Notou que o mercúrio começou a descer, até se estabilizar.
+
+O que fez o mercúrio descer? A resposta é simples: foi seu próprio peso. Por que ele chega a um ponto em que para de descer? No momento em que a coluna de **mercúrio** se estabiliza, atinge-se uma situação de equilíbrio entre a pressão decorrente do peso da coluna, que força o mercúrio a sair do tubo, e a pressão atmosférica, que o força a entrar.
+
+Por meio dessa experiência, Torricelli comprovou que a atmosfera exerce pressão e percebeu que a pressão atmosférica pode ser medida por meio da altura da coluna de mercúrio sustentada por ela. Estava criada a primeira unidade para medir pressão: a altura, em milímetros, de uma coluna de mercúrio, simbolizada por **mmHg**. 
+
+Se a experiência de Torricelli for repetida no alto de uma montanha, a altura da coluna de mercúrio será menor que 760 mmHg, o que revela que a pressão atmosférica nesse local é menor. 
+
+```ad-note
+De modo geral, verifica-se que, à medida que a altitude aumenta, a pressão atmosférica diminuiNa verdade, o valor da pressão atmosférica é uma decorrência da quantidade de ar que existe acima da localidade.
+```
+### A unidade de pressão atmosfera
+Ao nível do mar, a **pressão atmosférica** média é de 760 mmHg. Esse valor serviu de base para a definição de uma outra unidade para expressar pressão, a atmosfera, simbolizada por atm. A pressão de uma atmosfera (1 atm) equivale à pressão de 760 mmHg. Assim:
+$$1\ \text{atm} = 760\ \text{mmHg}$$
+
+```ad-summary
+#### Os significados da palavra atmosfera
+Você não deve confundir os significados da palavra atmosfera, quando usada em Ciência. Essa palavra pode se referir ao meio gasoso que envolve um certo planeta (por exemplo, a atmosfera terrestre, a atmosfera do planeta Marte etc.), mas também é usada como o nome de uma unidade de pressão.
+```
+### A unidade de pressão pascal
+A pressão é uma grandeza conceituada em Física como sendo o resultado da divisão da força que atua perpendicularmente a uma superfície pela área dessa superfície. Assim, por exemplo, seus pés exercem uma pressão sobre o solo, que pode ser calculada dividindo-se a força aplicada pelo seu corpo ao solo pela área de contato entre seus pés e o solo.
+
+No SI (Sistema Internacional de Unidades), a força é expressa em **newton** (N) e a área é expressa em metro quadrado (m²). Surge, da definição de pressão, a unidade do SI para expressar essa grandeza: newton por metro quadrado (N/m²), que é chamada de **pascal** e simbolizada por Pa. Na prática, é muito usado o **quilopascal** (kPa), que corresponde a $10^3$ Pa.
+
+Verifica-se experimentalmente que:
+$$
+1 N/m^{2}=1\text{ pascal}
+$$
+$$
+1 \text{ atm} = 760 \text{mmHg} = 101,3 \text{ kPa}
+$$
+### Variáveis de estado
+A expressão estado de um gás designa a situação em que esse gás se encontra, ou seja, como ele “está”. Especificar o estado de um gás significa dizer qual é o valor:
+
+• de sua pressão (P);  
+• de sua temperatura (T);  
+• de seu volume (V).
+
+```ad-important
+Dizemos que P, T e V são variáveis de estado.
+```
+
+Três unidades relevantes de pressão foram comentadas anteriormente: mmHg, atm e Pa. Quanto à temperatura, estamos habituados a expressá-la em graus Celsius (símbolo: °C). Mais adiante conheceremos uma escala de temperatura mais útil para certos estudos científicos, a **escala kelvin**.
+
+As unidades de volume mais relevantes (cm³, mL, dm³, L e m³), bem como a maneira de interconvertê-las, foram apresentadas no capítulo 2. Recordando:
+
+$$1 \text{ dm}^3 = 1\ \text{L} = 10^3\ \text{mL} = 10^3\ \text{cm}^3$$
+$$1 \text{ m}^3 = 10^3\ \text{L}$$
+### Transformações isotérmicas 
+Considere uma investigação utilizando um recipiente fechado provido de êmbolo (uma “tampa” bem justa que pode deslizar sem atrito) sobre o qual são colocados objetos de pesos conhecidos.  
+
+Mantendo-se constante a temperatura do gás, para cada peso diferente colocado sobre o êmbolo, é anotado o respectivo **volume**. Verifica-se que, quanto maior for o peso colocado, menor será o volume e maior a **pressão** lida no manômetro, conforme ilustram as figuras esquemáticas abaixo.  
+
+Com os valores anotados para pressão e volume, pode-se construir um gráfico da pressão do gás em função do volume, como o que acompanha as figuras.  
+
+Repetindo essa experiência com diferentes amostras de diversos gases, mas sempre mantendo a amostra de gás confinada e a temperatura constante, verifica-se que o aspecto do gráfico é o mesmo.  
+
+![[quim-gases-lei-de-boyle.png]]
+
+```ad-note
+A curva que aparece no gráfico acima é uma hipérbole equilátera. Isso evidencia que:  
+Mantendo-se a temperatura constante, a pressão e o volume de uma amostra de gás variam de modo inversamente proporcional, fato conhecido como Lei de Boyle.
+```
+
+Matematicamente, podemos expressar essa lei da seguinte maneira:  
+$$
+P \cdot V = \text{constante}\ \text{ ou } \ P \cdot V = k  
+$$
+
+em que "k" representa um valor numérico constante.
+
+Podemos também dizer que:  $P_1 \cdot V_1 = P_2 \cdot V_2$, conhecida como **Lei de Boyle**. No qual os índices 1 e 2 representam os estados inicial e final de uma transformação isotérmica, ou seja, uma transformação que ocorre a uma temperatura constante. 
+
+```ad-note
+A equação matemática $P_1 \cdot V_1 = P_2 \cdot V_2$ expressa uma lei natural, ou seja, a generalização de uma regularidade observada.
+
+Essa equação se aplica:  
+- a substâncias no estado gasoso, cuja quantidade permaneça inalterada;  
+- com T permanecendo constante;  
+- com P na mesma unidade em ambos os membros;  
+- com V na mesma unidade em ambos os membros.
+```
+
+```ad-tldr
+###### Entendendo melhor a Lei de Boyle
+É provável que você já tenha visto alguém soltar um balão de borracha preenchido com hélio, desses comprados em parques de diversão ou em centros de compras, para vê-lo subir ao ar livre. Entretanto, ao chegar a uma certa altura (muitas vezes ainda ao nosso alcance visual), ele estoura. Por que isso ocorre?  
+
+Considerando que a temperatura do gás contido no balão seja constante durante a subida, podemos aplicar a Lei de Boyle. Quanto maior for a altitude, menor será a pressão sobre o balão e, consequentemente, maior o volume. Assim, o balão irá inchando até estourar.
+```
+### Interpretação molecular da pressão de um gás  
+O movimento das moléculas de um gás pode ser comparado ao de bolas de bilhar. Durante uma partida, essas bolas:  
+- se movem em linha reta;  
+- colidem umas com as outras;  
+- colidem com as laterais da mesa.
+
+```ad-important
+A pressão de um gás é decorrente das colisões de suas moléculas com a parede do recipiente que contém esse gás.  
+```
+
+Contudo, há uma diferença entre o movimento das moléculas de gás e o das bolas de bilhar. Após algum tempo, as bolas cessam seu movimento, e as moléculas não. Se isso acontecesse, um pneu murcharia sozinho algum tempo depois de calibrado.  
+
+As bolas de bilhar em movimento estão submetidas ao atrito contra o pano da mesa e contra o ar. Isso faz com que elas, aos poucos, tenham o seu movimento amortecido.  
+
+Já as moléculas estão em movimento perpétuo porque não são bolinhas rolando sobre uma superfície (uma superfície é formada por moléculas!) e também não estão submetidas ao atrito contra o ar (entre as moléculas não há nada, ou seja, é espaço vazio, vácuo!).
+### Interpretação molecular de uma transformação isotérmica  
+Podemos usar o modelo que acabamos de apresentar para interpretar, do ponto de vista microscópico, a Lei de Boyle.  
+
+Quanto menor for o volume, maior o número de colisões das moléculas com as paredes do recipiente. Assim, a diminuição do volume acarreta aumento na pressão do gás, como esquematizado a seguir.
+
+![[quim-gases-isobarica.png]]
+### Interpretação microscópica de uma transformação isobárica
+O aumento de temperatura aumenta a velocidade das moléculas. Se o volume fosse constante, a pressão iria aumentar.
+
+Contudo, para que a pressão permaneça constante, o aumento de volume faz com que uma molécula, em média, tenha de percorrer uma distância maior até atingir as paredes internas do recipiente.
+
+Assim, podemos dizer que, ao aquecer a amostra gasosa, o aumento da violência das colisões das moléculas contra as paredes internas do recipiente é compensado pela diminuição da frequência com que essas colisões ocorrem. Dessa forma, a pressão permanece constante. Isso está esquematizado na figura abaixo.
+
+![[quim-gases-isotermica.png]]
+### A escala kelvin de temperatura  
+Em 1851, o inglês William Thomson, propôs a escala kelvin de temperatura, hoje também conhecida como **escala termodinâmica de temperatura** (expressa em kelvins, símbolo K). Os valores dessa escala estão relacionados com os da escala Celsius (símbolo °C) por meio do seguinte enunciado:
+
+A temperatura na escala termodinâmica (em kelvins, K) é igual ao valor da temperatura em graus Celsius (°C) acrescida de 273:  
+
+$$T = t + 273$$
+
+O esquema abaixo compara algumas temperaturas em ambas as escalas.
+
+![[quim-gases-kelvin.png]]
+### As Leis de Charles e Gay-Lussac  
+Em 1787, Jacques Charles, interessado na construção de balões de ar quente, investigou o comportamento dos gases quando submetidos a variações de temperatura. Em 1802, outro francês, Gay-Lussac, formalizou os resultados de Charles na forma dos gráficos das transformações **isocóricas** e **isobáricas**.
+
+A escala kelvin de temperatura, proposta em 1851, tornou esses gráficos muito mais simples. Compare os gráficos A e B, a baixo, referentes a uma transformação isocórica.
+
+![[quim-gases-gay.png]]
+
+Como você pode perceber, a pressão é diretamente proporcional à temperatura em **kelvins**, mas não à temperatura em **graus Celsius**. Trata-se de uma regularidade da natureza, que pode ser enunciada, constituindo-se em uma lei.
+
+A pressão de uma amostra gasosa, mantida a volume constante, é diretamente proporcional à temperatura na **escala kelvin**:  
+$$\frac{P}{T} = \text{constante}  
+\ \text{ ou } \
+\frac{P_1}{T_1} = \frac{P_2}{T_2}$$
+
+```ad-note
+Essa última equação se aplica:  
+- a substâncias no estado gasoso, cuja quantidade permaneça inalterada;  
+- com V permanecendo constante;  
+- com P na mesma unidade em ambos os membros;  
+- com T na escala kelvin, obrigatoriamente.
+```
+
+Algo semelhante acontece com os gráficos relativos à transformação isobárica. 
+
+Comparando os gráficos C e D, a baixo, você pode perceber como o volume é diretamente proporcional à temperatura na escala kelvin. Assim, temos outra lei científica.
+
+O volume de uma amostra gasosa, mantida a pressão constante, é diretamente proporcional à temperatura na escala kelvin:  
+$$
+\frac{V}{T} = \text{constante}  
+\ \text{ ou }  \
+\frac{V_1}{T_1} = \frac{V_2}{T_2}
+$$
+
+```ad-note
+Essa última equação se aplica:  
+• a substâncias no estado gasoso, cuja quantidade permaneça inalterada;  
+• com P permanecendo constante;  
+• com V na mesma unidade em ambos os membros;  
+• com T na escala kelvin, obrigatoriamente.
+```
+
+```ad-tldr
+Os dados a seguir ajudam a entender como as leis dos gases são importantes para os mergulhadores que usam cilindro de ar comprimido em seus mergulhos.  
+
+A densidade da água do mar é, em média, 1,03 g/cm³. Sendo assim, através de cálculos, pode-se demonstrar que a pressão total exercida pela coluna de água sobre um mergulhador que se encontra 10 metros abaixo da superfície corresponde a 1 atm.  
+
+Dessa forma, a pressão total exercida sobre o mergulhador nessa profundidade é o dobro da pressão atmosférica. Caso ele se encontre a 20 metros de profundidade, a pressão exercida sobre ele será o triplo da pressão atmosférica, e assim por diante.
+
+Vejamos o que acontece com um mergulhador que se encontra a 10 metros de profundidade e resolve subir rapidamente à superfície sem respirar.  
+Se a 10 metros de profundidade a pressão exercida sobre o mergulhador é duas vezes a da superfície, uma subida rápida faz com que haja uma descompressão brusca e, consequentemente, uma expansão do gás no interior dos pulmões, podendo romper as membranas desses órgãos e levá-lo à morte ou provocar uma embolia gasosa.
+
+A embolia consiste no seguinte: o ar expandido no interior dos pulmões é empurrado para o interior dos vasos sanguíneos e capilares, formando bolhas gasosas na corrente sanguínea. Essas bolhas impedem que o fluxo normal do sangue atinja o cérebro, o que às vezes acarreta perda de consciência do mergulhador.
+
+Para que o mergulhador fique curado, é necessário que se faça a recompressão. Nesse caso, ele é colocado em uma câmara fechada e a pressão é gradualmente aumentada, o que faz com que as bolhas presentes no sistema circulatório sejam lentamente reduzidas. A seguir, a pressão é diminuída muito lentamente (descompressão gradual) até chegar ao valor da pressão atmosférica local.
+```
+### Valor molar dos gases
+Os químicos utilizam o mol para expressar a grandeza quantidade de matéria. Define-se 1 mol como o conjunto de $6 \cdot 10^{23}$ unidades.
+
+Assim como usamos o termo massa molar para designar a massa de 1 mol, vamos utilizar a expressão volume molar para nos referir ao volume ocupado por 1 mol de uma determinada substância.
+
+Observe a seguinte definição:
+
+CNTP, TPN ou CN são siglas utilizadas para designar as condições normais de temperatura e pressão: temperatura de 0 °C (273 K) e pressão de 1 atm (760 mmHg). Pelos dados experimentais mostrados anteriormente, notamos que:
+
+Quando 1 mol de um gás se encontra nas CNTP, ele ocupa um volume de 22,4 L. Isso independe do gás (desprezando os desvios da idealidade). Notamos também que líquidos e sólidos não apresentam a mesma regularidade.
+### O Princípio de Avogadro
+O italiano Amedeo Avogadro estudou Direito e praticou a profissão por alguns anos. Em 1800, abandonou a advocacia e passou a se dedicar à Ciência. Em 1811, ele sugeriu pela primeira vez a hipótese que leva o seu nome, a Hipótese de Avogadro, também chamada Princípio de Avogadro:
+
+```ad-important
+Volumes iguais de dois gases quaisquer, nas mesmas condições de pressão e temperatura, contêm igual número de moléculas.
+```
+
+A partir dessa hipótese, Avogadro foi capaz de:  
+- mostrar que a fórmula da água é H₂O, e não HO, como pensava Dalton;  
+- distinguir entre átomos e moléculas (aliás, alguns historiadores atribuem a Avogadro a introdução da palavra molécula para designar conjuntos de átomos unidos.);  
+- distinguir entre massa atômica e massa molecular.
+
+Na evolução histórica da Química, o Princípio de Avogadro conduziu ao moderno conceito de mol. A constante de Avogadro, que expressa quantas entidades há em um mol, tem esse nome em homenagem ao cientista cujo trabalho abriu caminho para muitos progressos na Química, inclusive para as tentativas de determinar tal número.
+### Exercícios
+
+1 - **A unidade de pressão no Sistema Internacional (SI) é o pascal (Pa), definido como 1 newton por metro quadrado (1 N/m²). Em um experimento, um gás exerce uma pressão de $2 \cdot 10⁵$ Pa sobre as paredes de um recipiente. Essa pressão, em atmosferas (atm), é aproximadamente:**
+
+(Dado: $1 \text{ atm} ≈ 1,01 \cdot 10⁵ \text{ Pa}$)
+
+a) 0,5 atm  
+b) 1,0 atm  
+c) 1,5 atm  
+d) 2,0 atm  
+e) 5,0 atm
+
+> [!info]- Resposta  
+> **Resposta Correta: d)**
+> 
+> ##### Explicação
+> 
+> Para converter pascal em atm, divide-se o valor pela equivalência:  
+> $$ \frac{2,0 \cdot 10^5 , \text{Pa}}{1,01 \cdot 10^5 , \text{Pa/atm}} \approx 1,98 , \text{atm} \approx 2,0 , \text{atm} $$
+> 
+
+2 - **Durante uma transformação isotérmica de um gás ideal, mantida a 300 K, observa-se que a pressão inicial do gás (P₁) reduz-se à metade (P₂ = P₁/2). Nessa situação, o volume final (V₂) em relação ao volume inicial (V₁) será:**
+
+a) V₂ = $\frac{V_{1}}{2}$  
+b) V₂ = $V_{1}$
+c) V₂ = $2V_{1}$  
+d) V₂ = $4V_{1}$  
+e) V₂ = $\sqrt{2}V_{1}$
+
+> [!info]- Resposta  
+> **Resposta Correta: c)**
+> 
+> ##### Explicação
+> 
+> Em uma transformação isotérmica, a temperatura constante implica, pela Lei de Boyle:  
+> $$ P_1 V_1 = P_2 V_2 \implies V_2 = \frac{P_1 V_1}{P_2} = \frac{P_1 V_1}{P_1/2} = 2V_1 $$
+
+3 - **A Lei de Charles e Gay-Lussac descreve a relação entre volume e temperatura de um gás ideal sob pressão constante. Se um balão com gás a 27°C tem volume V₀, qual será seu novo volume se a temperatura for elevada para 127°C?**
+
+a) 1,33 V₀  
+b) 1,50 V₀  
+c) 2,00 V₀  
+d) 0,75 V₀  
+e) 4,00 V₀
+
+> [!info]- Resposta  
+> **Resposta Correta: a)**
+> 
+> ##### Explicação
+> 
+> Convertendo as temperaturas para Kelvin ($T_1 = 27 + 273 = 300$ K; $T_2 = 127 + 273 = 400$ K) e aplicando a Lei de Charles:  
+> $$ \frac{V_1}{T_1} = \frac{V_2}{T_2} \implies V_2 = V_1 \cdot \frac{T_2}{T_1} = V_0 \cdot \frac{400}{300} = 1,33 V_0 $$
+> 
+
+4 - **Julgue a afirmativa:**  
+**"A pressão de um gás em um recipiente surge devido às colisões das moléculas do gás contra as paredes do recipiente, e sua magnitude depende da velocidade média das moléculas e da frequência de colisões."**
+
+> [!info]- Resposta  
+> **Resposta Correta: Certa**
+> 
+> ##### Explicação
+> 
+> A interpretação molecular da pressão confirma que:
+> 
+> - A pressão é resultado do momento transferido pelas moléculas nas colisões com as paredes.
+> - Quanto maior a velocidade média (e a energia cinética), maior a força por colisão.
+> - Quanto maior a frequência de colisões (influenciada pela densidade do gás), maior a pressão.
+
+5 - **Em uma transformação isobárica, um gás ideal sofre um aumento de volume de 2 L para 5 L. Se a temperatura inicial era de 100 K, qual é a temperatura final?**
+
+a) 40 K  
+b) 150 K  
+c) 250 K  
+d) 350 K  
+e) 500 K
+
+> [!info]- Resposta  
+> **Resposta Correta: c)**
+> 
+> ##### Explicação
+> 
+> Em uma transformação isobárica, a relação volume-temperatura é direta (Lei de Charles):  
+> $$ \frac{V_1}{T_1} = \frac{V_2}{T_2} \implies T_2 = T_1 \cdot \frac{V_2}{V_1} = 100 , \text{K} \cdot \frac{5 , \text{L}}{2 , \text{L}} = 250 , \text{K} $$
+
+6 - **Um cilindro com êmbolo móvel contém um gás ideal a uma pressão de 2 atm e volume de 5 L. Se o volume for reduzido para 2,5 L a temperatura constante, qual será a nova pressão do gás?**
+
+a) 1 atm
+b) 2 atm
+c) 4 atm
+d) 5 atm
+e) 10 atm
+
+> [!info]- Resposta  
+> **Resposta Correta: c) 4 atm
+> 
+> ##### Explicação
+> 
+> Pela **Lei de Boyle**, para uma transformação isotérmica (temperatura constante), temos:  
+> P1V1=P2V2P1​V1​=P2​V2​  
+> Substituindo os valores:  
+> 2,0 atm×5,0 L=P2×2,5 L2,0atm×5,0L=P2​×2,5L  
+> P2=10,02,5=4,0 atmP2​=2,510,0​=4,0atm
+> 
+> ##### Por que as outras estão erradas?
+> 
+> a) Errada, seria a pressão se o volume dobrasse (inverso do que ocorre).  
+> b) Errada, pressão não se mantém constante em uma compressão isotérmica.  
+> d)/e) Erradas, valores inconsistentes com a relação inversa entre pressão e volume.
+
+7 - **Um balão meteorológico sobe na atmosfera, onde a pressão externa diminui. Considerando que o balão é flexível e a temperatura se mantém constante, o que ocorre com o volume do gás em seu interior?**
+
+a) Aumenta, pois a pressão externa e o volume são diretamente proporcionais.  
+b) Diminui, pois a pressão externa e o volume são inversamente proporcionais.  
+c) Aumenta, pois a pressão externa e o volume são inversamente proporcionais.  
+d) Permanece constante, pois a temperatura não varia.  
+e) Diminui, pois a temperatura externa cai com a altitude.
+
+> [!info]- Resposta  
+> **Resposta Correta: c)**
+> 
+> ##### Explicação
+> 
+> Pela **Lei de Boyle**, a temperatura constante (TT constante), pressão (PP) e volume (VV) são inversamente proporcionais:  
+> P∝1VP∝V1​  
+> Se a pressão externa diminui, o volume do gás no balão aumenta para equilibrar a pressão interna com a externa.
+> 
+> ##### Por que as outras estão erradas?
+> 
+> a) Errada, pressão e volume são inversamente (não diretamente) proporcionais.  
+> b) Errada, o volume aumenta (não diminui) com a redução da pressão.  
+> d) Errada, o volume varia mesmo com TT constante, pois PP muda.  
+> e) Errada, a questão especifica que a temperatura é constante.
+
+8 - **Um mergulhador enche um balão de borracha com ar comprimido a uma profundidade de 10 metros, onde a pressão é aproximadamente 2 atm. Ao subir à superfície (pressão = 1 atm), sem variação significativa de temperatura, o balão sofre uma mudança em seu volume.**  
+
+**Qual é a melhor explicação para o fenômeno observado?**  
+
+a) O volume do balão diminui porque a pressão externa aumenta, comprimindo o gás.  
+b) O volume do balão dobra, pois a pressão externa cai pela metade, e o gás se expande.  
+c) O volume permanece inalterado, pois a temperatura não varia.  
+d) O volume aumenta levemente, pois a solubilidade do ar na água reduz com a profundidade.  
+e) O volume diminui pela ação da força de empuxo, que se torna maior na superfície.  
+
+> [!info]- Resposta  
+> **Resposta Correta: b)**  
+>  ##### Explicação
+> O problema envolve a **Lei de Boyle** (transformação isotérmica), onde P₁V₁ = P₂V₂.  
+> Na profundidade: P₁ = 2 atm; na superfície: P₂ = 1 atm.  
+> Se o volume inicial fosse V₁, o final será V₂ = 2V₁ (pois 2V₁ = 1·V₂).  
+>  
+> a) Errada, a pressão externa diminui (não aumenta) com a subida.  
+> c) Errada, o volume muda mesmo com temperatura constante (Lei de Boyle).  
+> d) Errada, a solubilidade do ar não é relevante para a expansão do balão.  
+> e) Errada, o empuxo não altera o volume do gás, apenas a flutuabilidade do balão.  
+
+9 - **Cilindros de oxigênio hospitalar devem ser armazenados em ambientes com temperatura controlada, pois o aumento da temperatura pode elevar a pressão interna, risco de explosão. Um cilindro a 27°C tem pressão interna de 6 atm. Se for exposto ao sol e atingir 127°C, qual será sua nova pressão? (Considere volume constante)**.  
+
+a) 3 atm  
+b) 6 atm  
+c) 8 atm  
+d) 12 atm  
+e) 15 atm  
+
+> [!info]- Resposta
+> **Resposta Correta: c)**  
+>  ##### Explicação
+> - Transformação isocórica (volume constante), regida pela **Lei de Gay-Lussac**:  
+>   $$ \frac{P₁}{T₁} = \frac{P₂}{T₂} $$  
+> - Temperaturas em Kelvin:  
+>   $$ T₁ = 27°C + 273 = 300 \, \text{K}, \quad T₂ = 127°C + 273 = 400 \, \text{K} $$  
+> - Cálculo:  
+>   $$ \frac{6}{300} = \frac{P₂}{400} \implies P₂ = 8 \, \text{atm} $$  
+
+10 - **O metano (CH₄), um gás do efeito estufa, é armazenado em reservatórios sob alta pressão para transporte. Um engenheiro ambiental afirma:**  
+
+**"Se reduzirmos a pressão de armazenamento pela metade, mantendo a temperatura constante, o volume ocupado pelo metano dobrará."**
+
+**Essa afirmação está correta?**  
+
+a) Sim, pois pressão e volume são inversamente proporcionais em transformações isotérmicas.  
+b) Não, pois o volume só dobra se a temperatura também for reduzida.  
+c) Não, pois o metano é um gás real e não obedece à Lei de Boyle.  
+d) Sim, mas apenas se a pressão for medida em atmosferas absolutas.  
+e) Não, pois a massa do gás altera a proporcionalidade.  
+
+> [!info]- Resposta
+> **Resposta Correta: a)**  
+>  ##### Explicação
+>  A afirmação descreve exatamente a **Lei de Boyle** (P ∝ 1/V).  
+>  Para um gás ideal (ou aproximadamente ideal como o CH₄ em condições padrão), a relação é válida.  
+>  
+> b) Errada, a temperatura constante é justamente a condição para a Lei de Boyle.  
+> c) Errada, gases reais obedecem à Lei de Boyle em condições moderadas.  
+> d) Errada, a unidade de pressão não afeta a proporcionalidade.  
+> e) Errada, a massa do gás não interfere na relação P-V (fixa a quantidade de matéria).  
+
+11 - **Certo gás X é formado apenas por nitrogênio e oxigênio. Para determinar sua fórmula molecular, comparou-se esse gás com o metano (CH₄). Verificou-se que volumes iguais dos gases X e metano, nas mesmas condições de pressão e temperatura, pesaram, respectivamente, 0,88 g e 0,32 g. Qual a fórmula molecular do gás X?**
+
+**(Dado: Massas molares (g/mol) H = 1; C = 12; N = 14; O = 16)**
+
+a) NO  
+b) N₂O  
+c) NO₂  
+d) N₂O₃  
+e) N₂O₅
+
+> [!info]- Resposta
+> **Resposta Correta: b)**  
+>  ##### Explicação
+Pela **equação geral dos gases** temos que se os dois gases ocupam o mesmo volume em uma mesma pressão e temperatura, logo, ambos possuem o mesmo número de mols.
+>
+Como o metano pesa 0,32 g e tem uma massa molar de 16 g/mol, temos que o número de mols do mesmo é de:
+>$$n = \frac{0,32}{16} = 0,02 \text{ mols}$$
+Assim, também temos 0,02 mols do gás X, porém o mesmo corresponde a 0,88 g. Logo, sua massa molar é de:  
+>$$0,02 = \frac{0,88}{Mm} \rightarrow Mm = 44 g/mol$$
+Como a massa molar do nitrogênio é 14 g/mol e do oxigênio é 16 g/mol, teremos 2 nitrogênios e 1 oxigênio formando o gás X, totalizando 44 g/mol.  
+
